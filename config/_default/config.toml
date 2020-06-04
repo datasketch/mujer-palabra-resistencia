@@ -9,17 +9,17 @@ defaultContentLanguage = "es"
     weight = 1
     contentDir = "content/es"
   [languages.wayuu]
+    title = "Título en Wayuu"
     languageName = "Wayuunaiki"
     weight = 2
     contentDir = "content/wayuu"
-    title = "Título en Wayuu"
   [languages.tikuna]
+    title = "Título en Tikuna"
     languageName = "Tikuna"
     weight = 3
     contentDir = "content/tikuna"
-    title = "Título en Tikuna"
   [languages.guna]
+    title = "Título en Guna"
     languageName = "Guna"
     weight = 4
     contentDir = "content/guna"
-    title = "Título en Guna"

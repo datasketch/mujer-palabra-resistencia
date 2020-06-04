@@ -5,7 +5,8 @@ module.exports = {
       colors: {
         'eerie-black': '#181a1c',
         'tropical-rain-forest': '#07725d',
-        'titan-white': '#fcfcff'
+        'titan-white': '#fcfcff',
+        gunmetal: '#202a34'
       },
       fontFamily: {
         'playfair-display': ['"Playfair Display"', 'serif'],
@@ -13,6 +14,9 @@ module.exports = {
       },
       opacity: {
         '85': '0.85'
+      },
+      height: {
+        '3/4': '75vh'
       }
     },
   },
