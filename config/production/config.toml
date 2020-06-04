@@ -1,0 +1,25 @@
+baseURL = "https://datasketch.github.io/mujeres-indigenas-en-frontera"
+languageCode = "es-es"
+title = "Mujeres indígenas en la frontera"
+defaultContentLanguage = "es"
+
+[languages]
+  [languages.es]
+    languageName = "Español"
+    weight = 1
+    contentDir = "content/es"
+  [languages.wayuu]
+    title = "Título en Wayuu"
+    languageName = "Wayuunaiki"
+    weight = 2
+    contentDir = "content/wayuu"
+  [languages.tikuna]
+    title = "Título en Tikuna"
+    languageName = "Tikuna"
+    weight = 3
+    contentDir = "content/tikuna"
+  [languages.guna]
+    title = "Título en Guna"
+    languageName = "Guna"
+    weight = 4
+    contentDir = "content/guna"
