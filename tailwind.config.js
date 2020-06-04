@@ -14,9 +14,6 @@ module.exports = {
       },
       opacity: {
         '85': '0.85'
-      },
-      height: {
-        '3/4': '75vh'
       }
     },
   },

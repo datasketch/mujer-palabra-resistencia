@@ -1,4 +1,32 @@
+{{ define "meta" }}
+  <link rel="stylesheet" href='{{ "vendors/swiper/swiper.min.css" | absURL }}'>
+{{ end }}
+
 {{ define "main" }}
+  <!-- Slider -->
+  <div class="w-full relative h-screen">
+    <div class="slider-overlay"></div>
+    <div class="slider-content">
+      <div class="w-full mx-auto text-white font-playfair-display text-center md:w-4/5">
+        <h2 class="leading-tight border-4 border-white inline-flex flex-col px-24 py-4">
+          <span class="text-5xl block">Mujeres indígenas</span>
+          <span class="text-6xl font-bold">en frontera</span>
+        </h2>
+        <p class="text-3xl mt-10 max-w-lg mx-auto italic">Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae animi illo atque voluptatem delectus repellendus quia qui ab esse alias?</p>
+      </div>
+    </div>
+    <div class="swiper-container w-full h-full">
+      <div class="swiper-wrapper">
+        <div class="swiper-slide bg-center bg-cover bg-no-repeat" style='background-image: url({{ "images/home/slider-image-1.webp" | absURL }});'></div>
+        <div class="swiper-slide bg-center bg-cover bg-no-repeat" style='background-image: url({{ "images/home/slider-image-2.webp" | absURL }});'></div>
+        <div class="swiper-slide bg-center bg-cover bg-no-repeat" style='background-image: url({{ "images/home/slider-image-3.webp" | absURL }});'></div>
+        <div class="swiper-slide bg-center bg-cover bg-no-repeat" style='background-image: url({{ "images/home/slider-image-4.webp" | absURL }});'></div>
+        <div class="swiper-slide bg-center bg-cover bg-no-repeat" style='background-image: url({{ "images/home/slider-image-5.webp" | absURL }});'></div>
+        <div class="swiper-slide bg-center bg-cover bg-no-repeat" style='background-image: url({{ "images/home/slider-image-6.webp" | absURL }});'></div>
+      </div>
+      <div class="swiper-pagination"></div>
+    </div>
+  </div>
   <!-- Storytelling -->
   <div class="px-4 py-24 bg-white">
     <div class="w-full mx-auto md:w-4/5 space-y-48">
@@ -128,4 +156,10 @@
       </a>
     </div>
   </div>
+{{ end }}
+
+{{ define "scripts" }}
+  <script src='{{ "vendors/swiper/swiper.min.js" | absURL }}'></script>
+  {{ $home_js := resources.Get "js/home.js" }}
+  <script src="{{ $home_js.Permalink }}"></script>
 {{ end }}
