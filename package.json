@@ -1,0 +1,24 @@
+{
+  "name": "mujeres-indigenas-en-frontera",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Daza <03dazal@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^9.8.0",
+    "postcss": "^7.0.27",
+    "postcss-cli": "^7.1.0"
+  },
+  "dependencies": {
+    "@glidejs/glide": "^3.4.1",
+    "tailwindcss": "^1.4.6"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions"
+  ]
+}

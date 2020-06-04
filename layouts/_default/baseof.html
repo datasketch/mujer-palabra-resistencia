@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.Language }}">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  {{ $styles := resources.Get "styles/tailwind.pcss" | toCSS | postCSS }}
+  <link rel="stylesheet" href="{{ $styles.Permalink }}">
+  {{ block "meta" . }}{{ end }}
+  {{ if .Title }}
+    <title>{{ .Title }} - {{ .Site.Title }}</title>
+  {{ else }}
+    <title>{{ .Site.Title }}</title>
+  {{ end }}
+</head>
+<body class="font-georgia">
+  {{ partial "navbar.html" . }}
+  <main>
+    {{ block "main" . }}{{ end }}
+  </main>
+  {{ partial "footer.html" . }}
+  {{ $site := resources.Get "js/site.js" }}
+  <script src="{{ $site.Permalink }}"></script>
+  {{ block "scripts" . }}{{ end }}
+</body>
+</html>
