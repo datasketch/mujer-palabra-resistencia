@@ -28,40 +28,38 @@
     </div>
   </div>
   <!-- Storytelling -->
-  <div class="px-4 py-24 bg-white">
-    <div class="w-full mx-auto md:w-4/5 space-y-48">
-      <div class="grid grid-cols-1 gap-24 md:grid-cols-2">
-        <div class="text-center">
-          <h3 class="flex flex-col leading-none text-eerie-black text-5xl font-bold">
-            <span>En Colombia hay</span> 
-            <span class="text-tropical-rain-forest text-6xl">1,905,617</span>
-            <span>indígenas</span>
-          </h3>
-          <p class="text-xl mt-10">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil ipsum reprehenderit tenetur, mollitia sunt perspiciatis dignissimos, commodi, labore voluptates dicta veniam velit eum? Reprehenderit, expedita!</p>
-        </div>
+  <div class="px-4 py-24 bg-white w-full mx-auto grid grid-cols-1 gap-24 md:grid-cols-2 md:w-4/5 items-start">
+    <div class="space-y-24">
+      <div class="step text-center opacity-85" data-step="1">
+        <h3 class="flex flex-col leading-none text-eerie-black text-5xl font-bold">
+          <span>En Colombia hay</span> 
+          <span class="text-tropical-rain-forest text-6xl">1,905,617</span>
+          <span>indígenas</span>
+        </h3>
+        <p class="text-xl mt-10">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil ipsum reprehenderit tenetur, mollitia sunt perspiciatis dignissimos, commodi, labore voluptates dicta veniam velit eum? Reprehenderit, expedita!</p>
+        <p class="text-6xl text-center md:hidden">1</p>
       </div>
-      <div class="grid grid-cols-1 gap-24 md:grid-cols-2">
-        <div class="text-center">
-          <h3 class="flex flex-col leading-none text-eerie-black text-5xl font-bold">
-            <span class="text-tropical-rain-forest text-6xl">xxx,xxx</span>
-            <span>viven en zona</span> 
-            <span>de frontera</span>
-          </h3>
-          <p class="text-xl mt-10">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil ipsum reprehenderit tenetur, mollitia sunt perspiciatis dignissimos, commodi, labore voluptates dicta veniam velit eum? Reprehenderit, expedita!</p>
-        </div>
+      <div class="step text-center opacity-85" data-step="2">
+        <h3 class="flex flex-col leading-none text-eerie-black text-5xl font-bold">
+          <span class="text-tropical-rain-forest text-6xl">xxx,xxx</span>
+          <span>viven en zona</span> 
+          <span>de frontera</span>
+        </h3>
+        <p class="text-xl mt-10">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil ipsum reprehenderit tenetur, mollitia sunt perspiciatis dignissimos, commodi, labore voluptates dicta veniam velit eum? Reprehenderit, expedita!</p>
+        <p class="text-6xl text-center md:hidden">2</p>
       </div>
-      <div class="grid grid-cols-1 gap-24 md:grid-cols-2">
-        <div class="text-center">
-          <h3 class="flex flex-col leading-none text-eerie-black text-5xl font-bold">
-            <span>En departamentos</span> 
-            <span>fronterizos hay</span>
-            <span class="text-tropical-rain-forest text-6xl">xx resguardos</span>
-            <span class="text-tropical-rain-forest text-6xl">indígenas</span>
-          </h3>
-          <p class="text-xl mt-10">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil ipsum reprehenderit tenetur, mollitia sunt perspiciatis dignissimos, commodi, labore voluptates dicta veniam velit eum? Reprehenderit, expedita!</p>
-        </div>
+      <div class="step text-center opacity-85" data-step="3">
+        <h3 class="flex flex-col leading-none text-eerie-black text-5xl font-bold">
+          <span>En departamentos</span> 
+          <span>fronterizos hay</span>
+          <span class="text-tropical-rain-forest text-6xl">xx resguardos</span>
+          <span class="text-tropical-rain-forest text-6xl">indígenas</span>
+        </h3>
+        <p class="text-xl mt-10">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil ipsum reprehenderit tenetur, mollitia sunt perspiciatis dignissimos, commodi, labore voluptates dicta veniam velit eum? Reprehenderit, expedita!</p>
+        <p class="text-6xl text-center md:hidden">3</p>
       </div>
     </div>
+    <p class="hidden step-viz sticky top-0 text-6xl text-center md:block">1</p>
   </div>
   <!-- Pueblo Wayuu -->
   <div class="px-4 py-24 bg-center bg-no-repeat bg-cover" style='background-image: linear-gradient(to right, rgba(0, 0, 0, 0.65) 0%, rgba(0, 0, 0, 0.65) 50%, rgba(0, 0, 0, 0) 100%), url({{ "images/textura-home.webp" | absURL }});'>
@@ -160,6 +158,7 @@
 
 {{ define "scripts" }}
   <script src='{{ "vendors/swiper/swiper.min.js" | absURL }}'></script>
+  <script src='{{ "vendors/scrollama/scrollama.min.js" | absURL }}'></script>
   {{ $home_js := resources.Get "js/home.js" }}
   <script src="{{ $home_js.Permalink }}"></script>
 {{ end }}
