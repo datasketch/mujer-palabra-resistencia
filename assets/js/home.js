@@ -9,13 +9,13 @@ const slider = new Swiper('.swiper-container', {
 });
 
 const scroller = scrollama();
-const scrollerViz = document.querySelector('.step-viz');
+let targetViz;
 
 scroller
   .setup({
     step: '.step',
     offset: 0.1,
-    progress: true,
+    progress: true
   })
   .onStepProgress(handleStepProgress)
   .onStepEnter(handleStepEnter)
@@ -23,14 +23,17 @@ scroller
 
 function handleStepEnter(response) {
   const element = response.element;
-  const step = element.dataset.step;
+  const step = response.element.dataset.step;
+  target = document.getElementById(step);
   element.classList.toggle('opacity-85');
-  scrollerViz.textContent = step;
 }
 
 function handleStepExit(response) {
   const element = response.element;
   element.classList.toggle('opacity-85');
+  target.style.opacity = 0;
 }
 
-function handleStepProgress(response) {}
+function handleStepProgress(response) {
+  target.style.opacity = 1.5 - response.progress;
+}
