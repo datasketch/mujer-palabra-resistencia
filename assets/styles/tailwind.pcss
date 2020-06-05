@@ -54,8 +54,38 @@
   background: #ffffff;
 }
 
+.button-prev,
+.button-next {
+  @apply absolute;
+  top: 100%;
+}
+
+.button-prev {
+  @apply left-0;
+  transform: translate(150%, -150%);
+}
+
+.button-next {
+  @apply right-0;
+  transform: translate(-150%, -150%);
+}
+
 .newspaper::first-letter {
   @apply font-bold text-5xl leading-none;
+}
+
+@screen md {
+  .button-prev,
+  .button-next {
+    top: 50%;
+  }
+  .button-prev {
+    transform: translate(150%, -50%);
+  }
+
+  .button-next {
+    transform: translate(-150%, -50%);
+  } 
 }
 
 @tailwind utilities;

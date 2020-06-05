@@ -6,6 +6,7 @@ module.exports = {
         'eerie-black': '#181a1c',
         'tropical-rain-forest': '#07725d',
         'titan-white': '#fcfcff',
+        'gunmetal-alt': '#242e38',
         gunmetal: '#202a34'
       },
       fontFamily: {
