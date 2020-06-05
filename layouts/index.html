@@ -158,6 +158,6 @@
 {{ define "scripts" }}
 <script src='{{ "vendors/swiper/swiper.min.js" | absURL }}'></script>
 <script src='{{ "vendors/scrollama/scrollama.min.js" | absURL }}'></script>
-{{ $home_js := resources.Get "js/home.js" }}
+{{ $home_js := resources.Get "js/home.js" | minify }}
 <script src="{{ $home_js.Permalink }}"></script>
 {{ end }}

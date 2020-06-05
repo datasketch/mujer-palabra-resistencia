@@ -1,4 +1,6 @@
-<header class="px-4 py-2 bg-eerie-black bg-opacity-85 absolute w-full z-10">
+{{ $pages := (slice "sobre") }}
+{{ $static := in $pages .Type }}
+<header class="px-4 py-2 bg-eerie-black w-full z-10 {{ if not $static }}absolute bg-opacity-85{{ end }}">
   <nav class="font-georgia text-lg">
     <div class="flex items-center justify-between lg:hidden">
       <a href="https://www.agendapropia.co/" target="_blank" rel="noopener noreferrer">
@@ -13,7 +15,7 @@
         <img class="w-24" src='{{ "images/agenda-propia.svg" | absURL }}' alt="Agenda propia">
       </a>
       <a href="{{ .Site.BaseURL }}{{ .Language }}">{{ T "inicio" }}</a>
-      <a href="">Sobre el proyecto</a>
+      <a href='{{ relref . "sobre-el-proyecto.md" }}'>Sobre el proyecto</a>
       <a href="">Conoce los datos</a>
       <a href='{{ relref . "pueblo-wayuu.md" }}'>Pueblo <strong>Wayuu</strong></a>
       <a href='{{ relref . "pueblo-tikuna.md" }}'>Pueblo <strong>Tikuna</strong></a>

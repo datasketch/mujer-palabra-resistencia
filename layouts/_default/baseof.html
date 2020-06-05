@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   {{ block "meta" . }}{{ end }}
-  {{ $styles := resources.Get "styles/tailwind.pcss" | toCSS | postCSS }}
+  {{ $styles := resources.Get "styles/tailwind.pcss" | toCSS | postCSS | minify }}
   <link rel="stylesheet" href="{{ $styles.Permalink }}">
   {{ if .Title }}
     <title>{{ .Title }} - {{ .Site.Title }}</title>
@@ -12,13 +12,13 @@
     <title>{{ .Site.Title }}</title>
   {{ end }}
 </head>
-<body class="font-georgia">
+<body class="font-georgia pre">
   {{ partial "navbar.html" . }}
   <main>
     {{ block "main" . }}{{ end }}
   </main>
   {{ partial "footer.html" . }}
-  {{ $site := resources.Get "js/site.js" }}
+  {{ $site := resources.Get "js/site.js" | minify }}
   <script src="{{ $site.Permalink }}"></script>
   {{ block "scripts" . }}{{ end }}
 </body>

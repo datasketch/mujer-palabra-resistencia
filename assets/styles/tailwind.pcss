@@ -33,6 +33,17 @@
 
 @tailwind components;
 
+body.pre {
+  @apply opacity-0;
+  transform: translateY(10px);
+}
+
+body {
+  transition: all 0.5s ease-out;
+  opacity: 1;
+  transform: translateY(0);
+}
+
 .slider-content {
   @apply absolute w-full select-none px-4;
   top: 50%;
@@ -74,6 +85,26 @@
   @apply font-bold text-5xl leading-none;
 }
 
+.rendered-markup-about {
+  @apply text-lg text-eerie-black;
+}
+
+.rendered-markup-about > * ~ * {
+  @apply mt-6;
+}
+
+.rendered-markup-about em {
+  @apply font-playfair-display text-lg;
+}
+
+.rendered-markup-about h2 {
+  @apply font-bold font-playfair-display text-4xl leading-tight;
+}
+
+.rendered-markup-about p + h2 {
+  @apply mt-0;
+}
+
 @screen md {
   .button-prev,
   .button-next {
@@ -85,7 +116,16 @@
 
   .button-next {
     transform: translate(-150%, -50%);
-  } 
+  }
+  .rendered-markup-about {
+    @apply text-xl;
+  }
+  .rendered-markup-about em {
+    @apply font-playfair-display text-xl;
+  }
+  .rendered-markup-about h2 {
+    @apply font-bold font-playfair-display text-5xl;
+  }
 }
 
 @tailwind utilities;

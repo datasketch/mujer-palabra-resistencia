@@ -1,0 +1,45 @@
+{{ define "main" }}
+<div class="px-4 py-2 shadow-md bg-white flex items-center sticky top-0 space-x-12 text-lg overflow-x-auto sm:justify-center lg:text-xl">
+  <a class="flex-shrink-0" href="#presentacion">Presentación del proyecto</a>
+  <a class="flex-shrink-0" href="#creditos">Créditos</a>
+  <a class="flex-shrink-0" href="#medios-aliados">Medios aliados</a>
+</div>
+<div class="px-4 mt-24 pb-24 bg-titan-white">
+  <div class="mx-auto w-full md:w-4/5">
+    <div class="w-full md:w-2/3">
+      <div class="rendered-markup-about" id="presentacion">
+        {{ .Content }}
+      </div>
+    </div>
+    <img class="mx-auto py-16" src='{{ "images/separador.svg" | absURL }}' alt="">
+    <div class="rendered-markup-about" id="creditos">
+      <p>
+        <em>Cŕeditos</em>
+      </p>
+      <h2>Nuestro equipo</h2>
+    </div>
+    <div class="mt-12 gap-8 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
+      {{ range .Params.creditos }}
+        <div class="flex flex-col items-center">
+          <img class="object-cover object-center w-24 h-24 rounded-full" src='{{ .avatar | absURL }}' alt="">
+          <div class="mt-2 font-playfair-display text-center text-xl leading-tight">
+            <p class="font-bold">{{ .nombre }}</p>
+            <p class="italic text-lg">{{ .cargo }}</p>
+          </div>
+          <a href="{{ .externo }}" target="_blank" rel="noopener noreferrer" class="inline-block border-eerie-black border-2 px-2 py-1 mt-4 text-xl">Conocer más</a>
+        </div>
+      {{ end }}
+    </div>
+    <img class="mx-auto py-16" src='{{ "images/separador.svg" | absURL }}' alt="">
+    <div class="rendered-markup-about" id="medios-aliados">
+      <p>
+        <em>Medios aliados</em>
+      </p>
+      <h2>Quiénes nos apoyan</h2>
+    </div>
+    <div class="text-center">
+      <a href="{{ .Site.BaseURL }}{{ .Language }}" target="_blank" rel="noopener noreferrer" class="inline-block border-eerie-black border-2 px-2 py-1 mt-4 text-xl font-bold">Volver al inicio</a>
+    </div>
+  </div>
+</div>
+{{ end }}

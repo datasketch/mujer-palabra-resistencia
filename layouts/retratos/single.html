@@ -60,6 +60,6 @@
 
 {{ define "scripts" }}
 <script src='{{ "vendors/swiper/swiper.min.js" | absURL }}'></script>
-{{ $retratos_js := resources.Get "js/retratos.js" }}
+{{ $retratos_js := resources.Get "js/retratos.js" | minify }}
 <script src="{{ $retratos_js.Permalink }}"></script>
 {{ end }}
