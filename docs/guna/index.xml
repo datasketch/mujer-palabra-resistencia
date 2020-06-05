@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Título en Guna</title>
+    <link>https://datasketch.github.io/mujeres-indigenas-en-frontera/guna/</link>
+    <description>Recent content on Título en Guna</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    
+	<atom:link href="https://datasketch.github.io/mujeres-indigenas-en-frontera/guna/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pueblo Guna Dule</title>
+      <link>https://datasketch.github.io/mujeres-indigenas-en-frontera/guna/pueblo-guna-dule/</link>
+      <pubDate>Thu, 04 Jun 2020 14:29:23 -0500</pubDate>
+      
+      <guid>https://datasketch.github.io/mujeres-indigenas-en-frontera/guna/pueblo-guna-dule/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pueblo Tikuna</title>
+      <link>https://datasketch.github.io/mujeres-indigenas-en-frontera/guna/pueblo-tikuna/</link>
+      <pubDate>Thu, 04 Jun 2020 14:29:16 -0500</pubDate>
+      
+      <guid>https://datasketch.github.io/mujeres-indigenas-en-frontera/guna/pueblo-tikuna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pueblo Wayuu</title>
+      <link>https://datasketch.github.io/mujeres-indigenas-en-frontera/guna/pueblo-wayuu/</link>
+      <pubDate>Thu, 04 Jun 2020 14:29:11 -0500</pubDate>
+      
+      <guid>https://datasketch.github.io/mujeres-indigenas-en-frontera/guna/pueblo-wayuu/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
