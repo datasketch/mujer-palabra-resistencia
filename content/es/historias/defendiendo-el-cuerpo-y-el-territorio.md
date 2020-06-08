@@ -3,6 +3,7 @@ title: "Defendiendo el cuerpo y el territorio"
 subtitle: "Resistencia de una mujer Magüta en la frontera"
 author: "Luzbeidy Monterrosa"
 role: "Comunicadora indígena, integrante del equipo intercultural de Agenda Propia"
+mapa: "gunadule"
 images:
   - "images/historias/h1_banner.jpg"
 ---
