@@ -176,6 +176,30 @@
   </url>
   
   <url>
+    <loc>https://datasketch.github.io/mujeres-indigenas-en-frontera/guna/conoce-los-datos/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://datasketch.github.io/mujeres-indigenas-en-frontera/conoce-los-datos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="wayuu"
+                href="https://datasketch.github.io/mujeres-indigenas-en-frontera/wayuu/conoce-los-datos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tikuna"
+                href="https://datasketch.github.io/mujeres-indigenas-en-frontera/tikuna/conoce-los-datos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="guna"
+                href="https://datasketch.github.io/mujeres-indigenas-en-frontera/guna/conoce-los-datos/"
+                />
+  </url>
+  
+  <url>
     <loc>https://datasketch.github.io/mujeres-indigenas-en-frontera/guna/tags/</loc>
     <xhtml:link
                 rel="alternate"

@@ -1,4 +1,4 @@
-{{ $pages := (slice "sobre") }}
+{{ $pages := (slice "sobre" "datos") }}
 {{ $static := in $pages .Type }}
 <header class="px-4 py-2 bg-eerie-black w-full z-10 {{ if not $static }}absolute bg-opacity-85{{ end }}">
   <nav class="font-georgia text-lg">
@@ -16,7 +16,7 @@
       </a>
       <a href="{{ .Site.BaseURL }}{{ .Language }}">{{ T "inicio" }}</a>
       <a href='{{ relref . "sobre-el-proyecto.md" }}'>Sobre el proyecto</a>
-      <a href="">Conoce los datos</a>
+      <a href='{{ relref . "conoce-los-datos.md" }}'>Conoce los datos</a>
       <a href='{{ relref . "pueblo-wayuu.md" }}'>Pueblo <strong>Wayuu</strong></a>
       <a href='{{ relref . "pueblo-tikuna.md" }}'>Pueblo <strong>Tikuna</strong></a>
       <a href='{{ relref . "pueblo-guna-dule.md" }}'>Pueblo <strong>Guna Dule</strong></a>
