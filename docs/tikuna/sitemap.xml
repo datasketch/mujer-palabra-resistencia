@@ -200,6 +200,54 @@
   </url>
   
   <url>
+    <loc>https://datasketch.github.io/mujeres-indigenas-en-frontera/tikuna/historias/defendiendo-el-cuerpo-y-el-territorio/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://datasketch.github.io/mujeres-indigenas-en-frontera/historias/defendiendo-el-cuerpo-y-el-territorio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="wayuu"
+                href="https://datasketch.github.io/mujeres-indigenas-en-frontera/wayuu/historias/defendiendo-el-cuerpo-y-el-territorio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="guna"
+                href="https://datasketch.github.io/mujeres-indigenas-en-frontera/guna/historias/defendiendo-el-cuerpo-y-el-territorio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tikuna"
+                href="https://datasketch.github.io/mujeres-indigenas-en-frontera/tikuna/historias/defendiendo-el-cuerpo-y-el-territorio/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://datasketch.github.io/mujeres-indigenas-en-frontera/tikuna/historias/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://datasketch.github.io/mujeres-indigenas-en-frontera/historias/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="wayuu"
+                href="https://datasketch.github.io/mujeres-indigenas-en-frontera/wayuu/historias/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="guna"
+                href="https://datasketch.github.io/mujeres-indigenas-en-frontera/guna/historias/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tikuna"
+                href="https://datasketch.github.io/mujeres-indigenas-en-frontera/tikuna/historias/"
+                />
+  </url>
+  
+  <url>
     <loc>https://datasketch.github.io/mujeres-indigenas-en-frontera/tikuna/tags/</loc>
     <xhtml:link
                 rel="alternate"
