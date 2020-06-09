@@ -1,3 +1,14 @@
 {{ define "main" }}
 {{ partial "datos_nav.html" . }}
+{{ if .Params.appUrl }}
+  <iframe id="app" src="{{ .Params.appUrl }}" class="w-full border-none"></iframe>
+{{ end }}
+{{ end }}
+
+{{ define "scripts" }}
+  <script src='{{ "vendors/iframe-resizer/iframeResizer.min.js" | absURL }}'></script>
+  <script>
+    const app = document.getElementById('app')
+    if (app) iFrameResize({ heightCalculationMethod: 'lowestElement' }, '#app')
+  </script>
 {{ end }}
