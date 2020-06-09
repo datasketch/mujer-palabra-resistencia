@@ -8,32 +8,46 @@ const slider = new Swiper('.swiper-container', {
   },
 });
 
-const scroller = scrollama();
-let targetViz;
+const storytellingContainer = document.getElementById('storytelling');
+const graphics = document.querySelectorAll('.graphic');
+const lastGraphic = graphics[graphics.length - 1];
+const controller = new ScrollMagic.Controller();
 
-scroller
-  .setup({
-    step: '.step',
-    offset: 0.1,
-    progress: true
-  })
-  .onStepProgress(handleStepProgress)
-  .onStepEnter(handleStepEnter)
-  .onStepExit(handleStepExit);
+const scene = new ScrollMagic.Scene({
+  triggerHook: 0,
+  triggerElement: storytellingContainer,
+  duration:
+    storytellingContainer.getBoundingClientRect().height -
+    lastGraphic.getBoundingClientRect().height,
+})
+  .setPin('#steps')
+  .addTo(controller);
 
-function handleStepEnter(response) {
-  const element = response.element;
-  const step = response.element.dataset.step;
-  target = document.getElementById(step);
-  element.classList.toggle('opacity-85');
-}
+scene.on('enter', function () {
+  graphics.forEach(function (graphic, index) {
+    const graphicScene = new ScrollMagic.Scene({
+      triggerHook: 0,
+      triggerElement: graphic,
+      duration: '100%',
+    }).addTo(controller);
 
-function handleStepExit(response) {
-  const element = response.element;
-  element.classList.toggle('opacity-85');
-  target.style.opacity = 0;
-}
+    // onLeave
+    graphicScene.on('leave', function (event) {
+      const el = event.target.triggerElement();
+      if (el === lastGraphic && event.scrollDirection === 'FORWARD') {
+        return;
+      }
+      const step = document.getElementById(el.dataset.step);
+      step.classList.remove('opacity-100');
+      step.classList.add('opacity-0');
+    });
 
-function handleStepProgress(response) {
-  target.style.opacity = 1.5 - response.progress;
-}
+    // onEnter
+    graphicScene.on('enter', function (event) {
+      const el = event.target.triggerElement();
+      const step = document.getElementById(el.dataset.step);
+      step.classList.remove('opacity-0');
+      step.classList.add('opacity-100');
+    });
+  });
+});
