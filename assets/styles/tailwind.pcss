@@ -85,6 +85,18 @@ body {
   @apply font-bold text-5xl leading-none;
 }
 
+.markup-container {
+  @apply w-full mx-auto;
+}
+
+.markup {
+  @apply text-xl text-eerie-black;
+}
+
+.markup > * ~ * {
+  @apply mt-10;
+}
+
 .rendered-markup-about,
 .rendered-markup-story {
   @apply text-lg text-eerie-black;
@@ -148,6 +160,18 @@ body {
   }
   .rendered-markup-story > *:not(figure) {
     @apply w-2/3;
+  }
+  .markup-container {
+    @apply w-2/3;
+  }
+}
+
+@screen lg {
+  .markup-container {
+    @apply w-1/2;
+  }
+  .markup {
+    @apply text-2xl;
   }
 }
 

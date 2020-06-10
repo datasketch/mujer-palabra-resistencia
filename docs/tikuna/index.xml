@@ -1,14 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Título en Tikuna</title>
+    <title>Título en tikuna</title>
     <link>https://datasketch.github.io/mujeres-indigenas-en-frontera/tikuna/</link>
-    <description>Recent content on Título en Tikuna</description>
+    <description>Recent content on Título en tikuna</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
+    <lastBuildDate>Fri, 05 Jun 2020 10:07:53 -0500</lastBuildDate>
     
 	<atom:link href="https://datasketch.github.io/mujeres-indigenas-en-frontera/tikuna/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Anmal burwa | Nuestro espíritu</title>
+      <link>https://datasketch.github.io/mujeres-indigenas-en-frontera/tikuna/pueblo-gunadule/retratos/</link>
+      <pubDate>Fri, 05 Jun 2020 10:07:53 -0500</pubDate>
+      
+      <guid>https://datasketch.github.io/mujeres-indigenas-en-frontera/tikuna/pueblo-gunadule/retratos/</guid>
+      <description>Mi pueblo, mi nación es Gunadule. Es un pueblo que se conoce por sus tejidos como la mola (vestido tradicional), el wini (pulseras elaboradas en chaquiras que se usan en pies y manos), y por sus cantos terapéuticos. Nos encontramos en dos territorios separados por una frontera impuesta, Colombia y Panamá. La comunidad de donde pertenezco es Ibgigundiwala, conocida como Caimán Nuevo. Se ubica al noroccidente de Colombia, departamento de Antioquia, municipio de Necoclí, en todo el Golfo de Urabá.</description>
+    </item>
+    
+    <item>
+      <title>Piiraka wayoluja | Mira nuestro reflejo</title>
+      <link>https://datasketch.github.io/mujeres-indigenas-en-frontera/tikuna/pueblo-wayuu/retratos/</link>
+      <pubDate>Fri, 05 Jun 2020 10:07:53 -0500</pubDate>
+      
+      <guid>https://datasketch.github.io/mujeres-indigenas-en-frontera/tikuna/pueblo-wayuu/retratos/</guid>
+      <description>El pueblo Wayuu percibe a La Guajira desde la forma de respirar, sentir, mirar, caminar, y así se logra comprender el amor hacia esta tierra ancestral que se divide en dos: Venezuela y Colombia. En ambos países, los Wayuu conciben la figura de la mujer como un eje fundamental para la continuidad de la memoria desde la línea matrilineal, transmitida de generación en generación. Por esta razón, esta serie de retratos parte de la naturaleza de la maternidad y se hila con las voces de mujeres, jóvenes y niñas del pueblo Wayuu, quienes hablan de la importancia de seguir soñando y caminando el territorio que les fue heredado por los alaülaayuu (abuelos), con la única voluntad de permanecer siendo de la misma tierra aunque se les imponga una línea fronteriza para dividir el pensamiento y alejarlas de lo que fueron, son y desean seguir siendo: alaülaa sulu&amp;rsquo;u woumain (dueñas de su territorio).</description>
+    </item>
     
     <item>
       <title>Retratos</title>
@@ -32,30 +51,13 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit.</description>
     </item>
     
     <item>
-      <title>Pueblo Guna Dule</title>
-      <link>https://datasketch.github.io/mujeres-indigenas-en-frontera/tikuna/pueblo-guna-dule/</link>
-      <pubDate>Thu, 04 Jun 2020 14:29:23 -0500</pubDate>
+      <title>Yíema Ngee Magütaka, Tikunas</title>
+      <link>https://datasketch.github.io/mujeres-indigenas-en-frontera/tikuna/pueblo-tikuna/retratos/</link>
+      <pubDate>Fri, 05 Jun 2020 10:07:53 -0500</pubDate>
       
-      <guid>https://datasketch.github.io/mujeres-indigenas-en-frontera/tikuna/pueblo-guna-dule/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pueblo Tikuna</title>
-      <link>https://datasketch.github.io/mujeres-indigenas-en-frontera/tikuna/pueblo-tikuna/</link>
-      <pubDate>Thu, 04 Jun 2020 14:29:16 -0500</pubDate>
-      
-      <guid>https://datasketch.github.io/mujeres-indigenas-en-frontera/tikuna/pueblo-tikuna/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pueblo Wayuu</title>
-      <link>https://datasketch.github.io/mujeres-indigenas-en-frontera/tikuna/pueblo-wayuu/</link>
-      <pubDate>Thu, 04 Jun 2020 14:29:11 -0500</pubDate>
-      
-      <guid>https://datasketch.github.io/mujeres-indigenas-en-frontera/tikuna/pueblo-wayuu/</guid>
-      <description></description>
+      <guid>https://datasketch.github.io/mujeres-indigenas-en-frontera/tikuna/pueblo-tikuna/retratos/</guid>
+      <description>Ngêma tatü arü nãánãkü wa ngêma ná ngaûgü awegü-werígü, meküraûgüêû torü naínêküwa: barü ngumãchî kaurégü. Yíema magütagü nû tá kuala, tümachwua. Ngeêgü magütaká taguta kuaêgü ngêma auküemã tumaamû wau í ngumachî dèamã, ngumachî tümã rü kúa. Yíema awue ngêma, ngugü tana nuûgü tumachinewai ngumachî tumarü ianêwa. Yíema ngeû Magüta tüna kúa tumakawa, ñumachi naáneká tumaka na ütuanê.
+Tumûãné tuna na ã guúma tumawemû, ngêma ná ûû tumaane, dia nachigã torû nûmachî humane arü nguerû.</description>
     </item>
     
     <item>
