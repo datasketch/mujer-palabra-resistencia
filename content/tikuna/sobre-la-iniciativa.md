@@ -1,5 +1,5 @@
 ---
-title: "Sobre el proyecto"
+title: "Sobre la iniciativa"
 date: 2020-06-05T10:07:53-05:00
 draft: false
 type: "sobre"
@@ -35,7 +35,7 @@ creditos:
   - nombre: "Paola Nirta"
     avatar: "images/creditos/paola-nirtaa.png"
     cargo: "Creativa visual social media"
-    externo: ""
+    externo: "https://instagram.com/la_nirta_p"
   - nombre: "Luis Fuenmayor"
     avatar: "images/creditos/avatar.webp"
     cargo: "Traductor indígena pueblo Wayuu"
