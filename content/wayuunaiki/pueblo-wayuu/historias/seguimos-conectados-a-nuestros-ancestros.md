@@ -5,7 +5,7 @@ author: "Luzbeidy Monterrosa"
 mapa: "wayuu"
 type: "historias"
 images:
-  - "images/historias/karla-camara.webp"
+  - "images/historias/karla-camara.jpeg"
 ---
 
 Ashjuushi sünain wayuunaiki (nanüiki wayuu) müsia alijunaiki.
