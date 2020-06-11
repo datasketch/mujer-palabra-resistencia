@@ -4,16 +4,15 @@
 {{ $secondMapLayer := print "images/mapas/mapa-" .Params.mapa "-2.png" }}
 <div class="relative bg-center bg-cover bg-no-repeat h-screen text-white" style='background-image: linear-gradient(to left, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.4) 25%, rgba(0, 0, 0, 0.4) 75%, rgba(0, 0, 0, 0) 100%), url({{ $banner | absURL }});'>
   <div class="px-4 absolute w-full" style="top: 50%; transform: translateY(-50%)">
-    <div class="max-w-lg mx-auto text-center font-playfair-display">
+    <div class="w-full mx-auto text-center font-playfair-display md:w-2/3 lg:w-1/2">
       <h1 class="font-bold text-4xl leading-tight lg:text-5xl">{{ .Title }}</h1>
-      <p class="mt-4 italic text-xl lg:text-3xl">{{ .Params.subtitle }}</p>
+      <p class="mt-4 italic text-lg lg:text-xl">{{ .Description }}</p>
     </div>
   </div>
   <div class="px-4 pb-10 absolute w-full bottom-0">
     <div class="max-w-md mx-auto text-center font-playfair-display text-lg lg:text-xl">
       <img class="invert mx-auto" src='{{ "images/separador.svg" | absURL }}' alt="">
       <p class="font-bold mt-4">Por: {{ .Params.author }}</p>
-      <p>{{ .Params.role }}</p>
     </div>
   </div>
 </div>
@@ -21,8 +20,8 @@
   <img class="absolute w-full h-full object-center object-cover" src="{{ $firstMapLayer | absURL }}" alt="" id="first-layer">
   <img class="absolute w-full h-full object-center object-cover" src="{{ $secondMapLayer | absURL }}" alt="" id="second-layer" style="opacity: 0;">
 </div>
-<div class="px-4 py-24 w-full mx-auto md:w-4/5">
-  <div class="rendered-markup-story">
+<div class="px-4 py-24 markup-container">
+  <div class="markup">
     {{ .Content }}
   </div>
   <div class="text-center mt-10">
