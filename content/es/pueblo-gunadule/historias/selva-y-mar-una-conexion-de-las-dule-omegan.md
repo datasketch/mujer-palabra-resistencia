@@ -6,7 +6,7 @@ mapa: "gunadule"
 type: "historias"
 weight: 1
 images:
-  - "images/historias/selva-y-mar.webp"
+  - "images/historias/selva-y-mar.jpeg"
 ---
 
 ## Muu Magaddibala | Alta mar
@@ -17,7 +17,9 @@ A inicios de marzo de 2020, en una cálida mañana de unos 19 grados centígrado
  
 Mientras avanzaba el recorrido y nos mojaba el agua salada de las grandes olas que se estrellaban contra la embarcación, Olowailli aprovechó para explicar que para su pueblo Gunadule “la mar” es “la abuela”.
 
-*imagen*
+{{< image src="images/historias/gunadule/selva-y-mar-1.png" title="Mar" >}}
+El mar (Muu) significa ancestralmente abuela para los Gunadules. Su pueblo le tiene un respeto profundo al mar Caribe, caracterizado por sus aguas azuladas y cristalinas. Foto: Edilma Prada.
+{{< /image >}}
 
 –“Muu significa ancestralmente abuela, la sabedora, la que conoce todo, la que guarda los secretos de la humanidad, la que ve nacer el sol y permite que detrás de ella se oculte. Desde la mar también se ven las estrellas y la luna. De la luna queda el reflejo sobre las aguas que ilumina y guía a los navegantes de la noche”.
  
@@ -25,7 +27,9 @@ Bellas palabras de Olo (como le decimos cariñosamente quienes la conocemos), qu
  
 En Colombia hay 2.610 habitantes del pueblo Gunadule (censo 2018 del Departamento Administrativo Nacional de Estadística, DANE), y en Panamá, 80.000 (censo oficial 2010, datos suministrados por el Congreso General de la Cultura Guna, principal autoridad tradicional de los Gunadules). En Colombia se concentran en dos resguardos: Maggilagundiwala, en Arquía, Chocó, e Ibgigundiwala, Caimán Nuevo, sobre la región del Golfo de Urabá en Antioquia. En Panamá están asentados en las 360 islas y arrecifes en las tres comarcas Guna Yala, Madungandí y Wargandi del territorio ancestral Dagargunyala (Darién) y en las nueve provincias panameñas.
 
-*imagen*
+{{< image src="images/historias/gunadule/selva-y-mar-2.jpeg" title="Mujeres gunadule en la playa" >}}
+En Colombia y Panamá hay unos 82.000 indígenas Gunadules. En ambos países se reconocen como hermanos y comparten las mismas costumbres y saberes. Foto: Edilma Prada.
+{{< /image >}}
 
 Quienes viven en Colombia siempre viajan a visitar a sus familiares en Panamá, y quienes viven en Panamá cruzan el Golfo de Urabá para hacer lo propio del otro lado de la frontera. Olowailli recuerda que de niña, hace 16 años, fue a la comarca Guna Yala con su familia, su padre, Abadio Green Stocel; su madre, Amelicia Santacruz, y su hermano mayor, Okin Green Santacruz.
 
@@ -43,7 +47,9 @@ La Tierra del Ají, en lengua Dulegaya, es un sitio mágico por sus paisajes y l
  
 Como dato importante y que explica el nombre del lugar en el que nos encontramos, Olo cuenta que su pueblo consume el ají para la protección y la prevención de enfermedades.
 
-*imagen*
+{{< image src="images/historias/gunadule/selva-y-mar-3.jpeg" title="Letrero Capurganá" >}}
+Capurganá, conocido como Tierra del Ají, fue ancestralmente territorio de los Gunadules. Ahora, pertenece a comunidades afrocolombianas y es punto turístico del departamento Chocó. Foto: Edilma Prada.
+{{< /image >}}
 
 Unas 1.900 personas habitan Capurganá, la mayoría es población afro natural de Colombia y hay unos pocos extranjeros que establecieron posadas turísticas en el territorio. Allí, se vive de la pesca, la hotelería, los restaurantes, el turismo y la construcción.
  
@@ -51,9 +57,13 @@ Los Gunadules viajan de las islas de Panamá a Capurganá en Colombia para hacer
  
 Capurganá es un poblado pintoresco y rústico. En la calle principal, destino obligado de turistas, se consigue todo tipo de productos artesanales. Allí se encuentran los tejidos de las molas, con sus llamativas figuras, texturas y colores, y las telas de saburred que usan las mujeres indígenas como faldas. Cinco cuadras más adelante está la cancha de fútbol en donde niños y jóvenes afrocolombianos juegan en las tardes. En casi todas las calles del pueblo hay restaurantes, hostales, hoteles, cafés y bares, y en la playa se concentran los turistas para disfrutar de la arena y del mar.
 
-*imagen*
+{{< image src="images/historias/gunadule/selva-y-mar-4.jpeg" title="Mujeres indígenas" >}}
+Las mujeres indígenas del pueblo Gunadule visitan Capurganá a diario. Allí venden las molas, tejido tradicional, y hacen mercado para sus comunidades. Foto: Edilma Prada.
+{{< /image >}}
 
-*imagen*
+{{< fullimage src="images/historias/gunadule/selva-y-mar-5.jpeg" title="Puerto de Capurganá" >}}
+Al puerto de Capurganá llegan muchas lanchas y botes con indígenas Gunadules de las 360 islas que hay en Panamá. Estas aguas, según dicen los pobladores, son un punto de paso obligado para migrantes que transitan hacia Centroamérica. Foto: Olowailli Green.
+{{< /fullimage >}}
 
 Una vez llegamos a la playa, nos detuvimos un momento para observar el movimiento de personas y embarcaciones en el muelle principal de Capurganá. El atracadero es muy activo, constantemente llegan lanchas, pequeñas y grandes, con turistas, indígenas Gunadules, pescadores y migrantes. “Las personas que migran vienen desde lejos, muchas de Haití, Cuba, algunos países africanos y de la India. Por estas aguas se mueve de todo; también hay paso de contrabando y de drogas”, nos dice, en voz baja, uno de los pescadores. “Una vez en Capurganá, los migrantes hacen el paso a Panamá por Puerto Obaldía o por La Miel, es por las selvas del Darién, pura trocha, es algo más organizado, ya hay guías y hay un convenio para llevar a los migrantes. Hay gente que se encarga del tráfico, les hacen los papeles [a las personas], les ayudan a pasar; muchos han perdido la vida en estas selvas y este mar”, añade el pescador. El paso de migrantes es evidente. En Necoclí pudimos ver a unos 50 haitianos que habían sido detenidos por las autoridades colombianas; la emergencia del coronavirus incrementó los controles migratorios.
  
@@ -61,7 +71,9 @@ Mientras recorríamos por la playa en dirección a unas casetas de madera en don
 
 ## Las Dule Omegan | Mujeres del pueblo Gunadule
 
-*imagen*
+{{< fullimage src="images/historias/gunadule/selva-y-mar-6.jpeg" title="Vestimenta mujeres gunadule" >}}
+Para las Dule Omegan, la mola es su protección. El tejido también hace parte de su vestimenta tradicional. Foto: Olowailli Green.
+{{< /fullimage >}}
 
 A las Dule Omegan se les puede reconocer desde lejos por su vestimenta colorida. Sus blusas son floreadas en la parte superior y tienen tejidos de las molas cubriendo el abdomen y parte de la espalda. Las faldas o saburred, que llegan hasta la rodilla, son elaboradas con telas livianas. El dunnuedi (tela roja) cubre sus cabezas y el wini (pulsera elaborada con centenares de chaquiras diminutas amarillas, rojas, zapotes, negras, azules y verdes) adorna sus pies y manos.
  
@@ -97,7 +109,9 @@ En su lengua materna, Miladys dice que si bien se siente feliz en Anassuguna, sa
  
 Las mujeres que acompañaban a Miladys cuando nos encontramos prefirieron no hablar. Son respetuosas de la palabra y de sus caciques, saben que para otorgar una entrevista deben tener permiso de sus autoridades tradicionales. Sin embargo, aprovecharon el encuentro para enseñarnos sus winis y molas, sus tejidos, su protección.
 
-*imagen*
+{{< image src="images/historias/gunadule/selva-y-mar-7.jpeg" title="Pulseras elaboradas con chaquiras" >}}
+Las mujeres del pueblo Gunadule llevan los winis, pulseras elaboradas con chaquiras, para protegerse de las malas energías y enfermedades. Foto: Edilma Prada.
+{{< /image >}}
 
 Luego de tres horas de conversación, las Dule Omegan y varios hombres indígenas se dispusieron a comprar el mercado. En seguida, lo empacaron y lo subieron al bote. Esta vez regresaban a su comunidad con alimentos suficientes para pasar el periodo de aislamiento debido a la pandemia por el coronavirus; iban preparados para la cuarentena. Miladys dijo que el encierro lo pasarían con cuidados y rituales de sanación con baños de plantas medicinales.
  
@@ -105,7 +119,9 @@ El viento soplaba fresco y el sol empezaba a bajar de lo alto para ocultarse en 
  
 Nuestro viaje terminó contemplando la caída del sol en “la mar”. De frente al atardecer, agradecimos que pudimos recibir de los propios brazos de la abuela mar (sus olas) su energía femenina y poderosa, que nos daría fuerzas y esperanza para continuar con nuestro camino.
 
-*imagen*
+{{< fullimage src="images/historias/gunadule/selva-y-mar-8.jpeg" title="Atardecer en Capurganá, la Tierra del Ají" >}}
+Los atardeceres de la Tierra del Ají son coloridos e inspiradores. El sol se oculta en medio de la inmensidad de las aguas del mar Caribe. Foto: Pablo Albarenga.
+{{< /fullimage >}}
 
 Nos despedimos de Capurganá, territorio ancestral de los Gunadules, sin imaginarnos que sería nuestro último viaje antes de que se cerraran las fronteras por la emergencia global de la Covid-19.
  

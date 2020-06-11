@@ -1,5 +1,5 @@
 ---
-title: "Miguelina teje sus legado en las molas"
+title: "Miguelina teje su legado en las molas"
 description: "Los indígenas Gunadules que viven entre Colombia y Panamá se consideran personas que habitan la superficie de la tierra. Añoran la selva, de donde son originarios, como lo recuerda Nan dummad (abuela) Miguelina Álvarez, de 72 años. Ella, desde el centro de su hogar, en el resguardo Ibgigudiwala, Caimán Nuevo, teje la mola para conservar el legado encomendado por sus ancestros: cuidar el territorio y regar las semillas de sus tradiciones"
 author: "Edilma Prada y Olowailli Green"
 mapa: "gunadule"
@@ -9,13 +9,17 @@ images:
   - "images/historias/teje-la-mola.jpeg"
 ---
 
-*imagen*
+{{< fullimage src="images/historias/gunadule/teje-la-mola-1.jpeg" title="Miguelina peinándose" >}}
+an dummad, la abuela, como le dicen sus 20 nietos, pasa las tardes en el lugar favorito de su casa, el corredor. Allí se peina, teje y observa. Foto: Pablo Albarenga.
+{{< /fullimage >}}
 
 ## Nan dummad daed | Su ser abuela
 
 Con mucho cuidado, Nan dummad (abuela), Miguelina Álvarez Bonilla corta pequeños retazos de telas de colores que convierte en diminutas figuras: triángulos, cuadrados y círculos, y las va colocando sobre una tela negra. Luego, enhebra una aguja con un fino hilo rosado. Con sus suaves manos empieza a coser. El pensamiento y el espíritu de Nan dummad se unen para crear una mola, el tejido ancestral de las Dule Omegan, las mujeres del pueblo binacional Gunadule, presente en Colombia y Panamá.
 
-*imagen*
+{{< image src="images/historias/gunadule/teje-la-mola-2.jpeg" title="Miguelina tejiendo" >}}
+Con sus manos, Miguelina escribe sus pensamientos en las molas, tejido ancestral de las mujeres Gunadule. Foto: Pablo Albarenga.
+{{< /image >}}
 
 Cada vez que Miguelina o Eiliggindili (su nombre en lengua Dulegaya que significa el nacimiento del hueso de la madre tierra) teje, narra una parte de su propia vida. En las molas, que se elaboran con telas que se sobreponen en capas, Miguelina diseña caminos, montañas, pájaros volando, las olas del mar, sus días, mitos, los laberintos de protección, y lo que ocurre en su resguardo Ibgigundiwala, Caimán Nuevo en el Golfo de Urabá, Antioquia, en donde nació hace 72 años.
  
@@ -31,17 +35,25 @@ Dice la abuela, en su lengua materna.
  
 Las palabras de Nan dummad suenan como poesía, al tiempo que Olowailli Green, su nieta y comunicadora del equipo intercultural de Agenda Propia, traduce.
 
+{{< youtube "ZyrpCxu0-T8" >}}
+
 Miguelina es el centro de la familia Santacruz Álvarez. Ella vive con Manuel Santacruz Lemus, de 90 años, quien es su sui (esposo) desde hace 55 años. Tienen cinco hijos, 20 nietos y 16 bisnietos. Su hogar es numeroso, como lo son las familias de los Gunadules. En su cultura tratan de preservar las costumbres propias, por ello, se casan entre miembros de la misma etnia; en caso de no hacerlo, no reciben la tierra y la casa que usualmente heredan de sus padres.
 
-*imagen*
+{{< fullimage src="images/historias/gunadule/teje-la-mola-3.jpeg" title="Miguelina y Manuel" >}}
+Miguelina y Manuel llevan 55 años de unión. Tienen cinco hijos, 20 nietos y 16 bisnietos. Con su sabiduría, siguen transmitiendo los conocimientos ancestrales por medio de los cantos y el tejido de la mola. Foto: Pablo Albarenga.
+{{< /fullimage >}}
 
 La casa de Miguelina es amplia y está hecha en madera. El frente está pintado de color verde como el totumo biche. Alrededor hay un gran jardín colorido; sembradíos de cacao –el fruto sagrado de su pueblo–, yuca, maíz, palmeras de coco; frutales de naranja, guayaba, mango, guamas, chontaduro, y grandes extensiones de cultivos de plátano. También hay plantas medicinales como la hierbabuena y la albahaca. Su vivienda queda muy cerca del mar Caribe, a 20 minutos de Necoclí, Antioquia.
 
-*doble imagen*
+{{< tripleimage first="images/historias/gunadule/teje-la-mola-4.jpeg" second="images/historias/gunadule/teje-la-mola-4-1.jpeg" first_title="Abuela cocinando en fogón" second_title="Cacao y totumo" >}}
+Izquierda). Nan dummad prefiere cocinar en su fogón de leña las comidas tradicionales del pueblo, como lo es el plátano con pescado ahumado. (Derecha) La casa de Nan dummad siempre está rodeada de cacao (fruto sagrado del pueblo Gunadule) y del totumo (fruto que da utensilios básicos para la cocina). Fotos: Pablo Albarenga.
+{{< /tripleimage >}}
 
 La cocina de Miguelina es muy tradicional. Allí usan fogón de leña y ollas grandes; totumos secos y palos de madera para cernir, colar y revolver los alimentos. En grandes canastos, elaborados por el abuelo Manuel con fibra de palma de iraca, guardan los utensilios. En el hogar de Miguelina nunca falta el café, que ella prepara a las seis de la mañana, hora en la que todos se levantan para ir a trabajar al campo. Tampoco falta el madun (bebida tradicional a base de plátano maduro y cacao) y el pescado con yuca y patacón.
 
-*imagen*
+{{< fullimage src="images/historias/gunadule/teje-la-mola-5.jpeg" title="Abuela tomando café" >}}
+Todas las mañanas, la abuela bebe del café que prepara desde muy temprano para toda la familia. Foto: Pablo Albarenga.
+{{< /fullimage >}}
 
 – “Por nuestros creadores estamos acá en esta tierra, por ello, tenemos tierra fértil para sembrar y comida. Cada vez que me baño, pienso en nuestros creadores, siempre hay que agradecer y se siente bien pensar en ellos”.
  
@@ -49,7 +61,9 @@ Miguelina cierra la frase con una tierna sonrisa. Y sigue con el tejido de la mo
  
 Para Miguelina, el lugar preferido de su casa es el pasillo que se ubica en toda la entrada. Este se ilumina con la luz natural que traen los días soleados, característicos del Golfo de Urabá. Allí hay una mesa de madera, en donde ella pone las telas, las agujas y los pequeños retazos, y en dos sillas se acomoda para tejer: mientras en una se sienta, en la otra estira sus delgadas piernas. Luego, sobre su regazo, coloca las telas y algunos hilos. Desde allí, la abuela observa el jardín, saluda a quienes llegan a la vivienda y se inspira para crear historias que luego quedan en las molas. Miguelina teje de lunes a domingo, casi seis horas al día.
 
-*imagen*
+{{< image src="images/historias/gunadule/teje-la-mola-6.png" title="Mola" >}}
+Mola significa ropa en Dulegaya, idioma materno del pueblo. La mola es la escritura de la mujer Gunadule, con la que plasma sus pensamientos. Además, el tejido las protege de las malas energías. Foto: Pablo Albarenga.
+{{< /image >}}
 
 En su casa, lo único que la incomoda es el ruido de los carros, que pasan día y noche a apenas dos metros de distancia. Ese ruido la lleva a conversar sobre los cambios que ha tenido el territorio. Cierra sus ojos y recuerda su infancia.
 
@@ -73,17 +87,23 @@ La abuela también comenta que antes no era problema pasar de un país a otro, p
  
 “Ahora tenemos que tener papeles para pasar la frontera. Si no tienes papeles, no puedes pasar. Antes era así: solo era montarnos al bote e irnos. Salíamos a las 3 de la mañana y dormíamos en Sapzurro, y al otro día cogíamos rumbo para llegar a Gunayala. Antes no existía Puerto Obaldía, no había Wagas, no había personas que te exigieran los papeles”, comenta.
 
-*imagen*
+{{< fullimage src="images/historias/gunadule/teje-la-mola-7.jpeg" title="Vestimenta mujeres gunadule" >}}
+Las mujeres Gunadules se visten con la mola y el saburred, falda tradicional traída de Panamá. Los elementos necesarios para las molas son hilos, telas y agujas. Foto: Pablo Albarenga.
+{{< /fullimage >}}
 
 ## Emis | Su presente
 
 Miguelina, al casarse con el abuelo Manuel Santacruz, quien fue cacique mayor de la comunidad, se trasladó a vivir a Caimán Bajo, un sector más cerca al mar. De la espesa selva pasó a habitar un territorio menos verde pero de tierras fértiles y bien conservadas. Con los años, los terrenos empezaron a cambiar. Los paisajes se convirtieron en pastizales y en extensas hectáreas de plátano.
 
-*imagen*
+{{< fullimage src="images/historias/gunadule/teje-la-mola-8.jpeg" title="Vista cenital de carretera" >}}
+Una carretera atraviesa el territorio del pueblo Gunadule en el Golfo de Urabá, Colombia. Foto: Pablo Albarenga.
+{{< /fullimage >}}
 
 La abuela detiene un momento el tejido para ir al jardín, desde donde muestra una zanja de dos metros de ancho. Cuenta que hace 20 años, por allí corría agua pura y era una quebrada en donde cogían camarones y cangrejos, y lavaban la ropa.
 
-*imagen*
+{{< image src="images/historias/gunadule/teje-la-mola-9.png" title="Zanja" >}}
+Esta zanja antes era una quebrada. La abuela Miguelina dice que en su territorio, “los ríos, bosques y el aire han cambiado. Ahora toca cuidar lo que nos queda para nuestros bisnietos”. Foto: Pablo Albarenga.
+{{< /image >}}
 
 – “Antes solo me sentaba a mirar a los pájaros que cantaban alrededor de la casa, no se sentía ningún ruido. Si queríamos ir al río o a la quebrada a coger camarones, lo hacíamos, había abundancia de todo, y es triste ver que ya no tenemos qué comer; los ríos y las quebradas se me secaron”.
  
@@ -95,9 +115,14 @@ Desde la zanja, cerca del jardín, corre una cálida brisa que mueve solo hojas 
  
 Miguelina habla de la vía que atraviesa el resguardo Caimán Nuevo y que comunica a las ciudades de Medellín en Antioquia con Montería en Córdoba. Alrededor, solo hay cultivos de plátano y más adelante potreros con ganado.
 
-*imagen*
+{{< fullimage src="images/historias/gunadule/teje-la-mola-10.jpeg" title="Cultivo de plátano" >}}
+El cultivo del plátano es uno de los sustentos de los habitantes de la comunidad de Ibgigundiwala, Caimán Nuevo. Los campesinos vecinos del resguardo trabajan con los indígenas. Foto: Pablo Albarenga.
+{{< /fullimage >}}
 
-*doble imagen*
+{{< tripleimage first="images/historias/gunadule/teje-la-mola-11.jpeg" second="images/historias/gunadule/teje-la-mola-12.png" first_title="Comerciantes preparando bultos de plátanos" second_title="Camión con carga de plátano" >}}
+(Izquierda) La mayoría del plátano se exporta a Europa, pero también se hace negocio con comerciantes de la zona, vendiéndoles las puntillas (plátanos no seleccionados por las empresas exportadoras) a un precio más bajo. (Derecha) Los camiones de las empresas exportadoras pasan recogiendo las cajas con los mejores plátanos. Fotos: Pablo Albarenga.
+{{< /tripleimage >}}
+
 
 En 1950 se empezaron a talar los bosques para sembrar pastos. Diez años después, inició la siembra del plátano como monocultivo. Esas décadas las recuerda con claridad el abuelo Manuel Santacruz Lemus con su memoria prodigiosa. Manuel ha visto cómo sus tradiciones ancestrales pasaron de sembrar yuca a vivir del plátano. “Nuestros ancestros nos habían advertido que esto iba a ocurrir. En 1900 empezó a darse lo del monocultivo. Nos decían que llegaría un momento en el que los wagas (gente no indígena) llegarían a nuestras tierras a quitarlas, a coger todas nuestras riquezas (…) y los wagas empezaron el monocultivo y a usar el dinero porque antes era por trueque, el intercambio para comer”.
  
@@ -109,7 +134,9 @@ El monocultivo ha afectado la tierra. Muy cerca del resguardo indígena se obser
  
 Para Abadio, preocupa que la parte comunitaria y tradicional empiece a desaparecer “porque las personas se están volviendo egoístas. Por ejemplo: ya se construyen las viviendas a su manera, antes se construían las viviendas a nivel comunitario porque se necesitaba del otro, pero ahora como ya tengo dinero, ya construyo a mi manera y va desapareciendo la construcción de casas no tradicionales”, agrega.
 
-*imagen*
+{{< fullimage src="images/historias/gunadule/teje-la-mola-13.jpeg" title="Abuela regando semillas" >}}
+La abuela riega sus semillas todos los días en las mañanas y en las tardes. Toda su vida le ha gustado ver crecer a sus duddus (flores), por eso “hay que cuidarlas y darles amor”, dice. Foto: Pablo Albarenga.
+{{< /fullimage >}}
 
 Nan dummad, la abuela, sabe que el pasar de los años ha traído cambios. Los paisajes, los cultivos, el clima y hasta su propio cuerpo han cambiado, pero lo que se mantiene es la mola, por eso se aferra a su tejido y lo conserva con el alma.
 
@@ -121,7 +148,9 @@ Miguelina aún sigue conservando la costumbre de dormir en hamaca y ubica su cab
 
 Como casi todos los días, cuando se asoma el sol radiante entre palmeras y plataneras, ya Miguelina ha preparado el café. A las 8 de la mañana, ella vuelve al tejido, a seguir con la mola. Esta vez, agarra un hilo violeta con el que borda unos cisnes que ubica a ambos lados de los laberintos de la protección, delgados caminos que asemejan el recorrido de la vida. Nan dummad regresa al mismo lugar de la casa, al pasillo que se ubica en toda la entrada de su casa. Hay mañanas que la acompaña su hija Teodonilda, quien también teje. A veces llegan sus bisnietos. Y desde la baranda de madera, siempre, todos los días, le habla, le saluda y le mira con ternura, el abuelo Manuel.
 
-*imagen*
+{{< image src="images/historias/gunadule/teje-la-mola-14.jpeg" title="Abuela hablando" >}}
+Los días de los abuelos transcurren mientras trabajan en el cultivo del plátano y cosen la mola, siempre teniendo tiempo de una buena conversación. Foto: Pablo Albarenga.
+{{< /image >}}
 
 Miguelina le ha enseñado el tejido a sus hijas y a sus nietas. Este es un oficio que se les transmite a las niñas desde muy pequeñas y que conservan toda la vida, como la lengua. Los Gunadules además tienen fortalecida la cultura con los cantos que entonan los saglas (caciques) en medio de ceremonias. También aprenden y se aferran a la siembra del cacao y del plátano, y en su cultura creen que el que más siembra tendrá mucha abundancia en el reino de los dioses, es decir, después de la muerte.
 
@@ -133,7 +162,9 @@ Miguelina dice que es tradición que las mujeres de su resguardo bajen al mar. E
 
 Mientras ve cómo se oculta el sol en medio de la inmensidad de las aguas azuladas de “la mar”, Nan dummad le pide a sus dioses, a sus creadores, que la guíen, que guarden a sus Gunadules y que le permita más días de vida para seguir contando historias en sus molas.
 
-*imagen*
+{{< fullimage src="images/historias/gunadule/teje-la-mola-15.jpeg" title="Abuela mirando la mar" >}}
+Muu y Nan dummad son abuelas en la lengua Dulegaya. Para el pueblo Gunadule, la mar representa a la abuela porque es la sabia, la que tiene secretos y los guarda. Las espumas blancas que mojan la orilla representan las canas de las abuelas. Foto: Pablo Albarenga.
+{{< /fullimage >}}
 
 
 

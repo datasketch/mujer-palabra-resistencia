@@ -6,7 +6,7 @@ mapa: "gunadule"
 type: "historias"
 weight: 1
 images:
-  - "images/historias/selva-y-mar.webp"
+  - "images/historias/selva-y-mar.jpeg"
 ---
 
 ## Muu Magaddibala | Alta mar

@@ -7,9 +7,11 @@
       <img class="flex-shrink-0" src='{{ .Get "second" | absURL }}' alt='{{ .Get "second_title" }}'>
     </div>
   </div>
-  <div class='mt-2 md:mt-4 {{ with .Get "reverse" }}mt-0 md:mt-0 mb-2 md:mb-4{{ end }}'>
-    <img class="mx-auto" src='{{ .Get "last" | absURL }}'   alt='{{ .Get "last_title" }}'>
-  </div>
+  {{ if (.Get "last") }}
+    <div class='mt-2 md:mt-4 {{ with .Get "reverse" }}mt-0 md:mt-0 mb-2 md:mb-4{{ end }}'>
+      <img class="mx-auto" src='{{ .Get "last" | absURL }}'   alt='{{ .Get "last_title" }}'>
+    </div>
+  {{ end }}
 </div>
 <div class="markup-container mt-2">
   <p class="text-center text-base text-gray-800">
