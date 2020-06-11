@@ -1,6 +1,6 @@
 ---
-title: "\"Seguimos conectados a nuestros ancestros\", Karla"
-description: "Niños y niñas Wayuu aprenden de sus abuelos y abuelas las realidades de su territorio. En esta historia, Karla Lucía Uriana González, de once años, comparte su sentir y vivencias en Colombia y Venezuela."
+title: "Sünülia: \"ayatüshii kottiraain namaa watuushinuu\", Karla"
+description: "tepichiinua wayuu ekirajaashi namaa natuushinuu müsia noushinuu tü kasa alatakaa sulu’u woumain. Karla Lucía Uriana González süküjüinjatü suchukua jamüin saa’inrulujut otta tü kasa sülatirakaa Colombia sümaa Venezuela"
 author: "Luzbeidy Monterrosa"
 mapa: "wayuu"
 type: "historias"
@@ -8,66 +8,69 @@ images:
   - "images/historias/karla-camara.webp"
 ---
 
-Las huellas que voy plasmando en la arena con las waireñas (cotizas o zapatos) mientras camino son parte de la memoria que tengo de mi territorio, caracterizado por los paisajes áridos, las mujeres con sus mantas coloridas, los hombres en el pastoreo de las cabras, los niños y niñas jugando con muñecos de barro, y los muchos colores que se ven desde la diversidad del desierto y la vegetación de woumainkat (nuestro territorio), La Guajira, una mezcla de magia cautivadora.
+Ashjuushi sünain wayuunaiki (nanüiki wayuu) müsia alijunaiki.
+
+Touchikanain apütaakaa sou mmakat sutuma tawaireeñashe (o’uitapa’a) waraitapa taya süpüshi tü sotokoo taa’in so’u toumain, tü e’raajünakaa sünaainjee miyaasü, jieyuu wayuusheinru’u, tooloyuu arüleejülii, na tepichi asheitajaakana süka wayunkeera, müsia tü süpoujana tü mulumutshika otta tü wuitushii woumainpa’a, Wajiira, waima sümalain paliraasü sümaa süpülain.
 
 *imagen*
 
-En ese caminar, por la comunidad de Alakat, ubicada a 45 minutos de la frontera de Colombia con Venezuela, me encontré con Karla Lucía Uriana González, una niña Wayuu de once años. Ella me preguntó qué trabajo estábamos haciendo junto a Pablo, mi compañero de viaje. Le conté que unos relatos y fotografías para unas historias, y en un momento de la conversación, ella me empezó a hablar sobre Venezuela. Karla es una niña que solo pudo ser ella, con su corazón lleno de inocencia y su carácter nos transmitió grandes enseñanzas. Esta historia la comparto porque para nosotros los indígenas, las voces de los niños y niñas son importantes debido a que narran con sinceridad, desde sus miradas, lo que pasa en su entorno y porque ellos son la continuidad de nuestros pueblos.
+Sünain tü waraitaakat, Aalakatpünaa, yalakaa 45 minutos sünainjee tü sülujüle mmakat Colombia suulia Venezuela, antiraa amaalü Karla Lucía Uriana González,  wanee jintut wayuu po’oloo waneeshia suuyashe. Süsakirüin taya sünain kasain wayuu tü wa’yataakaa anain namaa na tamaajanakana. Taküjaka sümüin achukuaamaajatüin shia sümaa ayaakuaa, yalain yootuin waya süküjala’a sümaka suchua Venezuela.
+ 
+Karla wanee jintut shiasümain wamüin, anamiaa’inrü müsia sümaa tü sütütüin sülatirüin wamüin miyouyuushaana alijalaa. Taküjain achukuaamaajatkaa sünainjee kojutuin wamüin waya wayuukana tü nanüikikaa na tepichikana, sünainjee naküjüin suchua wanee kasa sümaa anamiaa süka noupa’a tü alatakaa noumainru’u müsia nayain wo’uliwoin sulu’u tü mmakat.
 
 *imagen*
 
-"Yo nací en Venezuela, mi nombre allá es Karla Eugenia Farías Sierra, pero acá me llamo Karla Lucía Uriana González. En este momento nos encontramos en la comunidad Alakat donde viven nuestros padres y toda nuestra familia", me contó.
-
-> Karla me hizo recordar que muchos de los Wayuu tenemos dos nombres. Aunque nuestros mayores nos han dicho que no hay fronteras, que somos binacionales, la realidad es que los Estados no respetan estos derechos, por lo que existe una doble identidad expandida en el pueblo Wayuu. En nuestras comunidades viven personas que son profesionales en un país y sin formación educativa en el otro; con seguros médicos en uno y sin oportunidad de ingresar al sistema de salud en otro.
+“jemeisü taya Venezuela, tanülia chaya Karla Eugenia Farías Sierra, katsa ye’yaa tanülia joolu’u Karla Lucía Uriana González. Müima’a yaa anii waya sulu’u mmakat Aalaka eere kepiyain wei, washi namaa napushua wapüshi” müsü tamüin.
 
 *imagen*
 
-Así empezó el diálogo con Karla, que me llevó a pensar en mi propia historia, que al final es la historia de las más de 380.000 personas del pueblo Wayuu que hay en Colombia y las 415.000 que hay en Venezuela, según censos oficiales de 2018 y de 2011, respectivamente.
-
-## ¿Conoces la frontera?, le pregunté
-
-"La primera vez que conocí la frontera fue en la madrugada. Había paro, no teníamos pasajes y nos fuimos a pie mi mamá, mi hermano que estaba pequeño y yo (…). La frontera daba miedo, porque es peligrosa, hay guardias y gente mala".
+> sotusu taa’in sutuma Karla wainmain waya wayuukana sümaa  piamain wanülia. Mayaainje’e malüjülesat tü mmakat namüin na watuushinuukana, piamatua wommainpa’a, nnojotpeje’e kojuteematüin shia namüin shikiipu’shiikana tü Mmakalüirua, joutka anainjee piamain nanülia wayuu. Sulu’u woumain eeshi wayuu eekai ekettaajüin ekirajawaa sümaa alijuna sulu’u wanee shi’papa mmakat, sünain nnojoluin kasain ekirajaain anülia sulu’u waneeya’asa; kereje’riashii sulu’u wanee, mereje’ruutaasalii sulu’u tü wanee.
 
 *imagen*
 
-Karla narra que para esa época vivía con su familia en la ciudad de Maracaibo (Venezuela) y la nombra como su lugar de origen. Cuando la escuché, pensé en nuestros paisanos, porque, así como Karla, estamos los Wayuu a quienes nos tocó nacer y crecer en esa ciudad. Hoy muchos de nosotros la recordamos como nuestra tierra amada, la del sol, de gaitas, de ricos patacones y del gentilicio maracucho. Nuestros a’laülaayuu (abuelos) nos relatan que cuando jóvenes migraron a Venezuela desde La Guajira colombiana, en busca de oportunidades y nuevas posibilidades de seguir siendo indígenas en medio de grandes ciudades.
+Müsü suttia tü yootookoo sümaa Karla, jülüjataakaa atuma takua’ipa, mataaka saa’in nakuaipa na alatakana suulia 380.000 wayuu nou juyakai 2018 sulu’u Colombia, müsia 415.000 akotchitnakana anülia sümaa kepiyain Venezuela nou juyakai 2011.
 
-El tema de la frontera me recuerda las historias que me ha contado mi mamá sobre mi abuela Lucinda Henríquez, a quien nunca pude conocer. Ella fue la primera de nuestra familia en migrar al país vecino. En medio de la conversación, Karla me contó que tampoco pudo conocer a su abuela y me dijo: “Lucía se llama mi abuela que ya no está”. Comprendo lo inevitable que es extrañar esa ciudad, Maracaibo, a la cual no pertenecemos, pero es un lugar que en su momento nos brindó oportunidades de educación, economía y vivienda, esa “anaakua’ipaa” (vivir bien), esa calidad de vida tan anhelada. Lugar donde desarrollamos nuestras vidas tras los sueños y huellas de nuestros abuelos. Allí, los Wayuu que salieron del desierto del lado colombiano, trabajaron y le ayudaron a sus familiares que se habían quedado en La Guajira.
+## ¿Je’raajüin tü Sülüjüle mma münakat? Tasakirüin.
 
-*imagen*
-
-Mientras corría una brisa fresca en medio de los cují (árboles) y la vegetación diversa que crece con más facilidad en la baja Guajira donde la tierra es un poco más fértil, Karla nos sumergió en su mundo de niña Wayuu por medio de la cámara fotográfica que nos pidió prestada para retratar a su comunidad. Mientras obturaba, nos contó del uso de las plantas que encontrábamos a nuestro paso, como rülipi, aipia y jeechua, que según Karla son plantas medicinales de acuerdo con las enseñanzas de sus mayores. Luego, nos sentamos y empezamos a hablar del significado de territorio.
-
-*imagen*
-
-- "Desde que llegué aquí, mi abuelo es el que nos enseña las cosas de este territorio".
-
-- ¿Qué es territorio?
-
-- "Territorio es comunidad, lugar, hogar, ciudad, departamento, es permanecer en ese lugar."
-
-- ¿Cuál es tu territorio, Karla?
-
-- "Mi territorio es en Venezuela, allá era un buen lugar, cuando estaba el otro presidente que ya se murió, Chávez, estábamos bien, mi mamá trabajaba, nos daba de comer todos los días, pero ahora ni para comprar un cheetos hay, ni un caramelito. En Venezuela ahora es hambre lo que hay".
-
-La frontera es un lugar que los Wayuu no reconocemos. Desde niños sí sabemos de la raya, que es un punto de control migratorio que divide a Colombia y Venezuela que está ubicado en Paraguachón (Maicao, Colombia). Por allí pasan personas todo el tiempo. Los gobiernos de ambos países se han empeñado en imponer la frontera y enseñarnos, a través de ella, que pueden trazar barreras entre los seres humanos para hacernos creer que no todos somos iguales por ser de un lugar o de otro, por los colores de piel, los enfoques, el pensamiento, el vestuario, el estatus económico, la gastronomía. Todo es susceptible de convertirse en barrera y, una vez la aprendemos, muchas veces nosotros mismos nos encargamos de mantenerla levantada.
-
-La historia y la vida nos obligaron a crecer fuera y a extrañar nuestro ser. La comunicación que hemos tenido con nuestro territorio ancestral desde los lugares donde nos encontramos ha sido a través del lapü (el sueño), ese que espero nunca perdamos porque es la única forma de seguir conectados con nuestra cultura y creencias.
-
-Luego, nos detenemos cerca de un jagüei. Con la cámara, Karla enfoca el reservorio artesanal y nos explica que “allí se acumula el agua en tiempos de lluvia. Los Wayuu buscamos el agua que se utiliza en las casas, para bañarnos y donde los animales beben”.
-
-*doble imagen*
-
-Nos quedamos un buen rato en este lugar tomando fotos con ella. En un momento, se acercó otra niña que Karla llamó para que jugaran, pero solo se saludaron en Wayuunaiki, nuestra lengua, porque la niña andaba de prisa. Entonces, se fue, pero prometió volver. Seguimos caminando y escuchando las historias que ella nos contaba de este sitio y del por qué estaban ahora ahí.
-
-"Nosotros nos venimos para acá para estudiar, para sacar adelante a mi mamá, a mis padres, a mis hermanos", nos dijo y añadió que quisiera ser doctora "para salvar las vidas de mi familia, de personas que necesitan curar enfermedades, que no tienen para curar, quiero ayudar a las personas que son pobres como yo".
-
-Sin embargo, como contó Karla, "las personas son egoístas, no piensan en los demás solo en ellos mismos". Frase muy cierta en un entorno donde solo han mirado a La Guajira para saquearla, donde la humanidad se ha perdido para con el otro y su alrededor, pero aún así el Wayuu sigue siendo, sigue dando lo mejor de sí. Las niñas y niños Wayuu son la esperanza de un pueblo que ha existido milenariamente y que ha resistido a través de la historia.
+“Palajatkaa te’raajüin ou tü sülüjülekaa mmakat maaliajat. Süttüsü, masapiasalii waya, wounaka süka wawui, teikat, wanee tawala jo’uuchon müsüja’a tayakaa (…) keemoisü, waima tü mojulaasükalüirua, eeshi na wuchiikana müsia tü kaainjaratkalüirua”.
+ 
+Saashin Karla su’utpunaa ka’ikat ti’a chajatü kepiyain Marakaaya (Venezuela) suchuntaain müinka shiakai suumain. Sümaa taapüin sünuiki, jülüjataashi taa’in na wawalayuukana, sünainjee wanaawain wapushua na jemeishiikana cha’ya sulu’u mmakat ti’a. Waimashii waya sümaa sotuin shia waa’in maka tü mma waa’inmaajatükaa, nuumain ka’i, eere gaita, wemetsü püla’na ajuriichajuushi, müsia sukua’ipala wayuu marakaaje’walii. Na watuushinuukana naküjüuin wamüin nantüshiin paala wuinpejee Venezuelamüin, shi’ree anaakua’ipaa sümaa ayatüinjanain wayuu naya sulu’u mmakat.
+ 
+Sünainjee suchukua tü sülüjüle mmakat jülüjüsü taa’in süküjaala tü teikaa suchukua toushi Lucinda Henríquez, anaajaakaa süpülapünaa te’raajüin shia. Shia palajatükaa o’onooin na’akajee na wapüshikana, cha’ya Venezuelamüin. Sa’kapünaa süküjala Karla suchuntuin nnojoluin shi’raajüin tü soushikaa “Lucía sünülia tü toushi anaajaakaa”. Tayaawajaa o’ulu isain tachiki motuin taa’in Marakaaya, mayaainje’e nnojoluin cheje’ewalüin waya, shiapeje’e apüin wamüin ekirajawaa süchiirua karalouta, a’yatawaa müsia miichi, tü anaakua’ipaa “buen vivir”, tü sa’nasia akua’ipa ke’ireeka waa’in. Eejanale wakumajüin wakua’ipa suchiirua na’lapüin sümaa nawuliwou watuushinuu. Cha’ya na wayuu ajuitakana noumainpa’jee a’yataashi süpüla akaalijaa napüshi apütaakana noumainru’u.
+ 
+Wanaa sümaa suwawalüin joutaikat sa’kapünaa aipioliakaa, müsia wunu’liairua  waimakaa wopumüin otta uuchijeeru’u eere kekülein mmakat, Karla sümaashi waya sulu’upünaa tü mmakat sümüin süka so’u tepichi, suka tü ayujiakaa ayaakuaa. Wanee sa’napala woulia shi’ree shiyaakuajüin suumain. Yalain shiyaakuajüin sükujüin wamüin suchukua tü wunu’ulia eekat wanaain wamaa, rülipi, aipia müsia jeechua, epinaseekat saashin Karla natüjala soushimiuu, süchiki ti’a aikalaashi waya süküjaka jamalu’uluin tü oumainyee.
 
 *imagen*
 
-Los Wayuu soñamos con tener un futuro lleno de posibilidades. Esta vez hablo por Karla, una niña que, como tantas otras en nuestro pueblo, merece acceder a una educación de calidad para que pueda desarrollar ese potencial intelectual que sentí en medio de sus palabras. Los seres humanos con mejor educación tenemos otras oportunidades.
+-“Sünainjee tantüin yaamüin, nia chi tatuushikai aküjaka tamüin sukua’ipa tü mmakat ye’yaa.”
+-¿Kasa tü oumainyeekat?
+-“oumainyee shia tü wepiapalakaa, eere waya, ciudad, departamento, shia tü yalain waya weinshi sulu’u”.
+-¿Jetsü puumainka Karla?
+-“Toumain shia Venezuela, cha’ya anashaanasü paala, eeiwa’a chi müliashii alu’ataakai sou mma paala, Chávez, anashii waya, a’yataasü teikat, shikirüin waya weinshi, joolu’u nnojoluipa eeyain sülia wanee cheetos, kotpiitayakalüje’e. Venezuela eekane jamü joolu’u”.
 
 *imagen*
 
-Luego de compartir dos horas con Karla, llegó su madre a buscarla. María Eugenia Uriana agarraba de la mano a su hijo de ocho años. María nos contó que Karla es una niña con mucho potencial y que sentía un gran orgullo por ella. Luego, los vimos irse caminando por el sendero de tierra árida bordeado por plantas de un color verde brillante, vegetación característica de la comunidad de Alakat.
+Sülüjüle tü mmakat nnojotsü shiimüinjeein wamüin waya wayuukana. Sünainjee tepichin waya watijaa o’ulu tü attaayakaa, wanee asatia sutuma tü wuitasheinkalüirua, sükatalia Colombia suulia Venezuela, iraa Paaluachon (Maikou, Colombia). Na aluataashiikana sulu’u tü mmakat nalainrüin wanain shi’ree atüjaain sou, ja’a wamüin sümüin, nakataleein waya süpüla wayoujiraain sünainjee jalaje’walin waya, kasatalüin wata, wekiirujut, washein, wawashirüin, weküinpala. Kasa süpüshua kakatajiasü müika sütijaanüi ou, waya müshia mapa kajutka atumaa tia.
+
+*imagen*
+
+Tü katairieekaa süjütachikina waya sünain mülouwaa watta sümaa julujaa aa’in wakua’ipa. Tü yootirawaa eeyütka’ya wamana sümaa tü iikat sünaainjeejatü tü lapükat, cheijaashaanakat süpüla watijaain sou wakua’ipa sümaa woumain.
+
+Süchiki, ashawalaashi waya peje sünain wanee laa, sümaa ayaakuajiakaa, Karla sünaküin süshajülekat wuin, süküjüin achiki sukotchiraain tü wuinkat yala shi’tapa juyakat. Waya wayuukana wasaajüin tü wui cheijaakat miichipa’a, süpülasü wo’oojuin müsia nasüin mürülü”.
+
+*imagen*
+
+Yalashii paala waya kama’a sümaa sünain ayujaa ayaakua. Sheenajaaka sünain asheitajawaa Karla wanee jintut alatüsü pejepünaa, kanisa’a asakiraain ne’e sünain wayuunaiki, wanüiki, ashapajaasü tü jintutkoo. Su’naka, sümaa ale’jet taya sümüin. Yalaka’ya waya sünain aapajaa sükujala suchukua tü mmakat müsia jamakua’ipalin naya.
+ 
+“Antüshii waya sünain ekirajawaa, shi’ree anain wakua’ipa süpüleerua tei, tashi, namaa tawalayuu”. Müsü wamüin doctooreinshia “süpüla akaalijaa tapüshi, wayuu eekai choujaain amüin shipi ayuulee, nnojoluin nama’na, takaalijeein wayuu müliakana wanaa tamaa”.
+ 
+Eepeje’e wanee kasa sümüsü Karla, “na wayuukana nnojoliishi akaalijain, nnojoliishi jülüjüin naa’in na waneeinua”. Pütchi shiimüin sünainjee su’ulwaajünüin süwashirüin tü Wajiirakat, eere waneejiraain na wayuukana noulia kasa nanain, ayatayaaka’yane’e na wayuukana, ayatayünia kamaneein.
+ 
+Na tepichi wayuukana naya anainjaneekana atuma wanee akua’ipaa eetüjütkaya, aniiyüttaaja’a shia so’pünaa kasa supushua.
+
+Wayuukana wachuntaain anain wakua’ipa mapeena. Müinyaa yootusu taya sou Karla, wanee jintut, müsüka tü yalakalüirua wepiapa’pünaa, choujaakaana amüin ekirajawaa, süpüla anale’injatüin natijala sünainjee tütüin sünüiki. Wanee wayuu anai nikirajia atijüshia achajawaa nukua’ipa.
+
+Kama’pa waya sümaa Karla, antüsü shiikat süsaajaka shia. María Eugenia Uriana sümaashi süchon mekiisalüichi juya. María Eugenia süküjüin waya tütüshaanain Karla, talatataasü saa’in sümaa, süwaalasü. Ouna müshiija’a naya sulu’u wanee wopu wuitüshii müsia mmashii Aalakatje’walia.
+
+*imagen*
+

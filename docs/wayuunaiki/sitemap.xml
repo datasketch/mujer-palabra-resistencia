@@ -299,30 +299,6 @@
   </url>
   
   <url>
-    <loc>https://datasketch.github.io/mujeres-indigenas-en-frontera/wayuunaiki/pueblo-wayuu/historias/seguimos-conectados-a-nuestros-ancestros/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://datasketch.github.io/mujeres-indigenas-en-frontera/pueblo-wayuu/historias/seguimos-conectados-a-nuestros-ancestros/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tikuna"
-                href="https://datasketch.github.io/mujeres-indigenas-en-frontera/tikuna/pueblo-wayuu/historias/seguimos-conectados-a-nuestros-ancestros/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="dulegaya"
-                href="https://datasketch.github.io/mujeres-indigenas-en-frontera/dulegaya/pueblo-wayuu/historias/seguimos-conectados-a-nuestros-ancestros/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="wayuunaiki"
-                href="https://datasketch.github.io/mujeres-indigenas-en-frontera/wayuunaiki/pueblo-wayuu/historias/seguimos-conectados-a-nuestros-ancestros/"
-                />
-  </url>
-  
-  <url>
     <loc>https://datasketch.github.io/mujeres-indigenas-en-frontera/wayuunaiki/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -439,6 +415,30 @@
                 rel="alternate"
                 hreflang="wayuunaiki"
                 href="https://datasketch.github.io/mujeres-indigenas-en-frontera/wayuunaiki/conoce-los-datos/wayuu-tikuna-gunadule/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://datasketch.github.io/mujeres-indigenas-en-frontera/wayuunaiki/pueblo-wayuu/historias/seguimos-conectados-a-nuestros-ancestros/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://datasketch.github.io/mujeres-indigenas-en-frontera/pueblo-wayuu/historias/seguimos-conectados-a-nuestros-ancestros/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tikuna"
+                href="https://datasketch.github.io/mujeres-indigenas-en-frontera/tikuna/pueblo-wayuu/historias/seguimos-conectados-a-nuestros-ancestros/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="dulegaya"
+                href="https://datasketch.github.io/mujeres-indigenas-en-frontera/dulegaya/pueblo-wayuu/historias/seguimos-conectados-a-nuestros-ancestros/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="wayuunaiki"
+                href="https://datasketch.github.io/mujeres-indigenas-en-frontera/wayuunaiki/pueblo-wayuu/historias/seguimos-conectados-a-nuestros-ancestros/"
                 />
   </url>
   
