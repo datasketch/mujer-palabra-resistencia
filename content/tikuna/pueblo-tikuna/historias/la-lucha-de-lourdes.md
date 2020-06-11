@@ -6,7 +6,7 @@ mapa: "tikuna"
 type: "historias"
 weight: 2
 images:
-  - "images/historias/la-lucha-de-lourdes.webp"
+  - "images/historias/la-lucha-de-lourdes.jpeg"
 ---
 
 Con sus suaves manos, Lourdes masajea el vientre de su nuera. Se percata de que el bebé, de siete meses de gestación, esté bien acomodado en el útero. Usa aceites naturales de plantas de la selva amazónica para frotar el abdomen de la madre y así armonizarla y tranquilizarla a ella y a su criatura. Ambas están en la habitación de la vivienda de Lourdes, que se ilumina con una cálida luz que llega de la ventana. Lourdes le dice a la madre que todo va bien, la aconseja y la va preparando para el nacimiento de su hijo.

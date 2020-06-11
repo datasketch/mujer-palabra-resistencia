@@ -6,30 +6,38 @@ mapa: "tikuna"
 type: "historias"
 weight: 1
 images:
-  - "images/historias/cindy-flotando.jpg"
+  - "images/historias/mujer-maguta.png"
 ---
 
 ## Chorü choküma | Su origen
 
 "Los pueblos indígenas lo que hacemos es proteger, porque si protegemos a la madreselva, protegemos a nuestra familia, nos protegemos a nosotros mismos; porque es donde vivimos, resistimos y donde realmente está nuestra vida cotidiana", dice Ünãgükü Taüchina (su identidad en castellano es Cindy Amalec Laulate Castillo), mientras con su mano izquierda sujeta un pequeño espejo redondo que refleja su rostro y, en la otra mano, sostiene una delgada astilla con huito (pintura natural) con la que dibuja sobre su mentón una garza (kowa), clan al que pertenece.
 
-*imágenes*
+{{< tripleimage first="images/historias/tikuna/mujer-maguta-2.jpeg" second="images/historias/tikuna/mujer-maguta-3.jpeg" last="images/historias/tikuna/mujer-maguta-1.jpeg" first_title="Mano derecha de Ünãgükü Taüchina recogiendo los huitillos" second_title="Huitillos, frutos silvestres" last_title="Ünãgükü Taüchina pintándose el rostro con huitillo" reverse="true" >}}
+Arriba) Ünãgükü Taüchina pintándose el rostro con huitillo, fruto silvestre que se usa como pintura natural en el rostro o en yanchamas (corteza natural empleada como vestimenta tradicional). (Izquierda) Mano derecha de Ünãgükü Taüchina recogiendo los huitillos en la selva amazónica. (Derecha) Huitillos, frutos silvestres que usan las Tikunas para pintar la yanchama y artesanías. Fotos: Pablo Albarenga.
+{{< /tripleimage >}}
 
 A sus 23 años, Ünãgükü Taüchina es una joven líder del pueblo Magüta o Tikuna, como se le conoce a este pueblo originario. Vive en la comunidad de San Francisco de Loretoyaco, ubicada en el trapecio amazónico colombiano, muy cerca del municipio de Puerto Nariño, en la frontera con Perú. Allí habitan 714 personas de los pueblos Cocamas, Yaguas, Tikunas y algunos Boras y Murui. Desde su territorio y con sus conocimientos propios, la joven indígena busca fortalecer la cultura Magüta y proteger el cuerpo y el ser de las Ngeugu Magütagüka (mujeres Tikunas).
 
-*imagen*
+{{< fullimage src="images/historias/tikuna/mujer-maguta-4.jpeg" title="Cancha de la comunidad indígena de Loretoyaco" >}}
+Cancha de la comunidad indígena de Loretoyaco, donde los habitantes se reúnen en las tardes para escuchar música,hacer deporte y recibir información sobre las actividades y reuniones futuras de la comunidad. Foto: Pablo Albarenga.
+{{< /fullimage >}}
 
 En lengua Magüta o Tikuna, su nombre Ünãgükü Taüchina "significa la garza voladora o la garza que vuela en bandada, que cuando llega a una meta quiere más, quiere seguir volando", explica. Este nombre le fue otorgado al nacer por su padre, Ismael Laulate Curico, el médico tradicional de la comunidad, y por la partera. Su identidad en castellano la considera como prestada, por ello prefiere que se le conozca por su nombre nativo.
 
 Para los Tikunas, los nombres originarios se asignan de acuerdo al clan al que pertenecen y las características y valores con los que nace el niño o la niña. Por ejemplo, Ünãgükü Taüchina es para aquellas personas que son fuertes y curiosas, que nacen para el liderazgo, comenta su madre Ernestina Castillo.
 
-*imagen*
+{{< image src="images/historias/tikuna/mujer-maguta-5.jpeg" title="Retrato de Ünãgükü Taüchina." >}}
+Retrato de Ünãgükü Taüchina. Sobre su rostro ha dibujado figuras que representan los clanes a los que pertenece: Garza y Cascabel. Foto: Pablo Albarenga.
+{{< /image >}}
 
 Ünãgükü Taüchina es alegre y serena. Transmite tranquilidad al hablar, se expresa siempre de manera positiva ante lo que sucede a su alrededor y, sobre todo, se considera una mujer de espíritu fuerte. Cuida de la naturaleza, por eso tiene cinco amigos de cuatro patas: cuatro perros y un gato. Ellos le ayudan a su familia a velar la casa y la acompañan a la chagra, a cazar y a pescar. Uno de ellos es su consentido, Yakuruna, un perro French Poodle blanco que cuida con mucho amor y al que considera como su propio hijo.
 
 Mientras recorre las pequeñas calles de cemento agrietadas de su comunidad, comenta que desde niña siempre tuvo interés por la cultura y la tradición. Al igual que su padre y sus abuelos, quiere aprender de la medicina propia, por eso ocasionalmente junto a él comparten el tabaco. Para su madre es un poco extraño y no está acostumbrada a verla fumar. Le pregunta: "¿Por qué fumas?", y ella con serenidad responde: "Yo no fumo (el tabaco) por fumar, es una conexión que tengo con mi padre, con mis abuelos y con mis ancestros".
 
-*imagen*
+{{< image src="images/historias/tikuna/mujer-maguta-6.jpeg" title="Casa Cultural Metare" >}}
+Casa Cultural Metare que en la cosmovisión tikuna es un sabio o conocedor sobre las plantas medicinales que se convierte en tortuga y ave. Metare fue quien les enseñó la primera pelazón, ritual que hasta el día de hoy practican en la comunidad. Esta casa cultural es un espacio donde los jóvenes se reúnen para leer, tomar talleres y aprender sobre la cosmovisión del pueblo Magüta. Foto: Pablo Albarenga.
+{{< /image >}}
 
 Aunque por tradición hay prácticas que solo pueden realizar los hombres dentro de la cultura Tikuna, Ünãgükü Taüchina considera que las mujeres también tienen la capacidad de asimilar ciertos roles como la medicina ancestral. "Esta vez dije voy a romper eso, voy a romper ese espacio y que también sea para las mujeres, porque las mujeres como fuente de vida, aportan mucho más que los hombres".
 
@@ -41,29 +49,39 @@ Sin embargo, ella lamenta que hoy, en San Francisco de Loretoyaco, solo vivan ci
 
 Fue gracias a ese compartir con sus mayores y autoridades tradicionales que Ünãgükü Taüchina empezó a participar en reuniones organizadas por sus líderes y diferentes instituciones que llegan a su territorio. Y fue justamente en uno de esos espacios en donde escuchó sobre la trata y abuso sexual de personas menores de edad. Debido al incremento de las visitas de turistas, esta es cada vez más una problemática preocupante en la triple frontera.
 
-*imagen*
+{{< image src="images/historias/tikuna/mujer-maguta-9.jpeg" title="Ünãgükü Taüchina y Lourdes Firmino" >}}
+Ünãgükü Taüchina y Lourdes Firmino Araujo compartiendo el conocimiento de la partera tradicional del pueblo Tikuna, en la comunidad indígena de Umariacu II, en Tabatinga, Brasil. Foto: Pablo Albarenga.
+{{< /image >}}
 
 ## Ngêma a goegü | Su vuelo
 
 Para el año 2018, una vez terminado su estudio técnico en Recreación en el Servicio Nacional de Aprendizaje (SENA), Ünãgükü Taüchina tomó la decisión de decirle a su madre que era tiempo de soltar el cordón que las une y que al igual que las garzas grises y de alas grandes (que representan a su clan), ella necesitaba volar para fortalecer lo que lleva por dentro, eso tan innato como el liderazgo y el ser de sus ancestros.
 
-*imagen*
+{{< image src="images/historias/tikuna/mujer-maguta-10.jpeg" title="Unión de ríos Loretoyaco y Amazonas" >}}
+Unión del río Loretoyaco (derecha) con el río Amazonas (izquierda) en Puerto Nariño, Colombia, frontera con Perú. Foto: Pablo Albarenga.
+{{< /image >}}
 
 Este vuelo la llevó a trabajar con la Red Defensores de Vida, organización que ayuda a la prevención de la trata y el abuso sexual de personas menores de edad en el municipio de Puerto Nariño. Luego, acompañó uno de los procesos de prevención de trata de personas liderado por la Fundación Renacer, en donde aprendió sobre explotación sexual comercial de niños y niñas y adolescentes (sus siglas, Escnna), y tuvo la oportunidad de visitar comunidades de los pueblos Tikuna, Cocama y Yagua que se encuentran a lo largo del río Amazonas, en Brasil, Colombia y Perú.
 
 En estas instituciones Ünãgükü Taüchina decidió combinar sus conocimientos profesionales y tradicionales para ayudar a niños, niñas, adolescentes y padres de familia de las comunidades. A través de charlas en lengua Magüta, juegos tradicionales e historias de la cosmovisión Magüta llevó mensajes de protección del cuerpo y del territorio y contribuyó a la prevención de la trata de personas.
 
-*imagen*
+{{< fullimage src="images/historias/tikuna/mujer-maguta-11.jpeg" title="Niños indígenas Tikunas recibiendo almuerzo" >}}
+Niños indígenas Tikunas recibiendo el almuerzo en la institución educativa José Antonio Galán de la comunidad de San Francisco de Loretoyaco. Foto: Pablo Albarenga.
+{{< /fullimage >}}
 
 Hoy, esta joven líder del pueblo Magüta hace parte de la Red de Enfrentamiento contra la Trata de Personas (RETP), que opera en la triple frontera. Esta iniciativa nació de misioneros católicos y está abierta a la participación de diferentes instituciones, organizaciones religiosas, entidades gubernamentales y personas indígenas del territorio. La Red se apoya en personas nativas del territorio para que ayuden a sus comunidades a identificar las distintas caras que tiene la trata de personas, además de lograr una cercanía con quienes han sido víctimas para que puedan contar sus historias y ser escuchadas.
 
-*imagen*
+{{< fullimage src="images/historias/tikuna/mujer-maguta-12.jpeg" title="camiseta de “Rede Um Grito Pela Vida: Não Ao Tráfico de Pessoas”" >}}
+Ünãgükü Taüchina usando la camiseta de “Rede Um Grito Pela Vida: Não Ao Tráfico de Pessoas” una iniciativa brasileña de enfrentamiento contra la trata de personas en la triple frontera. Foto: Pablo Albarenga.
+{{< /fullimage >}}
 
 En estos dos últimos años, la Red amplió su trabajo en la prevención del abuso sexual contra niños, niñas y adolescentes. "Es un tema que ha sido muy difícil de identificar", dice Verónica Rubí, misionera marista y coordinadora de la Red que acompaña los procesos desde Tabatinga, Brasil. Rubí explica que personas ajenas a las comunidades indígenas aprovechan la cotidianidad de los niños y las niñas en su entorno, viendo una oportunidad de explotación y de trata. "Uno está en la aldea y ve a los chiquitos desnudos, jugando y entrando en el río (…) puede ser una exposición para otras situaciones", agrega.
 
 Las autoridades han identificado casos de tráfico de niñas y adolescentes de Perú, Brasil y Colombia. Uno de los casos más visibles se reportó en febrero de 2019, cuando en Puerto Nariño fueron capturados dos hombres y una mujer. Según reportes de prensa, las investigaciones mostraron que los implicados se "ganaban la confianza de las niñas y las enviaban desde Puerto Nariño hasta ciudades como Iquitos y Pucallpa en Perú, en donde les facilitaban documentos falsos para su ingreso al país". Este hecho se suma a muchos más que se mantienen en silencio. "No podemos hablar de un número, es complejo, no lo sabemos", advierte Rubí y agrega que "lo que llega a nosotros como Red, puede ser el ocho por ciento de la totalidad de los casos reales".
 
-*imagen*
+{{< image src="images/historias/tikuna/mujer-maguta-13.jpeg" title="Puerto Nariño" >}}
+Municipio de Puerto Nariño, Amazonas, Colombia. Frontera con Perú. Foto: Pablo Albarenga.
+{{< /image >}}
 
 ## Ngema kurü Naane | Su territorio
 
@@ -73,7 +91,9 @@ En Perú, los Tikunas se encuentran ubicados sobre los ríos Mayoruna, Yaguas y 
 
 Uno de los municipios del Trapecio del lado colombiano más visitado por los turistas es Puerto Nariño. Allí, tanto visitantes como residentes aprecian atardeceres que pintan el cielo de tonalidades rojizas; la unión de los ríos Amazonas y Loretoyaco; la danza de delfines grises y rosados en medio de las aguas, y la naturalidad de los pescadores que salen en sus botes y canoas a buscar su sustento. En los alrededores de Puerto Nariño están el Parque Amacayacu y el Lago Tarapoto, espacios naturales que son protegidos y cuidados por los indígenas. Esa belleza exuberante hace que el territorio sea más visitado y, a la vez, más vulnerable. Por ello, la labor de Ünãgükü Taüchina tiene más importancia.
 
-*imagen*
+{{< image src="images/historias/tikuna/mujer-maguta-14.jpeg" title="Lancha sobre río" >}}
+Medio de transporte público fluvial del municipio de Puerto Nariño, navegando sobre el río Loretoyaco. Foto: Pablo Albarenga.
+{{< /image >}}
 
 Con el turismo llega otra clase de "civilización" a las comunidades indígenas. Ünãgükü Taüchina explica que con las visitas de turistas se hace más frecuente el uso de celulares, tabletas y televisores, así como el acceso a internet, lo que en particular atrae a la población más joven de esta zona de frontera: "Todo llega a acá. A veces no lo sabemos utilizar muy bien, para nosotros es un aparato muy novedoso, que al final se ha vuelto en una necesidad también". Lo que preocupa de esta situación es que muchas veces los jóvenes no tienen los recursos económicos, ni trabajos dignos y bien remunerados para suplir sus necesidades básicas, ni mucho menos para comprar estos equipos electrónicos, por lo que son susceptibles a caer en redes de trata que les ofrecen dinero.
 
@@ -85,7 +105,9 @@ En este contexto, los pueblos indígenas de estas comunidades de frontera son co
 
 Aunque el turismo se ha convertido en una opción de trabajo en el territorio, para la población joven indígena no es suficiente, ya que aún carece de acceso a la educación superior y a empleos que mejoren sus condiciones de vida y las de sus familias. Los jóvenes habitantes de los territorios migran a las ciudades y a otros lugares en busca de esas oportunidades que no encuentran en su región. Cuando estas necesidades básicas quedan insatisfechas, esta población se ve expuesta a diferentes formas de trata que existen en la zona. Otras redes criminales que pueden captar a jóvenes de esta frontera son las del micro-tráfico y la siembra y cosecha de cultivos ilícitos al interior de la selva. "Esas son formas de trabajo que se pueden encontrar por estos lugares, nos sirven para mantener la familia y mantener el estudio como tal", dijo una madre indígena quien por seguridad prefirió omitir su nombre.
 
-*imagen*
+{{< image src="images/historias/tikuna/mujer-maguta-15.jpeg" title="Hombre en balsa" >}}
+Habitante de la comunidad indígena de San Francisco saliendo a pescar sobre el río Loretoyaco. Foto: Pablo Albarenga.
+{{< /image >}}
 
 Con la bonanza del turismo en el trapecio amazónico, no solo se ven afectados sus habitantes con la presencia de redes de trata. El territorio también se ha visto amenazado por los traficantes de maderas, de animales silvestres, la presencia de la minería ilegal y los cultivos ilícitos. Son actos externos del mundo no indígena que destruyen y saquean la madre selva. Muchos mayores indígenas de estas comunidades comparan estos daños a la madre tierra con aquellos atropellos que vivieron sus antepasados con las bonanzas de la cauchería, que esclavizaron y despojaron a los indígenas de su territorio.
 
@@ -95,5 +117,7 @@ Para Ünãgükü Taüchina, la solución a la problemática de la trata de perso
 
 "La mujer indígena Tikuna o Magüta resiste de muchas formas en el territorio. Resiste cada vez que está hablando con una abuela, porque ahí está tejiendo su canasto de conocimiento. Cuando nuestras abuelas tejen trenzas en nuestras cabezas, se transmite ese pensamiento de generación en generación, para que no se desate y siga creciendo al igual que nuestros cabellos (…). Son los valores principales que debes tener como mujer indígena y líder", dice Ünãgükü Taüchina, una joven Magüta que lucha en la frontera, defendiendo el cuerpo y el territorio.
 
-*imagen*
+{{< image src="images/historias/tikuna/mujer-maguta-16.jpeg" title="Ünãgükü Taüchina frente a un árbol de Ceiba" >}}
+Ünãgükü Taüchina frente a un árbol de Ceiba, que representa el origen del río Amazonas y el descubrimiento del universo. Foto: Pablo Albarenga.
+{{< /image >}}
 

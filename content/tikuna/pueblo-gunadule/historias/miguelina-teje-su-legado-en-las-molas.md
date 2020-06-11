@@ -6,7 +6,7 @@ mapa: "gunadule"
 type: "historias"
 weight: 1
 images:
-  - "images/historias/miguelina.webp"
+  - "images/historias/teje-la-mola.jpeg"
 ---
 
 *imagen*

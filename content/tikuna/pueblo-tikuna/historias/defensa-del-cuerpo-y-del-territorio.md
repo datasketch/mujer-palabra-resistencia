@@ -6,7 +6,7 @@ mapa: "tikuna"
 type: "historias"
 weight: 1
 images:
-  - "images/historias/cindy-flotando.jpg"
+  - "images/historias/mujer-maguta.png"
 ---
 
 ## Chorü choküma | Su origen

@@ -3,7 +3,6 @@
     left: 50%;
     margin-left: -50vw;
     margin-right: -50vw;
-    position: relative;
     right: 50%;
     width: 100vw;
   }
@@ -12,9 +11,9 @@
   }
 </style>
 
-<figure class="full-width">
-  <div class="figure-media w-full">
-    <img class="absolute inset-0 w-full object-cover object-center" src='{{ .Get "src" | absURL }}' alt='{{ .Get "title" }}'>
+<figure class="full-width relative">
+  <div class="figure-media w-full relative">
+    <img class="absolute h-full w-full object-cover object-center" src='{{ .Get "src" | absURL }}' alt='{{ .Get "title" }}'>
   </div>
   <div class="markup-container mt-2">
     <p class="text-center text-base text-gray-800">{{ .Inner }}</p>
