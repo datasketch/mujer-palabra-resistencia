@@ -12,7 +12,7 @@
     <title>{{ .Site.Title }}</title>
   {{ end }}
 </head>
-<body class="font-georgia pre">
+<body class="font-georgia pre overflow-x-hidden">
   {{ partial "navbar.html" . }}
   <main>
     {{ block "main" . }}{{ end }}

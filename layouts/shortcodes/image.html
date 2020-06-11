@@ -1,0 +1,8 @@
+<figure>
+  <img src='{{ .Get "src" | absURL }}' alt='{{ .Get "title" }}'>
+  <div class="markup-container mt-2">
+    <p class="text-center text-base text-gray-800">
+      {{ .Inner }}
+    </p>
+  </div>
+</figure>

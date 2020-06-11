@@ -1,0 +1,22 @@
+<style>
+  .full-width {
+    left: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
+    position: relative;
+    right: 50%;
+    width: 100vw;
+  }
+  .figure-media {
+    padding-bottom: 66.66667%;
+  }
+</style>
+
+<figure class="full-width">
+  <div class="figure-media w-full">
+    <img class="absolute inset-0 w-full object-cover object-center" src='{{ .Get "src" | absURL }}' alt='{{ .Get "title" }}'>
+  </div>
+  <div class="markup-container mt-2">
+    <p class="text-center text-base text-gray-800">{{ .Inner }}</p>
+  </div>
+</figure>
