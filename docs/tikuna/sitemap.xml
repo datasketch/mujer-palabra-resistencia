@@ -3,30 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://datasketch.github.io/mujer-palabra-resistencia/tikuna/pueblo-tikuna/historias/defensa-del-cuerpo-y-del-territorio/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://datasketch.github.io/mujer-palabra-resistencia/pueblo-tikuna/historias/defensa-del-cuerpo-y-del-territorio/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="wayuunaiki"
-                href="https://datasketch.github.io/mujer-palabra-resistencia/wayuunaiki/pueblo-tikuna/historias/defensa-del-cuerpo-y-del-territorio/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="dulegaya"
-                href="https://datasketch.github.io/mujer-palabra-resistencia/dulegaya/pueblo-tikuna/historias/defensa-del-cuerpo-y-del-territorio/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tikuna"
-                href="https://datasketch.github.io/mujer-palabra-resistencia/tikuna/pueblo-tikuna/historias/defensa-del-cuerpo-y-del-territorio/"
-                />
-  </url>
-  
-  <url>
     <loc>https://datasketch.github.io/mujer-palabra-resistencia/tikuna/pueblo-gunadule/historias/miguelina-teje-su-legado-en-las-molas/</loc>
     <xhtml:link
                 rel="alternate"
@@ -71,6 +47,30 @@
                 rel="alternate"
                 hreflang="tikuna"
                 href="https://datasketch.github.io/mujer-palabra-resistencia/tikuna/pueblo-gunadule/historias/selva-y-mar-una-conexion-de-las-dule-omegan/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://datasketch.github.io/mujer-palabra-resistencia/tikuna/pueblo-tikuna/historias/defensa-del-cuerpo-y-del-territorio/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://datasketch.github.io/mujer-palabra-resistencia/pueblo-tikuna/historias/defensa-del-cuerpo-y-del-territorio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="wayuunaiki"
+                href="https://datasketch.github.io/mujer-palabra-resistencia/wayuunaiki/pueblo-tikuna/historias/defensa-del-cuerpo-y-del-territorio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="dulegaya"
+                href="https://datasketch.github.io/mujer-palabra-resistencia/dulegaya/pueblo-tikuna/historias/defensa-del-cuerpo-y-del-territorio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tikuna"
+                href="https://datasketch.github.io/mujer-palabra-resistencia/tikuna/pueblo-tikuna/historias/defensa-del-cuerpo-y-del-territorio/"
                 />
   </url>
   
@@ -367,54 +367,6 @@
                 rel="alternate"
                 hreflang="tikuna"
                 href="https://datasketch.github.io/mujer-palabra-resistencia/tikuna/conoce-los-datos/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://datasketch.github.io/mujer-palabra-resistencia/tikuna/historias/defendiendo-el-cuerpo-y-el-territorio/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://datasketch.github.io/mujer-palabra-resistencia/historias/defendiendo-el-cuerpo-y-el-territorio/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="wayuunaiki"
-                href="https://datasketch.github.io/mujer-palabra-resistencia/wayuunaiki/historias/defendiendo-el-cuerpo-y-el-territorio/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="dulegaya"
-                href="https://datasketch.github.io/mujer-palabra-resistencia/dulegaya/historias/defendiendo-el-cuerpo-y-el-territorio/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tikuna"
-                href="https://datasketch.github.io/mujer-palabra-resistencia/tikuna/historias/defendiendo-el-cuerpo-y-el-territorio/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://datasketch.github.io/mujer-palabra-resistencia/tikuna/historias/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://datasketch.github.io/mujer-palabra-resistencia/historias/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="wayuunaiki"
-                href="https://datasketch.github.io/mujer-palabra-resistencia/wayuunaiki/historias/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="dulegaya"
-                href="https://datasketch.github.io/mujer-palabra-resistencia/dulegaya/historias/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tikuna"
-                href="https://datasketch.github.io/mujer-palabra-resistencia/tikuna/historias/"
                 />
   </url>
   

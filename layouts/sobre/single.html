@@ -1,9 +1,11 @@
 {{ define "main" }}
+<input type="hidden" id="base" name="base" value="{{ .Site.BaseURL }}">
+{{ partial "modal.html" . }}
 <div class="px-4 py-2 shadow-md bg-white flex items-center sticky top-0 space-x-12 text-lg overflow-x-auto sm:justify-center lg:text-xl">
   <a class="flex-shrink-0" href="#presentacion">Presentación del proyecto</a>
-  <a class="flex-shrink-0" href="#creditos">Créditos</a>
+  <a class="flex-shrink-0" href="#creditos">Colectivo periodístico intercultural</a>
   <a class="flex-shrink-0" href="#agradecimientos">Agradecimientos</a>
-  <a class="flex-shrink-0" href="#medios-aliados">Organizaciones y medios aliados</a>
+  <a class="flex-shrink-0" href="#medios-aliados">Aliados</a>
 </div>
 <div class="px-4 mt-24 pb-24 bg-titan-white">
   <div class="mx-auto w-full md:w-4/5">
@@ -15,48 +17,51 @@
     <img class="mx-auto py-16" src='{{ "images/separador.svg" | absURL }}' alt="">
     <div class="rendered-markup-about" id="creditos">
       <p>
-        <em>Cŕeditos</em>
+        <em>Colectivo periodístico intercultural</em>
       </p>
       <h2>Nuestro equipo</h2>
     </div>
     <div class="mt-12 gap-8 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
-      {{ range .Params.creditos }}
-        <div class="flex flex-col items-center">
-          <img class="object-cover object-center w-24 h-24 rounded-full" src='{{ .avatar | absURL }}' alt="">
-          <div class="mt-2 font-playfair-display text-center text-xl leading-tight flex-grow">
-            <p class="font-bold">{{ .nombre }}</p>
-            <p class="italic text-lg">{{ .cargo }}</p>
-          </div>
-          {{ if .externo }}
-            <a href="{{ .externo }}" target="_blank" rel="noopener noreferrer" class="inline-block border-eerie-black border-2 px-2 py-1 mt-4 text-xl hover:bg-eerie-black hover:text-white">Conocer más</a>
-          {{ end }}
-        </div>
+      {{ range .Site.Data.creditos }}
+        {{ partial "profile.html" . }}
       {{ end }}
     </div>
     <img class="mx-auto py-16" src='{{ "images/separador.svg" | absURL }}' alt="">
-    <div class="rendered-markup-about" id="agradecimientos">
-      <p>
-        <em>Agradecimientos</em>
-      </p>
-      <h2>Territorio Wayuu</h2>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima voluptatibus laborum veritatis reprehenderit vitae porro quae numquam alias assumenda similique impedit, excepturi laudantium quo, consequatur expedita eum aliquam cumque sunt, nesciunt quod! Error, itaque minima quis quos ratione, modi, mollitia neque officiis sequi labore odit eveniet minus numquam doloremque impedit?</p>
-      <hr>
-      <h2>Territorio Tikuna</h2>
-      <p>A todos los pueblos originarios de la Amazonia Colombiana, a las mujeres líderes del movimiento indígena, a las sabedoras, parteras y médicas tradicionales que luchan por mantener y transmitir las culturas indígenas. A los hermanos Tikunas, Cocamas, Yaguas, a la Asociación ATICOYA por recibirnos en su territorio y poder construir parte de esta historia. A la familia Laulate Castillo por abrirnos las puertas de su casa. En especial a todos los pueblos indígenas del trapecio Amazónico que hoy sufren la presencia del virus Covid-19. “Por último, quiero terminar agradeciendo a mi familia y a mi hija por ausentarme un tiempo en la construcción de este proyecto. Fuerza y resistencia siempre”, Vannessa Teteye.</p>
-      <hr>
-      <h2>Territorio Gunadule</h2>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima voluptatibus laborum veritatis reprehenderit vitae porro quae numquam alias assumenda similique impedit, excepturi laudantium quo, consequatur expedita eum aliquam cumque sunt, nesciunt quod! Error, itaque minima quis quos ratione, modi, mollitia neque officiis sequi labore odit eveniet minus numquam doloremque impedit?</p>
+    <div class="w-full md:w-2/3">
+      <div class="rendered-markup-about" id="agradecimientos">
+        <p>
+          <em>Agradecimientos</em>
+        </p>
+        <h2>Pueblo Wayuu</h2>
+        <p>A woumainkat (nuestro territorio), a mma (madre tierra), a juya (la lluvia) y a todos los seres que guiaron nuestros pasos para plasmar desde la palabra, la resistencia y el ser de cada una de las mujeres que hacen parte de las historias de este especial. A la Red de Comunicaciones del Pueblo Wayuu Pütchimajaana, por ser una pieza esencial en este recorrido y brindarnos la oportunidad de avanzar en el marco de la Muestra de Cine y Video Wayuu de 2020. A las comunidades de Alakat, Majali y Perrámana por permitirnos ser parte de ustedes, acompañándonos desde las sonrisas y las caminatas bajo el inclemente sol de La Guajira. A la familia Uriana González, a la autoridad tradicional Margarita Epieyu, a Ángel González y a todas las mujeres Wayuu que desde su ser femenino siguen enseñándonos que las fronteras no existen para los pueblos indígenas porque somos hijos e hijas de la madre y merecemos seguir siendo Wayuu en cualquier parte del mundo sin barreras. “Agradezco particularmente a Karla Uriana González, una niña Wayuu que hoy desde la ausencia de su abuelo me sigue enseñando desde su ser la importancia del ser Wayuu en donde quiera que estemos”, Luzbeidy Monterrosa Atencio.</p>
+        <hr>
+        <h2>Pueblo Tikuna</h2>
+        <p>A todos los pueblos originarios de la Amazonía Colombiana, a las mujeres líderes del movimiento indígena, a las sabedoras, parteras y médicas tradicionales que luchan por mantener y transmitir las culturas indígenas. A los hermanos Tikunas, Cocamas y Yaguas y a su Asociación Aticoya por recibirnos en su territorio y poder construir parte de esta historia. A la familia Laulate Castillo por abrirnos las puertas de su casa. En especial a todos los pueblos indígenas del trapecio Amazónico (Colombia-Brasil-Perú) que hoy sufren la presencia del virus Covid-19. “Por último, quiero terminar agradeciendo a mi familia y a mi hija por ausentarme un tiempo en la construcción de este proyecto. Fuerza y resistencia siempre”, Vannessa Teteye.</p>
+        <hr>
+        <h2>Territorio Gunadule</h2>
+        <p>A la fuerza femenina del pueblo Gunadule, a las Dule omegan, incluyendo a las de Panamá, las del Chocó, las de Antioquia, por llevar el legado de nuestra escritura que es la mola y que gracias a la mola los Gunadules siguen perviviendo y son visibilizados en el mundo. A los saglas (caciques) de la comunidad Ibgigundiwala por permitirnos llegar hasta allá y hacer este trabajo. A la familia Santacruz Álvarez Lemus (Miguelina Álvarez, Nan dummad; Manuel Santacruz Lemus, Babbibo; Abadio Green Stocel, An Baaba; Amelicia Santacruz Álvarez, An Nana; Teodonilda Santacruz Álvarez y Olmilda Santacruz Álvarez, ammol; Rosiris Uribe Jaramillo, Mónica Andrea Martínez Uribe y Crimilda González Bolívar), por recibirnos en sus casas y compartir sus historias. “Quiero agradecerle a mi madre y a mi padre por darme esa fuerza que tienen los dos a nivel social y político. Si no fuera por ellos, yo tampoco sería la mujer que soy ahora. También darle las gracias a Nabguana (la Madre Tierra) por dejarme vivir y recorrer mis territorios y los de otros pueblos para seguir contando nuestras historias, y enaltecer y dignificar nuestras culturas”, Olowaili Green Santacruz.</p>
+      </div>
     </div>
     <img class="mx-auto py-16" src='{{ "images/separador.svg" | absURL }}' alt="">
     <div class="rendered-markup-about" id="medios-aliados">
       <p>
-        <em>Organizaciones y medios aliados</em>
+        <em>Aliados</em>
       </p>
       <h2>Quiénes nos apoyan</h2>
+    </div>
+    <img class="mx-auto py-16" src='{{ "images/separador.svg" | absURL }}' alt="">
+    <div class="rendered-markup-about">
+      <h2>Publicación</h2>
+      <p>Junio, 2020</p>
     </div>
     <div class="text-center">
       <a href="{{ .Site.BaseURL }}" target="_blank" rel="noopener noreferrer" class="inline-block border-eerie-black border-2 px-2 py-1 mt-4 text-xl font-bold">Volver al inicio</a>
     </div>
   </div>
 </div>
+{{ end }}
+
+{{ define "scripts" }}
+{{ $sobre_js := resources.Get "js/sobre.js" | minify }}
+<script src="{{ $sobre_js.Permalink }}"></script>
 {{ end }}

@@ -1,0 +1,34 @@
+<div id="modal" class="fixed top-0 left-0 z-20 w-full h-full bg-black bg-opacity-85 hidden px-4">
+  <div class="m-auto bg-white w-full p-6 md:w-2/3">
+    <button class="modal-close flex ml-auto focus:outline-none">
+      <img src='{{ "images/close.svg" | absURL }}' alt="Cerrar">
+    </button>
+    <div class="w-full mx-auto text-eerie-black md:w-11/12">
+      <div class="flex flex-col space-y-4 items-center md:flex-row md:space-y-0 md:space-x-8">
+        <img id="profile-avatar" class="object-cover object-top w-24 h-24 rounded-full md:w-32 md:h-32" src="" alt="">
+        <div class="font-playfair-display text-center md:text-left">
+          <p id="profile-name" class="font-bold text-3xl lg:text-4xl"></p>
+          <p id="profile-charge" class="italic text-lg lg:text-xl"></p>
+        </div>
+      </div>
+      <div class="mt-6 text-lg lg:text-xl">
+        <p id="profile-bio"></p>
+        <div id="profile-contact" class="mt-4 font-bold flex items-center space-x-2">
+          <p>Contacto:</p>
+          <a id="profile-facebook" class="hidden" href="" target="_blank" rel="noopener noreferrer">
+            <img class="w-6" src='{{ "images/fb-dark.svg" | absURL }}' alt="">
+          </a>
+          <a id="profile-instagram" class="hidden" href="" target="_blank" rel="noopener noreferrer">
+            <img class="w-6" src='{{ "images/ig-dark.svg" | absURL }}' alt="">
+          </a>
+          <a id="profile-twitter" class="hidden" href="" target="_blank" rel="noopener noreferrer">
+            <img class="w-6" src='{{ "images/tw-dark.svg" | absURL }}' alt="">
+          </a>
+        </div>
+      </div>
+      <div class="text-center">
+        <button class="modal-close inline-block border-eerie-black border px-2 py-1 mt-4 text-xl">Cerrar</button>
+      </div>
+    </div>
+  </div>
+</div>

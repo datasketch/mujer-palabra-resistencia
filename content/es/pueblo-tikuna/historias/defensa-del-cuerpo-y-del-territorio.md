@@ -120,4 +120,3 @@ Para Ünãgükü Taüchina, la solución a la problemática de la trata de perso
 {{< image src="images/historias/tikuna/mujer-maguta-16.jpeg" title="Ünãgükü Taüchina frente a un árbol de Ceiba" >}}
 Ünãgükü Taüchina frente a un árbol de Ceiba, que representa el origen del río Amazonas y el descubrimiento del universo. Foto: Pablo Albarenga.
 {{< /image >}}
-
