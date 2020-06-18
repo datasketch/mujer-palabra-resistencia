@@ -1,8 +1,23 @@
 {{ define "main" }}
-{{ partial "datos_nav.html" . }}
-{{ if .Params.appUrl }}
-  <iframe id="app" src="{{ .Params.appUrl }}" class="w-full border-none"></iframe>
-{{ end }}
+  {{ partial "datos_nav.html" . }}
+  {{ if .Params.appUrl }}
+    <iframe id="app" src="{{ .Params.appUrl }}" class="w-full border-none"></iframe>
+  {{ else }}
+    <div class="px-4 mt-24 pb-24 bg-titan-white">
+      <div class="mx-auto w-full md:w-4/5">
+        <div class="markup-container text-center">
+          <div class="markup">
+            {{ .Content }}
+          </div>
+        </div>
+        <div class="px-4 mt-24 flex justify-start overflow-x-auto space-x-8 md:justify-center">
+          <a class="flex-shrink-0 w-64 py-8 px-8 font-playfair-display leading-none font-bold border border-eerie-black text-center text-eerie-black text-xl lg:text-2xl" href="">Censo poblacional indígena 2018</a>
+          <a class="flex-shrink-0 w-64 py-8 px-8 font-playfair-display leading-none font-bold border border-eerie-black text-center text-eerie-black text-xl lg:text-2xl" href="">Cultivos ilícitos en resguardos indígenas</a>
+          <a class="flex-shrink-0 w-64 py-8 px-8 font-playfair-display leading-none font-bold border border-eerie-black text-center text-eerie-black text-xl lg:text-2xl" href="">Líderes sociales asesinados en Colombia</a>
+        </div>
+      </div>
+    </div>
+  {{ end }}
 {{ end }}
 
 {{ define "scripts" }}

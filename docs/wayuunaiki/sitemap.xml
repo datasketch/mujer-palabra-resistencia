@@ -347,6 +347,30 @@
   </url>
   
   <url>
+    <loc>https://datasketch.github.io/mujer-palabra-resistencia/wayuunaiki/conoce-los-datos/descargar/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://datasketch.github.io/mujer-palabra-resistencia/conoce-los-datos/descargar/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tikuna"
+                href="https://datasketch.github.io/mujer-palabra-resistencia/tikuna/conoce-los-datos/descargar/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="dulegaya"
+                href="https://datasketch.github.io/mujer-palabra-resistencia/dulegaya/conoce-los-datos/descargar/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="wayuunaiki"
+                href="https://datasketch.github.io/mujer-palabra-resistencia/wayuunaiki/conoce-los-datos/descargar/"
+                />
+  </url>
+  
+  <url>
     <loc>https://datasketch.github.io/mujer-palabra-resistencia/wayuunaiki/conoce-los-datos/graficos/</loc>
     <xhtml:link
                 rel="alternate"

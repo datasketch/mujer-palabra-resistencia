@@ -101,42 +101,16 @@ body {
   @apply font-bold font-playfair-display text-4xl leading-tight;
 }
 
-.rendered-markup-about,
-.rendered-markup-story {
+.markup {
   @apply text-lg text-eerie-black;
 }
 
-.rendered-markup-about > * ~ * {
-  @apply mt-6;
-}
-
-.rendered-markup-about em {
+.markup em {
   @apply font-playfair-display text-lg;
 }
 
-.rendered-markup-about h2,
-.rendered-markup-story h2 {
-  @apply font-bold font-playfair-display text-4xl leading-tight;
-}
-
-.rendered-markup-about p + h2 {
+.markup p + h2 {
   @apply mt-0;
-}
-
-.rendered-markup-story > * ~ * {
-  @apply mt-10;
-}
-
-.rendered-markup-story > * {
-  @apply w-full mx-auto;
-}
-
-.rendered-markup-story figcaption {
-  @apply bg-eerie-black text-white px-2 py-1 text-base;
-}
-
-.rendered-markup-story img {
-  @apply w-full object-center object-contain;
 }
 
 @screen md {
@@ -151,19 +125,14 @@ body {
   .button-next {
     transform: translate(-150%, -50%);
   }
-  .rendered-markup-about,
-  .rendered-markup-story {
+  .markup {
     @apply text-xl;
   }
-  .rendered-markup-about em {
+  .markup em {
     @apply font-playfair-display text-xl;
   }
-  .rendered-markup-about h2,
-  .rendered-markup-story h2 {
+  .markup h2 {
     @apply font-bold font-playfair-display text-5xl;
-  }
-  .rendered-markup-story > *:not(figure) {
-    @apply w-2/3;
   }
   .markup-container {
     @apply w-2/3;
