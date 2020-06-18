@@ -7,7 +7,7 @@
   
   <link rel="stylesheet" href="https://datasketch.github.io/mujer-palabra-resistencia/styles/tailwind.min.css">
   
-    <title>Conoce los datos - Título en wayuunaiki</title>
+    <title>Población Wayuu, Tikuna y Guna Dule - Mujeres indígenas en la frontera</title>
   
 </head>
 <body class="font-georgia pre overflow-x-hidden">
@@ -28,11 +28,11 @@
         <img class="w-24" src='https://datasketch.github.io/mujer-palabra-resistencia/images/agenda-propia.svg' alt="Agenda propia">
       </a>
       <a href="https://datasketch.github.io/mujer-palabra-resistencia/">Inicio</a>
-      <a href='/mujer-palabra-resistencia/wayuunaiki/sobre-la-iniciativa/'>Sobre la iniciativa</a>
-      <a href='/mujer-palabra-resistencia/wayuunaiki/pueblo-wayuu/'>Pueblo <strong>Wayuu</strong></a>
-      <a href='/mujer-palabra-resistencia/wayuunaiki/pueblo-gunadule/'>Pueblo <strong>Gunadule</strong></a>
-      <a href='/mujer-palabra-resistencia/wayuunaiki/pueblo-tikuna/'>Pueblo <strong>Tikuna</strong></a>
-      <a href='/mujer-palabra-resistencia/wayuunaiki/conoce-los-datos/'>Repositorio de datos</a>
+      <a href='/mujer-palabra-resistencia/sobre-la-iniciativa/'>Sobre la iniciativa</a>
+      <a href='/mujer-palabra-resistencia/pueblo-wayuu/'>Pueblo <strong>Wayuu</strong></a>
+      <a href='/mujer-palabra-resistencia/pueblo-gunadule/'>Pueblo <strong>Gunadule</strong></a>
+      <a href='/mujer-palabra-resistencia/pueblo-tikuna/'>Pueblo <strong>Tikuna</strong></a>
+      <a href='/mujer-palabra-resistencia/conoce-los-datos/'>Repositorio de datos</a>
       <div class="flex items-center space-x-4">
         <a href="">
           <img src='https://datasketch.github.io/mujer-palabra-resistencia/images/tw.svg' alt="">
@@ -47,50 +47,22 @@
   <main>
     
 <div class="px-4 py-2 shadow-md bg-white flex items-center sticky top-0 space-x-12 text-lg overflow-x-auto sm:justify-center lg:text-xl">
-  <a class="flex-shrink-0" href='/mujer-palabra-resistencia/wayuunaiki/conoce-los-datos/'>
+  <a class="flex-shrink-0" href='/mujer-palabra-resistencia/conoce-los-datos/'>
     Introducción
   </a>
-  <a class="flex-shrink-0" href='/mujer-palabra-resistencia/wayuunaiki/conoce-los-datos/mapas/'>
+  <a class="flex-shrink-0" href='/mujer-palabra-resistencia/conoce-los-datos/mapas/'>
     Explora los mapas
   </a>
-  <a class="flex-shrink-0" href='/mujer-palabra-resistencia/wayuunaiki/conoce-los-datos/graficos/'>
+  <a class="flex-shrink-0" href='/mujer-palabra-resistencia/conoce-los-datos/graficos/'>
     Explora los gráficos
   </a>
   <a class="flex-shrink-0" href="">
     Descarga los datos
   </a>
 </div>
-<div class="px-4 mt-24 pb-24 bg-titan-white">
-  <div class="mx-auto w-full md:w-4/5">
-    <div class="w-full md:w-2/3">
-      <div class="rendered-markup-about">
-        <p><em>Introducción</em></p>
-<h2 id="repositorio-de-datos-indígenas-en-zonas-de-frontera">Repositorio de datos indígenas en zonas de frontera</h2>
-<p>El colectivo periodístico intercultural de Agenda Propia y Datasketch creamos de
-manera colaborativa este repositorio digital de datos abiertos como un insumo valioso
-para re-conocer a los pueblos indígenas cuyos territorios ancestrales comparten
-fronteras en Colombia con otros países.</p>
-<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh
-euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad
-minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex
-ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit
-esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et
-accumsan et iusto odio dignissim.</p>
 
-      </div>
-    </div>
-  </div>
-  <div class="px-4 mt-24 flex justify-start overflow-x-auto space-x-8 md:justify-center">
-    <a class="flex-shrink-0 w-56 py-8 px-8 font-playfair-display leading-none font-bold border border-eerie-black text-center text-eerie-black text-xl lg:text-2xl" href="">Explorar los mapas</a>
-    <a class="flex-shrink-0 w-56 py-8 px-8 font-playfair-display leading-none font-bold border border-eerie-black text-center text-eerie-black text-xl lg:text-2xl" href="">Explorar los gráficos</a>
-    <a class="flex-shrink-0 w-56 py-8 px-8 font-playfair-display leading-none font-bold border border-eerie-black text-center text-eerie-black text-xl lg:text-2xl" href="">Descargar los datos</a>
-  </div>
-</div>
-<div class="px-4 py-12 bg-gunmetal text-center">
-  <a href="https://datasketch.github.io/mujer-palabra-resistencia/" class="inline-block font-bold border-white text-white border-2 px-4 py-2 font-playfair-display hover:bg-white hover:text-eerie-black text-xl lg:text-2xl">
-    Volver al inicio
-  </a>
-</div>
+  <iframe id="app" src="https://randommonkey.shinyapps.io/wayuu-ticuna-cuna/" class="w-full border-none"></iframe>
+
 
   </main>
   <footer class="px-4 py-8 bg-eerie-black text-white">
@@ -127,5 +99,11 @@ accumsan et iusto odio dignissim.</p>
   
   <script src="https://datasketch.github.io/mujer-palabra-resistencia/js/site.min.js"></script>
   
+  <script src='https://datasketch.github.io/mujer-palabra-resistencia/vendors/iframe-resizer/iframeResizer.min.js'></script>
+  <script>
+    const app = document.getElementById('app')
+    if (app) iFrameResize({ heightCalculationMethod: 'lowestElement' }, '#app')
+  </script>
+
 </body>
 </html>

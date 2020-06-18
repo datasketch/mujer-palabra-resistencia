@@ -347,26 +347,50 @@
   </url>
   
   <url>
-    <loc>https://datasketch.github.io/mujer-palabra-resistencia/wayuunaiki/conoce-los-datos/wayuu-tikuna-gunadule/</loc>
+    <loc>https://datasketch.github.io/mujer-palabra-resistencia/wayuunaiki/conoce-los-datos/graficos/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://datasketch.github.io/mujer-palabra-resistencia/conoce-los-datos/wayuu-tikuna-gunadule/"
+                href="https://datasketch.github.io/mujer-palabra-resistencia/conoce-los-datos/graficos/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="tikuna"
-                href="https://datasketch.github.io/mujer-palabra-resistencia/tikuna/conoce-los-datos/wayuu-tikuna-gunadule/"
+                href="https://datasketch.github.io/mujer-palabra-resistencia/tikuna/conoce-los-datos/graficos/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="dulegaya"
-                href="https://datasketch.github.io/mujer-palabra-resistencia/dulegaya/conoce-los-datos/wayuu-tikuna-gunadule/"
+                href="https://datasketch.github.io/mujer-palabra-resistencia/dulegaya/conoce-los-datos/graficos/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="wayuunaiki"
-                href="https://datasketch.github.io/mujer-palabra-resistencia/wayuunaiki/conoce-los-datos/wayuu-tikuna-gunadule/"
+                href="https://datasketch.github.io/mujer-palabra-resistencia/wayuunaiki/conoce-los-datos/graficos/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://datasketch.github.io/mujer-palabra-resistencia/wayuunaiki/conoce-los-datos/mapas/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://datasketch.github.io/mujer-palabra-resistencia/conoce-los-datos/mapas/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tikuna"
+                href="https://datasketch.github.io/mujer-palabra-resistencia/tikuna/conoce-los-datos/mapas/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="dulegaya"
+                href="https://datasketch.github.io/mujer-palabra-resistencia/dulegaya/conoce-los-datos/mapas/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="wayuunaiki"
+                href="https://datasketch.github.io/mujer-palabra-resistencia/wayuunaiki/conoce-los-datos/mapas/"
                 />
   </url>
   
