@@ -1,7 +1,7 @@
 ---
 title: "Selva y mar: una conexión de las Dule Omegan"
 description: "La ruta de la vida del pueblo Gunadule ha trazado caminos entre la selva y el mar. Esta es una crónica de viaje en busca de la historia del territorio ancestral, Capurganá, ubicado entre Colombia y Panamá y conocido como la ‘Tierra del Ají’. También es un retrato de un encuentro con los saberes y las realidades de las Dule Omegan (mujeres Dule)"
-author: "Olowailli Green y Edilma Prada"
+author: "Olowaili Green y Edilma Prada"
 mapa: "gunadule"
 type: "historias"
 weight: 1
@@ -11,11 +11,11 @@ images:
 
 ## Muu Magaddibala | Alta mar
 
-Las aguas de color verde esmeralda que se mezclan con el azul claro infinito del mar Caribe parecieran trazar el camino que el pueblo Gunadule ha transitado a lo largo de su historia desde las profundas selvas del Darién hacia las islas que bordean Panamá. Con esa reflexión, Olowailli Green y Edilma Prada (comunicadoras del equipo intercultural de Agenda Propia) iniciamos el recorrido al territorio ancestral Capurganá o Tierra del Ají, ubicado entre Colombia y Panamá, al encuentro de las Dule Omegan, mujeres Dule.
+Las aguas de color verde esmeralda que se mezclan con el azul claro infinito del mar Caribe parecieran trazar el camino que el pueblo Gunadule ha transitado a lo largo de su historia desde las profundas selvas del Darién hacia las islas que bordean Panamá. Con esa reflexión, Olowaili Green y Edilma Prada (comunicadoras del equipo intercultural de Agenda Propia) iniciamos el recorrido al territorio ancestral Capurganá o Tierra del Ají, ubicado entre Colombia y Panamá, al encuentro de las Dule Omegan, mujeres Dule.
 
 A inicios de marzo de 2020, en una cálida mañana de unos 19 grados centígrados, salimos de la comunidad de Ibgigundiwala, Caimán Nuevo (Necoclí, Antioquia) hacia el puerto de Necoclí, ubicado a unos pasos de una calle comercial y zona de restaurantes del pueblo. Una vez allí, nos embarcamos en un yate público junto con unos 50 pasajeros, la mayoría extranjeros y algunos colombianos. Nuestro destino era Capurganá en el vecino departamento del Chocó, corregimiento turístico del municipio de Acandí, ubicado sobre el Golfo de Urabá.
  
-Mientras avanzaba el recorrido y nos mojaba el agua salada de las grandes olas que se estrellaban contra la embarcación, Olowailli aprovechó para explicar que para su pueblo Gunadule “la mar” es “la abuela”.
+Mientras avanzaba el recorrido y nos mojaba el agua salada de las grandes olas que se estrellaban contra la embarcación, Olowaili aprovechó para explicar que para su pueblo Gunadule “la mar” es “la abuela”.
 
 {{< image src="images/historias/gunadule/selva-y-mar-1.png" title="Mar" >}}
 El mar (Muu) significa ancestralmente abuela para los Gunadules. Su pueblo le tiene un respeto profundo al mar Caribe, caracterizado por sus aguas azuladas y cristalinas. Foto: Edilma Prada.
@@ -31,7 +31,7 @@ En Colombia hay 2.610 habitantes del pueblo Gunadule (censo 2018 del Departament
 En Colombia y Panamá hay unos 82.000 indígenas Gunadules. En ambos países se reconocen como hermanos y comparten las mismas costumbres y saberes. Foto: Edilma Prada.
 {{< /image >}}
 
-Quienes viven en Colombia siempre viajan a visitar a sus familiares en Panamá, y quienes viven en Panamá cruzan el Golfo de Urabá para hacer lo propio del otro lado de la frontera. Olowailli recuerda que de niña, hace 16 años, fue a la comarca Guna Yala con su familia, su padre, Abadio Green Stocel; su madre, Amelicia Santacruz, y su hermano mayor, Okin Green Santacruz.
+Quienes viven en Colombia siempre viajan a visitar a sus familiares en Panamá, y quienes viven en Panamá cruzan el Golfo de Urabá para hacer lo propio del otro lado de la frontera. Olowaili recuerda que de niña, hace 16 años, fue a la comarca Guna Yala con su familia, su padre, Abadio Green Stocel; su madre, Amelicia Santacruz, y su hermano mayor, Okin Green Santacruz.
 
 – “Esa vez viajamos en bote, era una madrugada de diciembre. Vi el cambio de colores en el mar: primero era grisáceo, medio sucio, porque el río Atrato desemboca con toda su fuerza y trae ese color. Luego, pasamos al mar verde, color esmeralda y seguimos con el color azul oscuro, característico de alta mar. Yo no le temo a la mar, la respeto como respeto a mi abuela. En este viaje vimos una familia de delfines con sus crías, dos delfines pequeños grises que nos seguían en nuestro camino. En la medida que cambiaban los colores de la mar, era como si cambiaran cosas en nuestra cultura de este lado, pero eso no quiere decir que seamos otros, somos los mismos, con un poco de diferencias en el acento y algunas costumbres, pero somos un solo pueblo, como la mar lo es con sus diferencias de colores”.
  
@@ -62,7 +62,7 @@ Las mujeres indígenas del pueblo Gunadule visitan Capurganá a diario. Allí ve
 {{< /image >}}
 
 {{< fullimage src="images/historias/gunadule/selva-y-mar-5.jpeg" title="Puerto de Capurganá" >}}
-Al puerto de Capurganá llegan muchas lanchas y botes con indígenas Gunadules de las 360 islas que hay en Panamá. Estas aguas, según dicen los pobladores, son un punto de paso obligado para migrantes que transitan hacia Centroamérica. Foto: Olowailli Green.
+Al puerto de Capurganá llegan muchas lanchas y botes con indígenas Gunadules de las 360 islas que hay en Panamá. Estas aguas, según dicen los pobladores, son un punto de paso obligado para migrantes que transitan hacia Centroamérica. Foto: Olowaili Green.
 {{< /fullimage >}}
 
 Una vez llegamos a la playa, nos detuvimos un momento para observar el movimiento de personas y embarcaciones en el muelle principal de Capurganá. El atracadero es muy activo, constantemente llegan lanchas, pequeñas y grandes, con turistas, indígenas Gunadules, pescadores y migrantes. “Las personas que migran vienen desde lejos, muchas de Haití, Cuba, algunos países africanos y de la India. Por estas aguas se mueve de todo; también hay paso de contrabando y de drogas”, nos dice, en voz baja, uno de los pescadores. “Una vez en Capurganá, los migrantes hacen el paso a Panamá por Puerto Obaldía o por La Miel, es por las selvas del Darién, pura trocha, es algo más organizado, ya hay guías y hay un convenio para llevar a los migrantes. Hay gente que se encarga del tráfico, les hacen los papeles [a las personas], les ayudan a pasar; muchos han perdido la vida en estas selvas y este mar”, añade el pescador. El paso de migrantes es evidente. En Necoclí pudimos ver a unos 50 haitianos que habían sido detenidos por las autoridades colombianas; la emergencia del coronavirus incrementó los controles migratorios.
@@ -72,7 +72,7 @@ Mientras recorríamos por la playa en dirección a unas casetas de madera en don
 ## Las Dule Omegan | Mujeres del pueblo Gunadule
 
 {{< fullimage src="images/historias/gunadule/selva-y-mar-6.jpeg" title="Vestimenta mujeres gunadule" >}}
-Para las Dule Omegan, la mola es su protección. El tejido también hace parte de su vestimenta tradicional. Foto: Olowailli Green.
+Para las Dule Omegan, la mola es su protección. El tejido también hace parte de su vestimenta tradicional. Foto: Olowaili Green.
 {{< /fullimage >}}
 
 A las Dule Omegan se les puede reconocer desde lejos por su vestimenta colorida. Sus blusas son floreadas en la parte superior y tienen tejidos de las molas cubriendo el abdomen y parte de la espalda. Las faldas o saburred, que llegan hasta la rodilla, son elaboradas con telas livianas. El dunnuedi (tela roja) cubre sus cabezas y el wini (pulsera elaborada con centenares de chaquiras diminutas amarillas, rojas, zapotes, negras, azules y verdes) adorna sus pies y manos.

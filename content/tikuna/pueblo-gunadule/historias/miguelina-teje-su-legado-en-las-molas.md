@@ -1,7 +1,7 @@
 ---
 title: "Miguelina teje su legado en las molas"
 description: "Los indígenas Gunadules que viven entre Colombia y Panamá se consideran personas que habitan la superficie de la tierra. Añoran la selva, de donde son originarios, como lo recuerda Nan dummad (abuela) Miguelina Álvarez, de 72 años. Ella, desde el centro de su hogar, en el resguardo Ibgigudiwala, Caimán Nuevo, teje la mola para conservar el legado encomendado por sus ancestros: cuidar el territorio y regar las semillas de sus tradiciones"
-author: "Edilma Prada y Olowailli Green"
+author: "Edilma Prada y Olowaili Green"
 mapa: "gunadule"
 type: "historias"
 weight: 1
@@ -33,7 +33,7 @@ Dice la abuela, en su lengua materna.
  
 – “Nuestros creadores nos bajaron de las estrellas a cuidar los ríos, las plantas, nuestras semillas”.
  
-Las palabras de Nan dummad suenan como poesía, al tiempo que Olowailli Green, su nieta y comunicadora del equipo intercultural de Agenda Propia, traduce.
+Las palabras de Nan dummad suenan como poesía, al tiempo que Olowaili Green, su nieta y comunicadora del equipo intercultural de Agenda Propia, traduce.
 
 {{< youtube "ZyrpCxu0-T8" >}}
 

@@ -27,30 +27,6 @@
   </url>
   
   <url>
-    <loc>https://datasketch.github.io/mujer-palabra-resistencia/pueblo-gunadule/historias/miguelina-teje-su-legado-en-las-molas/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="wayuunaiki"
-                href="https://datasketch.github.io/mujer-palabra-resistencia/wayuunaiki/pueblo-gunadule/historias/miguelina-teje-su-legado-en-las-molas/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tikuna"
-                href="https://datasketch.github.io/mujer-palabra-resistencia/tikuna/pueblo-gunadule/historias/miguelina-teje-su-legado-en-las-molas/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="dulegaya"
-                href="https://datasketch.github.io/mujer-palabra-resistencia/dulegaya/pueblo-gunadule/historias/miguelina-teje-su-legado-en-las-molas/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://datasketch.github.io/mujer-palabra-resistencia/pueblo-gunadule/historias/miguelina-teje-su-legado-en-las-molas/"
-                />
-  </url>
-  
-  <url>
     <loc>https://datasketch.github.io/mujer-palabra-resistencia/pueblo-gunadule/historias/selva-y-mar-una-conexion-de-las-dule-omegan/</loc>
     <xhtml:link
                 rel="alternate"
@@ -71,6 +47,30 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://datasketch.github.io/mujer-palabra-resistencia/pueblo-gunadule/historias/selva-y-mar-una-conexion-de-las-dule-omegan/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://datasketch.github.io/mujer-palabra-resistencia/pueblo-gunadule/historias/miguelina-teje-su-legado-en-las-molas/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="wayuunaiki"
+                href="https://datasketch.github.io/mujer-palabra-resistencia/wayuunaiki/pueblo-gunadule/historias/miguelina-teje-su-legado-en-las-molas/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tikuna"
+                href="https://datasketch.github.io/mujer-palabra-resistencia/tikuna/pueblo-gunadule/historias/miguelina-teje-su-legado-en-las-molas/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="dulegaya"
+                href="https://datasketch.github.io/mujer-palabra-resistencia/dulegaya/pueblo-gunadule/historias/miguelina-teje-su-legado-en-las-molas/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://datasketch.github.io/mujer-palabra-resistencia/pueblo-gunadule/historias/miguelina-teje-su-legado-en-las-molas/"
                 />
   </url>
   

@@ -5,7 +5,7 @@ draft: false
 type: "retratos"
 author: "Olowaili Green"
 pueblo: "gunadule"
-description: "Las mujeres Gunadule nos vestimos como la madre tierra. Nuestro tejido es colorido. Con pequeños retazos de telas e hilos, creamos caminos, paisajes y el mar ubicándolos en capas hasta elaborar la mola, tejido que para nosotras significa protección e identidad. En el Golfo de Urabá, Colombia, muy cerca de la frontera con Panamá, cinco mujeres nos contaron y plasmaron en papel sus sentires y sueños."
+description: "Las mujeres Gunadule nos vestimos como la madre tierra. Nuestro tejido es colorido. Con pequeños retazos de telas e hilos, creamos caminos, paisajes y el mar ubicándolos en capas hasta elaborar la mola, tejido que para nosotras significa protección e identidad."
 ---
 
 Mi pueblo, mi nación es Gunadule. Es un pueblo que se conoce por sus tejidos como la mola (vestido tradicional), el wini (pulseras elaboradas en chaquiras que se usan en pies y manos), y por sus cantos terapéuticos. Nos encontramos en dos territorios separados por una frontera impuesta, Colombia y Panamá. La comunidad de donde pertenezco es Ibgigundiwala, conocida como Caimán Nuevo. Se ubica al noroccidente de Colombia, departamento de Antioquia, municipio de Necoclí, en todo el Golfo de Urabá.
