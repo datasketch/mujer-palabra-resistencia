@@ -1,5 +1,5 @@
 ---
-title: "Defensa del cuerpo y del territorio. Resistencia de una mujer Magüta en frontera"
+title: "Resistencia de una mujer Magüta en frontera"
 description: "En el extremo sur de Colombia, límite con Brasil y Perú, Ünãgükü Taüchina, una joven Magüta (Tikuna) lucha contra la trata de personas y por la protección del cuerpo y del territorio. Ella cree que la manera de cuidar a la madreselva es volver a la raíz, a la medicina tradicional y a la cosmovisión de las Ngeugu Magütagüka (mujeres Tikunas)."
 author: "Vanessa Teteye Mendoza"
 mapa: "tikuna"
@@ -14,13 +14,13 @@ images:
 "Los pueblos indígenas lo que hacemos es proteger, porque si protegemos a la madreselva, protegemos a nuestra familia, nos protegemos a nosotros mismos; porque es donde vivimos, resistimos y donde realmente está nuestra vida cotidiana", dice Ünãgükü Taüchina (su identidad en castellano es Cindy Amalec Laulate Castillo), mientras con su mano izquierda sujeta un pequeño espejo redondo que refleja su rostro y, en la otra mano, sostiene una delgada astilla con huito (pintura natural) con la que dibuja sobre su mentón una garza (kowa), clan al que pertenece.
 
 {{< tripleimage first="images/historias/tikuna/mujer-maguta-2.jpeg" second="images/historias/tikuna/mujer-maguta-3.jpeg" last="images/historias/tikuna/mujer-maguta-1.jpeg" first_title="Mano derecha de Ünãgükü Taüchina recogiendo los huitillos" second_title="Huitillos, frutos silvestres" last_title="Ünãgükü Taüchina pintándose el rostro con huitillo" reverse="true" >}}
-Arriba) Ünãgükü Taüchina pintándose el rostro con huitillo, fruto silvestre que se usa como pintura natural en el rostro o en yanchamas (corteza natural empleada como vestimenta tradicional). (Izquierda) Mano derecha de Ünãgükü Taüchina recogiendo los huitillos en la selva amazónica. (Derecha) Huitillos, frutos silvestres que usan las Tikunas para pintar la yanchama y artesanías. Fotos: Pablo Albarenga.
+(Arriba) Ünãgükü Taüchina pintándose con huitillo, fruto silvestre que se usa como pintura natural en el rostro o en yanchamas (corteza natural empleada como vestimenta tradicional). (Izquierda) Mano derecha de Ünãgükü Taüchina recogiendo los huitillos en la selva amazónica. (Derecha) Huitillos, frutos silvestres que usan las Tikunas para pintar la yanchama y artesanías. Fotos: Pablo Albarenga.
 {{< /tripleimage >}}
 
 A sus 23 años, Ünãgükü Taüchina es una joven líder del pueblo Magüta o Tikuna, como se le conoce a este pueblo originario. Vive en la comunidad de San Francisco de Loretoyaco, ubicada en el trapecio amazónico colombiano, muy cerca del municipio de Puerto Nariño, en la frontera con Perú. Allí habitan 714 personas de los pueblos Cocamas, Yaguas, Tikunas y algunos Boras y Murui. Desde su territorio y con sus conocimientos propios, la joven indígena busca fortalecer la cultura Magüta y proteger el cuerpo y el ser de las Ngeugu Magütagüka (mujeres Tikunas).
 
 {{< fullimage src="images/historias/tikuna/mujer-maguta-4.jpeg" title="Cancha de la comunidad indígena de Loretoyaco" >}}
-Cancha de la comunidad indígena de Loretoyaco, donde los habitantes se reúnen en las tardes para escuchar música,hacer deporte y recibir información sobre las actividades y reuniones futuras de la comunidad. Foto: Pablo Albarenga.
+Cancha de la comunidad indígena de Loretoyaco, donde los habitantes se reúnen en las tardes para escuchar música, hacer deporte y recibir información sobre las actividades y reuniones futuras de la comunidad. Foto: Pablo Albarenga.
 {{< /fullimage >}}
 
 En lengua Magüta o Tikuna, su nombre Ünãgükü Taüchina "significa la garza voladora o la garza que vuela en bandada, que cuando llega a una meta quiere más, quiere seguir volando", explica. Este nombre le fue otorgado al nacer por su padre, Ismael Laulate Curico, el médico tradicional de la comunidad, y por la partera. Su identidad en castellano la considera como prestada, por ello prefiere que se le conozca por su nombre nativo.
@@ -36,12 +36,14 @@ Retrato de Ünãgükü Taüchina. Sobre su rostro ha dibujado figuras que repres
 Mientras recorre las pequeñas calles de cemento agrietadas de su comunidad, comenta que desde niña siempre tuvo interés por la cultura y la tradición. Al igual que su padre y sus abuelos, quiere aprender de la medicina propia, por eso ocasionalmente junto a él comparten el tabaco. Para su madre es un poco extraño y no está acostumbrada a verla fumar. Le pregunta: "¿Por qué fumas?", y ella con serenidad responde: "Yo no fumo (el tabaco) por fumar, es una conexión que tengo con mi padre, con mis abuelos y con mis ancestros".
 
 {{< image src="images/historias/tikuna/mujer-maguta-6.jpeg" title="Casa Cultural Metare" >}}
-Casa Cultural Metare que en la cosmovisión tikuna es un sabio o conocedor sobre las plantas medicinales que se convierte en tortuga y ave. Metare fue quien les enseñó la primera pelazón, ritual que hasta el día de hoy practican en la comunidad. Esta casa cultural es un espacio donde los jóvenes se reúnen para leer, tomar talleres y aprender sobre la cosmovisión del pueblo Magüta. Foto: Pablo Albarenga.
+Casa Cultural Metare. Según la cosmovisión Tikuna, Metare es un sabio o conocedor de las plantas medicinales que se convierte en tortuga y ave. Él fue quien les enseñó la primera pelazón, ritual que se practica en la comunidad hasta hoy. Aquí los jóvenes se reúnen para leer, asistir a talleres y aprender sobre la cosmovisión de su pueblo. Foto: Pablo Albarenga.
 {{< /image >}}
 
 Aunque por tradición hay prácticas que solo pueden realizar los hombres dentro de la cultura Tikuna, Ünãgükü Taüchina considera que las mujeres también tienen la capacidad de asimilar ciertos roles como la medicina ancestral. "Esta vez dije voy a romper eso, voy a romper ese espacio y que también sea para las mujeres, porque las mujeres como fuente de vida, aportan mucho más que los hombres".
 
-*imagen*
+{{< image src="images/historias/tikuna/mujer-maguta-17.png" title="Ünãgükü Taüchina e Ismael Laulate Castillo" >}}
+(Izquierda) Ünãgükü Taüchina navegando sobre el río Loretoyaco desde Puerto Nariño hacia su comunidad, San Francisco, en una pequeña embarcación conocida como pequepeque. (Derecha) Ismael Laulate Castillo, médico tradicional del pueblo Cocama, padre de Ünãgükü Taüchina. Fotos: Pablo Albarenga.
+{{< /image >}}
 
 Para ser una mujer conocedora de la medicina propia, Ünãgükü Taüchina tiene claro que debe compartir círculos de palabra con los abuelos y mayores; escuchar sus consejos y sus vivencias; aprender de sus saberes, y conectarse más con el mundo espiritual de los Magüta. 
 
@@ -50,7 +52,7 @@ Sin embargo, ella lamenta que hoy, en San Francisco de Loretoyaco, solo vivan ci
 Fue gracias a ese compartir con sus mayores y autoridades tradicionales que Ünãgükü Taüchina empezó a participar en reuniones organizadas por sus líderes y diferentes instituciones que llegan a su territorio. Y fue justamente en uno de esos espacios en donde escuchó sobre la trata y abuso sexual de personas menores de edad. Debido al incremento de las visitas de turistas, esta es cada vez más una problemática preocupante en la triple frontera.
 
 {{< image src="images/historias/tikuna/mujer-maguta-9.jpeg" title="Ünãgükü Taüchina y Lourdes Firmino" >}}
-Ünãgükü Taüchina y Lourdes Firmino Araujo compartiendo el conocimiento de la partera tradicional del pueblo Tikuna, en la comunidad indígena de Umariacu II, en Tabatinga, Brasil. Foto: Pablo Albarenga.
+Ünãgükü Taüchina y Lourdes Firmino Araujo compartiendo el conocimiento de la partera tradicional del pueblo Tikuna, en la comunidad indígena de Umariacu II, en Tabatinga, Brasil. Foto: Vanessa Teteye.
 {{< /image >}}
 
 ## Ngêma a goegü | Su vuelo

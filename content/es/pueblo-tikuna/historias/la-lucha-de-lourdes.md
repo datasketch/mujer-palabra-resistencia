@@ -1,6 +1,6 @@
 ---
 title: "La lucha de Lourdes: la partería tradicional"
-description: "La partera Lourdes Firmino Araújo, del pueblo Tikuna, lucha por condiciones dignas para las mujeres y hombres indígenas que se dedican a la partería en las fronteras de los tres países amazónicos: Brasil, Colombia y Perú. Desde que era una niña, Lourdes aprendió de su abuela a atender a las mujeres en el momento del parto. Para ella, recibir la vida es lo más preciado."
+description: "Lourdes Firmino Araújo, del pueblo Tikuna, lucha por condiciones dignas para las mujeres y hombres indígenas que se dedican a la partería en las fronteras de los tres países amazónicos: Brasil, Colombia y Perú. Desde que era una niña, aprendió de su abuela a atender a las mujeres en el momento del parto."
 author: "Edilma Prada Céspedes"
 mapa: "tikuna"
 type: "historias"
@@ -104,7 +104,7 @@ Mientras esa lucha avanza, Lourdes también lidera campañas que buscan que la l
 —"Para los que quieren aprender tienen que venir ahora que estoy viva. Hay niñas que se sientan y quieren escuchar, quieren aprender".
 
 {{< fullimage src="images/historias/tikuna/la-lucha-de-lourdes-9.png" title="Lourdes y su nieta" >}}
-Lourdes Firminio conversa con su nieta. Le comparte los saberes de la cultura indígena Tikuna. Foto: Pablo Albarenga.
+Lourdes Firminio conversa con su nieta, de quien se espera continúe con el legado de la partería de las mujeres Tikuna. Foto: Pablo Albarenga.
 {{< /fullimage >}}
 
 Al mirar los ojos de su hija, Katia Firminio, y los de una de sus nietas, Lourdes se llena de esperanza al saber que son las nuevas tejedoras que van a continuar el legado de la partería de las mujeres Tikuna. Katia y su nieta están aprendiendo el saber de la partería.

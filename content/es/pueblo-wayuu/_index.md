@@ -5,7 +5,7 @@ draft: false
 type: "pueblo"
 pueblo: "wayuu"
 lengua: "wayuunaiki"
-description: "Su territorio se expande entre Colombia y Venezuela. De 380.460 personas reconocidas como Wayuu, X son Jieyuu (mujeres). Este pueblo concibe la figura de la mujer como eje fundamental para la continuidad de la memoria desde la línea matrilineal."
+description: "Su territorio se expande entre Colombia y Venezuela. De 380.460 personas reconocidas como Wayuu, 197.140 son Jieyuu (mujeres). Este pueblo concibe la figura de la mujer como eje fundamental para la continuidad de la memoria desde la línea matrilineal."
 retratos: ""
 images:
   - "images/banner-pueblo-wayuu.webp"

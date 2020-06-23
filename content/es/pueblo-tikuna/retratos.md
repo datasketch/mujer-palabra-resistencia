@@ -5,7 +5,7 @@ draft: false
 type: "retratos"
 author: "Vanessa Teteye Mendoza"
 pueblo: "tikuna"
-description: "Las mujeres indígenas Tikunas o Magütagüka son tejedoras de cultura y tradición, son protectoras y cuidadoras del territorio. Originarias de las selvas de Brasil, Colombia y Perú, ellas no reconocen las fronteras. En esta historia, seis de ellas nos comparten sus vivencias y luchas."
+description: "Las mujeres indígenas Tikunas o Magütagüka son tejedoras de cultura y tradición, son protectoras y cuidadoras del territorio. Originarias de las selvas de Brasil, Colombia y Perú, ellas no reconocen las fronteras."
 ---
 
 A orillas del caudaloso río Amazonas se encuentra una de las aves más representativas de la selva: los mochileros o arrendajos. Los indígenas los llaman así por la forma que le dan a sus nidos, como alargadas gotas de agua. Las mujeres Tikunas o Magütagüka dicen que se identifican con estos pájaros, de plumajes de color negro y amarillo, porque con la misma rigurosidad y creatividad que tejen sus nidos, ellas tejen su hogar y su comunidad.
