@@ -163,7 +163,7 @@ Miguelina dice que es tradición que las mujeres de su resguardo bajen al mar. E
 Mientras ve cómo se oculta el sol en medio de la inmensidad de las aguas azuladas de "la mar", Nan dummad le pide a sus dioses, a sus creadores, que la guíen, que guarden a sus Gunadules y que le permita más días de vida para seguir contando historias en sus molas.
 
 {{< fullimage src="images/historias/gunadule/teje-la-mola-15.jpeg" title="Abuela mirando la mar" >}}
-Muu y Nan dummad son abuelas en la lengua Dulegaya. Para el pueblo Gunadule, la mar representa a la abuela porque es la sabia, la que tiene secretos y los guarda. Las espumas blancas que mojan la orilla representan las canas de las abuelas. Foto: Pablo Albarenga.
+Muu y Nan dummad son abuelas en la lengua Dulegaya. Para el pueblo Gunadule, la mar representa a la abuela porque es la sabia, la que tiene secretos y los guarda. Las espumas blancas que mojan la orilla representan las canas de las abuelas. Foto: Olowaili Green Santacruz.
 {{< /fullimage >}}
 
 

@@ -18,7 +18,7 @@ A inicios de marzo de 2020, en una cálida mañana de unos 19 grados centígrado
 Mientras avanzaba el recorrido y nos mojaba el agua salada de las grandes olas que se estrellaban contra la embarcación, Olowaili aprovechó para explicar que para su pueblo Gunadule "la mar" es "la abuela".
 
 {{< image src="images/historias/gunadule/selva-y-mar-1.png" title="Mar" >}}
-Muu (mar) significa ancestralmente abuela para los Gunadules.
+Muu (mar) significa ancestralmente abuela para los Gunadules. Foto: Edilma Prada.
 {{< /image >}}
 
 -- "Muu significa ancestralmente abuela, la sabedora, la que conoce todo, la que guarda los secretos de la humanidad, la que ve nacer el sol y permite que detrás de ella se oculte. Desde la mar también se ven las estrellas y la luna. De la luna queda el reflejo sobre las aguas que ilumina y guía a los navegantes de la noche".

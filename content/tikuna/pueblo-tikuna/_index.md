@@ -5,9 +5,9 @@ draft: false
 type: "pueblo"
 pueblo: "tikuna"
 lengua: "tikuna"
-description: "Se ubica en la triple frontera amazónica entre Brasil, Colombia y Perú. De 13.842 personas reconocidas como Tikunas, 7.003 son Ngeugu Magütagüka (mujeres). Ellas son protectoras de sus comunidades y de la madreselva."
+description: "Norü nachika yíema tomepüarü üyeane tatükã ngêma Brasil, Colombia rü Peruwa. Rü 13.842 dueûgüe nüû kuãama ngêgumarüû Magütagü, 7.003 ni ûgü ngeûgü magütagüka. Yíemagü ta ûgü poûruû torü ianeka i torü tae nainekü."
 images:
   - "images/banner-pueblo-tikuna.webp"
 ---
 
-**Agenda Propia** visitó en Colombia a las comunidades de San Francisco de Loretoyaco, Puerto Nariño y Leticia, y Umariaçu 2 y Benjamin Constant en Brasil para narrar la mistura de saberes y luchas de las mujeres Tikunas.
+**Agenda Propia** rü na îãne Colombiawa yiemagü ianegü San Francisco de Loretoyaco, türe Nariño i Diticha iris Umariaçu 2 rü numachi Benjamín Constant Brasilka aûkã nüû niu yía üêû nakümagüka i rü poraûgü yíema ngeêgü Magüta.
