@@ -1,3 +1,4 @@
+const md = new markdownit();
 const modal = document.getElementById('modal');
 const modalClose = modal.querySelectorAll('.modal-close');
 const profileAvatar = modal.querySelector('#profile-avatar');
@@ -17,7 +18,7 @@ profiles.forEach(function (profile) {
     profileAvatar.src = baseUrl.value + info.avatar
     profileName.textContent = info.nombre;
     profileCharge.textContent = info.cargo;
-    profileBio.textContent = info.bio;
+    profileBio.innerHTML = md.render(info.bio);
     if (!info.instagram && !info.facebook && !info.twitter) {
       profileContact.classList.add('hidden');
     }

@@ -3,7 +3,7 @@
 {{ end }}
 
 {{ define "main" }}
-<div class="px-4 py-40 bg-titan-white">
+<div class="px-4 py-24 bg-titan-white">
   <div class="mx-auto text-center text-eerie-black font-playfair-display w-full md:w-2/3 lg:w-1/2">
     <h2 class="leading-tight text-4xl lg:text-5xl font-bold">
       {{ .Title }}
@@ -13,14 +13,13 @@
     </p>
     <div class="mt-12">
       <p class="font-bold text-lg lg:text-xl">Por: {{ .Params.author }}</p>
-      <img class="mx-auto mt-2" src='{{ "images/separador.svg" | absURL }}' alt="">
+      <img class="mx-auto mt-4" src='{{ "images/separador.svg" | absURL }}' alt="">
     </div>
   </div>
   <div class="mt-24 markup-container">
     <div class="markup">
       {{ .Content }}
     </div>
-    <img class="mx-auto mt-12" src='{{ "images/separador.svg" | absURL }}' alt="">
   </div>
 </div>
 <div class="px-4 py-24 bg-gunmetal-alt relative">
@@ -48,17 +47,17 @@
                     {{ end }}
                     {{ .profile }}
                   </p>
-                  <p class="mt-4">
+                  <div class="mt-4">
                     {{ if (index . $.Site.Language.Lang) }}
-                      {{ (index . $.Site.Language.Lang).text }}
+                      {{ (index . $.Site.Language.Lang).text | markdownify }}
                     {{ else }}
-                      {{ .default.text }}
+                      {{ .default.text | markdownify }}
                     {{ end }}
-                  </p>
+                  </div>
                 </div>
                 <div class="w-full lg:w-2/3 flex flex-col">
                   <img src='{{ $image_path | absURL }}' alt="">
-                  <p class="mt-1">Foto: {{ .credit }}</p>
+                  <p class="mt-1">Foto: {{ .credit }}.</p>
                 </div>
               </div>
             </div>

@@ -13,7 +13,7 @@
 <body class="font-georgia pre overflow-x-hidden">
   
 
-<header class="px-4 py-2 bg-eerie-black w-full z-10 ">
+<header class="px-4 py-2 bg-eerie-black w-full z-10">
   <nav class="font-georgia text-lg">
     <div class="flex items-center justify-between lg:hidden">
       <a href="https://www.agendapropia.co/" target="_blank" rel="noopener noreferrer">
@@ -27,7 +27,7 @@
       <a href="https://www.agendapropia.co/" target="_blank" rel="noopener noreferrer">
         <img class="w-24" src='https://datasketch.github.io/mujer-palabra-resistencia/images/agenda-propia.svg' alt="Agenda propia">
       </a>
-      <a href="https://datasketch.github.io/mujer-palabra-resistencia/">Tikuna</a>
+      <a href="https://datasketch.github.io/mujer-palabra-resistencia/">Inicio</a>
       <a href='/mujer-palabra-resistencia/tikuna/sobre-la-iniciativa/'>Sobre la iniciativa</a>
       <a href='/mujer-palabra-resistencia/tikuna/pueblo-wayuu/'>Pueblo <strong>Wayuu</strong></a>
       <a href='/mujer-palabra-resistencia/tikuna/pueblo-gunadule/'>Pueblo <strong>Gunadule</strong></a>
@@ -54,14 +54,14 @@
     </button>
     <div class="w-full mx-auto text-eerie-black md:w-11/12">
       <div class="flex flex-col space-y-4 items-center md:flex-row md:space-y-0 md:space-x-8">
-        <img id="profile-avatar" class="object-cover object-top w-24 h-24 rounded-full md:w-32 md:h-32" src="" alt="">
+        <img id="profile-avatar" class="object-cover object-center w-24 h-24 rounded-full md:w-32 md:h-32" src="" alt="">
         <div class="font-playfair-display text-center md:text-left">
           <p id="profile-name" class="font-bold text-3xl lg:text-4xl"></p>
           <p id="profile-charge" class="italic text-lg lg:text-xl"></p>
         </div>
       </div>
       <div class="mt-6 text-lg lg:text-xl">
-        <p id="profile-bio"></p>
+        <div id="profile-bio"></div>
         <div id="profile-contact" class="mt-4 font-bold flex items-center space-x-2">
           <p>Contacto:</p>
           <a id="profile-facebook" class="hidden" href="" target="_blank" rel="noopener noreferrer">
@@ -82,10 +82,10 @@
   </div>
 </div>
 <div class="px-4 py-2 shadow-md bg-white flex items-center sticky top-0 space-x-12 text-lg overflow-x-auto sm:justify-center lg:text-xl">
-  <a class="flex-shrink-0" href="#presentacion">Presentación del proyecto</a>
-  <a class="flex-shrink-0" href="#creditos">Colectivo periodístico intercultural</a>
+  <a class="flex-shrink-0" href="#presentacion">Presentación</a>
+  <a class="flex-shrink-0" href="#colectivo">Colectivo periodístico intercultural</a>
   <a class="flex-shrink-0" href="#agradecimientos">Agradecimientos</a>
-  <a class="flex-shrink-0" href="#medios-aliados">Aliados</a>
+  <a class="flex-shrink-0" href="#aliados">Aliados</a>
 </div>
 <div class="px-4 mt-24 pb-24 bg-titan-white">
   <div class="mx-auto w-full md:w-4/5">
@@ -101,150 +101,147 @@
       </div>
     </div>
     <img class="mx-auto py-16" src='https://datasketch.github.io/mujer-palabra-resistencia/images/separador.svg' alt="">
-    <div class="markup" id="creditos">
-      <p>
-        <em>Colectivo periodístico intercultural</em>
-      </p>
-      <h2>Nuestro equipo</h2>
+    <div class="markup" id="colectivo">
+      <h2>Colectivo periodístico intercultural</h2>
     </div>
     <div class="mt-12 gap-8 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
       
         <div class="profile flex flex-col items-center py-4 px-1 cursor-pointer hover:shadow-2xl">
-  <pre class="hidden">{"avatar":"images/creditos/edilma-prada.png","bio":"Periodista de investigación. Especialista en Derechos Humanos y Cultura de Paz. Fundadora y directora de Agenda Propia. Creadora de la metodología Periodismo Colaborativo Intercultural que une a actores de la sociedad civil para realizar historias y reportajes a profundidad. Pulitzer Center Grantee - Rainforest Journalism Fund y Fellow del International Women’s Media Foundation.","cargo":"Dirección editorial y periodista","instagram":"https://instagram.com/edilma_prada","nombre":"Edilma Prada Céspedes","slug":"edilma-prada"}</pre>
-  <img class="object-cover object-top w-24 h-24 rounded-full" src='https://datasketch.github.io/mujer-palabra-resistencia/images/creditos/edilma-prada.png' alt="">
-  <div class="mt-2 font-playfair-display text-center text-xl leading-tight flex-grow">
+  <pre class="hidden">{"avatar":"images/creditos/edilma-prada.png","bio":"Periodista de investigación. Especialista en Derechos Humanos y Cultura de Paz. Fundadora y directora de **Agenda Propia**. Creadora de la metodología *Periodismo Colaborativo Intercultural* que une a actores de la sociedad civil para realizar historias y reportajes a profundidad. Pulitzer Center Grantee - Rainforest Journalism Fund y Fellow del International Women’s Media Foundation.","cargo":"Directora editorial y periodista","instagram":"https://instagram.com/edilma_prada","nombre":"Edilma Prada Céspedes","slug":"edilma-prada"}</pre>
+  <img class="object-cover object-center w-24 h-24 rounded-full" src='https://datasketch.github.io/mujer-palabra-resistencia/images/creditos/edilma-prada.png' alt="">
+  <div class="mt-2 font-playfair-display text-center text-lg leading-tight flex-grow">
     <p class="font-bold">Edilma Prada Céspedes</p>
-    <p class="italic text-lg">Dirección editorial y periodista</p>
+    <p class="italic text-base">Directora editorial y periodista</p>
   </div>
   <button class="mt-4 text-lg text-eerie-black md:hidden">Ver más</button>
 </div>
       
         <div class="profile flex flex-col items-center py-4 px-1 cursor-pointer hover:shadow-2xl">
-  <pre class="hidden">{"avatar":"images/creditos/luzbeidy.png","bio":"Mujer joven indígena del Eirüku Siijono, perteneciente a la nación Wayuu en La Guajira colombo-venezolana. Egresada en 2015 de la Escuela de Comunicaciones Wayuu como Comunicadora Indígena Comunitaria con énfasis en Audiovisual. Ha trabajado en fotografía y cámara de algunos cortometrajes y reportajes, y ha hecho el acompañamiento a procesos organizativos. Actualmente es estudiante de cine en la Escuela Nacional de Cine (Enacc).","cargo":"Comunicadora y periodista indígena","instagram":"https://instagram.com/luzbeidy_monterrosa","nombre":"Luzbeidy Monterrosa Atencio","slug":"luzbeidy-monterrosa"}</pre>
-  <img class="object-cover object-top w-24 h-24 rounded-full" src='https://datasketch.github.io/mujer-palabra-resistencia/images/creditos/luzbeidy.png' alt="">
-  <div class="mt-2 font-playfair-display text-center text-xl leading-tight flex-grow">
+  <pre class="hidden">{"avatar":"images/creditos/luzbeidy.png","bio":"Mujer joven indígena del Eirüku Siijono, perteneciente a la nación Wayuu en La Guajira colombo-venezolana. Egresada en 2015 de la Escuela de Comunicaciones Wayuu como Comunicadora Indígena Comunitaria con énfasis en Audiovisual. Ha trabajado en fotografía y cámara de algunos cortometrajes y reportajes, y ha hecho el acompañamiento a procesos organizativos. Actualmente es estudiante de cine en la Escuela Nacional de Cine (Enacc).","cargo":"Comunicadora y periodista indígena del pueblo Wayuu","instagram":"https://instagram.com/luzbeidy_monterrosa","nombre":"Luzbeidy Monterrosa Atencio","slug":"luzbeidy-monterrosa"}</pre>
+  <img class="object-cover object-center w-24 h-24 rounded-full" src='https://datasketch.github.io/mujer-palabra-resistencia/images/creditos/luzbeidy.png' alt="">
+  <div class="mt-2 font-playfair-display text-center text-lg leading-tight flex-grow">
     <p class="font-bold">Luzbeidy Monterrosa Atencio</p>
-    <p class="italic text-lg">Comunicadora y periodista indígena</p>
+    <p class="italic text-base">Comunicadora y periodista indígena del pueblo Wayuu</p>
   </div>
   <button class="mt-4 text-lg text-eerie-black md:hidden">Ver más</button>
 </div>
       
         <div class="profile flex flex-col items-center py-4 px-1 cursor-pointer hover:shadow-2xl">
-  <pre class="hidden">{"avatar":"images/creditos/vanessa-teteye.png","bio":"Maríímulle (nombre indígena) nació en La Chorrera, Amazonas en 1993. Es indígena Bora del clan Iñeje (canangucho) por parte de su padre y Uitoto por parte de su madre. Comunicadora social indígena que ha acompañado a la Organización Nacional Indígena de Colombia (ONIC) y a la Escuela de la Organización Nacional de los Pueblos Indígenas de la Amazonia Colombiana (Opiac) en los diferentes campos de comunicación. Busca visibilizar y proteger la vivencia y el cuidado del territorio de los pueblos originarios a través de la comunicación propia.","cargo":"Comunicadora y periodista indígena","instagram":"https://instagram.com/mariimulle","nombre":"Vanessa Teteye Mendoza","slug":"vanessa-teteye"}</pre>
-  <img class="object-cover object-top w-24 h-24 rounded-full" src='https://datasketch.github.io/mujer-palabra-resistencia/images/creditos/vanessa-teteye.png' alt="">
-  <div class="mt-2 font-playfair-display text-center text-xl leading-tight flex-grow">
+  <pre class="hidden">{"avatar":"images/creditos/vanessa-teteye.png","bio":"Maríímulle (nombre indígena) nació en La Chorrera, Amazonas en 1993. Es indígena Bora del clan Iñeje (canangucho) por parte de su padre y Uitoto por parte de su madre. Comunicadora social indígena que ha acompañado a la Organización Nacional Indígena de Colombia (ONIC) y a la Escuela de la Organización Nacional de los Pueblos Indígenas de la Amazonia Colombiana (Opiac) en los diferentes campos de comunicación. Busca visibilizar y proteger la vivencia y el cuidado del territorio de los pueblos originarios a través de la comunicación propia.","cargo":"Comunicadora y periodista indígena del pueblo Bora","instagram":"https://instagram.com/mariimulle","nombre":"Vanessa Teteye Mendoza","slug":"vanessa-teteye"}</pre>
+  <img class="object-cover object-center w-24 h-24 rounded-full" src='https://datasketch.github.io/mujer-palabra-resistencia/images/creditos/vanessa-teteye.png' alt="">
+  <div class="mt-2 font-playfair-display text-center text-lg leading-tight flex-grow">
     <p class="font-bold">Vanessa Teteye Mendoza</p>
-    <p class="italic text-lg">Comunicadora y periodista indígena</p>
+    <p class="italic text-base">Comunicadora y periodista indígena del pueblo Bora</p>
   </div>
   <button class="mt-4 text-lg text-eerie-black md:hidden">Ver más</button>
 </div>
       
         <div class="profile flex flex-col items-center py-4 px-1 cursor-pointer hover:shadow-2xl">
-  <pre class="hidden">{"avatar":"images/creditos/olowaili-green-santacruz.png","bio":"Su nombre significa Madre de las estrellas. Mujer joven indígena del pueblo Gunadule (Colombia-Panamá), realizadora y productora audiovisual de la casa productora sentARTE, arte con sentido que trabaja en pro de la visibilización, salvaguarda e inclusión social de las diversidades del país. Actualmente termina sus estudios en Comunicación Audiovisual en el Politécnico Jaime Isaza Cadavid en la ciudad de Medellín. Tradujo los textos de este especial periodístico de castellano a Dulegaya.","cargo":"Madre de las estrellas. Comunicadora indígena audiovisual y traductora.","nombre":"Olowaili Green Santacruz","slug":"olowaili-green","twitter":"https://twitter.com/edilmaprada"}</pre>
-  <img class="object-cover object-top w-24 h-24 rounded-full" src='https://datasketch.github.io/mujer-palabra-resistencia/images/creditos/olowaili-green-santacruz.png' alt="">
-  <div class="mt-2 font-playfair-display text-center text-xl leading-tight flex-grow">
+  <pre class="hidden">{"avatar":"images/creditos/olowaili-green-santacruz.png","bio":"Su nombre significa Madre de las estrellas. Mujer joven indígena del pueblo Gunadule (Colombia-Panamá), realizadora y productora audiovisual de la casa productora sentARTE, arte con sentido que trabaja en pro de la visibilización, salvaguarda e inclusión social de las diversidades del país. Actualmente termina sus estudios en Comunicación Audiovisual en el Politécnico Jaime Isaza Cadavid en la ciudad de Medellín. Tradujo los textos de este especial periodístico de castellano a Dulegaya.","cargo":"Comunicadora audiovisual indígena del pueblo Gunadule","instagram":"https://instagram.com/olowailigreen","nombre":"Olowaili Green Santacruz","slug":"olowaili-green"}</pre>
+  <img class="object-cover object-center w-24 h-24 rounded-full" src='https://datasketch.github.io/mujer-palabra-resistencia/images/creditos/olowaili-green-santacruz.png' alt="">
+  <div class="mt-2 font-playfair-display text-center text-lg leading-tight flex-grow">
     <p class="font-bold">Olowaili Green Santacruz</p>
-    <p class="italic text-lg">Madre de las estrellas. Comunicadora indígena audiovisual y traductora.</p>
+    <p class="italic text-base">Comunicadora audiovisual indígena del pueblo Gunadule</p>
   </div>
   <button class="mt-4 text-lg text-eerie-black md:hidden">Ver más</button>
 </div>
       
         <div class="profile flex flex-col items-center py-4 px-1 cursor-pointer hover:shadow-2xl">
-  <pre class="hidden">{"avatar":"images/creditos/pablo-albarenga.png","bio":"Fotógrafo documental y storyteller. National Geographic Explorer y Pulitzer Center Grantee. Dedica su trabajo a asuntos de colonización y la lucha de los pueblos tradicionales en América Latina. Recientemente fue reconocido como Fotógrafo del Año por los premios Sony World Photography 2020 por su trabajo en las comunidades indígenas de América Latina.","cargo":"Fotografía y video","instagram":"https://instagram.com/pabloa.photo","nombre":"Pablo Albarenga","slug":"pablo-albarenga"}</pre>
-  <img class="object-cover object-top w-24 h-24 rounded-full" src='https://datasketch.github.io/mujer-palabra-resistencia/images/creditos/pablo-albarenga.png' alt="">
-  <div class="mt-2 font-playfair-display text-center text-xl leading-tight flex-grow">
+  <pre class="hidden">{"avatar":"images/creditos/pablo-albarenga.png","bio":"Fotógrafo documental y *storyteller*. National Geographic Explorer y Pulitzer Center Grantee. Dedica su trabajo a asuntos de colonización y la lucha de los pueblos tradicionales en América Latina. Recientemente fue reconocido como Fotógrafo del Año por los premios Sony World Photography 2020 por su trabajo en las comunidades indígenas de América Latina.","cargo":"Fotografía y video","instagram":"https://instagram.com/pabloa.photo","nombre":"Pablo Albarenga","slug":"pablo-albarenga"}</pre>
+  <img class="object-cover object-center w-24 h-24 rounded-full" src='https://datasketch.github.io/mujer-palabra-resistencia/images/creditos/pablo-albarenga.png' alt="">
+  <div class="mt-2 font-playfair-display text-center text-lg leading-tight flex-grow">
     <p class="font-bold">Pablo Albarenga</p>
-    <p class="italic text-lg">Fotografía y video</p>
+    <p class="italic text-base">Fotografía y video</p>
   </div>
   <button class="mt-4 text-lg text-eerie-black md:hidden">Ver más</button>
 </div>
       
         <div class="profile flex flex-col items-center py-4 px-1 cursor-pointer hover:shadow-2xl">
-  <pre class="hidden">{"avatar":"images/creditos/nathalia-salamanca.png","bio":"Periodista e investigadora social, con un doctorado en Sociología de la Universidad de Edimburgo en el Reino Unido. Editora de textos y correctora de estilo. Actualmente es Coordinadora de la Red Tejiendo Historias de Agenda Propia, espacio de encuentro abierto y público para grupos de comunicadores y periodistas mixtos –indígenas y no indígenas– en América Latina.","cargo":"Editora de textos","nombre":"Nathalia Salamanca","slug":"nathalia-salamanca","twitter":"https://twitter.com/nthl_s"}</pre>
-  <img class="object-cover object-top w-24 h-24 rounded-full" src='https://datasketch.github.io/mujer-palabra-resistencia/images/creditos/nathalia-salamanca.png' alt="">
-  <div class="mt-2 font-playfair-display text-center text-xl leading-tight flex-grow">
+  <pre class="hidden">{"avatar":"images/creditos/nathalia-salamanca.png","bio":"Periodista e investigadora social, con un doctorado en Sociología de la Universidad de Edimburgo en el Reino Unido. Editora de textos y correctora de estilo. Actualmente es Coordinadora de la Red Tejiendo Historias de **Agenda Propia**, espacio de encuentro abierto y público para grupos de comunicadores y periodistas mixtos –indígenas y no indígenas– en América Latina.","cargo":"Editora de textos","nombre":"Nathalia Salamanca","slug":"nathalia-salamanca","twitter":"https://twitter.com/nthl_s"}</pre>
+  <img class="object-cover object-center w-24 h-24 rounded-full" src='https://datasketch.github.io/mujer-palabra-resistencia/images/creditos/nathalia-salamanca.png' alt="">
+  <div class="mt-2 font-playfair-display text-center text-lg leading-tight flex-grow">
     <p class="font-bold">Nathalia Salamanca</p>
-    <p class="italic text-lg">Editora de textos</p>
+    <p class="italic text-base">Editora de textos</p>
   </div>
   <button class="mt-4 text-lg text-eerie-black md:hidden">Ver más</button>
 </div>
       
         <div class="profile flex flex-col items-center py-4 px-1 cursor-pointer hover:shadow-2xl">
-  <pre class="hidden">{"avatar":"images/creditos/cindy-amalec.png","bio":"Ünãgükü Taüchina (nombre indígena) es una mujer Magüta (Tikuna) originaria de la comunidad de San Francisco de Loretoyaco, Resguardo Aticoya, Municipio de Puerto Nariño, Amazonas. Gestora cultural. Egresada de la Escuela de Formación Política de Organización Nacional de los Pueblos Indígenas de la Amazonia Colombiana (Opiac) e integrante de la Red de Enfrentamiento a la Trata de Personas en la Triple Frontera. Tradujo los textos de este especial periodístico de castellano a Tikuna.","cargo":"Productora de campo y traductora indígena pueblo Magüta - Tikuna","facebook":"https://www.facebook.com/cindyamalec.laulatecastillo","nombre":"Cindy Amalec Laulate Castillo (Ünãgükü Taüchina)","slug":"cindy-amalec"}</pre>
-  <img class="object-cover object-top w-24 h-24 rounded-full" src='https://datasketch.github.io/mujer-palabra-resistencia/images/creditos/cindy-amalec.png' alt="">
-  <div class="mt-2 font-playfair-display text-center text-xl leading-tight flex-grow">
-    <p class="font-bold">Cindy Amalec Laulate Castillo (Ünãgükü Taüchina)</p>
-    <p class="italic text-lg">Productora de campo y traductora indígena pueblo Magüta - Tikuna</p>
+  <pre class="hidden">{"avatar":"images/creditos/cindy-amalec.png","bio":"Ünãgükü Taüchina (nombre indígena) es una mujer Magüta (Tikuna) originaria de la comunidad de San Francisco de Loretoyaco, Resguardo Aticoya, Municipio de Puerto Nariño, Amazonas. Gestora cultural. Egresada de la Escuela de Formación Política de Organización Nacional de los Pueblos Indígenas de la Amazonia Colombiana (Opiac) e integrante de la Red de Enfrentamiento a la Trata de Personas en la Triple Frontera. Tradujo los textos de este especial periodístico de castellano a Tikuna.","cargo":"Gestora cultural y productora del pueblo Tikuna","facebook":"https://www.facebook.com/cindyamalec.laulatecastillo","nombre":"Cindy Amalec Laulate Castillo ","slug":"cindy-amalec"}</pre>
+  <img class="object-cover object-center w-24 h-24 rounded-full" src='https://datasketch.github.io/mujer-palabra-resistencia/images/creditos/cindy-amalec.png' alt="">
+  <div class="mt-2 font-playfair-display text-center text-lg leading-tight flex-grow">
+    <p class="font-bold">Cindy Amalec Laulate Castillo </p>
+    <p class="italic text-base">Gestora cultural y productora del pueblo Tikuna</p>
   </div>
   <button class="mt-4 text-lg text-eerie-black md:hidden">Ver más</button>
 </div>
       
         <div class="profile flex flex-col items-center py-4 px-1 cursor-pointer hover:shadow-2xl">
-  <pre class="hidden">{"avatar":"images/creditos/paola-nirtaa.png","bio":"Diseñadora gráfica, con énfasis en diseño editorial, digital y desarrollo de identidad gráfica. Trabajó como Coordinadora de Diseño de la Fundación Gabo y actualmente es la Coordinadora de Comunicaciones y Creativa Visual de Agenda Propia. En 2012 dirigió el cortometraje \"El Ciclo\", que ocupó el Segundo lugar en el Festival Tornado en Cartagena, Colombia. Ha participado en varios proyectos colaborativos de arte, video, fotografía y diseño.","cargo":"Creativa visual social media","instagram":"https://instagram.com/la_nirta_p","nombre":"Paola Nirta","slug":"paola-nirta"}</pre>
-  <img class="object-cover object-top w-24 h-24 rounded-full" src='https://datasketch.github.io/mujer-palabra-resistencia/images/creditos/paola-nirtaa.png' alt="">
-  <div class="mt-2 font-playfair-display text-center text-xl leading-tight flex-grow">
+  <pre class="hidden">{"avatar":"images/creditos/paola-nirta.png","bio":"Diseñadora gráfica, con énfasis en diseño editorial, digital y desarrollo de identidad gráfica. Trabajó como Coordinadora de Diseño de la Fundación Gabo y actualmente es la Coordinadora de Comunicaciones y Creativa Visual de **Agenda Propia**. En 2012 dirigió el cortometraje \"El Ciclo\", que ocupó el Segundo lugar en el Festival Tornado en Cartagena, Colombia. Ha participado en varios proyectos colaborativos de arte, video, fotografía y diseño.","cargo":"Creativa visual / Redes sociales","instagram":"https://instagram.com/la_nirta_p","nombre":"Paola Nirta","slug":"paola-nirta"}</pre>
+  <img class="object-cover object-center w-24 h-24 rounded-full" src='https://datasketch.github.io/mujer-palabra-resistencia/images/creditos/paola-nirta.png' alt="">
+  <div class="mt-2 font-playfair-display text-center text-lg leading-tight flex-grow">
     <p class="font-bold">Paola Nirta</p>
-    <p class="italic text-lg">Creativa visual social media</p>
+    <p class="italic text-base">Creativa visual / Redes sociales</p>
   </div>
   <button class="mt-4 text-lg text-eerie-black md:hidden">Ver más</button>
 </div>
       
         <div class="profile flex flex-col items-center py-4 px-1 cursor-pointer hover:shadow-2xl">
-  <pre class="hidden">{"avatar":"images/creditos/luis-fuenmayor.png","bio":"Wayuu del clan Epieyuu. Profesor en Educación Intercultural Bilingüe. Productor de campo y traductor indígena del pueblo Wayuu. Miembro de la Red de Comunicaciones del Pueblo Wayuu Pütchimaajama. Sus crónicas han sido publicadas en los periódicos El Espectador, Wayuunaiki y Notiwayuu. Tradujo los textos de este especial periodístico de castellano a Wayuunaiki.","cargo":"Traductor indígena pueblo Wayuu","nombre":"Luis Fuenmayor","slug":"luis-fuenmayor"}</pre>
-  <img class="object-cover object-top w-24 h-24 rounded-full" src='https://datasketch.github.io/mujer-palabra-resistencia/images/creditos/luis-fuenmayor.png' alt="">
-  <div class="mt-2 font-playfair-display text-center text-xl leading-tight flex-grow">
+  <pre class="hidden">{"avatar":"images/creditos/luis-fuenmayor.png","bio":"Wayuu del clan Epieyuu. Profesor en Educación Intercultural Bilingüe. Productor de campo y traductor indígena del pueblo Wayuu. Miembro de la Red de Comunicaciones del Pueblo Wayuu Pütchimaajama. Sus crónicas han sido publicadas en los periódicos El Espectador, Wayuunaiki y Notiwayuu. Tradujo los textos de este especial periodístico de castellano a Wayuunaiki.","cargo":"Comunicador comunitario indígena del pueblo Wayuu","facebook":"https://www.facebook.com/luis.fuenmayor.568","nombre":"Luis Fuenmayor","slug":"luis-fuenmayor"}</pre>
+  <img class="object-cover object-center w-24 h-24 rounded-full" src='https://datasketch.github.io/mujer-palabra-resistencia/images/creditos/luis-fuenmayor.png' alt="">
+  <div class="mt-2 font-playfair-display text-center text-lg leading-tight flex-grow">
     <p class="font-bold">Luis Fuenmayor</p>
-    <p class="italic text-lg">Traductor indígena pueblo Wayuu</p>
+    <p class="italic text-base">Comunicador comunitario indígena del pueblo Wayuu</p>
   </div>
   <button class="mt-4 text-lg text-eerie-black md:hidden">Ver más</button>
 </div>
       
         <div class="profile flex flex-col items-center py-4 px-1 cursor-pointer hover:shadow-2xl">
-  <pre class="hidden">{"avatar":"images/creditos/juliana-galvis.png","bio":"Politóloga y candidata a magíster en Humanidades Digitales. Actualmente lidera el desarrollo de la base de datos Who Is y apoya investigaciones periodísticas y la creación de bases de datos diversas.","cargo":"Periodista de datos","nombre":"Juliana Galvis","slug":"juliana-galvis","twitter":"https://twitter.com/GalvisNieto"}</pre>
-  <img class="object-cover object-top w-24 h-24 rounded-full" src='https://datasketch.github.io/mujer-palabra-resistencia/images/creditos/juliana-galvis.png' alt="">
-  <div class="mt-2 font-playfair-display text-center text-xl leading-tight flex-grow">
+  <pre class="hidden">{"avatar":"images/creditos/juliana-galvis.png","bio":"Politóloga y candidata a magíster en Humanidades Digitales. Actualmente lidera el desarrollo de la base de datos *Who Is* y apoya investigaciones periodísticas y la creación de bases de datos diversas.","cargo":"Periodista de datos","nombre":"Juliana Galvis","slug":"juliana-galvis","twitter":"https://twitter.com/GalvisNieto"}</pre>
+  <img class="object-cover object-center w-24 h-24 rounded-full" src='https://datasketch.github.io/mujer-palabra-resistencia/images/creditos/juliana-galvis.png' alt="">
+  <div class="mt-2 font-playfair-display text-center text-lg leading-tight flex-grow">
     <p class="font-bold">Juliana Galvis</p>
-    <p class="italic text-lg">Periodista de datos</p>
+    <p class="italic text-base">Periodista de datos</p>
   </div>
   <button class="mt-4 text-lg text-eerie-black md:hidden">Ver más</button>
 </div>
       
         <div class="profile flex flex-col items-center py-4 px-1 cursor-pointer hover:shadow-2xl">
   <pre class="hidden">{"avatar":"images/creditos/mariana-villamizar.png","bio":"Ingeniera de sistemas y diseñadora. Experta en experiencia de usuario, visualización de datos y comunicación gráfica. Feminista.","cargo":"Diseño general","nombre":"Mariana Villamizar","slug":"mariana-villamizar"}</pre>
-  <img class="object-cover object-top w-24 h-24 rounded-full" src='https://datasketch.github.io/mujer-palabra-resistencia/images/creditos/mariana-villamizar.png' alt="">
-  <div class="mt-2 font-playfair-display text-center text-xl leading-tight flex-grow">
+  <img class="object-cover object-center w-24 h-24 rounded-full" src='https://datasketch.github.io/mujer-palabra-resistencia/images/creditos/mariana-villamizar.png' alt="">
+  <div class="mt-2 font-playfair-display text-center text-lg leading-tight flex-grow">
     <p class="font-bold">Mariana Villamizar</p>
-    <p class="italic text-lg">Diseño general</p>
+    <p class="italic text-base">Diseño general</p>
   </div>
   <button class="mt-4 text-lg text-eerie-black md:hidden">Ver más</button>
 </div>
       
         <div class="profile flex flex-col items-center py-4 px-1 cursor-pointer hover:shadow-2xl">
   <pre class="hidden">{"avatar":"images/creditos/juan-pablo-marin.png","bio":"Ingeniero electrónico con maestría en estadística computacional. Experto en ciencia de datos con aplicaciones en múltiples áreas como economía, hidrología y periodismo.","cargo":"Análisis de datos","nombre":"Juan Pablo Marín","slug":"juan-pablo-marin","twitter":"https://twitter.com/jpmarindiaz"}</pre>
-  <img class="object-cover object-top w-24 h-24 rounded-full" src='https://datasketch.github.io/mujer-palabra-resistencia/images/creditos/juan-pablo-marin.png' alt="">
-  <div class="mt-2 font-playfair-display text-center text-xl leading-tight flex-grow">
+  <img class="object-cover object-center w-24 h-24 rounded-full" src='https://datasketch.github.io/mujer-palabra-resistencia/images/creditos/juan-pablo-marin.png' alt="">
+  <div class="mt-2 font-playfair-display text-center text-lg leading-tight flex-grow">
     <p class="font-bold">Juan Pablo Marín</p>
-    <p class="italic text-lg">Análisis de datos</p>
+    <p class="italic text-base">Análisis de datos</p>
   </div>
   <button class="mt-4 text-lg text-eerie-black md:hidden">Ver más</button>
 </div>
       
         <div class="profile flex flex-col items-center py-4 px-1 cursor-pointer hover:shadow-2xl">
   <pre class="hidden">{"avatar":"images/creditos/david-daza.png","bio":"Licenciado en Electrónica. Experto en desarrollo de aplicaciones y sitios web con énfasis en periodismo de datos y gestión de contenidos de múltiples bases de datos.","cargo":"Desarrollo web","nombre":"David Daza","slug":"david-daza","twitter":"https://twitter.com/_daviddaza"}</pre>
-  <img class="object-cover object-top w-24 h-24 rounded-full" src='https://datasketch.github.io/mujer-palabra-resistencia/images/creditos/david-daza.png' alt="">
-  <div class="mt-2 font-playfair-display text-center text-xl leading-tight flex-grow">
+  <img class="object-cover object-center w-24 h-24 rounded-full" src='https://datasketch.github.io/mujer-palabra-resistencia/images/creditos/david-daza.png' alt="">
+  <div class="mt-2 font-playfair-display text-center text-lg leading-tight flex-grow">
     <p class="font-bold">David Daza</p>
-    <p class="italic text-lg">Desarrollo web</p>
+    <p class="italic text-base">Desarrollo web</p>
   </div>
   <button class="mt-4 text-lg text-eerie-black md:hidden">Ver más</button>
 </div>
       
         <div class="profile flex flex-col items-center py-4 px-1 cursor-pointer hover:shadow-2xl">
   <pre class="hidden">{"avatar":"images/creditos/camila-achuri.png","bio":"Estadística y experta en lenguaje de programación R. Ha desarrollado diversas aplicaciones de visualización de datos en temas de movilidad y datos abiertos.","cargo":"Análisis de datos","nombre":"Camila Achuri","slug":"camila-achuri"}</pre>
-  <img class="object-cover object-top w-24 h-24 rounded-full" src='https://datasketch.github.io/mujer-palabra-resistencia/images/creditos/camila-achuri.png' alt="">
-  <div class="mt-2 font-playfair-display text-center text-xl leading-tight flex-grow">
+  <img class="object-cover object-center w-24 h-24 rounded-full" src='https://datasketch.github.io/mujer-palabra-resistencia/images/creditos/camila-achuri.png' alt="">
+  <div class="mt-2 font-playfair-display text-center text-lg leading-tight flex-grow">
     <p class="font-bold">Camila Achuri</p>
-    <p class="italic text-lg">Análisis de datos</p>
+    <p class="italic text-base">Análisis de datos</p>
   </div>
   <button class="mt-4 text-lg text-eerie-black md:hidden">Ver más</button>
 </div>
@@ -253,25 +250,20 @@
     <img class="mx-auto py-16" src='https://datasketch.github.io/mujer-palabra-resistencia/images/separador.svg' alt="">
     <div class="w-full md:w-2/3">
       <div class="markup" id="agradecimientos">
-        <p>
-          <em>Agradecimientos</em>
-        </p>
-        <h2>Pueblo Wayuu</h2>
+        <h2>Agradecimientos</h2>
+        <h3>Pueblo Wayuu</h3>
         <p>A woumainkat (nuestro territorio), a mma (madre tierra), a juya (la lluvia) y a todos los seres que guiaron nuestros pasos para plasmar desde la palabra, la resistencia y el ser de cada una de las mujeres que hacen parte de las historias de este especial. A la Red de Comunicaciones del Pueblo Wayuu Pütchimajaana, por ser una pieza esencial en este recorrido y brindarnos la oportunidad de avanzar en el marco de la Muestra de Cine y Video Wayuu de 2020. A las comunidades de Alakat, Majali y Perrámana por permitirnos ser parte de ustedes, acompañándonos desde las sonrisas y las caminatas bajo el inclemente sol de La Guajira. A la familia Uriana González, a la autoridad tradicional Margarita Epieyu, a Ángel González y a todas las mujeres Wayuu que desde su ser femenino siguen enseñándonos que las fronteras no existen para los pueblos indígenas porque somos hijos e hijas de la madre y merecemos seguir siendo Wayuu en cualquier parte del mundo sin barreras. “Agradezco particularmente a Karla Uriana González, una niña Wayuu que hoy desde la ausencia de su abuelo me sigue enseñando desde su ser la importancia del ser Wayuu en donde quiera que estemos”, Luzbeidy Monterrosa Atencio.</p>
         <hr>
-        <h2>Pueblo Tikuna</h2>
-        <p>A todos los pueblos originarios de la Amazonía Colombiana, a las mujeres líderes del movimiento indígena, a las sabedoras, parteras y médicas tradicionales que luchan por mantener y transmitir las culturas indígenas. A los hermanos Tikunas, Cocamas y Yaguas y a su Asociación Aticoya por recibirnos en su territorio y poder construir parte de esta historia. A la familia Laulate Castillo por abrirnos las puertas de su casa. En especial a todos los pueblos indígenas del trapecio Amazónico (Colombia-Brasil-Perú) que hoy sufren la presencia del virus Covid-19. “Por último, quiero terminar agradeciendo a mi familia y a mi hija por ausentarme un tiempo en la construcción de este proyecto. Fuerza y resistencia siempre”, Vannessa Teteye.</p>
+        <h3>Pueblo Tikuna</h3>
+        <p>A todos los pueblos originarios de la Amazonía colombiana, a las mujeres líderes del movimiento indígena, a las sabedoras, parteras y médicas tradicionales que luchan por mantener y transmitir las culturas indígenas. A los hermanos Tikunas, Cocamas y Yaguas y a su Asociación Aticoya por recibirnos en su territorio y poder construir parte de esta historia. A la familia Laulate Castillo por abrirnos las puertas de su casa. En especial a todos los pueblos indígenas del trapecio Amazónico (Colombia-Brasil-Perú) que hoy sufren la presencia del virus Covid-19. “Por último, quiero terminar agradeciendo a mi familia y a mi hija por ausentarme un tiempo en la construcción de este proyecto. Fuerza y resistencia siempre”, Vanessa Teteye.</p>
         <hr>
-        <h2>Territorio Gunadule</h2>
-        <p>A la fuerza femenina del pueblo Gunadule, a las Dule omegan, incluyendo a las de Panamá, las del Chocó, las de Antioquia, por llevar el legado de nuestra escritura que es la mola y que gracias a la mola los Gunadules siguen perviviendo y son visibilizados en el mundo. A los saglas (caciques) de la comunidad Ibgigundiwala por permitirnos llegar hasta allá y hacer este trabajo. A la familia Santacruz Álvarez Lemus (Miguelina Álvarez, Nan dummad; Manuel Santacruz Lemus, Babbibo; Abadio Green Stocel, An Baaba; Amelicia Santacruz Álvarez, An Nana; Teodonilda Santacruz Álvarez y Olmilda Santacruz Álvarez, ammol; Rosiris Uribe Jaramillo, Mónica Andrea Martínez Uribe y Crimilda González Bolívar), por recibirnos en sus casas y compartir sus historias. “Quiero agradecerle a mi madre y a mi padre por darme esa fuerza que tienen los dos a nivel social y político. Si no fuera por ellos, yo tampoco sería la mujer que soy ahora. También darle las gracias a Nabguana (la Madre Tierra) por dejarme vivir y recorrer mis territorios y los de otros pueblos para seguir contando nuestras historias, y enaltecer y dignificar nuestras culturas”, Olowaili Green Santacruz.</p>
+        <h3>Pueblo Gunadule</h3>
+        <p>A la fuerza femenina del pueblo Gunadule, a las Dule omegan, incluyendo a las de Panamá y a las de Colombia (en Chocó y Antioquia), por llevar el legado de nuestra escritura que es la mola. A los saglas (caciques) de la comunidad Ibgigundiwala por permitirnos llegar hasta allá y hacer este trabajo. A la familia Santacruz Álvarez Lemus (Miguelina Álvarez, Nan dummad; Manuel Santacruz Lemus, Babbibo; Abadio Green Stocel, An Baaba; Amelicia Santacruz Álvarez, An Nana; Teodonilda Santacruz Álvarez y Olmilda Santacruz Álvarez, ammol; Rosiris Uribe Jaramillo, Mónica Andrea Martínez Uribe y Crimilda González Bolívar), por recibirnos en sus casas y compartir sus historias. “Quiero agradecerle a mi madre y a mi padre por darme esa fuerza que tienen los dos a nivel social y político. Si no fuera por ellos, yo tampoco sería la mujer que soy ahora. También darle las gracias a Nabguana (la Madre Tierra) por dejarme vivir y recorrer mis territorios y los de otros pueblos para seguir contando nuestras historias, y enaltecer y dignificar nuestras culturas”, Olowaili Green Santacruz.</p>
       </div>
     </div>
     <img class="mx-auto py-16" src='https://datasketch.github.io/mujer-palabra-resistencia/images/separador.svg' alt="">
-    <div class="markup" id="medios-aliados">
-      <p>
-        <em>Aliados</em>
-      </p>
-      <h2>Quiénes nos apoyan</h2>
+    <div class="markup" id="aliados">
+      <h2>Aliados</h2>
     </div>
     <img class="mx-auto py-16" src='https://datasketch.github.io/mujer-palabra-resistencia/images/separador.svg' alt="">
     <div class="markup">
@@ -311,7 +303,7 @@
           <img class="w-8" src='https://datasketch.github.io/mujer-palabra-resistencia/images/cc_2.svg' alt="">
           <img class="w-8" src='https://datasketch.github.io/mujer-palabra-resistencia/images/cc_3.svg' alt="">
         </div>
-        <p class="text-sm leading-tight mt-4">Todo el material en esta página, cuando no se indique lo contrario, es CC-BY-SA. Si reúsas o adaptas recursos de esta página por favor vincúlalos y referéncialos.</p>
+        <p class="text-sm leading-tight mt-4">Todo el material en esta página, cuando no se indique lo contrario, es <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.es" target="_blank" rel="noopener noreferrer">CC-BY-SA</a>. Si reúsas o adaptas recursos de esta página por favor vincúlalos y referéncialos.</p>
       </div>
     </div>
   </div>
@@ -319,6 +311,7 @@
   
   <script src="https://datasketch.github.io/mujer-palabra-resistencia/js/site.min.js"></script>
   
+<script src='https://datasketch.github.io/mujer-palabra-resistencia/vendors/markdown-it/markdown-it.min.js'></script>
 
 <script src="https://datasketch.github.io/mujer-palabra-resistencia/js/sobre.min.js"></script>
 

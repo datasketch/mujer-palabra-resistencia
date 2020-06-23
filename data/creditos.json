@@ -3,15 +3,15 @@
     "nombre": "Edilma Prada Céspedes",
     "slug": "edilma-prada",
     "avatar": "images/creditos/edilma-prada.png",
-    "cargo": "Dirección editorial y periodista",
+    "cargo": "Directora editorial y periodista",
     "instagram": "https://instagram.com/edilma_prada",
-    "bio": "Periodista de investigación. Especialista en Derechos Humanos y Cultura de Paz. Fundadora y directora de Agenda Propia. Creadora de la metodología Periodismo Colaborativo Intercultural que une a actores de la sociedad civil para realizar historias y reportajes a profundidad. Pulitzer Center Grantee - Rainforest Journalism Fund y Fellow del International Women’s Media Foundation."
+    "bio": "Periodista de investigación. Especialista en Derechos Humanos y Cultura de Paz. Fundadora y directora de **Agenda Propia**. Creadora de la metodología *Periodismo Colaborativo Intercultural* que une a actores de la sociedad civil para realizar historias y reportajes a profundidad. Pulitzer Center Grantee - Rainforest Journalism Fund y Fellow del International Women’s Media Foundation."
   },
   {
     "nombre": "Luzbeidy Monterrosa Atencio",
     "slug": "luzbeidy-monterrosa",
     "avatar": "images/creditos/luzbeidy.png",
-    "cargo": "Comunicadora y periodista indígena",
+    "cargo": "Comunicadora y periodista indígena del pueblo Wayuu",
     "instagram": "https://instagram.com/luzbeidy_monterrosa",
     "bio": "Mujer joven indígena del Eirüku Siijono, perteneciente a la nación Wayuu en La Guajira colombo-venezolana. Egresada en 2015 de la Escuela de Comunicaciones Wayuu como Comunicadora Indígena Comunitaria con énfasis en Audiovisual. Ha trabajado en fotografía y cámara de algunos cortometrajes y reportajes, y ha hecho el acompañamiento a procesos organizativos. Actualmente es estudiante de cine en la Escuela Nacional de Cine (Enacc)."
   },
@@ -19,7 +19,7 @@
     "nombre": "Vanessa Teteye Mendoza",
     "slug": "vanessa-teteye",
     "avatar": "images/creditos/vanessa-teteye.png",
-    "cargo": "Comunicadora y periodista indígena",
+    "cargo": "Comunicadora y periodista indígena del pueblo Bora",
     "instagram": "https://instagram.com/mariimulle",
     "bio": "Maríímulle (nombre indígena) nació en La Chorrera, Amazonas en 1993. Es indígena Bora del clan Iñeje (canangucho) por parte de su padre y Uitoto por parte de su madre. Comunicadora social indígena que ha acompañado a la Organización Nacional Indígena de Colombia (ONIC) y a la Escuela de la Organización Nacional de los Pueblos Indígenas de la Amazonia Colombiana (Opiac) en los diferentes campos de comunicación. Busca visibilizar y proteger la vivencia y el cuidado del territorio de los pueblos originarios a través de la comunicación propia."
   },
@@ -27,8 +27,8 @@
     "nombre": "Olowaili Green Santacruz",
     "slug": "olowaili-green",
     "avatar": "images/creditos/olowaili-green-santacruz.png",
-    "cargo": "Madre de las estrellas. Comunicadora indígena audiovisual y traductora.",
-    "twitter": "https://twitter.com/edilmaprada",
+    "cargo": "Comunicadora audiovisual indígena del pueblo Gunadule",
+    "instagram": "https://instagram.com/olowailigreen",
     "bio": "Su nombre significa Madre de las estrellas. Mujer joven indígena del pueblo Gunadule (Colombia-Panamá), realizadora y productora audiovisual de la casa productora sentARTE, arte con sentido que trabaja en pro de la visibilización, salvaguarda e inclusión social de las diversidades del país. Actualmente termina sus estudios en Comunicación Audiovisual en el Politécnico Jaime Isaza Cadavid en la ciudad de Medellín. Tradujo los textos de este especial periodístico de castellano a Dulegaya."
   },
   {
@@ -37,7 +37,7 @@
     "avatar": "images/creditos/pablo-albarenga.png",
     "cargo": "Fotografía y video",
     "instagram": "https://instagram.com/pabloa.photo",
-    "bio": "Fotógrafo documental y storyteller. National Geographic Explorer y Pulitzer Center Grantee. Dedica su trabajo a asuntos de colonización y la lucha de los pueblos tradicionales en América Latina. Recientemente fue reconocido como Fotógrafo del Año por los premios Sony World Photography 2020 por su trabajo en las comunidades indígenas de América Latina."
+    "bio": "Fotógrafo documental y *storyteller*. National Geographic Explorer y Pulitzer Center Grantee. Dedica su trabajo a asuntos de colonización y la lucha de los pueblos tradicionales en América Latina. Recientemente fue reconocido como Fotógrafo del Año por los premios Sony World Photography 2020 por su trabajo en las comunidades indígenas de América Latina."
   },
   {
     "nombre": "Nathalia Salamanca",
@@ -45,29 +45,30 @@
     "avatar": "images/creditos/nathalia-salamanca.png",
     "cargo": "Editora de textos",
     "twitter": "https://twitter.com/nthl_s",
-    "bio": "Periodista e investigadora social, con un doctorado en Sociología de la Universidad de Edimburgo en el Reino Unido. Editora de textos y correctora de estilo. Actualmente es Coordinadora de la Red Tejiendo Historias de Agenda Propia, espacio de encuentro abierto y público para grupos de comunicadores y periodistas mixtos –indígenas y no indígenas– en América Latina."
+    "bio": "Periodista e investigadora social, con un doctorado en Sociología de la Universidad de Edimburgo en el Reino Unido. Editora de textos y correctora de estilo. Actualmente es Coordinadora de la Red Tejiendo Historias de **Agenda Propia**, espacio de encuentro abierto y público para grupos de comunicadores y periodistas mixtos –indígenas y no indígenas– en América Latina."
   },
   {
-    "nombre": "Cindy Amalec Laulate Castillo (Ünãgükü Taüchina)",
+    "nombre": "Cindy Amalec Laulate Castillo ",
     "slug": "cindy-amalec",
     "avatar": "images/creditos/cindy-amalec.png",
-    "cargo": "Productora de campo y traductora indígena pueblo Magüta - Tikuna",
+    "cargo": "Gestora cultural y productora del pueblo Tikuna",
     "facebook": "https://www.facebook.com/cindyamalec.laulatecastillo",
     "bio": "Ünãgükü Taüchina (nombre indígena) es una mujer Magüta (Tikuna) originaria de la comunidad de San Francisco de Loretoyaco, Resguardo Aticoya, Municipio de Puerto Nariño, Amazonas. Gestora cultural. Egresada de la Escuela de Formación Política de Organización Nacional de los Pueblos Indígenas de la Amazonia Colombiana (Opiac) e integrante de la Red de Enfrentamiento a la Trata de Personas en la Triple Frontera. Tradujo los textos de este especial periodístico de castellano a Tikuna."
   },
   {
     "nombre": "Paola Nirta",
     "slug": "paola-nirta",
-    "avatar": "images/creditos/paola-nirtaa.png",
-    "cargo": "Creativa visual social media",
+    "avatar": "images/creditos/paola-nirta.png",
+    "cargo": "Creativa visual / Redes sociales",
     "instagram": "https://instagram.com/la_nirta_p",
-    "bio": "Diseñadora gráfica, con énfasis en diseño editorial, digital y desarrollo de identidad gráfica. Trabajó como Coordinadora de Diseño de la Fundación Gabo y actualmente es la Coordinadora de Comunicaciones y Creativa Visual de Agenda Propia. En 2012 dirigió el cortometraje \"El Ciclo\", que ocupó el Segundo lugar en el Festival Tornado en Cartagena, Colombia. Ha participado en varios proyectos colaborativos de arte, video, fotografía y diseño."
+    "bio": "Diseñadora gráfica, con énfasis en diseño editorial, digital y desarrollo de identidad gráfica. Trabajó como Coordinadora de Diseño de la Fundación Gabo y actualmente es la Coordinadora de Comunicaciones y Creativa Visual de **Agenda Propia**. En 2012 dirigió el cortometraje \"El Ciclo\", que ocupó el Segundo lugar en el Festival Tornado en Cartagena, Colombia. Ha participado en varios proyectos colaborativos de arte, video, fotografía y diseño."
   },
   {
     "nombre": "Luis Fuenmayor",
     "slug": "luis-fuenmayor",
     "avatar": "images/creditos/luis-fuenmayor.png",
-    "cargo": "Traductor indígena pueblo Wayuu",
+    "cargo": "Comunicador comunitario indígena del pueblo Wayuu",
+    "facebook": "https://www.facebook.com/luis.fuenmayor.568",
     "bio": "Wayuu del clan Epieyuu. Profesor en Educación Intercultural Bilingüe. Productor de campo y traductor indígena del pueblo Wayuu. Miembro de la Red de Comunicaciones del Pueblo Wayuu Pütchimaajama. Sus crónicas han sido publicadas en los periódicos El Espectador, Wayuunaiki y Notiwayuu. Tradujo los textos de este especial periodístico de castellano a Wayuunaiki."
   },
   {
@@ -76,7 +77,7 @@
     "avatar": "images/creditos/juliana-galvis.png",
     "cargo": "Periodista de datos",
     "twitter": "https://twitter.com/GalvisNieto",
-    "bio": "Politóloga y candidata a magíster en Humanidades Digitales. Actualmente lidera el desarrollo de la base de datos Who Is y apoya investigaciones periodísticas y la creación de bases de datos diversas."
+    "bio": "Politóloga y candidata a magíster en Humanidades Digitales. Actualmente lidera el desarrollo de la base de datos *Who Is* y apoya investigaciones periodísticas y la creación de bases de datos diversas."
   },
   {
     "nombre": "Mariana Villamizar",

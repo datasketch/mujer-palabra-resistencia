@@ -2,10 +2,10 @@
 <input type="hidden" id="base" name="base" value="{{ .Site.BaseURL }}">
 {{ partial "modal.html" . }}
 <div class="px-4 py-2 shadow-md bg-white flex items-center sticky top-0 space-x-12 text-lg overflow-x-auto sm:justify-center lg:text-xl">
-  <a class="flex-shrink-0" href="#presentacion">Presentación del proyecto</a>
-  <a class="flex-shrink-0" href="#creditos">Colectivo periodístico intercultural</a>
+  <a class="flex-shrink-0" href="#presentacion">Presentación</a>
+  <a class="flex-shrink-0" href="#colectivo">Colectivo periodístico intercultural</a>
   <a class="flex-shrink-0" href="#agradecimientos">Agradecimientos</a>
-  <a class="flex-shrink-0" href="#medios-aliados">Aliados</a>
+  <a class="flex-shrink-0" href="#aliados">Aliados</a>
 </div>
 <div class="px-4 mt-24 pb-24 bg-titan-white">
   <div class="mx-auto w-full md:w-4/5">
@@ -15,11 +15,8 @@
       </div>
     </div>
     <img class="mx-auto py-16" src='{{ "images/separador.svg" | absURL }}' alt="">
-    <div class="markup" id="creditos">
-      <p>
-        <em>Colectivo periodístico intercultural</em>
-      </p>
-      <h2>Nuestro equipo</h2>
+    <div class="markup" id="colectivo">
+      <h2>Colectivo periodístico intercultural</h2>
     </div>
     <div class="mt-12 gap-8 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
       {{ range .Site.Data.creditos }}
@@ -29,25 +26,20 @@
     <img class="mx-auto py-16" src='{{ "images/separador.svg" | absURL }}' alt="">
     <div class="w-full md:w-2/3">
       <div class="markup" id="agradecimientos">
-        <p>
-          <em>Agradecimientos</em>
-        </p>
-        <h2>Pueblo Wayuu</h2>
+        <h2>Agradecimientos</h2>
+        <h3>Pueblo Wayuu</h3>
         <p>A woumainkat (nuestro territorio), a mma (madre tierra), a juya (la lluvia) y a todos los seres que guiaron nuestros pasos para plasmar desde la palabra, la resistencia y el ser de cada una de las mujeres que hacen parte de las historias de este especial. A la Red de Comunicaciones del Pueblo Wayuu Pütchimajaana, por ser una pieza esencial en este recorrido y brindarnos la oportunidad de avanzar en el marco de la Muestra de Cine y Video Wayuu de 2020. A las comunidades de Alakat, Majali y Perrámana por permitirnos ser parte de ustedes, acompañándonos desde las sonrisas y las caminatas bajo el inclemente sol de La Guajira. A la familia Uriana González, a la autoridad tradicional Margarita Epieyu, a Ángel González y a todas las mujeres Wayuu que desde su ser femenino siguen enseñándonos que las fronteras no existen para los pueblos indígenas porque somos hijos e hijas de la madre y merecemos seguir siendo Wayuu en cualquier parte del mundo sin barreras. “Agradezco particularmente a Karla Uriana González, una niña Wayuu que hoy desde la ausencia de su abuelo me sigue enseñando desde su ser la importancia del ser Wayuu en donde quiera que estemos”, Luzbeidy Monterrosa Atencio.</p>
         <hr>
-        <h2>Pueblo Tikuna</h2>
-        <p>A todos los pueblos originarios de la Amazonía Colombiana, a las mujeres líderes del movimiento indígena, a las sabedoras, parteras y médicas tradicionales que luchan por mantener y transmitir las culturas indígenas. A los hermanos Tikunas, Cocamas y Yaguas y a su Asociación Aticoya por recibirnos en su territorio y poder construir parte de esta historia. A la familia Laulate Castillo por abrirnos las puertas de su casa. En especial a todos los pueblos indígenas del trapecio Amazónico (Colombia-Brasil-Perú) que hoy sufren la presencia del virus Covid-19. “Por último, quiero terminar agradeciendo a mi familia y a mi hija por ausentarme un tiempo en la construcción de este proyecto. Fuerza y resistencia siempre”, Vannessa Teteye.</p>
+        <h3>Pueblo Tikuna</h3>
+        <p>A todos los pueblos originarios de la Amazonía colombiana, a las mujeres líderes del movimiento indígena, a las sabedoras, parteras y médicas tradicionales que luchan por mantener y transmitir las culturas indígenas. A los hermanos Tikunas, Cocamas y Yaguas y a su Asociación Aticoya por recibirnos en su territorio y poder construir parte de esta historia. A la familia Laulate Castillo por abrirnos las puertas de su casa. En especial a todos los pueblos indígenas del trapecio Amazónico (Colombia-Brasil-Perú) que hoy sufren la presencia del virus Covid-19. “Por último, quiero terminar agradeciendo a mi familia y a mi hija por ausentarme un tiempo en la construcción de este proyecto. Fuerza y resistencia siempre”, Vanessa Teteye.</p>
         <hr>
-        <h2>Territorio Gunadule</h2>
-        <p>A la fuerza femenina del pueblo Gunadule, a las Dule omegan, incluyendo a las de Panamá, las del Chocó, las de Antioquia, por llevar el legado de nuestra escritura que es la mola y que gracias a la mola los Gunadules siguen perviviendo y son visibilizados en el mundo. A los saglas (caciques) de la comunidad Ibgigundiwala por permitirnos llegar hasta allá y hacer este trabajo. A la familia Santacruz Álvarez Lemus (Miguelina Álvarez, Nan dummad; Manuel Santacruz Lemus, Babbibo; Abadio Green Stocel, An Baaba; Amelicia Santacruz Álvarez, An Nana; Teodonilda Santacruz Álvarez y Olmilda Santacruz Álvarez, ammol; Rosiris Uribe Jaramillo, Mónica Andrea Martínez Uribe y Crimilda González Bolívar), por recibirnos en sus casas y compartir sus historias. “Quiero agradecerle a mi madre y a mi padre por darme esa fuerza que tienen los dos a nivel social y político. Si no fuera por ellos, yo tampoco sería la mujer que soy ahora. También darle las gracias a Nabguana (la Madre Tierra) por dejarme vivir y recorrer mis territorios y los de otros pueblos para seguir contando nuestras historias, y enaltecer y dignificar nuestras culturas”, Olowaili Green Santacruz.</p>
+        <h3>Pueblo Gunadule</h3>
+        <p>A la fuerza femenina del pueblo Gunadule, a las Dule omegan, incluyendo a las de Panamá y a las de Colombia (en Chocó y Antioquia), por llevar el legado de nuestra escritura que es la mola. A los saglas (caciques) de la comunidad Ibgigundiwala por permitirnos llegar hasta allá y hacer este trabajo. A la familia Santacruz Álvarez Lemus (Miguelina Álvarez, Nan dummad; Manuel Santacruz Lemus, Babbibo; Abadio Green Stocel, An Baaba; Amelicia Santacruz Álvarez, An Nana; Teodonilda Santacruz Álvarez y Olmilda Santacruz Álvarez, ammol; Rosiris Uribe Jaramillo, Mónica Andrea Martínez Uribe y Crimilda González Bolívar), por recibirnos en sus casas y compartir sus historias. “Quiero agradecerle a mi madre y a mi padre por darme esa fuerza que tienen los dos a nivel social y político. Si no fuera por ellos, yo tampoco sería la mujer que soy ahora. También darle las gracias a Nabguana (la Madre Tierra) por dejarme vivir y recorrer mis territorios y los de otros pueblos para seguir contando nuestras historias, y enaltecer y dignificar nuestras culturas”, Olowaili Green Santacruz.</p>
       </div>
     </div>
     <img class="mx-auto py-16" src='{{ "images/separador.svg" | absURL }}' alt="">
-    <div class="markup" id="medios-aliados">
-      <p>
-        <em>Aliados</em>
-      </p>
-      <h2>Quiénes nos apoyan</h2>
+    <div class="markup" id="aliados">
+      <h2>Aliados</h2>
     </div>
     <img class="mx-auto py-16" src='{{ "images/separador.svg" | absURL }}' alt="">
     <div class="markup">
@@ -62,6 +54,7 @@
 {{ end }}
 
 {{ define "scripts" }}
+<script src='{{ "vendors/markdown-it/markdown-it.min.js" | absURL }}'></script>
 {{ $sobre_js := resources.Get "js/sobre.js" | minify }}
 <script src="{{ $sobre_js.Permalink }}"></script>
 {{ end }}

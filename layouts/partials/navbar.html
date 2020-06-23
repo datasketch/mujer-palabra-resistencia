@@ -1,6 +1,6 @@
 {{ $pages := (slice "sobre" "datos") }}
 {{ $static := in $pages .Type }}
-<header class="px-4 py-2 bg-eerie-black w-full z-10 {{ if not $static }}absolute bg-opacity-85{{ end }}">
+<header class="px-4 py-2 bg-eerie-black w-full z-10{{ if not $static }}{{ if .IsHome }} fixed bg-opacity-85{{ else }} absolute bg-opacity-85{{ end }}{{ end }}">
   <nav class="font-georgia text-lg">
     <div class="flex items-center justify-between lg:hidden">
       <a href="https://www.agendapropia.co/" target="_blank" rel="noopener noreferrer">
