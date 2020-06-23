@@ -14,12 +14,9 @@
       <a href="https://www.agendapropia.co/" target="_blank" rel="noopener noreferrer">
         <img class="w-24" src='{{ "images/agenda-propia.svg" | absURL }}' alt="Agenda propia">
       </a>
-      <a href="{{ .Site.BaseURL }}">{{ T "inicio" }}</a>
-      <a href='{{ relref . "sobre-la-iniciativa.md" }}'>Sobre la iniciativa</a>
-      <a href='{{ relref . "pueblo-wayuu/_index.md" }}'>Pueblo <strong>Wayuu</strong></a>
-      <a href='{{ relref . "pueblo-gunadule/_index.md" }}'>Pueblo <strong>Gunadule</strong></a>
-      <a href='{{ relref . "pueblo-tikuna/_index.md" }}'>Pueblo <strong>Tikuna</strong></a>
-      <a href='{{ relref . "conoce-los-datos.md" }}'>Repositorio de datos</a>
+      {{ range .Site.Menus.main }}
+        <a href="{{ .URL }}">{{ .Name }}</a>
+      {{ end }}
       <div class="flex items-center space-x-4">
         <a href="">
           <img src='{{ "images/tw.svg" | absURL }}' alt="">

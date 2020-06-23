@@ -1,6 +1,6 @@
 ---
-title: "La lucha de Lourdes: la partería tradicional"
-description: "La partera Lourdes Firmino Araújo, del pueblo Tikuna, lucha por condiciones dignas para las mujeres y hombres indígenas que se dedican a la partería en las fronteras de los tres países amazónicos: Brasil, Colombia y Perú. Desde que era una niña, Lourdes aprendió de su abuela a atender a las mujeres en el momento del parto. Para ella, recibir la vida es lo más preciado."
+title: "Tümarü wogü Lourdesaru: tümarü íraãküeêrüû maiyugü arü takümagü"
+description: "Yíema íraãküerüû Lourdes Firmino Araújo, Magütaka ni î, ta daigü tarü mêû maûka ka  para las ngeûgü rü yatüûgü maiyugüka rü nigü inaã yia íraãküeêrüû nawa nüû tomepüarü üyeane taküka: Brasil, Colombia y Perú. Yegumakürüwa wuíe buû chiî, Lourdes  noêwa  ta na ngu, ru ta ngûêê nüû ngeûgü tüma paãcchi arü Iraakü. Tümakã, yia na nayau yiema Maû yeeraãkü na meechi."
 author: "Edilma Prada Céspedes"
 mapa: "tikuna"
 type: "historias"
@@ -9,88 +9,102 @@ images:
   - "images/historias/la-lucha-de-lourdes.jpeg"
 ---
 
-Con sus suaves manos, Lourdes masajea el vientre de su nuera. Se percata de que el bebé, de siete meses de gestación, esté bien acomodado en el útero. Usa aceites naturales de plantas de la selva amazónica para frotar el abdomen de la madre y así armonizarla y tranquilizarla a ella y a su criatura. Ambas están en la habitación de la vivienda de Lourdes, que se ilumina con una cálida luz que llega de la ventana. Lourdes le dice a la madre que todo va bien, la aconseja y la va preparando para el nacimiento de su hijo.
+Ngîmaã norü namēma ngomüû, Lourdes tümarü napütüwe naneã nayaîã. Ta dau tumarü õchana, name arü tare taünekü ãaküû, ínayaüukuchi mea daa nachimüû. Nayaûêê torü taküma rü chíû naíneküka tatüka ta na ya nae nanekawa taküka  para ñumata wuigü nügüwa nana da ngûêê i ta oêê ñumata ngîû  i buû. Na ngêma tare ucapuwa ru yia  îpatawa Lourdesarü, nanangóoneêê rü wuíe meêrüû omü i nüna ngu beûtána yia. Lourdes i na u yie nae rü nguû na me, i na ûkueû rü ta na meêê türu buûchiga.
  
-A sus 53 años, Lourdes Firmino Araújo lleva más de cuarenta viviendo encuentros como este, entre madre y partera. Cuando tenía doce años, acompañó a su abuela a un parto. Recuerda que se ubicó al lado de la baranda de la cama en donde estaba la entonces madre y siguió la voz de su abuela: “Solo escúcheme a mí, usted no puede ver nada porque todavía está muy pequeña”. Aquella vez, la abuela recibió a cuatro niñas. “Las acomodó una enseguida de la otra y atendió a la mamá con mucho cuidado”, cuenta Lourdes con admiración. Ese momento marcó su vida y labró su camino: comprendió que llevaría consigo el legado de la partería comunitaria.
+Ngîma norü taunekü 53, Lourdes Firmino Araújo na yau to cuarenta arü maû ngêgumarüû kuamã, norü naegüma iíraaküêêrü. Ngêgumarüû chorü taunekü takü arü tare, nawe wa cha û rü wií ãáaküûwa chorü noêma. Kuaãchírüû i na ngau wií naimena rü nakuwawa rü pechikaû nawa na ngêma rü ñuûchi daa nae i naga chorü noê i “ñuguakürica Chona ínü,  tama i ku dau  i ku irãûchi”. Wikana, yía noê na yau agumuku buûgue. “Nüû nayaükuchi togue  wuíe nawena i na dau nae dau”, ina u Lourdes norü kuãüûma. Ñema paããchi nüû nawe norü maû i norü namaû: nüû na kua i na ngeuka ngîmaûma turü taküma íraãküeêrüû îaneka.
 
-*imagen*
+{{< fullimage src="images/historias/tikuna/la-lucha-de-lourdes-1.jpeg" title="Lourdes y sus nietos" >}}
+Lourdes tuna na paãchi nurü nataagü. Tumaka, yiemagü buûgü rü buküûgü tumagüe cha yaõ  yiema Magütagü rü nüûgü tana na dau torü taküma. Nachikünaã: Pablo Albarenga.
+{{< /fullimage >}}
 
-De ojos oscuros, cabello negro ondulado y piel cobriza, Lourdes es indígena del pueblo Magüta (Tikuna) nacida en Santa Rosa, Perú. Su nombre materno es Purinare Ñairure y es del clan Cascabel. Vive en la comunidad o aldea Umariaçu 2 en Tabatinga, Brasil, muy cerca de la frontera con Colombia y Perú. A los doce años llegó a ese lugar junto con sus abuelos, originarios de Napo, Perú. Un año después se casó con João Coelho Araújo, con quien tiene siete hijos.
+Norü naetu waugüma, nayeê wau i na chaiêru ru nadaûne, Lourdes maiyu îane Magüta (Tikuna) niî nabu îane naega Santa Rosa, Perú. Norü naega takawa niî Purinare Ñairure i arükaka ni nniî. Na maû yia îane Umariaçu 2, Tabatinga, Brasil, nangaikamaûchi yia üyeane rü Colombia ru Perú. Arü taunekü takütu arü tare nachiga nawa na ngu wüigu õigüma, nakúmagü ru Napo, Perú. Wuíaarü taunekü ru nawena na ngîgü daa yatüma João Coelho Araújo, teémã notürü na ãáaküû manearü tare niî.
  
-— “Iba a los partos con mi abuela, para el aprendizaje. Me decía que anduviera con ella para que tuviera más experiencia. Me decía que hablara con las mamás y les hablara a los bebés en el vientre y cuando nacieran. Todos sus consejos me hacen ser una mujer partera”.
+-- “Noturü  cha û noêma yíe íraãküeêrüûka chorü nguka. Tüma niu rü  tümamaã i cha û chorü kuãkümûûka. Tüma niu tagawa ku dea naegüma i ku deataá õchanamagü i ru napütüwewa i ngêgumarüû  buû nnabuugü. Guû yima ukûē na ngemaû wií maû i rü maû wuíe ngeû íraãküeêrüû”.
 
-La abuela le enseñó a acomodar con masajes a los bebés en el útero, a cortar el cordón umbilical de los recién nacidos, y a comprender el cuerpo y los dolores de la madre. También le mostró cómo producir aceites y remedios naturales para la atención del embarazo y el parto, y a aconsejar dieta a la madre y cuidados del bebé en sus primeros meses de vida.
+Yiema noê tüna nananguûêē ru ínayaüukuchi i na nayaîã nüû õchanagü narü nachimüûwa, tana wuié norü naãpetünaã ngewaka buugü, ru nüû nakuã yinaüne  i tumarü ngûúneka dae nae. Ngumata tuma tanawe ngema norü ó chíûârü i rü üüûgü takümaka torü dauka ãaküû i torü íraãküeêrüû, namaã niu i naaure yiema nae i nüna naõchana nürü nüíra taüemakü maû.
  
-Las manos de Lourdes han recibido a muchas generaciones de niños y niñas indígenas Tikunas, Cocamas, Yaguas y de otros pueblos, así como también blancos o mestizos de Brasil, Colombia y Perú. Para ella, “todos somos hijos de la tierra”, no importa la procedencia, ni el idioma que se hable. Eso sí, reconoce que saber las tres lenguas (Tikuna, su idioma nativo, portugués y español) le ha permitido desempeñar mejor su rol como partera comunitaria porque la comunicación con las madres es más cercana.
+Narü naãmegü daé Lourdes na yaü muûchi dûûgü torü bukügü i buûgü maiyugü magütaka, kukamagü, yowagü i toguegü îanenakagü, nûmaraû tomarüü duüûgü choügu  rü Brasilka, ColombiakaiPerúka. Ngîükã, “nguûma tomagü ñoma i naane naakü tî îgü”, ngerüma yie nachiûaina dea naga. Ngemaka, na kua tomepüarü dea, taga (magüta, taga, portugués i tomarü dea duûga) nüû nanatauchaêê rü nayanguêê rümemaû norü purakü íraãküeêrüû îanewa torü dea naegüma na ngaikaûchi.
 
-*imágenes*
+{{< tripleimage first="images/historias/tikuna/la-lucha-de-lourdes-2.jpeg" second="images/historias/tikuna/la-lucha-de-lourdes-3.jpeg" last="images/historias/tikuna/la-lucha-de-lourdes-4.jpeg" first_title="Nietos de Lourdes viendo TV" second_title="Lourdes preparando café" last_title="Pescado cocinado por Lourdes" >}}
+Yía Maû taküma arü Lourdes ta ãû narü îpatawa Umariaçu 2, Tabatinga, Brasil, nangaikamaûchi yiema üyeanewa nüû Colombiama rü Peruma, ngeta maû yiema wiía tumaãkü, nataamagü rü ngîtema. Gu Lourdes, tü nachiega nawemü takümaka Magütagüka. Nachikünaã: Pablo Albarenga.
+{{< /tripleimage >}}
 
-En Umariaçu 2, la vida de Lourdes transcurre entre la atención de su familia y de las mujeres gestantes. Cuando no tiene que visitar a las madres, permanece en casa. En las mañanas, realiza los oficios del hogar, como lavar la ropa y preparar los alimentos, y almuerza con su esposo, su hija y nietos. En las tardes, comparte con los habitantes de su comunidad (en toda la aldea son unos 8.200 indígenas Tikunas) y baja a la pequeña plaza ubicada a orillas de uno de los brazos del río Amazonas que está a unos 20 minutos caminando desde su vivienda. En el lugar, compra pescado fresco, sábalo y bocachico, y frutos tradicionales como las pepas de umarí y semillas de la palma de azaí (açaí) que abundan en la zona, así como guayabas, guamilla, chontaduros, fariña (elaborada a base de yuca) y plátano. En el recorrido que hay de su casa a la plaza es posible observar que las viviendas son de tabla y de cemento, y cuentan con lo básico para vivir (como servicios de agua y energía). Además, la abundancia de iglesias evidencia el proceso de evangelización; Lourdes comenta que estos lugares de culto han aumentado en los últimos tres años.
+Yima Umariaçu 2, norü maû Lourdes inaügüû rü nangûêê norü ngãûwa ru nügütanüû i yíema ãáaküû ngeûgü. Ngêgumakürüû tama i na ûane i tama y na daunaegüû, tumarü îwa ngêma. Rü êûwakü, na aãrûa purakü îwaãrü, na yauchiru i na üwemü, i na Chibü norü Ngîtema, rü naaküma inataama. Rü yáuanekü, namaã nangau ñaa duüûgüma narü îaneka, (Guûma îane na faû wuíegü 8.28.2 maiyukaka Magüta) i Nuã iraū iãtüacüwana ū üanechica   nachica naãnakuwa na ngemá wií nachakü natü rü tatüka niî ta uneta wiegü rü 20 oraarü üyechigü ûgümare norü îanewa. Norna taé chonî ngaû, ngechi i chirimata, y orîgü takümaka ngêgumarüû orîgü techi i nachiregü naimena rü waira (asaí) na muûchi ngêmaane, ngêgumarüû orachagü, pamã, îtugü, uí (na ü túüemãe) rü ppoíma.i ta ûgüüanechica Nuã iraū iãtüacüwana ū i ta dau îpatagü dûûgüarü mürapewa rü cementoma, i na maû torù poraûma yi torü ngechaû (torü servicios deárü y energía) ngêgumarüû, na muûchi  ru tupauka tü nawe û rü  evangelización; Lourdes na u ñaa naane na yachigü cultoma paaãêãkü  tomepuarü tauneküma.
  
-En esa región fronteriza, los pobladores subsisten de la pesca, la agricultura, el comercio informal, el transporte fluvial y de distintos oficios tradicionales como la partería, la medicina propia y las artesanías. “El día a día a veces es complicado”, dice Lourdes, “aquí muchas familias viven con lo básico, hay familias que padecen necesidades”.
+Yiema naane üyeaneka, ngema dueûgü na maû norü powamâ, norü naanema, norü tarma tama meûchi, narü ngegãchi to purakü gü Naküma ngêgumarüû íraãküeêrüû de distintos, üüû takümaka rü purakü naimaa. “Ngunecü a ngunekü ngêgumarüû  ta nguchaêê ”, na u Lourdes, “nua muûchi duêgü na maû norü poraûma, na ngêma duüûgü”.
 
-*imagen*
+{{< fullimage src="images/historias/tikuna/la-lucha-de-lourdes-5.jpeg" title="Plaza de mercado de la comunidad de Umariaçu 2" >}}
+Yima iane arü Umariaçu 2, maûka maiyugüküma arü Îane magüta, tana taê ngêmaû takümaka naaneka, ngêgumarüû îtugü, yima poí ngêgumarüû techi rü nachanegü. Nachikünaã: Pablo Albarenga.
+{{< /fullimage >}}
 
-## Entre la tradición y los sistemas de salud
+## Taküma rü norü kuagü maûka
 
-Es tradición que las mujeres indígenas den a luz en sus casas y que sean atendidas por parteras o comadronas, quienes las acompañan desde varios meses antes del alumbramiento. Para ellas, dar vida es sagrado y natural, y simboliza continuar con el legado del ser Magüta y el pensamiento del pueblo.
+Takümakagü daee ngeûgü maiyugü nawa ta torü omü tarü nachîûwa tõû tana yaugü  ngemaûka íraãküeêrüû, teegü ta na daugü daa müûchi taüemakü naûpa Mary omügüma. Ngîkã, torü taküma niî wií maû, norü kua nawena norüdea na ngemá wií înü magüta i torü înugü tarü naanegüka.
 
-*imagen*
+{{< fullimage src="images/historias/tikuna/la-lucha-de-lourdes-6.jpeg" title="Lourdes examinando a su nuera" >}}
+Lourdes na dau wiía ngeû na ãakü tame arü tare tauemakü. Tuna dau rü na u yíema õchana ta unagü norü nachimüû nüû nae. Nachikünã: Pablo Albarenga.
+{{< /fullimage >}}
 
-Lourdes explica que durante los días previos al parto es tradición darles a las mujeres bebidas calientes con plantas medicinales para preparar el vientre y el cuerpo. Ella, además, el día del nacimiento les permite a las madres comer y caminar.
+Lourdes ni u yoni nuü nguneûgü rü íraãküeêrüû niî taküma nüna na naããgü ñaa ngeûgü aeûgü dea naigü takümaka nuû narüngûêê norü napütüwe i norü naûne. Ngîma, ngêgumarüû, yia nguneûka buûchiga nüû ta â yiema naegü tu na tana ã nawemü i ta Che rü tarü naû.
 
-—“Las parteras preparamos el remedio. También en agua tibia las hacemos sentar cuando es el momento del nacimiento. Después, las atendemos para que no tengan hemorragias e infecciones en general”.
+-- “Yiemagü íraãküeêrüû ta ügü üüû. Ngêgumarüû dea nairàma i ta toêê orawa na ngu niî buuchiga. Yikamaûra, tana daugü tamaãgüka i tama narü ôegü nachimüûma”.
 
-Esta costumbre ha cambiado desde que las entidades de salud de la zona establecieron normas como que las mujeres que viven cerca de los centros poblados deben dar a luz en los hospitales. Para Lourdes, allí la atención es otra, en los cuartos se siente un poco el frío y la soledad. En los centros de salud, comenta, no dejan que las mujeres tomen nada y “falta más cuidado”.
+Torü taküma na naõêê ngegüma daa entidades torü maûka torü ngêmaane inananu norü wii ore ngêgumarüû tarü ngeûgü maûgü ngaikama ngaûgüwa îanekuwa na ãáaküûgü nawa yiema üüûpataûwa. Notürü Lourdes, ngêma dau to ni î, norü ucapugüti ta deyu i nüna ta ngema. Yiema maûka ngãûchiûgu, na u, tama tona na aã i ae rü ngeûgü i “tama tüû na dau mea”.
 
-—“Yo veo los [partos] de la gente blanca, te bañan en agua fría y lo que hacen es que el frío se meta en la planta del pie hasta la cabeza. Lo que ocasiona esto es la muerte. No me parece bien. Además, los médicos son hombres, no saben cuándo la mujer debe hacer fuerza y no saben del dolor que siente una mujer”.
+-- “Yoma i cha dau yie [íraaküêêruûgü] yiema tomarüü i dueû chóû, tuna aiya dea gâuchiüûma rüû í ngêína ükü narü nachipátü ñūmatáta torü taeru ína ngú. Ngêmaka ta yüû. Tama chorü choēûnî. Yemaétüwa, ñaa duturugü yatüûgü, tama na kua ñuguakü yíema ngeû tana ü rü pora i tama na kua tarü ngú i wuíe ngeû”.
 
-Lourdes compara las formas de atención de las personas blancas con los indígenas, y explica que mientras para su cultura es importante la presencia del hombre y de las abuelas durante el parto, en la mayoría de los hospitales no lo permiten.
+Lourdes nachiga da u yía toõgü dau yíema tomarüü i duüû choûgü torü tokümagüma maiyúugü, i tona na û ngêgumata naküma ni î meû narü ngemaû da yatü i torü noêgü yane íraãküeêrüû, natürü rümumaeû yima üüûpataûgü tama ta na yau.
 
-—“Nuestra costumbre es que nuestro marido esté al lado cuando uno da luz en casa, porque es nuestra fuerza”.
+-- “Torü taküma niî tarü tate naûta ta ngema ngêgüma wií ta bu îpatawa, ngêgümarüû niî tarü poraûma”.
 
-Ella también ha visto cómo en los centros hospitalarios no respetan los tiempos naturales del parto y, en muchos casos, se practica la cesárea sin necesidad.
+Ngîma ta nu na dau ngêma ngau üüûpataû rama nu na ngechaû tarü ngunegü tumaküma ta iraãgügü, güüma ngupetüû, tuna uneta tuna wuía tama íragü yíma büe.
 
-*imagen*
+-- “Yíma üüûpataû, ñema duturugü taûta tumarü ngunewa na ngugü napekügü tuma charaûgü na kügüû. Ngêma duturugü na ngearü aurêa”.
 
-—“En el hospital, los doctores antes de tiempo ponen el codo en la panza de la mujer para dar a luz. Los doctores a veces no tienen un cuidado, higiene y dieta”.
+Ngêma kua Lourdes tu na á ngêma pora mea tuna na daüûka na ka nîa sea ngema íraãküeêrüûka taküma torü ngema na nawe ngêma purakü na úü güûküma ugü tumarü ianewagüchigü. Ngêgümarüû ta kua ta pasma na woegüngêma oré salud pública tama ni ta kua wií naküma na nguta gue.
+
+{{< image src="images/historias/tikuna/la-lucha-de-lourdes-7.jpeg" title="Mujer con niño en hamaca" >}}
+Katia Firminio, naakü daa ngéna Lourdes, na ngêma wüigü rü iraû büû. Nachikünaã: Pablo Albarenga.
+{{< /image >}}
+
+Lourdes ni na ü güüma deãgükü aegaküma gü takümagüka numachi ngemaguûma, i guûgüma directibugüma ngêma ngutagueûgü îpatawa paegüne yíma dawepatawa ngauwa Tabatingawa, marü tan ngenagü tumaküma ngema ngeû maiyu. Ngeguma ña ya gü, ña taunekü, ta nawe na ugü papagü i íraãküeêrüû.
+
+—“Nukuma rama cho kü nguê nachikawa ya buechica büegü irá güüwa ngêma yoü na na au Wiia taü ngeyaû ngüû, Nngemagü yoûna uguêtawama cha mê (…) yima tumapatawa ngemagü guema tumarü papá i tumamataguê, China ta naka ra pora yima íraãküeêrüû cha nawe cachikawa cha ngemaûka”.
+
+{{< image src="images/historias/tikuna/la-lucha-de-lourdes-8.jpeg" title="Foto de Lourdes Firmino" >}}
+Lourdes Firmino Araújo, maiyu magüta, na poraû purakü nakã ngêma ngêchaûka tory takümaka yiema paããchi torü íraãküeêrüû. Torü taküma, maû ta ã rü üüne niî. Nachikünaã: Pablo Albarenga.
+{{< /image >}}
+
+Ngîma na ikuãüüû poraûguma Nurü purakü rü ngechaû takümagüka. Nuna na yunagü yíema mamagü ta naweî ta irakü tumapatawa rü üüûpataū, ñumanu ta uneta ngêma nachica i ta ira na bue mea na guûrüagüû, ngêmaû Napa ngema ta ngemaû ngeû tama ngetàwa ta ngema, ñuakü ngema üüûpataû ta ñema. Ngêmarüû, ñumagü î duturugü îpatawa îûgu paama tuna na chaugü tumarü küãwa numachi tumarü seguimientos ya naegü taputüweûe.
+
+-- “Ngema Umariaçu i Tabatinga ta porutagüe guûgüma wií íraãküeêrüû rü duturugüe, îpatawa rü îpatawa. Yíema üüûpataū Ngêgümarüû na ngêma duturugü rü íraãküeêrüû”.
+
+Lourdes ta kugü nuakü meã ta purakü. Ngêma nguegü, daunagü na dawenû tuna moè na aü tupana û ngîma ñiküma mea tuna na dau nü nawa ngîma nguneûgü meû naetuma na ã, “tawena chomegü, nuetanií tu ma chicawa ngêma õõ ta bu mea”.
  
-La experiencia de Lourdes le ha dado las fuerzas para mejorar la atención a las mujeres y luchar por que la partería tradicional siga siendo un oficio que se practique en sus comunidades. También sabe que cambiar las normas de salud pública es muy difícil, por lo que está de acuerdo en que ambas formas de atención se junten.
+Yía ügü 5 de mayo de 2020, umukü conmemoración del Día Internacional íraãküeêrüû, yíema dierû naane de las Naciones Unidas (Unfpa no rü siglas niî inglés) na ûêêê ngêgumarüû ñoma nguneûgü  ngucharüû i nguanegü, yíemagü kuagü tory maûka daa muûchi nachiãnegü ngemagü ni ngu ããkú, “yiema íraãküeêrüû ta daûgü norü goû i poraûma namã ta nguêêûgü  yíema ngeêgü rü taunekü  na o, ngêgumarüû yeerama rü to mûma”.
 
-*imagen*
+## Naka na poraû yiema dierüû mea ta ngugüka
 
-Lourdes comentó que luego de varios diálogos con las autoridades tradicionales y estatales, y con los directivos de la Unidad de Atención de Emergencia del Hospital Central de Tabatinga, logró que se mejorara la manera en que las mujeres indígenas son atendidas. Por ejemplo, en la actualidad, se permite el ingreso de los padres y también de las parteras.
+Norü pora  íraãküeêrüû takümaka tama na ngêma i na oü ngêma nü îka tuna na dau yíema  naegü tumanegü tuna daü. Lourdes ruta purakü tuna kuaûka nüû na ñuraû na naküma yiema ngeûgü  rü yatüûgü ngema nügü inaã yía rü íraãküeêrüû yiema üyeanegü ngêma tomepü nachianegü tatüûgüka: Brasil, Colombia numachi Peruka. Norü deagü, ngêgümarüû norü wií purakü “poraû” ñuakü tawaku “tama na pénûgü”, ngêgüma aiküma na mea na í ta nua yíema diêrüû.
 
-—“Antes no me dejaron entrar al parto y eso me causó mucha pena y dolor, me dijeron que no valía nada (…) en la casa tiene que estar presente su papá y su familia, yo luché para que el hospital lo permita también”.
-
-Ella se siente orgullosa de esa gestión que respeta sus costumbres. Resalta que las mamás ahora deciden si quieren dar a luz en casa o en el hospital, y añade que la sala de partos está bien dotada, incluso tienen hamacas donde ubican a la mujer, y no en la camilla, como es común en los hospitales. Además, ahora los médicos van a las casas para hacer los controles y seguimientos a las madres gestantes.
+-- “Ngêma chauka na nagü ngêma  cha û, tama cha na ü dièrüûka, chokarü na me tu ya nügué, tüma ya na aû ngêma ngechaû numachi tuna cha na aû ngêma nu cha küaû; doéma chiî choma nam cha pora, numachi choma nagü charü inû i ta ngugü arü dieêrüûka. Ñuma tüta nuegü ngetànüû, güema taûta toû na na ütanü, ngêma ru torü inü niî, numachi torü taküma niî”.
  
-—“En Umariaçu y Tabatinga trabajamos juntos parteras y médicos, casa a casa. Y en el hospital también hay médico y partera”.
+Ñumaûchima, Lourdes naeru wuía natügümü ianeka nama nagü ína ã íraãküeêrüû. Ngêma ngutagüé nama nawüiígü 145 duãtagü. Ngema na ngaûgüwa Umariaçu ta ngema naerü tare ngeûgü numachi wií yatüû. Toguegü tügü ta ngaugü kürü naanewa dearü natü arü machi, numachi tatüka wa Manaos.
 
-> Lourdes sonríe mientras comparte sus logros. Al mismo tiempo, mira el cielo y agradece a su creador. Ella considera que por su forma de atender y de comprender el momento de dar vida, “nadie se ha muerto en mi mano, no importa cómo esté el bebé, nace sano y salvo”.
+-- “Chokana daugü narü naeruka.yima tatükumü ñaa Manaos. Chorü inu chori choêû ngema ngû ta nawe tümarü pon arü taerû, ngêma no naka cha pora”.
 
-El 5 de mayo de 2020, en la conmemoración del Día Internacional de la Partera, el Fondo de Población de las Naciones Unidas (Unfpa por sus siglas en inglés) aseguró que en tiempos de crisis y pandemias, en los que los sistemas de salud de muchos países están completamente saturados, “las parteras están demostrando su valor y resiliencia al seguir ayudando a las mujeres en edad de procrear, incluso en las circunstancias más adversas”.
-
-## Lucha por sueldos dignos
-
-Su lucha por la partería tradicional no se queda solo en la atención de las madres y sus hijos. Lourdes también trabaja para que se reconozcan las condiciones dignas para las mujeres y los hombres que se dedican a la partería en las fronteras de los tres países amazónicos: Brasil, Colombia y Perú. En sus palabras, este es un oficio de “coraje” en el que a veces “no duermen”, y considera que es honesto y justo que tengan un salario.
-
-—“Cuando me llaman yo voy, no lo hago por plata, para mí es el deseo de atender, dar amor y entregar lo que sé; estoy para servir. Pero, lo que estoy pensando es que ganen un sueldo. Ahora atendemos gratis, la mayoría no cobramos, es nuestra voluntad, es nuestra cultura”.
+Norü ügü  2020, ngemarüû ümükü yíema íraãküeêrüû rü nachiûanê tatüarü, Lourdes Manauwa cha ngêma ngegüma, iane taünewa nachiûanê, wiía ngema nuta ngau  íraãküeêrüû kuaêrû nama ni deagü paámachiga ta ãûka yíema íraãküeêrüû políticas de salud pública del gobierno nacional. Ngêgüma, niíkuaûta, ni maû ngêma poraû tanamã ngêgümata yíma presidente Jair Bolsonaro, ngema taü na tá poraûē naka kagü iane maiyutarüegü taküma takü ni na ngûû.
  
-En la actualidad, Lourdes lidera una asociación comunitaria que se dedica a la partería. La organización está conformada por 145 personas. En Umariaçu 2 hay doce mujeres y un hombre. Las demás se encuentran distribuidas a lo largo de las aldeas ubicadas sobre distintos ríos, en el que el principal es el Amazonas que llega hasta Manaos.
-
-—“Me buscaron como líder. La asociación está en Manaos. Mi pensamiento de que ganen platica es para que compren su pan y sus necesidades, esa es mi lucha”.
-
-A inicios de 2020, como delegada de las parteras del Estado de Amazonas, Lourdes estuvo en la ciudad de Manaos, capital del Estado, en un encuentro de parteras donde se habló de la urgencia de integrar la partería a las políticas de salud pública del gobierno nacional. Sin embargo, ella sabe que la lucha será larga debido a que en el mandato del presidente Jair Bolsonaro, gran parte de las peticiones de los pueblos indígenas no han sido tenidas en cuenta.
+Ngêma pora nügüwe ãgüû, Lourdes Rüta kuarüû naka daüû ngoû na kuaüka ñaa chorü purakü yíema ianegüka (ngêgumarüû “torü nguêê  buchiga ngêgumarüû nascimento com íraaküküêêruû. “Ta bugumama ngêgumarüû íraãküeêrüû”, korigawa tücharü ngûê ngêma meeharüû. Naka cha wiíama íraãküeêrüû ) cha na ügü ngema ngutake ngeûgü i yatüûgu ngêma tomepü üyeanekama Tabatingawa (naküwa brasilerogü), ngêma Ditichawa (nagüma colombianowa)ñumachi güûne ianeguma yimane Peruwa.
  
-Mientras esa lucha avanza, Lourdes también lidera campañas que buscan que la labor de las comadronas sea reconocida dentro de las propias aldeas (como “Eu apoio nascimento com parteira. Nasci com parteira”, en español Apoyo el parto con una partera. Nací con una partera) y realiza encuentros con mujeres y hombres de las tres fronteras en Tabatinga (del lado brasilero), en Leticia (del lado colombiano) y en distintos poblados de Perú.
- 
-—“Se hacen reuniones con las parteras en las comunidades cercanas de cada país. Ellas también nos han dicho que en sus países no se reconoce su trabajo”.
+-- “Tana nguû nutaguegü tümamagü yíema meecharaã guegüma yíma iane naikanemagüma yíma taune es ianegüma. Yiemagü  toû ni ügü ngema taune ianewa norü purakü tama na kuagüchaû”.
 
-> En círculos de la palabra, Lourdes comparte su legado y sus aprendizajes. Cuando camina en las aldeas, siempre invita a las personas jóvenes a que sigan sus pasos para así mantener uno de los oficios más tradicionales de las mujeres indígenas.
+Ngêma boü tümagawa, Lourdes namata na ugü tümarü â kuagü. Nuagütagü tuma yía ngemagü, guûgüma ngetüûgü na ta ûgü ngêmakü  û ngêmagü ta na maû torü purakü taküma maiyugütarü.
 
-—“Para los que quieren aprender tienen que venir ahora que estoy viva. Hay niñas que se sientan y quieren escuchar, quieren aprender”.
+-- “Ngêguma ju nuechigü na peî nümarü tacha maû. Ta ngema bue ngeû i tarü togü cha ta iné, ta nguyaûgü”.
 
-*imagen*
+{{< fullimage src="images/historias/tikuna/la-lucha-de-lourdes-9.png" title="Lourdes y su nieta" >}}
+Wuía poraûgü yie maiyu Lourdes Firmino yiemagü ngeûgü i yiemagü yatüûgu nugü ina ã torü íraãküeêrüû takümaka ta chaumetanüû meûgü norü puraküwa ianewaka. Nachikünaã: Pablo Albarenga.
+{{< /fullimage >}}
 
-Al mirar los ojos de su hija, Katia Firminio, y los de una de sus nietas, Lourdes se llena de esperanza al saber que son las nuevas tejedoras que van a continuar el legado de la partería de las mujeres Tikuna. Katia y su nieta están aprendiendo el saber de la partería.
+Gêguma tümaé tu  daugü tuma akügüû, Katia Firminio, wiía tumataû, Lourdes tana yaku tumarü tumaê ngêma tumarü kua na ngêma ngewakaû muetagüû yíema ngêwakagüüû  ngêma maû meêcharaû mata kuaguüta ngêma ngeûgü maiyugüta. Katia ngîta nama nguê ngêma meêchãû marüta kua íraãküeêrüû.

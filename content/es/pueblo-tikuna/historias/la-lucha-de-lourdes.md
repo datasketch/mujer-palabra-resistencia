@@ -17,9 +17,9 @@ A sus 53 años, Lourdes Firmino Araújo lleva más de cuarenta viviendo encuentr
 Lourdes abraza a sus nietos. Para ella, los niños y las niñas son la esperanza de los Tikunas y quienes tendrán la misión de preservar la cultura. Foto: Pablo Albarenga.
 {{< /fullimage >}}
 
-De ojos oscuros, cabello negro ondulado y piel cobriza, Lourdes es indígena del pueblo Magüta (Tikuna) nacida en Santa Rosa, Perú. Su nombre materno es Purinare Ñairure y es del clan Cascabel. Vive en la comunidad o aldea Umariaçu 2 en Tabatinga, Brasil, muy cerca de la frontera con Colombia y Perú. A los doce años llegó a ese lugar junto con sus abuelos, originarios de Napo, Perú. Un año después se casó con João Coelho Araújo, con quien tiene siete hijos.
+De ojos oscuros, cabello negro ondulado y piel cobriza, Lourdes es indígena del pueblo Magüta (Tikuna) nacida en Santa Rosa, Perú. Su nombre materno es Purinare Ñairure y es del clan Cascabel. Vive en la comunidad o aldea Umariaçu 2 en Tabatinga, Brasil, muy cerca de la frontera con Colombia y Perú. A los doce años llegó a ese lugar junto con sus abuelos, originarios de Napo, Perú. Un año después se casó con João Coelho Araújo, con quien tiene siete hijos.— 
  
-— "Iba a los partos con mi abuela, para el aprendizaje. Me decía que anduviera con ella para que tuviera más experiencia. Me decía que hablara con las mamás y les hablara a los bebés en el vientre y cuando nacieran. Todos sus consejos me hacen ser una mujer partera".
+-- "Iba a los partos con mi abuela, para el aprendizaje. Me decía que anduviera con ella para que tuviera más experiencia. Me decía que hablara con las mamás y les hablara a los bebés en el vientre y cuando nacieran. Todos sus consejos me hacen ser una mujer partera".
 
 La abuela le enseñó a acomodar con masajes a los bebés en el útero, a cortar el cordón umbilical de los recién nacidos, y a comprender el cuerpo y los dolores de la madre. También le mostró cómo producir aceites y remedios naturales para la atención del embarazo y el parto, y a aconsejar dieta a la madre y cuidados del bebé en sus primeros meses de vida.
  
@@ -47,15 +47,15 @@ Lourdes examina a su nuera que tiene siete meses de embarazo. Con cuidado, se pe
 
 Lourdes explica que durante los días previos al parto es tradición darles a las mujeres bebidas calientes con plantas medicinales para preparar el vientre y el cuerpo. Ella, además, el día del nacimiento les permite a las madres comer y caminar.
 
-—"Las parteras preparamos el remedio. También en agua tibia las hacemos sentar cuando es el momento del nacimiento. Después, las atendemos para que no tengan hemorragias e infecciones en general".
+-- "Las parteras preparamos el remedio. También en agua tibia las hacemos sentar cuando es el momento del nacimiento. Después, las atendemos para que no tengan hemorragias e infecciones en general".
 
 Esta costumbre ha cambiado desde que las entidades de salud de la zona establecieron normas como que las mujeres que viven cerca de los centros poblados deben dar a luz en los hospitales. Para Lourdes, allí la atención es otra, en los cuartos se siente un poco el frío y la soledad. En los centros de salud, comenta, no dejan que las mujeres tomen nada y "falta más cuidado".
 
-—"Yo veo los [partos] de la gente blanca, te bañan en agua fría y lo que hacen es que el frío se meta en la planta del pie hasta la cabeza. Lo que ocasiona esto es la muerte. No me parece bien. Además, los médicos son hombres, no saben cuándo la mujer debe hacer fuerza y no saben del dolor que siente una mujer".
+-- "Yo veo los [partos] de la gente blanca, te bañan en agua fría y lo que hacen es que el frío se meta en la planta del pie hasta la cabeza. Lo que ocasiona esto es la muerte. No me parece bien. Además, los médicos son hombres, no saben cuándo la mujer debe hacer fuerza y no saben del dolor que siente una mujer".
 
 Lourdes compara las formas de atención de las personas blancas con los indígenas, y explica que mientras para su cultura es importante la presencia del hombre y de las abuelas durante el parto, en la mayoría de los hospitales no lo permiten.
 
-—"Nuestra costumbre es que nuestro marido esté al lado cuando uno da luz en casa, porque es nuestra fuerza".
+-- "Nuestra costumbre es que nuestro marido esté al lado cuando uno da luz en casa, porque es nuestra fuerza".
 
 Ella también ha visto cómo en los centros hospitalarios no respetan los tiempos naturales del parto y, en muchos casos, se practica la cesárea sin necesidad.
 
@@ -63,7 +63,7 @@ Ella también ha visto cómo en los centros hospitalarios no respetan los tiempo
 Para las mujeres Tikunas dar vida es sagrado. Las madres indígenas esperan que sus hijos lleven el legado del ser Magüta, con sus tradiciones y costumbres. Foto: Pablo Albarenga.
 {{< /image >}}
 
-—"En el hospital, los doctores antes de tiempo ponen el codo en la panza de la mujer para dar a luz. Los doctores a veces no tienen un cuidado, higiene y dieta".
+-- "En el hospital, los doctores antes de tiempo ponen el codo en la panza de la mujer para dar a luz. Los doctores a veces no tienen un cuidado, higiene y dieta".
  
 La experiencia de Lourdes le ha dado las fuerzas para mejorar la atención a las mujeres y luchar por que la partería tradicional siga siendo un oficio que se practique en sus comunidades. También sabe que cambiar las normas de salud pública es muy difícil, por lo que está de acuerdo en que ambas formas de atención se junten.
 
@@ -73,11 +73,11 @@ Lourdes Firmino Araújo, indígena Tikuna, lucha para que se respeten las formas
 
 Lourdes comentó que luego de varios diálogos con las autoridades tradicionales y estatales, y con los directivos de la Unidad de Atención de Emergencia del Hospital Central de Tabatinga, logró que se mejorara la manera en que las mujeres indígenas son atendidas. Por ejemplo, en la actualidad, se permite el ingreso de los padres y también de las parteras.
 
-—"Antes no me dejaron entrar al parto y eso me causó mucha pena y dolor, me dijeron que no valía nada (…) en la casa tiene que estar presente su papá y su familia, yo luché para que el hospital lo permita también".
+-- "Antes no me dejaron entrar al parto y eso me causó mucha pena y dolor, me dijeron que no valía nada (…) en la casa tiene que estar presente su papá y su familia, yo luché para que el hospital lo permita también".
 
 Ella se siente orgullosa de esa gestión que respeta sus costumbres. Resalta que las mamás ahora deciden si quieren dar a luz en casa o en el hospital, y añade que la sala de partos está bien dotada, incluso tienen hamacas donde ubican a la mujer, y no en la camilla, como es común en los hospitales. Además, ahora los médicos van a las casas para hacer los controles y seguimientos a las madres gestantes.
  
-—"En Umariaçu y Tabatinga trabajamos juntos parteras y médicos, casa a casa. Y en el hospital también hay médico y partera".
+-- "En Umariaçu y Tabatinga trabajamos juntos parteras y médicos, casa a casa. Y en el hospital también hay médico y partera".
 
 > Lourdes sonríe mientras comparte sus logros. Al mismo tiempo, mira el cielo y agradece a su creador. Ella considera que por su forma de atender y de comprender el momento de dar vida, "nadie se ha muerto en mi mano, no importa cómo esté el bebé, nace sano y salvo".
 
@@ -87,21 +87,21 @@ El 5 de mayo de 2020, en la conmemoración del Día Internacional de la Partera,
 
 Su lucha por la partería tradicional no se queda solo en la atención de las madres y sus hijos. Lourdes también trabaja para que se reconozcan las condiciones dignas para las mujeres y los hombres que se dedican a la partería en las fronteras de los tres países amazónicos: Brasil, Colombia y Perú. En sus palabras, este es un oficio de "coraje" en el que a veces "no duermen", y considera que es honesto y justo que tengan un salario.
 
-—"Cuando me llaman yo voy, no lo hago por plata, para mí es el deseo de atender, dar amor y entregar lo que sé; estoy para servir. Pero, lo que estoy pensando es que ganen un sueldo. Ahora atendemos gratis, la mayoría no cobramos, es nuestra voluntad, es nuestra cultura".
+-- "Cuando me llaman yo voy, no lo hago por plata, para mí es el deseo de atender, dar amor y entregar lo que sé; estoy para servir. Pero, lo que estoy pensando es que ganen un sueldo. Ahora atendemos gratis, la mayoría no cobramos, es nuestra voluntad, es nuestra cultura".
  
 En la actualidad, Lourdes lidera una asociación comunitaria que se dedica a la partería. La organización está conformada por 145 personas. En Umariaçu 2 hay doce mujeres y un hombre. Las demás se encuentran distribuidas a lo largo de las aldeas ubicadas sobre distintos ríos, en el que el principal es el Amazonas que llega hasta Manaos.
 
-—"Me buscaron como líder. La asociación está en Manaos. Mi pensamiento de que ganen platica es para que compren su pan y sus necesidades, esa es mi lucha".
+-- "Me buscaron como líder. La asociación está en Manaos. Mi pensamiento de que ganen platica es para que compren su pan y sus necesidades, esa es mi lucha".
 
 A inicios de 2020, como delegada de las parteras del Estado de Amazonas, Lourdes estuvo en la ciudad de Manaos, capital del Estado, en un encuentro de parteras donde se habló de la urgencia de integrar la partería a las políticas de salud pública del gobierno nacional. Sin embargo, ella sabe que la lucha será larga debido a que en el mandato del presidente Jair Bolsonaro, gran parte de las peticiones de los pueblos indígenas no han sido tenidas en cuenta.
  
 Mientras esa lucha avanza, Lourdes también lidera campañas que buscan que la labor de las comadronas sea reconocida dentro de las propias aldeas (como "Eu apoio nascimento com parteira. Nasci com parteira", en español Apoyo el parto con una partera. Nací con una partera) y realiza encuentros con mujeres y hombres de las tres fronteras en Tabatinga (del lado brasilero), en Leticia (del lado colombiano) y en distintos poblados de Perú.
  
-—"Se hacen reuniones con las parteras en las comunidades cercanas de cada país. Ellas también nos han dicho que en sus países no se reconoce su trabajo".
+-- "Se hacen reuniones con las parteras en las comunidades cercanas de cada país. Ellas también nos han dicho que en sus países no se reconoce su trabajo".
 
 > En círculos de la palabra, Lourdes comparte su legado y sus aprendizajes. Cuando camina en las aldeas, siempre invita a las personas jóvenes a que sigan sus pasos para así mantener uno de los oficios más tradicionales de las mujeres indígenas.
 
-—"Para los que quieren aprender tienen que venir ahora que estoy viva. Hay niñas que se sientan y quieren escuchar, quieren aprender".
+-- "Para los que quieren aprender tienen que venir ahora que estoy viva. Hay niñas que se sientan y quieren escuchar, quieren aprender".
 
 {{< fullimage src="images/historias/tikuna/la-lucha-de-lourdes-9.png" title="Lourdes y su nieta" >}}
 Lourdes Firminio conversa con su nieta, de quien se espera continúe con el legado de la partería de las mujeres Tikuna. Foto: Pablo Albarenga.

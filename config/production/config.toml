@@ -1,8 +1,39 @@
 baseURL = "https://datasketch.github.io/mujer-palabra-resistencia/"
 languageCode = "es-es"
-title = "Mujeres indígenas en la frontera"
+title = "Mujeres, palabra, resistencia"
 defaultContentLanguage = "es"
-publishDir = "docs"
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Inicio"
+    weight = 1
+    url = "/"
+  [[menu.main]]
+    identifier = "about"
+    name = "Sobre la iniciativa"
+    weight = 2
+    url = "/sobre-la-iniciativa/"
+  [[menu.main]]
+    identifier = "wayuu"
+    name = "Pueblo Wayuu"
+    weight = 3
+    url = "/pueblo-wayuu/"
+  [[menu.main]]
+    identifier = "gunadule"
+    name = "Pueblo Gunadule"
+    weight = 4
+    url = "/pueblo-gunadule/"
+  [[menu.main]]
+    identifier = "tikuna"
+    name = "Pueblo Tikuna"
+    weight = 5
+    url = "/pueblo-tikuna/"
+  [[menu.main]]
+    identifier = "opendata"
+    name = "Repositorio de datos"
+    weight = 6
+    url = "/repositorio-de-datos/"
 
 [languages]
   [languages.es]
@@ -10,17 +41,14 @@ publishDir = "docs"
     weight = 1
     contentDir = "content/es"
   [languages.wayuunaiki]
-    title = "Título en wayuunaiki"
     languageName = "Wayuunaiki"
     weight = 2
     contentDir = "content/wayuunaiki"
   [languages.tikuna]
-    title = "Título en tikuna"
     languageName = "Tikuna"
     weight = 3
     contentDir = "content/tikuna"
   [languages.dulegaya]
-    title = "Título en dulegaya"
     languageName = "Dulegaya"
     weight = 4
     contentDir = "content/dulegaya"

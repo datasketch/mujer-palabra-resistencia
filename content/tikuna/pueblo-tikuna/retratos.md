@@ -5,7 +5,7 @@ draft: false
 type: "retratos"
 author: "Vanessa Teteye Mendoza"
 pueblo: "tikuna"
-description: "Yíema ngeêgü magütaká tüû tana mügü ngêma taküma, yíemagü  nãmá poraegü, nümá daugü i ngêma naàné. Yíemagü, ngêma naànekagü, taga (Brasil), Culumbia (Colombia) i numachi Peru (Perú), tamaá nü ta kuaû ngêma üyüanê. Wiemé arü wií ngeêgü ngêma kuá tümãrü mãû numachî ngêma porà."
+description: "Yíema ngeêgü magütaká tüû tana mügü ngêma taküma, yíemagü nãmá poraegü, nümá daugü i ngêma naàné. Yíemagü, ngêma naànekagü, taga (Brasil), Culumbia (Colombia) i numachi Peru (Perú), tamaá nü ta kuaû ngêma üyüanê. Wiemé arü wií ngeêgü ngêma kuá tümãrü mãû numachî ngêma porà."
 ---
 
 Ngêma tatü arü nãánãkü wa ngêma ná ngaûgü awegü-werígü, meküraûgüêû torü naínêküwa: barü ngumãchî kaurégü. Yíema magütagü nû tá kuala, tümachwua. Ngeêgü magütaká taguta kuaêgü ngêma auküemã tumaamû wau í ngumachî dèamã, ngumachî tümã rü kúa. Yíema awue ngêma, ngugü tana nuûgü tumachinewai ngumachî tumarü ianêwa. Yíema ngeû Magüta  tüna kúa tumakawa, ñumachi naáneká tumaka na ütuanê.
