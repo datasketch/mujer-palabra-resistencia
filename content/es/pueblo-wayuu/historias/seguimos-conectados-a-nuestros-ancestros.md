@@ -58,7 +58,7 @@ Karla nos señaló lugares importantes de su territorio y compartió los aprendi
 -- ¿Cuál es tu territorio, Karla?
 -- "Mi territorio es en Venezuela, allá era un buen lugar, cuando estaba el otro presidente que ya se murió, Chávez, estábamos bien, mi mamá trabajaba, nos daba de comer todos los días, pero ahora ni para comprar un cheetos hay, ni un caramelito. En Venezuela ahora es hambre lo que hay".
 
-**video**
+{{< youtube "qLGar8TwYq0" >}}
 
 La frontera es un lugar que los Wayuu no reconocemos. Desde niños sí sabemos de la raya, que es un punto de control migratorio que divide a Colombia y Venezuela que está ubicado en Paraguachón (Maicao, Colombia). Por allí pasan personas todo el tiempo. Los gobiernos de ambos países se han empeñado en imponer la frontera y enseñarnos, a través de ella, que pueden trazar barreras entre los seres humanos para hacernos creer que no todos somos iguales por ser de un lugar o de otro, por los colores de piel, los enfoques, el pensamiento, el vestuario, el estatus económico, la gastronomía. Todo es susceptible de convertirse en barrera y, una vez la aprendemos, muchas veces nosotros mismos nos encargamos de mantenerla levantada.
 

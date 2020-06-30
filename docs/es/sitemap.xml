@@ -31,6 +31,20 @@
   </url>
   
   <url>
+    <loc>https://datasketch.github.io/mujer-palabra-resistencia/pueblo-wayuu/historias/un-solo-territorio-dos-sentimientos/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="wayuunaiki"
+                href="https://datasketch.github.io/mujer-palabra-resistencia/wayuunaiki/pueblo-wayuu/historias/un-solo-territorio-dos-sentimientos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://datasketch.github.io/mujer-palabra-resistencia/pueblo-wayuu/historias/un-solo-territorio-dos-sentimientos/"
+                />
+  </url>
+  
+  <url>
     <loc>https://datasketch.github.io/mujer-palabra-resistencia/pueblo-tikuna/historias/la-lucha-de-lourdes/</loc>
     <xhtml:link
                 rel="alternate"

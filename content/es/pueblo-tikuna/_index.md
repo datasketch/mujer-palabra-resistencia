@@ -5,7 +5,7 @@ draft: false
 type: "pueblo"
 pueblo: "tikuna"
 lengua: "tikuna"
-description: "Se ubica en la triple frontera amazónica entre Brasil, Colombia y Perú. De 13.842 personas reconocidas como Tikunas, 7.003 son Ngeugu Magütagüka (mujeres). Ellas son protectoras de sus comunidades y de la madreselva."
+description: "Se ubica en la triple frontera amazónica entre Brasil, Colombia y Perú. De 13.842 personas reconocidas como Tikunas, 6.839 son Ngeugu Magütagüka (mujeres). Ellas son protectoras de sus comunidades y de la madreselva."
 images:
   - "images/banner-pueblo-tikuna.webp"
 ---

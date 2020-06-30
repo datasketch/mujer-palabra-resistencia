@@ -99,7 +99,7 @@ Panamadolgan colombiadolgan na sabgumala.
 
 -- “Anmal na emala, anmal sumaggedi na emla, anmal daedi, anmal binsaed, uni dargwen anmal nabba, anmal sergan undargusa aidesmala dubbuse, a uni dargwen. Saila siggedgine, wini be nasigelgebe a uni dargwen Anasuggunagine a igal mai ”.
 
-*video*
+{{< youtube "T4BYvY4L-5A" >}}
 
 Anmalga soge a uni dargwen duleomegan panamdolgan colombiadolganba anmal omegan dubbumalgin bane bane nasiggelgebe wini, saila be siggeelgebe dunued be nasiggega we igal mesisa saglamala, colombiayagine we igal sadde, aga omegan wini nasibied nasigge, nasibisulie nassiggosuli.
 

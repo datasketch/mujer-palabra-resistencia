@@ -22,6 +22,8 @@ Norü naetu waugüma, nayeê wau i na chaiêru ru nadaûne, Lourdes maiyu îane 
 -- “Noturü  cha û noêma yíe íraãküeêrüûka chorü nguka. Tüma niu rü  tümamaã i cha û chorü kuãkümûûka. Tüma niu tagawa ku dea naegüma i ku deataá õchanamagü i ru napütüwewa i ngêgumarüû  buû nnabuugü. Guû yima ukûē na ngemaû wií maû i rü maû wuíe ngeû íraãküeêrüû”.
 
 Yiema noê tüna nananguûêē ru ínayaüukuchi i na nayaîã nüû õchanagü narü nachimüûwa, tana wuié norü naãpetünaã ngewaka buugü, ru nüû nakuã yinaüne  i tumarü ngûúneka dae nae. Ngumata tuma tanawe ngema norü ó chíûârü i rü üüûgü takümaka torü dauka ãaküû i torü íraãküeêrüû, namaã niu i naaure yiema nae i nüna naõchana nürü nüíra taüemakü maû.
+
+{{< youtube "V7ABllbP-bc" >}}
  
 Narü naãmegü daé Lourdes na yaü muûchi dûûgü torü bukügü i buûgü maiyugü magütaka, kukamagü, yowagü i toguegü îanenakagü, nûmaraû tomarüü duüûgü choügu  rü Brasilka, ColombiakaiPerúka. Ngîükã, “nguûma tomagü ñoma i naane naakü tî îgü”, ngerüma yie nachiûaina dea naga. Ngemaka, na kua tomepüarü dea, taga (magüta, taga, portugués i tomarü dea duûga) nüû nanatauchaêê rü nayanguêê rümemaû norü purakü íraãküeêrüû îanewa torü dea naegüma na ngaikaûchi.
 

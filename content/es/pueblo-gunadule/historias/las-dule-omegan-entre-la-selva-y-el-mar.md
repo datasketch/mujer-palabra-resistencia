@@ -93,7 +93,7 @@ Según ella, los Gunadules de Panamá y de Colombia se quieren y se respetan.
  
 -- "Nosotros somos los mismos, hablamos y pensamos igual. Tenemos las mismas costumbres. Lo único que nos diferencia son las tierras, porque ancestralmente somos de selva, pero por cuestiones de la vida muchos migraron al mar… pero somos lo mismo".
 
-*video*
+{{< youtube "T4BYvY4L-5A" >}}
 
 Aun así, Miladys reconoce que hay algunas diferencias con las Dule Omegan de Colombia. En Panamá, ellas siempre, todos los días, deben usar los winis y llevar el cabello muy corto. Sin embargo, cuando va a Caimán Nuevo, en Colombia, ella se ha dado cuenta de que no todas tienen los winis. "Acá en Panamá es obligatorio que las mujeres se los pongan y que se corten el pelo. Son normas tradicionales".
  

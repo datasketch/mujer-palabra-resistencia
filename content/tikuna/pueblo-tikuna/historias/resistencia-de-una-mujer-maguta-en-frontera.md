@@ -47,6 +47,8 @@ Ngêgumarüû tarü taküma na ngema torü maû wii poraêê tu na na u yiema ya
 
 Ngeguma choma naka cha nguû ngema torü üü choma un cha ngeinama cha kua ngema iüügü torügü, Ünãgükü Taüchina tümana na küaû yiema oígü numachi yaeküma; na inü ngêma ûkue nawena na ngêma, nada na ngu ngema nuta kua numachi ngema inü nukuma magütarü kúa.
 
+{{< youtube "eqqgOmercqQ" >}}
+
 Ngegüma nüma na üü chenetüwa ta ngegüma nia ü kümepü oí na ngema tokü tana ina kuayaûngema ngetüûgü ngema ngetüûgü ngema tumarü kúa. "Ngegümana ta yuekü ngema tümaküma nama nuta, kua ngema yüü wiía Kana magütarü inü", na ú.
 
 Moeûchi ngema nama cha imükü oígüma, chorü chüükuma numachi Ünãgükü Taüchina ngegüma ngema cha au ngêma ngütaguewa ta ügü ngema nama ta maêû ina ngugü togüchiga na ngugüena ianewa ngemawa chiküe. Ngema nachica nawa ngüeû ngema na inü chie orè dueû na maeû buegüma. Ngema türükü ni ngükügü na ngema wiía orè torü tomüepü üyewa.

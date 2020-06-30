@@ -5,7 +5,7 @@ draft: false
 type: "pueblo"
 pueblo: "gunadule"
 lengua: "dulegaya"
-description: "Se ubica entre Colombia y Panamá. De 2.610 personas reconocidas como Gunadule (Cuna-Tule o Kunas), 1.330 son Dule Omegan (mujeres). Con hilos, agujas y retazos, ellas crean las molas, su tejido ancestral. Y así, preservan los saberes de su pueblo"
+description: "Se ubica entre Colombia y Panamá. De 2.610 personas reconocidas como Gunadule (Cuna-Tule o Kunas), 1.280 son Dule Omegan (mujeres). Con hilos, agujas y retazos, ellas crean las molas, su tejido ancestral. Y así, preservan los saberes de su pueblo"
 images:
   - "images/banner-pueblo-gunadule.webp"
 ---

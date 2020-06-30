@@ -45,7 +45,9 @@ Aunque por tradición hay prácticas que solo pueden realizar los hombres dentro
 (Izquierda) Ünãgükü Taüchina navegando sobre el río Loretoyaco desde Puerto Nariño hacia su comunidad, San Francisco, en una pequeña embarcación conocida como pequepeque. (Derecha) Ismael Laulate Castillo, médico tradicional del pueblo Cocama, padre de Ünãgükü Taüchina. Fotos: Pablo Albarenga.
 {{< /image >}}
 
-Para ser una mujer conocedora de la medicina propia, Ünãgükü Taüchina tiene claro que debe compartir círculos de palabra con los abuelos y mayores; escuchar sus consejos y sus vivencias; aprender de sus saberes, y conectarse más con el mundo espiritual de los Magüta. 
+Para ser una mujer conocedora de la medicina propia, Ünãgükü Taüchina tiene claro que debe compartir círculos de palabra con los abuelos y mayores; escuchar sus consejos y sus vivencias; aprender de sus saberes, y conectarse más con el mundo espiritual de los Magüta.
+
+{{< youtube "eqqgOmercqQ" >}}
 
 Sin embargo, ella lamenta que hoy, en San Francisco de Loretoyaco, solo vivan cinco abuelos y que los otros jóvenes ignoren la importancia de sus conocimientos. "Si ellos se mueren se pierde todo un diccionario, se muere una biblioteca entera del mundo Magüta", dice.
 
@@ -103,7 +105,7 @@ A pesar de estos riesgos, muchos indígenas de la región ven en el turismo una 
 
 > A Ünãgükü Taüchina le preocupa que el turista que llegue a la Amazonía no lo haga solo para "mirar la flora y la fauna" sino que llegue "con otras intenciones".
 
-En este contexto, los pueblos indígenas de estas comunidades de frontera son conscientes de que deben trabajar para tener un turismo comunitario y responsable. José Humberto Monje Fajardo, presidente del resguardo de Aticoya y autoridad indígena en el trapecio amazónico, insiste en que hay que realizar controles para evitar que turistas y personas extrañas hagan daño en las comunidades. 
+En este contexto, los pueblos indígenas de estas comunidades de frontera son conscientes de que deben trabajar para tener un turismo comunitario y responsable. José Humberto Monje Fajardo, presidente del resguardo de Aticoya y autoridad indígena en el trapecio amazónico, insiste en que hay que realizar controles para evitar que turistas y personas extrañas hagan daño en las comunidades.
 
 Aunque el turismo se ha convertido en una opción de trabajo en el territorio, para la población joven indígena no es suficiente, ya que aún carece de acceso a la educación superior y a empleos que mejoren sus condiciones de vida y las de sus familias. Los jóvenes habitantes de los territorios migran a las ciudades y a otros lugares en busca de esas oportunidades que no encuentran en su región. Cuando estas necesidades básicas quedan insatisfechas, esta población se ve expuesta a diferentes formas de trata que existen en la zona. Otras redes criminales que pueden captar a jóvenes de esta frontera son las del micro-tráfico y la siembra y cosecha de cultivos ilícitos al interior de la selva. "Esas son formas de trabajo que se pueden encontrar por estos lugares, nos sirven para mantener la familia y mantener el estudio como tal", dijo una madre indígena quien por seguridad prefirió omitir su nombre.
 

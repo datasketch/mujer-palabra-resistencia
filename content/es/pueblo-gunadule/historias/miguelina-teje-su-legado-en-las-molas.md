@@ -35,7 +35,7 @@ Dice la abuela, en su lengua materna.
  
 Las palabras de Nan dummad suenan como poesía, al tiempo que Olowaili Green, su nieta y comunicadora del equipo intercultural de Agenda Propia, traduce.
 
-{{< youtube "ZyrpCxu0-T8" >}}
+{{< youtube "0QRCR0wqYyY" >}}
 
 Miguelina es el centro de la familia Santacruz Álvarez. Ella vive con Manuel Santacruz Lemus, de 90 años, quien es su sui (esposo) desde hace 55 años. Tienen cinco hijos, 20 nietos y 16 bisnietos. Su hogar es numeroso, como lo son las familias de los Gunadules. En su cultura tratan de preservar las costumbres propias, por ello, se casan entre miembros de la misma etnia; en caso de no hacerlo, no reciben la tierra y la casa que usualmente heredan de sus padres.
 

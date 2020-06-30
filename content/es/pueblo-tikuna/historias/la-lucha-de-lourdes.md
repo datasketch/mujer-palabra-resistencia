@@ -22,6 +22,8 @@ De ojos oscuros, cabello negro ondulado y piel cobriza, Lourdes es indígena del
 -- "Iba a los partos con mi abuela, para el aprendizaje. Me decía que anduviera con ella para que tuviera más experiencia. Me decía que hablara con las mamás y les hablara a los bebés en el vientre y cuando nacieran. Todos sus consejos me hacen ser una mujer partera".
 
 La abuela le enseñó a acomodar con masajes a los bebés en el útero, a cortar el cordón umbilical de los recién nacidos, y a comprender el cuerpo y los dolores de la madre. También le mostró cómo producir aceites y remedios naturales para la atención del embarazo y el parto, y a aconsejar dieta a la madre y cuidados del bebé en sus primeros meses de vida.
+
+{{< youtube "V7ABllbP-bc" >}}
  
 Las manos de Lourdes han recibido a muchas generaciones de niños y niñas indígenas Tikunas, Cocamas, Yaguas y de otros pueblos, así como también blancos o mestizos de Brasil, Colombia y Perú. Para ella, "todos somos hijos de la tierra", no importa la procedencia, ni el idioma que se hable. Eso sí, reconoce que saber las tres lenguas (Tikuna, su idioma nativo, portugués y español) le ha permitido desempeñar mejor su rol como partera comunitaria porque la comunicación con las madres es más cercana.
 

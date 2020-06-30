@@ -6,9 +6,15 @@
 {{ $default := index (where .Translations "Lang" "es") 0 }}
 
 <div class="fixed right-0 bg-eerie-black bg-opacity-85 px-2 py-1 text-white text-lg lg:text-xl" style="bottom: 50px">
-  <a href="{{ or $translated.Permalink $default.Permalink }}">
-    Leer en <span class="font-bold">{{ (or .Params.lengua "español") | humanize }}</span>
-  </a>
+  {{ if .Params.lengua }}
+    <a href="{{ $translated.Permalink }}">
+      <span class="font-bold">{{ T (print "read_" .Params.lengua) }}</span>
+    </a>
+  {{ else }}
+    <a href="{{ or $default.Permalink }}">
+      Leer en <span class="font-bold">Español</span>
+    </a>
+  {{ end }}
 </div>
 <div class="px-4 py-40 bg-center bg-no-repeat bg-cover" style='background-image: linear-gradient(to left, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.65) 25%, rgba(0, 0, 0, 0.65) 75%, rgba(0, 0, 0, 0) 100%), url({{ (index .Params.images 0) | absURL }});'>
   <div class="w-full mx-auto text-white font-playfair-display text-center md:w-4/5">

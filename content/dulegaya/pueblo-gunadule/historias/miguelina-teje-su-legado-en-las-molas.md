@@ -37,7 +37,7 @@ Anmalga Nan dumma soge dulegayaba.
  
 Nan dummad sumagged yer iddolege, Olowaili Green e wagwa wainegui durdainai comunicacion igal **Agenda Propia** guine arbanai.
 
-{{< youtube "ZyrpCxu0-T8" >}}
+{{< youtube "0QRCR0wqYyY" >}}
 
 Miguelina, e neggine dule dummadui e sui ebo Manuel Santacruz Lemus 90 años nigga, na niggusmala undargusa 55, nusggan addal niggusmala, Wagwamall addal niggamala, 16.
 E neggin belagwable e gwenadggan bugwamala, igi anmalga bab dummad soisa, be ome niggusddibal e neise be megoe.
