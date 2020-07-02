@@ -65,7 +65,7 @@ La autoridad tradicional de Perra’a, Omaira Barliza, del clan Ipuana, asegura 
  
 La historia del retorno de Paola es similar al de centenares de indígenas Wayuu que volvieron a su territorio ancestral debido a la crisis social en Venezuela. Según Migración Colombia, Maicao es el municipio de La Guajira con el mayor número de migrantes (indígenas y no indígenas): de enero a junio de 2019 se contabilizaron 20.100 personas que se establecieron tanto en el área urbana como rural de esta zona.
 
-{{< image src="images/historias/wayuu/paola-5.jpeg" title="Mujer colgando ropa" >}}
+{{< image src="images/historias/wayuu/paola-7.jpeg" title="Mujer colgando ropa" >}}
 En Perra’a, los hogares son separados por las perchas de donde se cuelga la ropa. En esta ranchería hay unas 16 casas construidas, además de las enramadas. Foto: Pablo Albarenga.
 {{< /image >}}
 
@@ -169,7 +169,7 @@ El camposanto representa el origen para el pueblo Wayuu. Allí se desvanecen los
  
 Paola visita el lugar con frecuencia. Siempre lo hace en silencio y con respeto porque es una tierra sagrada. En el cementerio hay un pequeño cuarto donde está la tumba de su madre, el lugar es de paredes blancas y se ilumina con la luz natural que llega de una rendija en el techo.
 
-{{< fullimage src="images/historias/wayuu/paola-14.jpeg" title="Paola mira la tumba de su madre" >}}
+{{< fullimage src="images/historias/wayuu/paola-15.jpeg" title="Paola mira la tumba de su madre" >}}
 Paola mira la tumba de su madre. Ese lugar es sagrado para ella. Foto: Pablo Albarenga.
 {{< /fullimage >}}
 
