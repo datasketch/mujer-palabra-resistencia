@@ -4,6 +4,14 @@ const slider = new Swiper('.swiper-container', {});
 
 updateArrows();
 
+slider.on('slideNextTransitionEnd', function () {
+  updateArrows();
+});
+
+slider.on('slidePrevTransitionEnd', function () {
+  updateArrows()
+})
+
 buttonNext.addEventListener('click', function () {
   slider.slideNext();
   updateArrows();
