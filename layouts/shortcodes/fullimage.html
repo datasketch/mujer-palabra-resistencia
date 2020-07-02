@@ -15,7 +15,7 @@
   <div class="figure-media w-full relative">
     <img class="absolute h-full w-full object-cover object-center" src='{{ .Get "src" | absURL }}' alt='{{ .Get "title" }}'>
   </div>
-  <div class="markup-container mt-2">
-    <p class="text-center text-base text-gray-800">{{ .Inner }}</p>
+  <div class="markup-container mt-2 px-4">
+    <p class="text-center text-sm text-gray-700 md:text-base">{{ .Inner }}</p>
   </div>
 </figure>
