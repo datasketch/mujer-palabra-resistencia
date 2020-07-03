@@ -30,12 +30,15 @@
       <a href="https://www.agendapropia.co/" target="_blank" rel="noopener noreferrer">
         <img class="w-24" src='https://datasketch.github.io/mujer-palabra-resistencia/images/agenda-propia.svg' alt="Agenda propia">
       </a>
-      <button class="text-white">
-        <svg class="menu-bars fill-current" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24"><path class="heroicon-ui" d="M4 5h16a1 1 0 0 1 0 2H4a1 1 0 1 1 0-2zm0 6h16a1 1 0 0 1 0 2H4a1 1 0 0 1 0-2zm0 6h16a1 1 0 0 1 0 2H4a1 1 0 0 1 0-2z"></path></svg>
+      <button class="text-white focus:outline-none" id="menu-trigger">
+        <svg class="fill-current w-8 h-8" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+          <path id="menu-bars" class="heroicon-ui" d="M4 5h16a1 1 0 0 1 0 2H4a1 1 0 1 1 0-2zm0 6h16a1 1 0 0 1 0 2H4a1 1 0 0 1 0-2zm0 6h16a1 1 0 0 1 0 2H4a1 1 0 0 1 0-2z"></path>
+          <path id="menu-close" class="hidden heroicon-ui" d="M16.24 14.83a1 1 0 0 1-1.41 1.41L12 13.41l-2.83 2.83a1 1 0 0 1-1.41-1.41L10.59 12 7.76 9.17a1 1 0 0 1 1.41-1.41L12 10.59l2.83-2.83a1 1 0 0 1 1.41 1.41L13.41 12l2.83 2.83z"/>
+        </svg>
       </button>
     </div>
-    <div class="hidden items-center justify-between text-white lg:flex">
-      <a href="https://www.agendapropia.co/" target="_blank" rel="noopener noreferrer">
+    <div id="nav-menu" class="hidden flex-col py-4 text-white lg:items-center lg:justify-between lg:flex lg:flex-row lg:py-0">
+      <a href="https://www.agendapropia.co/" target="_blank" rel="noopener noreferrer" class="hidden lg:block">
         <img class="w-24" src='https://datasketch.github.io/mujer-palabra-resistencia/images/agenda-propia.svg' alt="Agenda propia">
       </a>
       
@@ -51,7 +54,7 @@
       
         <a href="/mujer-palabra-resistencia/repositorio-de-datos/">Repositorio de datos</a>
       
-      <div class="flex items-center space-x-4">
+      <div class="flex items-center space-x-4 mt-2 md:mt-0">
         <a href="">
           <img src='https://datasketch.github.io/mujer-palabra-resistencia/images/tw.svg' alt="">
         </a>
