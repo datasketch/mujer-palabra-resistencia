@@ -1,6 +1,25 @@
-{{ $pages := (slice "sobre" "datos") }}
-{{ $static := in $pages .Type }}
-<header class="px-4 py-2 bg-eerie-black w-full z-10{{ if not $static }}{{ if .IsHome }} fixed bg-opacity-85{{ else }} absolute bg-opacity-85{{ end }}{{ end }}">
+{{ $static_pages := (slice "sobre" "datos") }}
+{{ $dynamic_pages := (slice "pueblo" "historias") }}
+{{ $static := in $static_pages .Type }}
+{{ $dynamic := in $dynamic_pages .Type }}
+
+{{ $baseClass := "px-4 py-2 bg-eerie-black w-full z-10" }}
+
+{{ if $static }}
+  {{ $baseClass = print $baseClass " " "static" }}
+{{ else }}
+  {{ if $dynamic }}
+    {{ $baseClass = print $baseClass " " "static md:absolute md:bg-opacity-85" }}
+  {{ else }}
+    {{ if .IsHome }}
+      {{ $baseClass = print $baseClass " " "fixed bg-opacity-85" }}
+    {{ else }}
+      {{ $baseClass = print $baseClass " " "absolute bg-opacity-85" }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+<header class="{{ $baseClass }}">
   <nav class="font-georgia text-lg">
     <div class="flex items-center justify-between lg:hidden">
       <a href="https://www.agendapropia.co/" target="_blank" rel="noopener noreferrer">
