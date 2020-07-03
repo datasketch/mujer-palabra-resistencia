@@ -1,24 +1,24 @@
 <div class="px-4 bg-white w-full mx-auto items-start gap-8 grid grid-cols-1 md:grid-cols-2 md:w-4/5" id="storytelling">
-  <div id="steps" class="relative">
-    <div id="step-1" class="absolute text-center w-full h-screen flex flex-col justify-center">
+  <div id="steps" class="relative space-y-24 py-24 md:space-y-0 md:py-0">
+    <div id="step-1" class="text-center w-full flex flex-col justify-center md:absolute md:h-screen">
       <h3 class="flex flex-col leading-none text-eerie-black font-bold text-2xl lg:text-4xl">
         <span>En Colombia viven</span>
         <span class="text-tropical-rain-forest text-3xl lg:text-5xl">1.905.617</span>
         <span>indígenas</span>
       </h3>
       <p class="mt-10 text-lg lg:text-xl">Este número corresponde al 4,3% del total de la población en el país (44.164.417 habitantes). El Censo Nacional de Población y Vivienda del Departamento Administrativo Nacional de Estadística (DANE) de 2018 identificó 115 pueblos indígenas en el territorio colombiano.</p>
-      <p class="text-6xl text-center md:hidden">1</p>
+      <img class="self-center mt-6 md:hidden" src='{{ "images/home/1-poblacion.gif" | absURL }}' alt="">
     </div>
-    <div id="step-2" class="absolute text-center w-full h-screen flex flex-col justify-center opacity-0">
+    <div id="step-2" class="text-center w-full flex flex-col justify-center md:absolute md:h-screen md:opacity-0">
       <h3 class="flex flex-col leading-none text-eerie-black font-bold text-2xl lg:text-4xl">
         <span class="text-tropical-rain-forest text-3xl lg:text-5xl">936.524</span>
         <span>se encuentran en</span>
         <span>regiones fronterizas</span>
       </h3>
       <p class="mt-10 text-lg lg:text-xl">En las fronteras colombianas con Venezuela, Brasil, Perú, Ecuador y Panamá hay 38 pueblos indígenas (DANE, 2018). Estos comparten los límites naturales de sus territorios: desierto, selvas, mares y ríos.</p>
-      <p class="text-6xl text-center md:hidden">2</p>
+      <img class="self-center mt-6 md:hidden" src='{{ "images/home/2-fronteras.gif" | absURL }}' alt="">
     </div>
-    <div id="step-3" class="absolute text-center w-full h-screen flex flex-col justify-center opacity-0">
+    <div id="step-3" class="text-center w-full flex flex-col justify-center md:absolute md:h-screen md:opacity-0">
       <h3 class="flex flex-col leading-none text-eerie-black font-bold text-2xl lg:text-4xl">
         <span>De estos,</span>
         <span class="text-tropical-rain-forest text-3xl lg:text-5xl">474,110</span>
@@ -27,10 +27,10 @@
         <span>son hombres</span>
       </h3>
       <p class="mt-10 text-lg lg:text-xl">Las mujeres representan el 50,62% del total de la población indígena que habita los departamentos fronterizos del lado colombiano (DANE, 2018). Ellas son las cuidadoras de la Madre Tierra y las protectoras del legado de sus pueblos.</p>
-      <p class="text-6xl text-center md:hidden">3</p>
+      <img class="self-center mt-6 md:hidden" src='{{ "images/home/3-mujeres.gif" | absURL }}' alt="">
     </div>
   </div>
-  <div id="graphics">
+  <div id="graphics" class="hidden md:block">
     <div class="graphic h-screen flex flex-col justify-center items-center" data-step="step-1">
       <img src='{{ "images/home/1-poblacion.gif" | absURL }}' alt="">
     </div>
