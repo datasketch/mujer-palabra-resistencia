@@ -29,11 +29,12 @@
 <div class="text-eerie-black font-playfair-display md:hidden">
   <div class="relative w-full" style="padding-bottom: 56.25%;">
     <img class="absolute top-0 left-0 w-full h-full object-cover object-center" src="{{ index .Params.images 0 | absURL }}" alt="">
-  </div>
-  <div class="px-4 text-center mt-10">
-    <h2 class="leading-tight text-3xl">
+    <div class="gradient absolute w-full h-full"></div>
+    <h2 class="leading-tight text-3xl text-white border-2 border-white px-4 py-2 title-center">
       Pueblo <span class="font-bold">{{ .Params.pueblo | humanize }}</span>
     </h2>
+  </div>
+  <div class="px-4 text-center mt-10">
     <p class="mt-10 italic text-lg">{{ .Description }}</p>
   </div>
 </div>

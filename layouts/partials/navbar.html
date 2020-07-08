@@ -12,7 +12,7 @@
     {{ $baseClass = print $baseClass " " "static md:absolute md:bg-opacity-85" }}
   {{ else }}
     {{ if .IsHome }}
-      {{ $baseClass = print $baseClass " " "fixed bg-opacity-85" }}
+      {{ $baseClass = print $baseClass " " "sticky top-0 md:fixed md:bg-opacity-85" }}
     {{ else }}
       {{ $baseClass = print $baseClass " " "absolute bg-opacity-85" }}
     {{ end }}
