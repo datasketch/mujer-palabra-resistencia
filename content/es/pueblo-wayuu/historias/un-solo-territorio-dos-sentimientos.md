@@ -6,15 +6,15 @@ mapa: "wayuu"
 type: "historias"
 weight: 1
 images:
-  - "images/historias/paola-madre-wayuu.jpeg"
+  - "images/historias/wayuu/paola-9.jpeg"
 ---
 
-## EN WAYUUNAIKI | Su sentir
+## Saa’ainru’u | Su sentir
 
 El caminar de Paola Vanessa González se mueve entre dos rancherías: una es Ruanamana, del lado venezolano, distante a tan solo 20 minutos del hito que le separa de Colombia, y la otra es Perra’a, ubicada en el corregimiento de Paraguachón en Maicao, a 10 minutos a pie de ‘la raya’, control migratorio entre los dos países. En la primera nació y allí están su abuela, su cementerio ancestral y sus rebaños; en la segunda, tiene la esperanza de encontrar un futuro mejor para Elías Matías Castillo González y Eli Javier Castillo González, sus hijos de tres y cinco años, respectivamente.
 
-{{< fullimage src="images/historias/wayuu/paola-1.jpeg" title="Vista cenital de comunidad Ruanamana" >}}
-La comunidad de Ruanamana es más verde y fértil que las tierras de los Wayuu del lado colombiano, caracterizadas por sus paisajes áridos. Foto: Pablo Albarenga.
+{{< fullimage src="images/historias/paola-madre-wayuu.jpeg" title="Vista cenital de comunidad Ruanamana" >}}
+Díptico fotográfico. (Izquierda) La indígena Wayuu Paola Vanessa González está acostada sobre un colorido chinchorro, tejido por ella, en la tierra donde queda el cementerio de su pueblo, sitio sagrado para su cultura. (Derecha) La comunidad de Ruanamana está ubicada en Venezuela, muy cerca de la frontera con Colombia. Paola nació y creció allí. Fotos: Pablo Albarenga.
 {{< /fullimage >}}
 
 Paola tiene 27 años y es del e’iruku (clan) Uliana. Una tarde de junio de 2018, buscando un mejor sustento para su familia, viajó con su esposo, Enrique Castillo, sus dos hijos, hermanas y sobrinos en tres burros desde Ruanamana hasta Perra’a, una ranchería de tierras secas. Como la situación económica y política empeoró en Venezuela y desde 2015 los cierres de la frontera entre ambos países han sido frecuentes, la familia decidió mudarse al lado colombiano. Se cambiaron de lugar para asegurarles la escuela, la alimentación y el transporte escolar a los niños y niñas de la comunidad.
@@ -73,13 +73,13 @@ Los Wayuu (380.460 en Colombia –Censo 2018 del Departamento Administrativo Nac
 
 Después de las oleadas migratorias que llevaron al pueblo Wayuu y a tantos otros colombianos a moverse de Colombia hacia Venezuela, desde hace cinco años miembros de este pueblo indígena se han sumado a los caminantes que abandonan ese país y cruzan la frontera; retornan porque las condiciones de vida en Venezuela se han complicado: no hay fuentes de trabajo y escasean los alimentos y las medicinas.
 
-## EN WAYUUNAIKI | Su realidad
+## Suchikuakat | Su realidad
 
 -- "No podemos dejar las tierras abandonadas. Allí tenemos cultivos y animales con los que sobrevivimos".
 
 Paola explicó que los animales y cultivos que tienen en Ruanamana los venden para comer, y así se ayudan cuando las crisis se hacen más fuertes, como cuando cierran y militarizan la frontera o cuando, como ahora, por la pandemia de la Covid-19, las pocas opciones de trabajo que tenía la comunidad, como la venta de productos en los caminos, son suspendidas.
 
-Antes de la emergencia sanitaria que en Colombia inició en abril de 2020, cuando el sol empezaba a brillar en Perra’a a las seis de la mañana, los niños eran llevados a la escuela en el corregimiento de Paraguachón. Luego, las mujeres y hombres de la comunidad empezaban a alistar sus cajas de icopor (poliestireno expandido) con hielo, botellas de gaseosa y bolsas de agua previamente adquiridas en Maicao, para revenderlas en ese corregimiento, ‘la raya’ y la vía principal que comunica ambos países, muy transitada por viajeros y migrantes. Los hombres también solían trabajar como carretilleros (moviendo mercancías o equipajes de viajeros), vendedores de gasolina y mercadería (algunas de contrabando) y comercializaban carbón que traían de la mina del Cerrejón.
+Antes de la emergencia sanitaria que en Colombia inició en abril de 2020, cuando el sol empezaba a brillar en Perra’a a las seis de la mañana, los niños eran llevados a la escuela en el corregimiento de Paraguachón. Luego, las mujeres y hombres de la comunidad empezaban a alistar sus cajas de icopor (poliestireno expandido) con hielo, botellas de gaseosa y bolsas de agua previamente adquiridas en Maicao, para revenderlas en ese corregimiento, ‘la raya’ y la vía principal que comunica ambos países, muy transitada por viajeros y migrantes. Los hombres también solían trabajar como carretilleros (moviendo mercancías o equipajes de viajeros), vendedores de gasolina y mercadería (algunas de contrabando) y comercializaban carbón.
 
 Hoy, todo ha cambiado.
 
@@ -103,11 +103,11 @@ El caso de Paola es parecido. En Venezuela terminó el colegio mientras en Colom
  
 Si bien Paola y Yoseany reconocieron la importancia de la doble nacionalidad y que no existan las fronteras en sus territorios, coincidieron en que tener dos identidades es un problema para ellas. Consideran que los gobiernos de ambos países deben reconocer sus derechos a la educación, a la salud y a un trabajo digno, y validar sus estudios y experiencia laboral de cualquier lado de la frontera.
 
-{{< fullimage src="images/historias/wayuu/paola-9.jpeg" title="Comunidad reunida" >}}
-En las noches, la comunidad se reúne mientras las mujeres preparan los alimentos. Foto: Pablo Albarenga.
+{{< fullimage src="images/historias/wayuu/paola-1.jpeg" title="Vista cenital de comunidad Ruanamana" >}}
+La comunidad de Ruanamana es más verde y fértil que las tierras de los Wayuu del lado colombiano, caracterizadas por sus paisajes áridos. Foto: Pablo Albarenga.
 {{< /fullimage >}}
 
-## EN WAYUUNAIKI | Su camino
+## Süpüne | Su camino
 
 Además del paso oficial entre Colombia y Venezuela, también hay trochas, caminos no pavimentados, que comunican ambos territorios. Por estos senderos, a los cuales se tiene acceso desde el puente de Paraguachón, Paola y su familia se mueven de una comunidad a otra. En ese punto, ubicado a menos de un kilómetro de la zona de ‘la raya’ y del control migratorio, la familia suele desviarse de la vía principal para adentrarse en la trocha y caminar más rápido. Según Paola, andar por esa ruta es peligroso.
 
@@ -161,7 +161,7 @@ En Ruanamana Paola también tiene su propio rancho en construcción.
  
 -- "Allí yo vivía con mis hijos. La casa debemos repararla".
 
-## EN WAYUUNAIKI | Su arraigo
+## Saalii sou mmakat | Su arraigo
 
 El arraigo de Paola al territorio también está ligado a sus costumbres. A unos 20 metros del rancho de su abuela se encuentra el cementerio en donde "descansan" sus ancestros y su madre.
  
@@ -189,4 +189,4 @@ Siempre que sale del cementerio, Paola se siente más serena y convencida de que
 Paola se refresca en el jagüey de Ruanamana. Foto: Pablo Albarenga.
 {{< /image >}}
 
-Aunque esta historia se reporteó antes de la pandemia global, **Agenda Propia** actualizó el estado de Paola y su comunidad mientras producía este especial. En tiempos de Covid, las madres siguen resistiendo en Perra’a. Allí, unas cinco mujeres cuidan a 20 niños y niñas que reciben clases mediante guías impresas enviadas por la escuela y a través de teléfono. Sin embargo, debido a la emergencia sanitaria, la mayoría de los miembros de la comunidad caminó de vuelta a sus territorios de origen, entre ellos Paola, quien ahora vive con su abuela y se moviliza poco entre ambas rancherías debido a las restricciones. "Yo sigo conectada con Perra’a", contó Paola vía telefónica, "allí viven mis parientes, nos devolvemos por los mismos caminos ancestrales para seguir tejiendo la palabra y acompañando nuestros sueños de vivir mejor y con dignidad".
+Aunque esta historia se reporteó antes de la pandemia global, **Agenda Propia** actualizó el estado de Paola y su comunidad mientras producía este especial. En tiempos de Covid, las madres siguen resistiendo en Perra’a. Allí, unas cinco mujeres cuidan a 20 niños y niñas que reciben clases mediante guías impresas enviadas por la escuela y a través de teléfono. Sin embargo, debido a la emergencia sanitaria, la mayoría de los miembros de la comunidad caminó de vuelta a sus territorios de origen, entre ellos Paola, quien ahora vive con su abuela y se moviliza poco entre ambas rancherías por las restricciones. "Yo sigo conectada con Perra’a", contó Paola vía telefónica, "allí viven mis parientes, nos devolvemos por los mismos caminos ancestrales para seguir tejiendo la palabra y acompañando nuestros sueños de vivir mejor y con dignidad".
