@@ -44,21 +44,7 @@
 </div>
 <!---->
 {{ with $first_story }}
-<div class="px-4 py-24 bg-center bg-no-repeat bg-cover" style='background-image: linear-gradient(to left, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 40%, rgba(0, 0, 0, 0.65) 100%), url({{ (index .Params.images 0) | absURL }});'>
-  <div class="w-full mx-auto text-white md:w-4/5">
-    <div class="w-full md:w-2/3 lg:w-1/2">
-      <h2 class="leading-tight text-4xl lg:text-5xl font-bold font-playfair-display">
-        {{ .Title }}
-      </h2>
-      <p class="mt-10 text-lg lg:text-xl">
-        {{ .Description }}
-      </p>
-    </div>
-    <a href="{{ .Permalink }}" class="inline-block font-bold border-white border-2 px-4 py-2 mt-10 hover:bg-white hover:text-eerie-black text-xl lg:text-2xl">
-      Leer historia
-    </a>
-  </div>
-</div>
+  {{ partial "story_banner.html" . }}
 {{ end }}
 <!-- Retratos -->
 <div class="px-4 py-24 bg-white">
@@ -87,21 +73,8 @@
 </div>
 <!---->
 {{ with $last_story }}
-<div class="px-4 py-24 bg-center bg-no-repeat bg-cover" style='background-image: linear-gradient(to left, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 40%, rgba(0, 0, 0, 0.65) 100%), url({{ (index .Params.images 0) | absURL }});'>
-  <div class="w-full mx-auto text-white md:w-4/5">
-    <div class="w-full md:w-2/3 lg:w-1/2">
-      <h2 class="leading-tight text-4xl lg:text-5xl font-bold font-playfair-display">
-        {{ .Title }}
-      </h2>
-      <p class="mt-10 text-lg lg:text-xl">
-        {{ .Description }}
-      </p>
-    </div>
-    <a href="{{ .Permalink }}" class="inline-block font-bold border-white border-2 px-4 py-2 mt-10 hover:bg-white hover:text-eerie-black text-xl lg:text-2xl">
-      Leer historia
-    </a>
-  </div>
-</div>
+  {{ partial "story_banner.html" . }}
+  <div class="pt-24 md:pt-0"></div>
 {{ end }}
 <!---->
 {{ partial "bottom.html" . }}

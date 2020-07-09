@@ -1,0 +1,30 @@
+<div class="px-4 py-24 bg-center bg-no-repeat bg-cover hidden md:block" style='background-image: linear-gradient(to left, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 40%, rgba(0, 0, 0, 0.65) 100%), url({{ (index .Params.images 0) | absURL }});'>
+  <div class="w-full mx-auto text-white md:w-4/5">
+    <div class="w-full md:w-2/3 lg:w-1/2">
+      <h2 class="leading-tight text-4xl lg:text-5xl font-bold font-playfair-display">
+        {{ .Title }}
+      </h2>
+      <p class="mt-10 text-lg lg:text-xl">
+        {{ .Description }}
+      </p>
+    </div>
+    <a href="{{ .Permalink }}" class="inline-block font-bold border-white border-2 px-4 py-2 mt-10 hover:bg-white hover:text-eerie-black text-xl lg:text-2xl">
+      Leer historia
+    </a>
+  </div>
+</div>
+<!-- Mobile -->
+<div class="text-eerie-black font-playfair-display md:hidden">
+  <div class="relative w-full" style="padding-bottom: 56.25%;">
+    <img class="absolute top-0 left-0 w-full h-full object-cover object-center" src="{{ index .Params.images 0 | absURL }}" alt="">
+  </div>
+  <div class="px-4 mt-10">
+    <h2 class="leading-tight text-4xl lg:text-5xl font-bold font-playfair-display">
+      {{ .Title }}
+    </h2>
+    <p class="mt-6 italic text-lg">{{ .Description }}</p>
+    <a href="{{ .Permalink }}" class="inline-block font-bold border-eerie-black border-2 px-4 py-2 mt-10 text-xl lg:text-2xl">
+      Leer historia
+    </a>
+  </div>
+</div>
