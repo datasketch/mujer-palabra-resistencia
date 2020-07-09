@@ -7,11 +7,11 @@ type: "sobre"
 
 ## Presentación
 
-__*Ome, Pütchi, Poraû*__ (Mujer, Palabra, Resistencia) es una serie periodística intercultural que muestra los saberes, la diversidad indígena y la riqueza cultural de los pueblos cuyos territorios vivos y naturales se expanden a través de selvas, desiertos, mares y ríos, traspasando las fronteras que separan a un país de otro.
+**Ome, Pütchi, Poraû** (Mujer, Palabra, Resistencia) es una serie periodística intercultural que muestra los saberes, la diversidad indígena y la riqueza cultural de los pueblos cuyos territorios vivos y naturales se expanden a través de selvas, desiertos, mares y ríos, traspasando las fronteras que separan a un país de otro.
 
 En este especial, las protagonistas son 24 mujeres indígenas de los pueblos Wayuu, Gunadule y Tikuna que viven en diez comunidades ubicadas entre Colombia y sus límites con Venezuela, Panamá, Brasil o Perú. Con sus voces, retratos y escritos nos recuerdan que su profunda relación con los territorios trasciende las líneas trazadas por otros para conectarse desde lo espiritual y lo ancestral: para ellos la tierra es la madre y se debe cuidar.
 
-La co-creación de este multimedia empezó antes de que el mundo entrara en confinamiento por la emergencia de la pandemia de la Covid 19. Las historias que aquí se presentan, en forma de videos, crónicas y fotorreportajes, son memoria viva de las mujeres y hombres indígenas que habitan en territorios fronterizos. __*Ome, Pütchi, Poraû__* (Mujer, Palabra, Resistencia) es una mistura de realidades y saberes; es un homenaje a las mujeres que luchan por la protección de los legados de sus ancestros (las lenguas, los tejidos y la palabra). Estos relatos son un llamado a la humanidad por el respeto de los derechos de los pueblos indígenas y sus territorios amenazados por fenómenos migratorios, el cambio climático, la explotación de los recursos naturales y la pérdida de valores culturales.
+La co-creación de este multimedia empezó antes de que el mundo entrara en confinamiento por la emergencia de la pandemia de la Covid 19. Las historias que aquí se presentan, en forma de videos, crónicas y fotorreportajes, son memoria viva de las mujeres y hombres indígenas que habitan en territorios fronterizos. **Ome, Pütchi, Poraû** (Mujer, Palabra, Resistencia) es una mistura de realidades y saberes; es un homenaje a las mujeres que luchan por la protección de los legados de sus ancestros (las lenguas, los tejidos y la palabra). Estos relatos son un llamado a la humanidad por el respeto de los derechos de los pueblos indígenas y sus territorios amenazados por fenómenos migratorios, el cambio climático, la explotación de los recursos naturales y la pérdida de valores culturales.
 
 ### Las historias
 

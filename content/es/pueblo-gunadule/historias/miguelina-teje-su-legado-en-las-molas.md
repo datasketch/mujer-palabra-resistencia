@@ -1,6 +1,6 @@
 ---
 title: "Miguelina teje su legado en las molas"
-description: "Los indígenas Gunadules que viven entre Colombia y Panamá añoran la selva, de donde son originarios. Así lo recuerda Nan dummad (abuela) Miguelina Álvarez. Ella, desde el resguardo Ibgigudiwala, teje la mola para conservar el legado de sus ancestros: cuidar el territorio y regar las semillas de sus tradiciones."
+description: "Los indígenas Gunadules que viven entre Colombia y Panamá añoran la selva, de donde son originarios. Así lo recuerda Nan dummad (abuela) Miguelina Álvarez. Ella, desde el resguardo Ibgigundiwala, teje la mola para conservar el legado de sus ancestros: cuidar el territorio y regar las semillas de sus tradiciones."
 author: "Edilma Prada y Olowaili Green"
 mapa: "gunadule"
 type: "historias"
@@ -33,7 +33,7 @@ Dice la abuela, en su lengua materna.
  
 -- "Nuestros creadores nos bajaron de las estrellas a cuidar los ríos, las plantas, nuestras semillas".
  
-Las palabras de Nan dummad suenan como poesía, al tiempo que Olowaili Green, su nieta y comunicadora del equipo intercultural de Agenda Propia, traduce.
+Las palabras de Nan dummad suenan como poesía, al tiempo que Olowaili Green, su nieta y comunicadora del equipo intercultural de **Agenda Propia**, traduce.
 
 {{< youtube "0QRCR0wqYyY" >}}
 
@@ -79,7 +79,7 @@ La abuela también cuenta que en su comunidad tomaban chicha de maíz, cazaban y
  
 La abuela Miguelina menciona que su etnia viene de la selva.
  
-Los relatos y escritos narran cómo los Gunadules tiempo atrás, hace 500 años, vivían en la selva. El pueblo es originario del Darién, también conocido como el Tapón del Darién, territorio extenso bordeado por los mares Caribe y Pacífico. No era ni Colombia ni Panamá, era la tierra de varios pueblos indígenas: Wounaan, Emberas y Gunadules. Sus hombres y mujeres se dedicaban a la caza, a la pesca, a la recolección de frutos y al tejido. Pero desde la conquista de los españoles, los Gunadules se fueron enfermando, muriendo y desplazando. Parte de sus territorios pasó a manos de concesiones mineras y bananeras. También grupos armados ilegales, como guerrillas y paramilitares, usaron sus tierras como corredores del narcotráfico, lo que terminó desplazándolos y confinándolos. En 2004, la Corte Constitucional de Colombia, en el Auto 004 declaró que 34 pueblos indígenas, entre ellos, Gunadule, Wounaan, Emberas, están en riesgo de exterminio por desplazamiento o muerte natural o violenta de sus integrantes. En la actualidad, las alertas tempranas de la Defensoría del Pueblo advierten que los pueblos indígenas que habitan en el Litoral Pacífico y el Darién siguen en riesgo.
+Los relatos y escritos narran cómo los Gunadules tiempo atrás, hace 500 años, vivían en la selva. El pueblo es originario del Darién, también conocido como el Tapón del Darién, territorio extenso bordeado por los mares Caribe y Pacífico. No era ni Colombia ni Panamá, era la tierra de varios pueblos indígenas: Wounaan, Emberas y Gunadules. Sus hombres y mujeres se dedicaban a la caza, a la pesca, a la recolección de frutos y al tejido. Pero desde la conquista de los españoles, los Gunadules se fueron enfermando, muriendo y desplazando. Parte de sus territorios pasó a manos de concesiones mineras y bananeras. También grupos armados ilegales, como guerrillas y paramilitares, usaron sus tierras como corredores del narcotráfico, lo que terminó desplazándolos y confinándolos. En 2009, la Corte Constitucional de Colombia, en el Auto 004 declaró que 34 pueblos indígenas, entre ellos, Gunadule, Wounaan, Emberas, están en riesgo de exterminio por desplazamiento o muerte natural o violenta de sus integrantes. En la actualidad, las alertas tempranas de la Defensoría del Pueblo advierten que los pueblos indígenas que habitan en el Litoral Pacífico y el Darién siguen en riesgo.
 
 Hoy, las comunidades del pueblo Gunadule se encuentran asentadas en 360 islas y arrecifes en tres comarcas indígenas en Panamá (Guna Yala, Madungandí y Wargandi), en el territorio ancestral Dagargunyala (Darién) y en las nueve provincias que hay en el vecino país, donde habitan 80.000 personas (censo oficial 2010, datos suministrados por el Congreso General de la Cultura Guna, principal autoridad tradicional de los Gunadules). En Colombia, de acuerdo con el censo 2018 del Departamento Administrativo Nacional de Estadística (DANE), el pueblo tiene 2.610 habitantes, quienes viven en dos resguardos: Maggilagundiwala, en Arquía, Chocó, e Ibgigundiwala, Caimán Nuevo, sobre la región del Golfo de Urabá en Antioquia. Este último se divide en tres comunidades: Caimán Bajo, Medio y Alto.
 

@@ -9,7 +9,7 @@
   {{ $baseClass = print $baseClass " " "static" }}
 {{ else }}
   {{ if $dynamic }}
-    {{ $baseClass = print $baseClass " " "static md:absolute md:bg-opacity-85" }}
+    {{ $baseClass = print $baseClass " " "static md:fixed md:bg-opacity-85" }}
   {{ else }}
     {{ if .IsHome }}
       {{ $baseClass = print $baseClass " " "sticky top-0 md:fixed md:bg-opacity-85" }}
@@ -40,11 +40,14 @@
         <a href="{{ .URL }}">{{ .Name }}</a>
       {{ end }}
       <div class="flex items-center space-x-4 mt-2 md:mt-0">
-        <a href="">
+        <a href="https://twitter.com/agendapropiaap" target="_blank" rel="noopener noreferrer">
           <img src='{{ "images/tw.svg" | absURL }}' alt="">
         </a>
-        <a href="">
+        <a href="https://www.facebook.com/AgendaPropiaGlobal/?modal=admin_todo_tour" target="_blank" rel="noopener noreferrer">
           <img src='{{ "images/fb.svg" | absURL }}' alt="">
+        </a>
+        <a href="https://www.instagram.com/agenda_propia/" target="_blank" rel="noopener noreferrer">
+          <img class="w-4" src='{{ "images/ig.svg" | absURL }}' alt="">
         </a>
       </div>
     </div>

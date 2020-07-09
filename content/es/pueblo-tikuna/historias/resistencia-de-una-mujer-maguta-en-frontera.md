@@ -70,7 +70,7 @@ Este vuelo la llevó a trabajar con la Red Defensores de Vida, organización que
 En estas instituciones Ünãgükü Taüchina decidió combinar sus conocimientos profesionales y tradicionales para ayudar a niños, niñas, adolescentes y padres de familia de las comunidades. A través de charlas en lengua Magüta, juegos tradicionales e historias de la cosmovisión Magüta llevó mensajes de protección del cuerpo y del territorio y contribuyó a la prevención de la trata de personas.
 
 {{< fullimage src="images/historias/tikuna/mujer-maguta-11.jpeg" title="Niños indígenas Tikunas recibiendo almuerzo" >}}
-Niños indígenas Tikunas recibiendo el almuerzo en la institución educativa José Antonio Galán de la comunidad de San Francisco de Loretoyaco. Foto: Pablo Albarenga.
+Niños y niñas indígenas Tikunas recibiendo el almuerzo en la institución educativa José Antonio Galán de la comunidad de San Francisco de Loretoyaco. Foto: Pablo Albarenga.
 {{< /fullimage >}}
 
 Hoy, esta joven líder del pueblo Magüta hace parte de la Red de Enfrentamiento contra la Trata de Personas (RETP), que opera en la triple frontera. Esta iniciativa nació de misioneros católicos y está abierta a la participación de diferentes instituciones, organizaciones religiosas, entidades gubernamentales y personas indígenas del territorio. La Red se apoya en personas nativas del territorio para que ayuden a sus comunidades a identificar las distintas caras que tiene la trata de personas, además de lograr una cercanía con quienes han sido víctimas para que puedan contar sus historias y ser escuchadas.

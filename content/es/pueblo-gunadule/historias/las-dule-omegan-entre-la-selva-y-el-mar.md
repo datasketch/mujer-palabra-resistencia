@@ -11,7 +11,7 @@ images:
 
 ## Muu Magaddibala | Alta mar
 
-Las aguas de color verde esmeralda que se mezclan con el azul claro infinito del mar Caribe parecieran trazar el camino que el pueblo Gunadule ha transitado a lo largo de su historia desde las profundas selvas del Darién hacia las islas que bordean Panamá. Con esa reflexión, Olowaili Green y Edilma Prada (comunicadoras del equipo intercultural de Agenda Propia) iniciamos el recorrido al territorio ancestral Capurganá o Tierra del Ají, ubicado entre Colombia y Panamá, al encuentro de las Dule Omegan, mujeres Dule.
+Las aguas de color verde esmeralda que se mezclan con el azul claro infinito del mar Caribe parecieran trazar el camino que el pueblo Gunadule ha transitado a lo largo de su historia desde las profundas selvas del Darién hacia las islas que bordean Panamá. Con esa reflexión, Olowaili Green y Edilma Prada (comunicadoras del equipo intercultural de **Agenda Propia**) iniciamos el recorrido al territorio ancestral Capurganá o Tierra del Ají, ubicado entre Colombia y Panamá, al encuentro de las Dule Omegan, mujeres Dule.
 
 A inicios de marzo de 2020, en una cálida mañana de unos 19 grados centígrados, salimos de la comunidad de Ibgigundiwala, Caimán Nuevo (Necoclí, Antioquia) hacia el puerto de Necoclí, ubicado a unos pasos de una calle comercial y zona de restaurantes del pueblo. Una vez allí, nos embarcamos en un yate público junto con unos 50 pasajeros, la mayoría extranjeros y algunos colombianos. Nuestro destino era Capurganá en el vecino departamento del Chocó, corregimiento turístico del municipio de Acandí, ubicado sobre el Golfo de Urabá.
  
@@ -125,4 +125,4 @@ Los atardeceres de la Tierra del Ají son coloridos e inspiradores. El sol se oc
 
 Nos despedimos de Capurganá, territorio ancestral de los Gunadules, sin imaginarnos que sería nuestro último viaje antes de que se cerraran las fronteras por la emergencia global de la Covid-19.
  
-Esta historia es la última que reporteó el equipo periodístico intercultural de Agenda Propia en territorios indígenas, apenas ocho días antes de que el gobierno colombiano ordenara el cierre de sus fronteras marítimas y terrestres.
+Esta historia es la última que reporteó el equipo periodístico intercultural de **Agenda Propia** en territorios indígenas, apenas ocho días antes de que el gobierno colombiano ordenara el cierre de sus fronteras marítimas y terrestres.
