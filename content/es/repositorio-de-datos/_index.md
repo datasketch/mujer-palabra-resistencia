@@ -3,13 +3,13 @@ title: "Repositorio de datos"
 type: "datos"
 ---
 
-*Introducción*
+*Metodología*
 
 ## Repositorio de datos abiertos sobre los pueblos indígenas de Colombia
 
-De manera colaborativa, el colectivo periodístico intercultural de [Agenda Propia](http://www.agendapropia.co) y [Datasketch](https://www.datasketch.co/) crearon este repositorio digital de datos abiertos como insumo para re-conocer a las mujeres y hombre indígenas (1.905.617) que viven en Colombia, distribuidos en 115 pueblos.
+De manera colaborativa, el colectivo periodístico intercultural de [**Agenda Propia**](http://www.agendapropia.co) y [**Datasketch**](https://www.datasketch.co/) crearon este repositorio digital de datos abiertos como insumo para re-conocer a las mujeres y hombres indígenas (1.905.617) que viven en Colombia, distribuidos en 115 pueblos.
 
-Para la creación de este repositorio usamos una metodología abierta y participativa. A través de diálogos de la palabra y sesiones editoriales con la participación del equipo de periodistas y comunicadoras indígenas, analistas, desarrolladores y diseñadoras, hicimos un esfuerzo por aportar en la comprensión de los datos disponibles con relación a los pueblos indígenas en Colombia y sus territorios.
+Para la creación de este repositorio usamos una metodología abierta y participativa. A través de diálogos de la palabra y sesiones editoriales con el equipo de periodistas y comunicadoras indígenas, analistas, desarrolladores y diseñadoras, hicimos un esfuerzo por aportar en la comprensión de los datos disponibles con relación a los pueblos indígenas en Colombia y sus territorios.
 
 ### Los aplicativos
 
@@ -17,11 +17,11 @@ En el especial periodístico **Ome, Pütchi, Poraû** (Mujer, Palabra, Resistenc
 
 El *storytelling* se encuentra en el **inicio** del especial. Allí mostramos los principales datos de la población indígena en Colombia y de los pueblos que comparten fronteras con Panamá, Venezuela, Brasil y Perú. Esta historia es narrada con visualizaciones de simbologías propias de los pueblos protagonistas de este trabajo: Wayuu, Gunadule y Tikuna.
 
-El primer aplicativo, Explora los mapas, presenta siete filtros con la siguiente información: 1. Población indígena en Colombia, por departamentos; 2. Población indígena en Colombia, por pueblos nativos u originarios; 3. Pueblos indígenas en riesgo de desaparición en Colombia (número de habitantes); 4. Resguardos indígenas en Colombia; 5. Cultivos ilícitos de hoja de coca en resguardos indígenas (hectáreas); 6. Líderes y lideresas de los pueblos indígenas asesinados entre 2016 y 2019, y 7. Situaciones de riesgo en pueblos indígenas de frontera (2018-2019).
+El primer aplicativo, [Navega los mapas]({{< ref "mapas.md" >}}), presenta siete filtros con la siguiente información: 1. Población indígena en Colombia, por departamentos; 2. Población indígena en Colombia, por pueblos nativos u originarios; 3. Pueblos indígenas en riesgo de desaparición en Colombia (número de habitantes); 4. Resguardos indígenas en Colombia; 5. Cultivos ilícitos de hoja de coca en resguardos indígenas (hectáreas); 6. Líderes y lideresas de los pueblos indígenas asesinados entre 2016 y 2019, y 7. Situaciones de riesgo en pueblos indígenas de frontera (2018-2019).
  
 En este aplicativo, el usuario puede visualizar los datos con distintos gráficos. Además, por el enfoque de este especial, la herramienta presenta la opción de seleccionar la información relacionada exclusivamente con los departamentos fronterizos de Colombia como lo son Venezuela, Brasil, Perú, Ecuador y Panamá.
  
-El segundo aplicativo, Explora los datos, destaca los datos de población, género y rango de edad específicamente de los tres pueblos indígenas protagonistas de esta serie de historias: Wayuu, Gunadule (también conocido como Cuna Tule o Kuna), y Tikuna.
+El segundo aplicativo, [Explora los gráficos]({{< ref "graficos.md" >}}), destaca los datos de población, género y rango de edad específicamente de los tres pueblos indígenas protagonistas de esta serie de historias: Wayuu, Gunadule (también conocido como Cuna Tule o Kuna), y Tikuna.
 
 ### Fuentes consultadas
 

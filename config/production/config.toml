@@ -4,6 +4,11 @@ title = "Mujeres, palabra, resistencia"
 defaultContentLanguage = "es"
 publishDir="docs"
 
+[markup]
+  defaultMarkdownHandler = "blackfriday"
+  [markup.blackFriday]
+    hrefTargetBlank = true
+
 [menu]
   [[menu.main]]
     identifier = "home"
