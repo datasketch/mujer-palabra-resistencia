@@ -2,6 +2,7 @@
 title: "Miguelina mola nermagged"
 description: "Gunadulemala ambaggumala Colombiayalguine Panama yal guin ba an mala napguana wagan gue, diwala tumaganba an mal danigui, weyob nan duma neg ebinsae Miguelina 72 años nigga, en neguine immal bela sasale na siguis dae molmaged, an mal ga sogue we igal iyelebisuli, we nan gan dumagan burba an mala tottomala nue we igalgi odurdaleged abelegue."
 author: "Edilma Prada y Olowaili Green"
+photo_credit: "(Sabbiled) Dule neggwebur Ibgigundiwala, de mas digedggine arbamala. (Derecha) Nan dummad Miguelina Álvarez Mai e negweburgin, we nabba isggumai más nuggin. Wagalburwa: Pablo Albarenga."
 mapa: "gunadule"
 type: "historias"
 weight: 1

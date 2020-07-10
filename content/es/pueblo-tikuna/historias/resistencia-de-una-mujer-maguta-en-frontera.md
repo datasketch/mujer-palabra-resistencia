@@ -2,6 +2,7 @@
 title: "Resistencia de una mujer Magüta en frontera"
 description: "En el extremo sur de Colombia, límite con Brasil y Perú, Ünãgükü Taüchina, una joven Magüta (Tikuna) lucha contra la trata de personas y por la protección del cuerpo y del territorio. Ella cree que la manera de cuidar a la madreselva es volver a la raíz, a la medicina tradicional y a la cosmovisión de las Ngeugu Magütagüka (mujeres Tikunas)."
 author: "Vanessa Teteye Mendoza"
+photo_credit: "Díptico fotográfico. (Izquierdo) Encuentro de los ríos Amazonas y Loretoyaco, en el municipio de Puerto Nariño (Colombia), en frontera con Perú. (Derecha) Ünãgükü Taüchina flotando en las aguas del río Loretoyaco. Para Cindy, el río Amazonas es el origen del pueblo Tikuna y sus aguas significan la unión de las tres fronteras: Colombia, Brasil y Perú. Fotos: Pablo Albarenga."
 mapa: "tikuna"
 type: "historias"
 weight: 1

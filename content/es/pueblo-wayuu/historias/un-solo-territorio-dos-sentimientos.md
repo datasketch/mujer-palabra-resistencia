@@ -2,6 +2,7 @@
 title: "Un solo territorio, dos sentimientos: Paola, madre Wayuu"
 description: "Entre Colombia y Venezuela, la líder indígena Paola Vanessa González se divide entre dos comunidades mientras lucha por el futuro de sus hijos y por mantener su arraigo a su familia y sus ancestros. Su historia también es el reflejo del ir y venir de los Wayuu entre un país y el otro, y las dificultades que atraviesa este pueblo por la falta de agua y por tener dos identidades."
 author: "Edilma Prada y Luzbeidy Monterrosa"
+photo_credit: "En las noches, Paola Vanessa González y las mujeres de su comunidad se reúnen para preparar los alimentos. Así, mantienen una de las costumbres de su pueblo, el Wayuu, y la comparten con los niños y las niñas. Foto: Pablo Albarenga."
 mapa: "wayuu"
 type: "historias"
 weight: 1

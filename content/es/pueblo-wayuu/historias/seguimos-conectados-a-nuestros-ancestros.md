@@ -2,6 +2,7 @@
 title: "\"Seguimos conectados a nuestros ancestros\", Karla"
 description: "Niños y niñas Wayuu aprenden de sus abuelos y abuelas las realidades de su territorio. En esta historia, Karla Lucía Uriana González, de once años, comparte su sentir y vivencias en Colombia y Venezuela."
 author: "Luzbeidy Monterrosa"
+photo_credit: "Karla, de once años, pertenece al pueblo Wayuu y vive en La Guajira, Colombia, muy cerca de la frontera con Venezuela. Karla registra con una cámara su territorio. Foto: Luzbeidy Monterrosa."
 mapa: "wayuu"
 type: "historias"
 images:

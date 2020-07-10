@@ -2,6 +2,7 @@
 title: "Miguelina teje su legado en las molas"
 description: "Los indígenas Gunadules que viven entre Colombia y Panamá añoran la selva, de donde son originarios. Así lo recuerda Nan dummad (abuela) Miguelina Álvarez. Ella, desde el resguardo Ibgigundiwala, teje la mola para conservar el legado de sus ancestros: cuidar el territorio y regar las semillas de sus tradiciones."
 author: "Edilma Prada y Olowaili Green"
+photo_credit: "Díptico fotográfico. (Izquierda) El territorio de los Gunadules en la parte baja del resguardo Ibgigundiwala, Caimán Nuevo, está cubierto del monocultivo de plátano. (Derecha) La abuela (Nan dummad), Miguelina Álvarez se ubica sobre terrenos que con el paso de los años han perdido fertilidad. Su deseo es proteger las costumbres, por ello, se viste como la madre tierra, es decir, con el tejido de las molas. Fotos: Pablo Albarenga."
 mapa: "gunadule"
 type: "historias"
 weight: 1

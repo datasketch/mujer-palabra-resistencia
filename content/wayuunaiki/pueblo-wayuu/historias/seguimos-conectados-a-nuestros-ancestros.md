@@ -2,6 +2,7 @@
 title: "\"Ayatüshii kottiraain namaa watuushinuu\", Karla"
 description: "Tepichiinua wayuu ekirajaashi namaa natuushinuu müsia noushinuu tü kasa alatakaa sulu’u woumain. Karla Lucía Uriana González süküjüinjatü suchukua jamüin saa’inrulujut otta tü kasa sülatirakaa Colombia sümaa Venezuela."
 author: "Luzbeidy Monterrosa"
+photo_credit: "Karla, 11 suuyashe, Wayuu kepiasü suumainpa’a Wajiira, Colombia, peje sünain tü sülüjülekat mmakat sümaa Venezuela. Süyaakuajala: Luzbeidy Monterrosa."
 mapa: "wayuu"
 type: "historias"
 images:

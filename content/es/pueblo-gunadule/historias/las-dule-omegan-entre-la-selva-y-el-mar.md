@@ -2,6 +2,7 @@
 title: "Las Dule Omegan entre la selva y el mar"
 description: "Esta es una crónica de viaje en busca de la historia del territorio ancestral, Capurganá, ubicado entre Colombia y Panamá y conocido como la ‘Tierra del Ají’. También es un retrato de un encuentro con los saberes y las realidades de las Dule Omegan (mujeres Dule)."
 author: "Olowaili Green y Edilma Prada"
+photo_credit: "Las Dule Omegan (mujeres Dule) sienten una conexión profunda con el mar. La historia narra que los Gunadules pasaron de vivir de las selvas al mar, como es el caso de la mayoría de las comunidades asentadas en las islas de Panamá. Foto: Edilma Prada."
 mapa: "gunadule"
 type: "historias"
 weight: 2

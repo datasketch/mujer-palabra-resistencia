@@ -2,6 +2,7 @@
 title: "Tumarü nû ya wuíe ngee Magüta, tumarü naüne rü naaneka"
 description: "Ngêma napechinü rü ngü Colombia, üyeane, Brasil i Perú ma, Ünãgükü Taüchina, wuíe pakü  Magüta (tikuna) naka cha pora, ngêma chieêû naküma dueûgüarü tama üna arü, duûgü tûmarü naenewa. Choma nu cha kua ngêma nama nûna naineküarû nae na taegü ngema nachünawa, üüûgü torü takümagü ngeûgü Magütagüka (mujeres tikunas)."
 author: "Vanessa Teteye Mendoza"
+photo_credit: "Díptico fotográfico. (Tõwe) Ngaugü yima natü tatü rü chenetü, tarü municipio Puerto Nariñowa (Colombia), ru üyeane ngêma Peruma. (Iwéû) Ünãgükü Taüchina iyagûâchi yiema deawa ñaa natü chenetü. Ngîmaka Cindy, Yía natü tatü niî yima ñoma naane rü naane magüta i norü deagü ta daugna tarü ngaû y tarü üyeanegüe: Colombia, Brasil i Perú. Nachikünaã: Pablo Albarenga."
 mapa: "tikuna"
 type: "historias"
 weight: 1
@@ -124,3 +125,5 @@ Tümaka Ünãgükü Taüchina, nagü naüne ngema yiYork dueûmana mar toküegü
 {{< image src="images/historias/tikuna/mujer-maguta-16.jpeg" title="Ünãgükü Taüchina frente a un árbol de Ceiba" >}}
 Ünãgükü Taüchina napêegüwarü wuía naiwa wochineka (wone), norü ügüû daa ru natü tatüka i yíema ngau ñoma i naane. Nachikünaã: Pablo Albarenga.
 {{< /image >}}
+
+**Umatüû**: Ñaa ore namaã nüû niuchiga rü febrérugü tawemakü 2020, tomepüarü yüü naûpa narü wãtaûgu yíema üyeanegü yía paaãê rü ngúane rü yía Covid-19. Naûpa yíma namaã nüû niu daa yeeramaeû, **Agenda Propia** na nüû niu nachiûane Ünãgükü Taüchina (Cindy Amalec Laulate Castillo), teé inanawê inayangau yíema torü gucharüû rü ínananguchiêê yíema íanegü tatükãgü yía tomepüarü üyeane (Colombia, Brasil rü Perú), yíema to nanatoraûêê yía naane tana igüûne rü ngúane. "I cha na ümükü i cha uneta natoraüûgü inanagüü rü ngûêê yiema organizaciones sociales torü ngüêêgü insumügü rü na yaumare yiema torü meû maûka yiema ianegü ñaa Resguardo Aticoya", na ú ünãgükü na vía yaugarüû rü na uneta: "wiígü chorü familiama ta ügü tagawa (Tikuna) norü üyegü namaã nüû niugü torü meêmaka i torü meûka rü ínanairaãchi yía chieû Covid". Yía pakü maiyu nüü narüngûêê norü poraûma torü daugüka yima naüne ngêgümarüû naane rü  guûma ñuraüû maû chieûgü,ngêãû iyaumareû i, ñumã, nachawa yia to chieû yiema ngúane.
