@@ -8,3 +8,10 @@
   translation: "Nüû nadaumatü Magütaká"
 - id: read_dulegaya
   translation: "Dulegayagin be absoge"
+- id: read_story
+  translation: "Leer historia"
+- id: view_more
+  translation: "Ver más"
+- id: back_to_top
+  translation: "Volver al inicio"
+

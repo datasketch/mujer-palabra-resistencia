@@ -2,6 +2,7 @@
 title: "Tümarü wogü Lourdesaru: tümarü íraãküeêrüû maiyugü arü takümagü"
 description: "Yíema íraãküerüû Lourdes Firmino Araújo, Magütaka ni î, ta daigü tarü mêû maûka ka  para las ngeûgü rü yatüûgü maiyugüka rü nigü inaã yia íraãküeêrüû nawa nüû tomepüarü üyeane taküka: Brasil, Colombia y Perú. Yegumakürüwa wuíe buû chiî, Lourdes  noêwa  ta na ngu, ru ta ngûêê nüû ngeûgü tüma paãcchi arü Iraakü. Tümakã, yia na nayau yiema Maû yeeraãkü na meechi."
 author: "Edilma Prada Céspedes"
+translator: "Tagawa: Cindy Amalec Laulate Castillo"
 photo_credit: "Lourdes Firmino na ganagü wií büû i ta ngau yiema ngeêgü ianemaka Umariaçu 2 rü Tabatinga, Brasil. Nachikünaã: Pablo Albarenga."
 mapa: "tikuna"
 type: "historias"

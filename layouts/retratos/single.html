@@ -11,8 +11,11 @@
     <p class="mt-10 italic text-lg lg:text-xl">
       {{ .Description }}
     </p>
-    <div class="mt-12">
-      <p class="font-bold text-lg lg:text-xl">Por: {{ .Params.author }}</p>
+    <div class="mt-12 text-lg lg:text-xl">
+      <p class="font-bold">{{ T "written_by" }}: {{ .Params.author }}</p>
+      {{ if .Params.translator }}
+        <p class="font-bold">{{ .Params.translator }}</p>
+      {{ end }}
       <img class="mx-auto mt-4" src='{{ "images/separador.svg" | absURL }}' alt="">
     </div>
   </div>

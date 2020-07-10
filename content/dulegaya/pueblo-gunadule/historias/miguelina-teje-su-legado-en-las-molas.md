@@ -1,8 +1,9 @@
 ---
 title: "Miguelina mola nermagged"
 description: "Gunadulemala ambaggumala Colombiayalguine Panama yal guin ba an mala napguana wagan gue, diwala tumaganba an mal danigui, weyob nan duma neg ebinsae Miguelina 72 años nigga, en neguine immal bela sasale na siguis dae molmaged, an mal ga sogue we igal iyelebisuli, we nan gan dumagan burba an mala tottomala nue we igalgi odurdaleged abelegue."
-author: "Edilma Prada y Olowaili Green"
-photo_credit: "(Sabbiled) Dule neggwebur Ibgigundiwala, de mas digedggine arbamala. (Derecha) Nan dummad Miguelina Álvarez Mai e negweburgin, we nabba isggumai más nuggin. Wagalburwa: Pablo Albarenga."
+author: "Edilma Prada Olowaili Green"
+translator: "Balsoged: Olowaili Green"
+photo_credit: "(Sabbiled) Dule neggwebur Ibgigundiwala, de mas digedggine arbamala. (Nued) Nan dummad Miguelina Álvarez Mai e negweburgin, we nabba isggumai más nuggin. Wagalburwa: Pablo Albarenga."
 mapa: "gunadule"
 type: "historias"
 weight: 1
@@ -51,7 +52,7 @@ Miguelina Manuel ebo issesuli nusggan niggamala, aga emalga sumaidamala mele ieg
 Miguele nei dummadi, e nei dulesunadi sosggabagga soblesa, nei diggalba duddumala digale, niggabali siagwa, naranja, mango, mara, mam, mas, ogob, islub, nan dummad diibaila biseb ina dule. E nega demal walisi, Ossigana bangumai 20 minutos.
 
 {{< tripleimage first="images/historias/gunadule/teje-la-mola-4.jpeg" second="images/historias/gunadule/teje-la-mola-4-1.jpeg" first_title="Abuela cocinando en fogón" second_title="Cacao y totumo" >}}
-(Izquierda) Nan dummad mas duegala sadae soobagga, agin dulemasi imaidae, ua arro ogobbagga. (Derecha) Nan dummad nega diggalba diisa siagwa, naba ebo. Wagalburwa: Pablo Albarenga.
+(Sabbiled) Nan dummad mas duegala sadae soobagga, agin dulemasi imaidae, ua arro ogobbagga. (Nued) Nan dummad nega diggalba diisa siagwa, naba ebo. Wagalburwa: Pablo Albarenga.
 {{< /tripleimage >}}
 
 Nan dummad masddubidibale sooguin imaidae. Bab dummad Manuel imaidae carbba agin nan dummad imal sabudae. Nan dummad waggur aggal addasdda gabi saegala a wassi baimal addasddamalmoga arbaegala. Agin madum imasdae siagwabagga, inbaggua ua sadae mambagga mas dibbalbagga.
@@ -127,7 +128,7 @@ Anmal arbaed mas digedgine, we negweburgine Ibgigundiwalagine belagwable mas dig
 {{< /fullimage >}}
 
 {{< tripleimage first="images/historias/gunadule/teje-la-mola-11.jpeg" second="images/historias/gunadule/teje-la-mola-12.png" first_title="Comerciantes preparando bultos de plátanos" second_title="Camión con carga de plátano" >}}
-(Izquierda) We mas anmal diged uiledae almiledae Erupasega, mas doddogan solege puntilla adina begin besddae Colombiayalgin (Derecha) Ul dummagan danidamale anmal neise sedegala mas bol yer daileged. Wagalburwa: Pablo Albarenga.
+(Sabbiled) We mas anmal diged uiledae almiledae Erupasega, mas doddogan solege puntilla adina begin besddae Colombiayalgin (Nued) Ul dummagan danidamale anmal neise sedegala mas bol yer daileged. Wagalburwa: Pablo Albarenga.
 {{< /tripleimage >}}
 
 Babbibo Manuel Santacruz anmalga soge, 190gine nei guaide, sabbimala oiddolesa mas digegala, anmalga soge igi nabba guaisa, igi anmal daed guaisamoga, bal mam diilesuli.

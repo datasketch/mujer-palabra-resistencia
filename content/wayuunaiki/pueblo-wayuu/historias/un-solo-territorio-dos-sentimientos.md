@@ -2,6 +2,7 @@
 title: "Waneesia Oumain, piama aa'ainru'u: Paola wayuu eii"
 description: "Pasanain sünain Colombia müsia Venezuela, tü mulousukat Paola Vanessa González piamasü shi'ipapa shi'yataain sulu'u suumainkalüirua, si'ipa eejiraain shia sou nakua'ipainjateerü suchonyuu, müsia ayatüinjatüin nourala na kouliwoukana shia. Suchukuakat müsüka shiyaakua nakua'ipa wayuukana alataa makana sulu'u tü sülüjülekat mmakat, namülian wayuu sutuma miaasü müsia tü piamakaa anüliaa."
 author: "Edilma Prada müsia Luzbeidy Monterrosa"
+translator: "Niaawatialu'ut: Luis Fuenmayor wayuu Epieyuu"
 photo_credit: "Aipa'wai, Paola Vanessa González namaa na Jieyuukana sünain a'lakajawaa. Müika ayatüi natuma wanee akua'ipas sümaiwajatü natuma wayuu, na'inrüin namaa na tepichikana. Ni'yaakuajala: Pablo Albarenga."
 mapa: "wayuu"
 type: "historias"

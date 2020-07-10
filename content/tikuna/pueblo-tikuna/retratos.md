@@ -4,6 +4,7 @@ date: 2020-06-05T10:07:53-05:00
 draft: false
 type: "retratos"
 author: "Vanessa Teteye Mendoza"
+translator: "Tagawa: Cindy Amalec Laulate Castillo"
 pueblo: "tikuna"
 description: "Yíema ngeêgü magütaká tüû tana mügü ngêma taküma, yíemagü nãmá poraegü, nümá daugü i ngêma naàné. Yíemagü, ngêma naànekagü, taga (Brasil), Culumbia (Colombia) i numachi Peru (Perú), tamaá nü ta kuaû ngêma üyüanê. Wiemé arü wií ngeêgü ngêma kuá tümãrü mãû numachî ngêma porà."
 ---

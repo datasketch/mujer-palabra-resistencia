@@ -2,6 +2,7 @@
 title: "Tumarü nû ya wuíe ngee Magüta, tumarü naüne rü naaneka"
 description: "Ngêma napechinü rü ngü Colombia, üyeane, Brasil i Perú ma, Ünãgükü Taüchina, wuíe pakü  Magüta (tikuna) naka cha pora, ngêma chieêû naküma dueûgüarü tama üna arü, duûgü tûmarü naenewa. Choma nu cha kua ngêma nama nûna naineküarû nae na taegü ngema nachünawa, üüûgü torü takümagü ngeûgü Magütagüka (mujeres tikunas)."
 author: "Vanessa Teteye Mendoza"
+translator: "Tagawa: Cindy Amalec Laulate Castillo"
 photo_credit: "Díptico fotográfico. (Tõwe) Ngaugü yima natü tatü rü chenetü, tarü municipio Puerto Nariñowa (Colombia), ru üyeane ngêma Peruma. (Iwéû) Ünãgükü Taüchina iyagûâchi yiema deawa ñaa natü chenetü. Ngîmaka Cindy, Yía natü tatü niî yima ñoma naane rü naane magüta i norü deagü ta daugna tarü ngaû y tarü üyeanegüe: Colombia, Brasil i Perú. Nachikünaã: Pablo Albarenga."
 mapa: "tikuna"
 type: "historias"

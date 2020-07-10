@@ -4,9 +4,11 @@ date: 2020-06-05T10:07:53-05:00
 draft: false
 type: "retratos"
 author: "Olowaili Green"
+translator: "Balsoged: Olowaili Green"
 pueblo: "gunadule"
 description: "Dule omegan mola yoe Nabguanayob. Anmal mola duddumolabi dailege.
 Anmal Molmal molsanbagga sae igal saegala, demar obare, nabba, sigguimala obarmoga, morsan dislabaebo anmal sae, anmal burbwa gal nigguega. Urabagin, colombia yalgin panama waili omegan anmalga soisa ibiza binsamala, ibi abemala."
+lengua: "dulegaya"
 ---
 
 Mola winni ebo obare anmal san, anmal gala, anmal burwa, waimala nabir anmal daimala webina. Anmalga saglamala namaimala onmaggedneggin.

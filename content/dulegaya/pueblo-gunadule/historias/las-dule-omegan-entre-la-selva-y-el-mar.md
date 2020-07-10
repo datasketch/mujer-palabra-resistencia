@@ -2,7 +2,8 @@
 title: "Sabbur demalbo: Dule Omegan"
 description: "Gunadulemala gebbe maimalana sabburba emisdina anbaggumala demalgin.
 Wegin anmal bemalga soisoggali igi dulemala nabbase arbi Capurganase waimal bie, dulegayaba soilege Gaburgana, agin anmal daimaloe igi duleomegan soge anmal nabba frontera sadde, anmal na emala."
-author: "Olowaili Green y Edilma Prada"
+author: "Olowaili Green Edilma Prada"
+translator: "Balsoged: Olowaili Green"
 photo_credit: "Demal obare omegan gala aga na yobbila iddomala. Wegin anmala daimaloe igi dulemal gebbe sabburginmaladi aidesamala demalse, emis dailemala Gunayalagine Panamágin. Wagalburwa: Edilma Prada."
 mapa: "gunadule"
 type: "historias"

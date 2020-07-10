@@ -4,6 +4,7 @@ date: 2020-06-05T10:07:53-05:00
 draft: false
 type: "retratos"
 author: "Luzbeidy Monterrosa"
+translator: "Niaawatialu'ut: Luis Fuenmayor wayuu Epieyuu"
 pueblo: "wayuu"
 description: "Sümaa sünüiki tü jieyuu anamiaamaajat, tü majayütnü müsia tepichi Wayuu, tü ayaakuakalüirua shiyoluja tü jamüin namüin tü sulu’ujeein naya wanee mma e’itaana anainrü wanee sülüjüle akatalia Colombia sümaa Venezuela. Sulu’ujee Alakat sümaa Majali, ya’ayaa Wajiira, 45 minutos Paaluachonjee, akumalaasü tü achukuaamaajatka."
 ---

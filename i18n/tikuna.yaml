@@ -2,5 +2,9 @@
   translation: "Gu"
 - id: photo_by
   translation: "Nachikünaã"
-- id: read_tikuna
-  translation: "Nüû nadaumatü Magütaká"
+- id: read_story
+  translation: "Nüû daumatü ore"
+- id: view_more
+  translation: "Nüû na dau yeera"
+- id: back_to_top
+  translation: "Ta woeguêê ügüwa"

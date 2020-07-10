@@ -13,6 +13,9 @@
     <div class="max-w-md mx-auto text-center font-playfair-display text-base lg:text-lg">
       <img class="invert mx-auto" src='{{ "images/separador.svg" | absURL }}' alt="">
       <p class="font-bold mt-4">{{ T "written_by" }}: {{ .Params.author }}</p>
+      {{ if .Params.translator }}
+        <p class="font-bold">{{ .Params.translator }}</p>
+      {{ end }}
     </div>
   </div>
 </div>
@@ -27,6 +30,9 @@
     <div class="text-center text-sm mt-10">
       <img class="mx-auto" src='{{ "images/separador.svg" | absURL }}' alt="">
       <p class="font-bold mt-4">{{ T "written_by" }}: {{ .Params.author }}</p>
+      {{ if .Params.translator }}
+        <p class="font-bold">{{ .Params.translator }}</p>
+      {{ end }}
     </div>
   </div>
 </div>

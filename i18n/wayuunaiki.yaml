@@ -2,5 +2,9 @@
   translation: "Süshajala"
 - id: photo_by
   translation: "Niyaakuajala"
-- id: read_wayuunaiki
-  translation: "Eisheje'eraa wayuunaikiru'u"
+- id: read_story
+  translation: "Eisheje'eraa achukua"
+- id: view_more
+  translation: "E'eraa so'müin"
+- id: back_to_top
+  translation: "Ale'ejaa"
