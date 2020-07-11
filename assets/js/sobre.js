@@ -8,6 +8,7 @@ const profileBio = modal.querySelector('#profile-bio');
 const profileContact = modal.querySelector('#profile-contact');
 const profileFb = modal.querySelector('#profile-facebook');
 const profileTw = modal.querySelector('#profile-twitter');
+const profileBe = modal.querySelector('#profile-behance');
 const profileIg = modal.querySelector('#profile-instagram');
 const profiles = document.querySelectorAll('.profile');
 const baseUrl = document.getElementById('base')
@@ -19,7 +20,7 @@ profiles.forEach(function (profile) {
     profileName.textContent = info.nombre;
     profileCharge.textContent = info.cargo;
     profileBio.innerHTML = md.render(info.bio);
-    if (!info.instagram && !info.facebook && !info.twitter) {
+    if (!info.instagram && !info.facebook && !info.twitter && !info.behance) {
       profileContact.classList.add('hidden');
     }
     if (info.instagram) {
@@ -34,6 +35,10 @@ profiles.forEach(function (profile) {
       profileFb.href = info.facebook;
       profileFb.classList.remove('hidden');
     }
+    if (info.behance) {
+      profileBe.href = info.behance;
+      profileBe.classList.remove('hidden');
+    }
     modal.classList.remove('hidden');
     modal.classList.add('flex');
   });
@@ -46,6 +51,7 @@ modalClose.forEach(function (trigger) {
     profileTw.classList.add('hidden');
     profileIg.classList.add('hidden');
     profileFb.classList.add('hidden');
+    profileBe.classList.add('hidden');
     profileContact.classList.remove('hidden');
   });
 });

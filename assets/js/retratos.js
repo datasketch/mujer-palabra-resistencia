@@ -1,6 +1,10 @@
 const buttonPrev = document.querySelector('.button-prev');
 const buttonNext = document.querySelector('.button-next');
-const slider = new Swiper('.swiper-container', {});
+const slider = new Swiper('.swiper-container', {
+  autoplay: {
+    delay: 5000,
+  },
+});
 
 updateArrows();
 
@@ -9,8 +13,8 @@ slider.on('slideNextTransitionEnd', function () {
 });
 
 slider.on('slidePrevTransitionEnd', function () {
-  updateArrows()
-})
+  updateArrows();
+});
 
 buttonNext.addEventListener('click', function () {
   slider.slideNext();

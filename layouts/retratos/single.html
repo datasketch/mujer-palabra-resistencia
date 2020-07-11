@@ -3,7 +3,7 @@
 {{ end }}
 
 {{ define "main" }}
-<div class="px-4 pt-40 pb-24 bg-titan-white">
+<div class="px-4 pt-20 pb-12 bg-titan-white md:pt-40 md:pb-24">
   <div class="mx-auto text-center text-eerie-black font-playfair-display w-full md:w-2/3 lg:w-1/2">
     <h2 class="leading-tight text-4xl lg:text-5xl font-bold">
       {{ .Title }}
@@ -19,13 +19,13 @@
       <img class="mx-auto mt-4" src='{{ "images/separador.svg" | absURL }}' alt="">
     </div>
   </div>
-  <div class="mt-24 markup-container">
+  <div class="mt-12 markup-container md:mt-24">
     <div class="markup newspaper">
       {{ .Content }}
     </div>
   </div>
 </div>
-<div class="px-4 py-24 bg-gunmetal-alt relative">
+<div class="px-4 py-12 bg-gunmetal-alt relative md:py-24">
   <button class="button-prev focus:outline-none">
     <img class="w-6" src='{{ "images/arrow-prev.svg" | absURL }}' alt="">
   </button>
@@ -40,8 +40,8 @@
           {{ range $portraits }}
             {{ $image_path := print "images/retratos/" .image }}
             <div class="swiper-slide">
-              <div class="text-white flex flex-col-reverse space-y-12 lg:flex-row lg:items-start lg:space-x-12 lg:space-y-0">
-                <div class="w-full text-lg lg:text-xl lg:w-1/3 mt-10">
+              <div class="text-white flex flex-col-reverse lg:flex-row lg:items-start lg:space-x-12 lg:space-y-0">
+                <div class="w-full text-lg lg:text-xl lg:w-1/3 mt-10 lg:mt-0">
                   <p>
                     {{ if (index . $.Site.Language.Lang) }}
                       {{ (index . $.Site.Language.Lang).profile }}
