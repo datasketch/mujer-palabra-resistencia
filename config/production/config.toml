@@ -1,6 +1,6 @@
 baseURL = "https://datasketch.github.io/mujer-palabra-resistencia/"
 languageCode = "es-es"
-title = "Mujeres, palabra, resistencia"
+title = "Mujer, palabra, resistencia"
 defaultContentLanguage = "es"
 publishDir="docs"
 
