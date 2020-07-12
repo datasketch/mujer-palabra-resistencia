@@ -2,10 +2,10 @@
 <input type="hidden" id="base" name="base" value="{{ .Site.BaseURL }}">
 {{ partial "modal.html" . }}
 <div class="px-4 py-2 shadow-md bg-white flex items-center sticky top-0 space-x-12 text-lg overflow-x-auto sm:justify-center lg:text-xl">
-  <a class="flex-shrink-0" href="#presentacion">Presentación</a>
-  <a class="flex-shrink-0" href="#colectivo">Colectivo periodístico intercultural</a>
-  <a class="flex-shrink-0" href="#agradecimientos">Agradecimientos</a>
-  <a class="flex-shrink-0" href="#aliados">Aliados</a>
+  <a class="flex-shrink-0 js-trigger" href="#presentacion">Presentación</a>
+  <a class="flex-shrink-0 js-trigger" href="#colectivo">Colectivo periodístico intercultural</a>
+  <a class="flex-shrink-0 js-trigger" href="#agradecimientos">Agradecimientos</a>
+  <a class="flex-shrink-0 js-trigger" href="#aliados">Aliados</a>
 </div>
 <div class="px-4 mt-24 pb-24 bg-titan-white">
   <div class="mx-auto w-full md:w-4/5">
@@ -95,6 +95,7 @@
 
 {{ define "scripts" }}
 <script src='{{ "vendors/markdown-it/markdown-it.min.js" | absURL }}'></script>
+<script src='{{ "vendors/move-to/moveTo.min.js" | absURL }}'></script>
 {{ $sobre_js := resources.Get "js/sobre.js" | minify }}
 <script src="{{ $sobre_js.Permalink }}"></script>
 {{ end }}
