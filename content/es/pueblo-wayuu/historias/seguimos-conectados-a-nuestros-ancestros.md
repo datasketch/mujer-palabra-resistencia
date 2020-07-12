@@ -6,18 +6,18 @@ photo_credit: "Karla, de once años, pertenece al pueblo Wayuu y vive en La Guaj
 mapa: "wayuu"
 type: "historias"
 images:
-  - "images/historias/karla-camara.jpeg"
+  - "https://res.cloudinary.com/randommonkey/image/upload/v1594565853/agenda-propia/historias/pueblo-wayuu/seguimos-conectados-a-nuestros-ancestros-portada.jpg"
 ---
 
 Las huellas que voy plasmando en la arena con las waireñas (cotizas o zapatos) mientras camino son parte de la memoria que tengo de mi territorio, caracterizado por los paisajes áridos, las mujeres con sus mantas coloridas, los hombres en el pastoreo de las cabras, los niños y niñas jugando con muñecos de barro, y los muchos colores que se ven desde la diversidad del desierto y la vegetación de woumainkat (nuestro territorio), La Guajira, una mezcla de magia cautivadora.
 
-{{< fullimage src="images/historias/wayuu/ancestros-1.jpeg" title="Vista cenital del desierto de La Guajira" >}}
+{{< fullimage src="https://res.cloudinary.com/randommonkey/image/upload/v1594565175/agenda-propia/historias/pueblo-wayuu/seguimos-conectados-a-nuestros-ancestros-1.jpg" title="Vista cenital del desierto de La Guajira" >}}
 La Guajira es un lugar caracterizado por las tierras áridas y gran parte del territorio es habitado por los Wayuu. Foto: Pablo Albarenga.
 {{< /fullimage >}}
 
 En ese caminar, por la comunidad de Alakat, ubicada a 45 minutos de la frontera de Colombia con Venezuela, me encontré con Karla Lucía Uriana González, una niña Wayuu de once años. Ella me preguntó qué trabajo estábamos haciendo junto a Pablo, mi compañero de viaje. Le conté que unos relatos y fotografías para unas historias, y en un momento de la conversación, ella me empezó a hablar sobre Venezuela. Karla es una niña que solo pudo ser ella, con su corazón lleno de inocencia y su carácter nos transmitió grandes enseñanzas. Esta historia la comparto porque para nosotros los indígenas, las voces de los niños y niñas son importantes debido a que narran con sinceridad, desde sus miradas, lo que pasa en su entorno y porque ellos son la continuidad de nuestros pueblos.
 
-{{< image src="images/historias/wayuu/ancestros-2.jpeg" title="Mujer hilando chinchorro" >}}
+{{< image src="https://res.cloudinary.com/randommonkey/image/upload/v1594565129/agenda-propia/historias/pueblo-wayuu/seguimos-conectados-a-nuestros-ancestros-2.jpg" title="Mujer hilando chinchorro" >}}
 Mujer Wayuu artesana hila un chinchorro en su casa, ubicada en la comunidad de Alakat. Foto: Karla Lucía Uriana.
 {{< /image >}}
 
@@ -25,7 +25,7 @@ Mujer Wayuu artesana hila un chinchorro en su casa, ubicada en la comunidad de A
 
 > Karla me hizo recordar que muchos de los Wayuu tenemos dos nombres. Aunque nuestros mayores nos han dicho que no hay fronteras, que somos binacionales, la realidad es que los Estados no respetan estos derechos, por lo que existe una doble identidad expandida en el pueblo Wayuu. En nuestras comunidades viven personas que son profesionales en un país y sin formación educativa en el otro; con seguros médicos en uno y sin oportunidad de ingresar al sistema de salud en otro.
 
-{{< fullimage src="images/historias/wayuu/ancestros-3.jpeg" title="Niñas de la comunidad Alakat" >}}
+{{< fullimage src="https://res.cloudinary.com/randommonkey/image/upload/v1594565143/agenda-propia/historias/pueblo-wayuu/seguimos-conectados-a-nuestros-ancestros-3.jpg" title="Niñas de la comunidad Alakat" >}}
 Las niñas de la comunidad de Alakat contaban y escribían que muchas de ellas no sabían qué era la frontera. En la foto también estamos Karla y yo (Luzbeidy Monterrosa). Foto: Pablo Albarenga.
 {{< /fullimage >}}
 
@@ -35,7 +35,7 @@ Así empezó el diálogo con Karla, que me llevó a pensar en mi propia historia
 
 "La primera vez que conocí la frontera fue en la madrugada. Había paro, no teníamos pasajes y nos fuimos a pie mi mamá, mi hermano que estaba pequeño y yo (…). La frontera daba miedo, porque es peligrosa, hay guardias y gente mala".
 
-{{< image src="images/historias/wayuu/ancestros-4.jpeg" title="Karla sentada" >}}
+{{< image src="https://res.cloudinary.com/randommonkey/image/upload/v1594565133/agenda-propia/historias/pueblo-wayuu/seguimos-conectados-a-nuestros-ancestros-4.jpg" title="Karla sentada" >}}
 Sentada, Karla relata las historias que siempre le contaban sus abuelos del jagüei. Foto: Pablo Albarenga.
 {{< /image >}}
 
@@ -43,13 +43,13 @@ Karla narra que para esa época vivía con su familia en la ciudad de Maracaibo 
 
 El tema de la frontera me recuerda las historias que me ha contado mi mamá sobre mi abuela Lucinda Henríquez, a quien nunca pude conocer. Ella fue la primera de nuestra familia en migrar al país vecino. En medio de la conversación, Karla me contó que tampoco pudo conocer a su abuela y me dijo: "Lucía se llama mi abuela que ya no está". Comprendo lo inevitable que es extrañar esa ciudad, Maracaibo, a la cual no pertenecemos, pero es un lugar que en su momento nos brindó oportunidades de educación, economía y vivienda, esa "anaakua’ipaa" (vivir bien), esa calidad de vida tan anhelada. Lugar donde desarrollamos nuestras vidas tras los sueños y huellas de nuestros abuelos. Allí, los Wayuu que salieron del desierto del lado colombiano, trabajaron y le ayudaron a sus familiares que se habían quedado en La Guajira.
 
-{{< image src="images/historias/wayuu/ancestros-5.jpeg" title="Karla fotografiando vegetación" >}}
+{{< image src="https://res.cloudinary.com/randommonkey/image/upload/v1594565127/agenda-propia/historias/pueblo-wayuu/seguimos-conectados-a-nuestros-ancestros-5.jpg" title="Karla fotografiando vegetación" >}}
 Karla nos contaba historias y al tiempo fotografiaba el paisaje y las plantas del territorio. Foto: Pablo Albarenga.
 {{< /image >}}
 
 Mientras corría una brisa fresca en medio de los cují (árboles) y la vegetación diversa que crece con más facilidad en la baja Guajira donde la tierra es un poco más fértil, Karla nos sumergió en su mundo de niña Wayuu por medio de la cámara fotográfica que nos pidió prestada para retratar a su comunidad. Mientras obturaba, nos contó del uso de las plantas que encontrábamos a nuestro paso, como rülipi, aipia y jeechua, que según Karla son plantas medicinales de acuerdo con las enseñanzas de sus mayores. Luego, nos sentamos y empezamos a hablar del significado de territorio.
 
-{{< image src="images/historias/wayuu/ancestros-6.jpeg" title="Karla señalando lugares importantes" >}}
+{{< image src="https://res.cloudinary.com/randommonkey/image/upload/v1594565104/agenda-propia/historias/pueblo-wayuu/seguimos-conectados-a-nuestros-ancestros-6.jpg" title="Karla señalando lugares importantes" >}}
 Karla nos señaló lugares importantes de su territorio y compartió los aprendizajes y enseñanzas de su abuelo. Foto: Luzbeidy Monterrosa.
 {{< /image >}}
 
@@ -67,7 +67,7 @@ La historia y la vida nos obligaron a crecer fuera y a extrañar nuestro ser. La
 
 Luego, nos detenemos cerca de un jagüei. Con la cámara, Karla enfoca el reservorio artesanal y nos explica que "allí se acumula el agua en tiempos de lluvia. Los Wayuu buscamos el agua que se utiliza en las casas, para bañarnos y donde los animales beben".
 
-{{< tripleimage first="images/historias/wayuu/ancestros-7.jpeg" second="images/historias/wayuu/ancestros-8.jpeg" first_title="Poceta de agua" second_title="Pies de Karla">}}
+{{< tripleimage first="https://res.cloudinary.com/randommonkey/image/upload/v1594565108/agenda-propia/historias/pueblo-wayuu/seguimos-conectados-a-nuestros-ancestros-7.jpg" second="https://res.cloudinary.com/randommonkey/image/upload/v1594565113/agenda-propia/historias/pueblo-wayuu/seguimos-conectados-a-nuestros-ancestros-8.jpg" first_title="Poceta de agua" second_title="Pies de Karla">}}
 (Izquierda) Jagüey (reservorio artesanal de agua) de la comunidad de Alakat. Este se encuentra en la parte baja de La Guajira, cerca del municipio de Maicao. El jagüey se caracteriza por su poca vegetación en tiempos de lluvia. (Derecha) Los pies de Karla y la tierra árida de su natal La Guajira. Fotos: Karla Lucía Uriana.
 {{< /tripleimage >}}
 
@@ -77,13 +77,13 @@ Nos quedamos un buen rato en este lugar tomando fotos con ella. En un momento, s
 
 Sin embargo, como contó Karla, "las personas son egoístas, no piensan en los demás solo en ellos mismos". Frase muy cierta en un entorno donde solo han mirado a La Guajira para saquearla, donde la humanidad se ha perdido para con el otro y su alrededor, pero aún así el Wayuu sigue siendo, sigue dando lo mejor de sí. Las niñas y niños Wayuu son la esperanza de un pueblo que ha existido milenariamente y que ha resistido a través de la historia.
 
-{{< image src="images/historias/wayuu/ancestros-9.jpeg" title="Niñas Wayuu" >}}
+{{< image src="https://res.cloudinary.com/randommonkey/image/upload/v1594565140/agenda-propia/historias/pueblo-wayuu/seguimos-conectados-a-nuestros-ancestros-9.jpg" title="Niñas Wayuu" >}}
 Niñas Wayuu dentro de una cocina en la comunidad de Alakat. La construcción está hecha con una especie de árbol conocida en la región como trupillo. Foto: Karla Lucía Uriana.
 {{< /image >}}
 
 Los Wayuu soñamos con tener un futuro lleno de posibilidades. Esta vez hablo por Karla, una niña que, como tantas otras en nuestro pueblo, merece acceder a una educación de calidad para que pueda desarrollar ese potencial intelectual que sentí en medio de sus palabras. Los seres humanos con mejor educación tenemos otras oportunidades.
 
-{{< image src="images/historias/wayuu/ancestros-10.jpeg" title="Karla tomando fotos" >}}
+{{< image src="https://res.cloudinary.com/randommonkey/image/upload/v1594565139/agenda-propia/historias/pueblo-wayuu/seguimos-conectados-a-nuestros-ancestros-10.jpg" title="Karla tomando fotos" >}}
 Karla toma fotos acompañada de su hermano y su madre, María Eugenia Uriana. Los senderos áridos bordeados de plantas bajas y de un color verde brillante caracterizan a esta comunidad que se encuentra a 45 minutos de la frontera entre Colombia y Venezuela. Foto: Luzbeidy Monterrosa.
 {{< /image >}}
 

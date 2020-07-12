@@ -1,15 +1,15 @@
 <div class='flex flex-col {{ with .Get "reverse" }}flex-col-reverse{{ end }}'>
   <div class="flex items-start space-x-2 md:space-x-4">
     <div class="w-1/2">
-      <img class="flex-shrink-0" src='{{ .Get "first" | absURL }}'  alt='{{ .Get "first_title" }}'>
+      <img class="flex-shrink-0" src='{{ .Get "first" | safeHTMLAttr }}'  alt='{{ .Get "first_title" }}'>
     </div>
     <div class="w-1/2">
-      <img class="flex-shrink-0" src='{{ .Get "second" | absURL }}' alt='{{ .Get "second_title" }}'>
+      <img class="flex-shrink-0" src='{{ .Get "second" | safeHTMLAttr }}' alt='{{ .Get "second_title" }}'>
     </div>
   </div>
   {{ if (.Get "last") }}
     <div class='mt-2 md:mt-4 {{ with .Get "reverse" }}mt-0 md:mt-0 mb-2 md:mb-4{{ end }}'>
-      <img class="mx-auto" src='{{ .Get "last" | absURL }}'   alt='{{ .Get "last_title" }}'>
+      <img class="mx-auto" src='{{ .Get "last" | safeHTMLAttr }}'   alt='{{ .Get "last_title" }}'>
     </div>
   {{ end }}
 </div>

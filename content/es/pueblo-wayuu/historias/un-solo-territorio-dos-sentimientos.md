@@ -7,14 +7,14 @@ mapa: "wayuu"
 type: "historias"
 weight: 1
 images:
-  - "images/historias/wayuu/paola-9.jpeg"
+  - "https://res.cloudinary.com/randommonkey/image/upload/v1594566735/agenda-propia/historias/pueblo-wayuu/un-solo-territorio-dos-sentimientos-portada.jpg"
 ---
 
 ## Saa’ainru’u | Su sentir
 
 El caminar de Paola Vanessa González se mueve entre dos rancherías: una es Ruanamana, del lado venezolano, distante a tan solo 20 minutos del hito que le separa de Colombia, y la otra es Perra’a, ubicada en el corregimiento de Paraguachón en Maicao, a 10 minutos a pie de ‘la raya’, control migratorio entre los dos países. En la primera nació y allí están su abuela, su cementerio ancestral y sus rebaños; en la segunda, tiene la esperanza de encontrar un futuro mejor para Elías Matías Castillo González y Eli Javier Castillo González, sus hijos de tres y cinco años, respectivamente.
 
-{{< fullimage src="images/historias/paola-madre-wayuu.jpeg" title="Vista cenital de comunidad Ruanamana" >}}
+{{< fullimage src="https://res.cloudinary.com/randommonkey/image/upload/v1594566639/agenda-propia/historias/pueblo-wayuu/un-solo-territorio-dos-sentimientos-1.jpg" title="Vista cenital de comunidad Ruanamana" >}}
 Díptico fotográfico. (Izquierda) La indígena Wayuu Paola Vanessa González está acostada sobre un colorido chinchorro, tejido por ella, en la tierra donde queda el cementerio de su pueblo, sitio sagrado para su cultura. (Derecha) La comunidad de Ruanamana está ubicada en Venezuela, muy cerca de la frontera con Colombia. Paola nació y creció allí. Fotos: Pablo Albarenga.
 {{< /fullimage >}}
 
@@ -26,7 +26,7 @@ Así relató Paola la mudanza. Ella, quien también es líder de su comunidad, a
  
 -- "No se podía estar bien (en Ruanamana) porque no había trabajo, ni estudio para los niños".
 
-{{< image src="images/historias/wayuu/paola-2.jpeg" title="Gente y gato" >}}
+{{< image src="https://res.cloudinary.com/randommonkey/image/upload/v1594566518/agenda-propia/historias/pueblo-wayuu/un-solo-territorio-dos-sentimientos-2.jpg" title="Gente y gato" >}}
 En la ranchería de Perra’a, cerca de la frontera de Colombia con Venezuela, los Wayuu han organizado sus casas. Foto: Pablo Albarenga.
 {{< /image >}}
 
@@ -36,7 +36,7 @@ En 2018, unas 25 familias llegaron a Perra’a. Ya para enero de 2020, la poblac
  
 Si bien el pueblo Wayuu no reconoce la frontera entre ambos países (su territorio ancestral de 37.300 kilómetros comprende desde la península de La Guajira en Colombia hasta el lago de Maracaibo, donde termina la Serranía del Perijá en Venezuela), las raíces de Paola, según cuenta, están en Ruanamana. Lo más difícil de irse ha sido dejar a su abuela María González, a su rebaño con sus chivos y ovejas, a sus cultivos y, en especial, al cementerio en donde están los huesos de su madre.
 
-{{< fullimage src="images/historias/wayuu/paola-3.png" title="Paola y su abuela" >}}
+{{< fullimage src="https://res.cloudinary.com/randommonkey/image/upload/v1594566729/agenda-propia/historias/pueblo-wayuu/un-solo-territorio-dos-sentimientos-3.png" title="Paola y su abuela" >}}
 Paola y su abuela María en Ruanamana. Ambas visten mantas, vestidos tradicionales de las Jieyuu Wayuu, mujeres Wayuu. Foto: Pablo Albarenga.
 {{< /fullimage >}}
 
@@ -44,7 +44,7 @@ En Ruanamana las tierras son más verdes, fértiles y extensas comparadas con la
  
 Paola y su esposo construyeron la casa en Perra’a con barro y trupillo (madera típica de la región), como son las viviendas de los Wayuu en el desierto de la Alta y Media Guajira. Allí, algunos de los ranchos están elaborados de cauchos plásticos y cartón que cubren con hojas de zinc para resguardarse del Kaii (sol) y del jouitai (viento) fuerte que abraza a los habitantes de estas tierras.
 
-{{< image src="images/historias/wayuu/paola-4.jpeg" title="Paola y su familia" >}}
+{{< image src="https://res.cloudinary.com/randommonkey/image/upload/v1594566533/agenda-propia/historias/pueblo-wayuu/un-solo-territorio-dos-sentimientos-4.jpg" title="Paola y su familia" >}}
 Paola González con su esposo, Enrique Castillo, y sus dos hijos, Elías Matías Castillo González y Eli Javier Castillo González. Foto: Pablo Albarenga.
 {{< /image >}}
 
@@ -52,11 +52,11 @@ La cocina está afuera en una enramada de láminas de zinc. Paola comparte este 
  
 En Perra’a no hay agua potable, como es el caso de la mayor parte de las comunidades indígenas en La Guajira colombiana. Sin embargo, hay un jagüey, un reservorio, a donde van las mujeres todos los días a llenar los timbos (botellones) con el agua que usan para lavar los trastes de la cocina y la ropa. Paola suele ir hasta allá con el mayor de sus hijos, y mientras envasa su ración diaria, le enseña sobre la importancia de ahorrar y proteger los nacimientos de agua.
 
-{{< image src="images/historias/wayuu/paola-5.jpeg" title="Paola y Eli Javier" >}}
+{{< image src="https://res.cloudinary.com/randommonkey/image/upload/v1594566538/agenda-propia/historias/pueblo-wayuu/un-solo-territorio-dos-sentimientos-5.jpg" title="Paola y Eli Javier" >}}
 Paola y Eli Javier, su hijo de cinco años, regresan del jagüey con dos raciones de agua. Foto: Pablo Albarenga.
 {{< /image >}}
 
-{{< fullimage src="images/historias/wayuu/paola-6.jpeg" title="Mujeres lavando ropa" >}}
+{{< fullimage src="https://res.cloudinary.com/randommonkey/image/upload/v1594566607/agenda-propia/historias/pueblo-wayuu/un-solo-territorio-dos-sentimientos-6.jpg" title="Mujeres lavando ropa" >}}
 En Perra’a, las mujeres lavan la ropa en baldes de plástico. Ellas se acompañan en los oficios caseros, y así mientras se ayudan mutuamente, fortalecen a su comunidad. Foto: Pablo Albarenga.
 {{< /fullimage >}}
 
@@ -66,7 +66,7 @@ La autoridad tradicional de Perra’a, Omaira Barliza, del clan Ipuana, asegura 
  
 La historia del retorno de Paola es similar al de centenares de indígenas Wayuu que volvieron a su territorio ancestral debido a la crisis social en Venezuela. Según Migración Colombia, Maicao es el municipio de La Guajira con el mayor número de migrantes (indígenas y no indígenas): de enero a junio de 2019 se contabilizaron 20.100 personas que se establecieron tanto en el área urbana como rural de esta zona.
 
-{{< image src="images/historias/wayuu/paola-7.jpeg" title="Mujer colgando ropa" >}}
+{{< image src="https://res.cloudinary.com/randommonkey/image/upload/v1594566558/agenda-propia/historias/pueblo-wayuu/un-solo-territorio-dos-sentimientos-7.jpg" title="Mujer colgando ropa" >}}
 En Perra’a, los hogares son separados por las perchas de donde se cuelga la ropa. En esta ranchería hay unas 16 casas construidas, además de las enramadas. Foto: Pablo Albarenga.
 {{< /image >}}
 
@@ -88,7 +88,7 @@ Otro modo de subsistencia del pueblo Wayuu es la venta de chinchorros (hamacas),
 
 Las Jieyuu Wayuu además tienen la misión, desde la línea matrilineal, de transmitir los conocimientos ancestrales, la lengua y los saberes que han sido heredados por los alalayu (abuelos) a las nuevas generaciones. En Perra’a, en Ruanamana y en cualquier comunidad de este pueblo indígena, la mujer es el centro. Por eso, Paola guía a su comunidad (integrada por varios e’iruku) y a su familia.
 
-{{< fullimage src="images/historias/wayuu/paola-8.jpeg" title="Mujeres tejiendo" >}}
+{{< fullimage src="https://res.cloudinary.com/randommonkey/image/upload/v1594566657/agenda-propia/historias/pueblo-wayuu/un-solo-territorio-dos-sentimientos-8.jpg" title="Mujeres tejiendo" >}}
 Las Jieyuu Wayuu tejen y conversan mientras cuidan a sus hijos y comparten sus saberes. Foto: Pablo Albarenga.
 {{< /fullimage >}}
 
@@ -104,7 +104,7 @@ El caso de Paola es parecido. En Venezuela terminó el colegio mientras en Colom
  
 Si bien Paola y Yoseany reconocieron la importancia de la doble nacionalidad y que no existan las fronteras en sus territorios, coincidieron en que tener dos identidades es un problema para ellas. Consideran que los gobiernos de ambos países deben reconocer sus derechos a la educación, a la salud y a un trabajo digno, y validar sus estudios y experiencia laboral de cualquier lado de la frontera.
 
-{{< fullimage src="images/historias/wayuu/paola-1.jpeg" title="Vista cenital de comunidad Ruanamana" >}}
+{{< fullimage src="https://res.cloudinary.com/randommonkey/image/upload/v1594566720/agenda-propia/historias/pueblo-wayuu/un-solo-territorio-dos-sentimientos-9.jpg" title="Vista cenital de comunidad Ruanamana" >}}
 La comunidad de Ruanamana es más verde y fértil que las tierras de los Wayuu del lado colombiano, caracterizadas por sus paisajes áridos. Foto: Pablo Albarenga.
 {{< /fullimage >}}
 
@@ -112,13 +112,13 @@ La comunidad de Ruanamana es más verde y fértil que las tierras de los Wayuu d
 
 Además del paso oficial entre Colombia y Venezuela, también hay trochas, caminos no pavimentados, que comunican ambos territorios. Por estos senderos, a los cuales se tiene acceso desde el puente de Paraguachón, Paola y su familia se mueven de una comunidad a otra. En ese punto, ubicado a menos de un kilómetro de la zona de ‘la raya’ y del control migratorio, la familia suele desviarse de la vía principal para adentrarse en la trocha y caminar más rápido. Según Paola, andar por esa ruta es peligroso.
 
-{{< image src="images/historias/wayuu/paola-10.jpeg" title="Paola y su hermana caminando" >}}
+{{< image src="https://res.cloudinary.com/randommonkey/image/upload/v1594566590/agenda-propia/historias/pueblo-wayuu/un-solo-territorio-dos-sentimientos-10.jpg" title="Paola y su hermana caminando" >}}
 Paola y su hermana Yoseany caminan por la vía que comunica a Perra’a con el corregimiento de Paraguachón. Foto: Pablo Albarenga.
 {{< /image >}}
 
 En la frontera que tiene el departamento colombiano de La Guajira con Venezuela hay unos 249 kilómetros y unas 200 trochas. Para los Wayuu, estos son sus caminos tradicionales ya que muchos se dirigen hacia varias rancherías, pero en lo que respecta a las autoridades migratorias, estas son rutas ilegales por el tráfico de contrabando que se ha vivido históricamente en esta zona del país.
 
-{{< fullimage src="images/historias/wayuu/paola-11.jpeg" title="Paola y su hermana caminando" >}}
+{{< fullimage src="https://res.cloudinary.com/randommonkey/image/upload/v1594566683/agenda-propia/historias/pueblo-wayuu/un-solo-territorio-dos-sentimientos-11.jpg" title="Paola y su hermana caminando" >}}
 A la franja que divide a Colombia con Venezuela se le conoce como ‘la raya’. En esta zona se hace el control migratorio de ambos países. Por aquí transitan a diario viajeros e indígenas Wayuu, lo que favorece el trabajo informal. Foto: Pablo Albarenga.
 {{< /fullimage >}}
 
@@ -136,7 +136,7 @@ En temporada de lluvias, los meses de septiembre a noviembre, la tierra del cami
  
 -- "Cuando llueve nosotros no sufrimos tanto, aquí toda el agua la consume bien la tierra y se seca rapidito".
 
-{{< image src="images/historias/wayuu/paola-12.jpeg" title="Gente caminando por la trocha" >}}
+{{< image src="https://res.cloudinary.com/randommonkey/image/upload/v1594566630/agenda-propia/historias/pueblo-wayuu/un-solo-territorio-dos-sentimientos-12.jpg" title="Gente caminando por la trocha" >}}
 En temporada de lluvias, el camino por las trochas se complica debido al barro y a los charcos. Foto: Pablo Albarenga.
 {{< /image >}}
 
@@ -144,13 +144,13 @@ En esa trocha es común ver a indígenas que se movilizan en burros con timbos e
  
 -- "Gracias a esta naturaleza que nos ha dado tanto tenemos algo para transportarnos que es el burro, diariamente son los que usamos aquí en nuestra tierra Wayuu".
 
-{{< image src="images/historias/wayuu/paola-13.png" title="Paola saludando a familiares" >}}
+{{< image src="https://res.cloudinary.com/randommonkey/image/upload/v1594566746/agenda-propia/historias/pueblo-wayuu/un-solo-territorio-dos-sentimientos-13.png" title="Paola saludando a familiares" >}}
 En camino a la comunidad de Ruanamana, Paola se detiene un momento para saludar a sus familiares que van en un burro hacia ‘la raya’, punto de control migratorio entre Venezuela y Colombia. Foto: Pablo Albarenga.
 {{< /image >}}
 
 Ruanamana se ubica a 45 minutos a pie de Paraguachón. En la ranchería de Paola hay ganado, rebaños de ovejos y chivos, y sembradíos de maíz, sandía, melón y fríjol. Allí, las tierras son más fértiles y verdes. También hay un jagüey en donde las mujeres lavan la ropa, los animales beben y los niños y adultos se bañan. En esa ranchería viven 86 familias y la mayoría de sus habitantes se desplaza a Colombia a vivir por temporadas.
 
-{{< image src="images/historias/wayuu/paola-14.jpeg" title="Cocina de la abuela María del Carmen" >}}
+{{< image src="https://res.cloudinary.com/randommonkey/image/upload/v1594566657/agenda-propia/historias/pueblo-wayuu/un-solo-territorio-dos-sentimientos-14.jpg" title="Cocina de la abuela María del Carmen" >}}
 Esta es la cocina de la abuela María del Carmen en Ruanamana. Allí se reúnen las familias para preparar los alimentos y escuchar consejos e historias alrededor del fogón. Foto: Pablo Albarenga.
 {{< /image >}}
 
@@ -170,7 +170,7 @@ El camposanto representa el origen para el pueblo Wayuu. Allí se desvanecen los
  
 Paola visita el lugar con frecuencia. Siempre lo hace en silencio y con respeto porque es una tierra sagrada. En el cementerio hay un pequeño cuarto donde está la tumba de su madre, el lugar es de paredes blancas y se ilumina con la luz natural que llega de una rendija en el techo.
 
-{{< fullimage src="images/historias/wayuu/paola-15.jpeg" title="Paola mira la tumba de su madre" >}}
+{{< fullimage src="https://res.cloudinary.com/randommonkey/image/upload/v1594566718/agenda-propia/historias/pueblo-wayuu/un-solo-territorio-dos-sentimientos-15.jpg" title="Paola mira la tumba de su madre" >}}
 Paola mira la tumba de su madre. Ese lugar es sagrado para ella. Foto: Pablo Albarenga.
 {{< /fullimage >}}
 
@@ -186,7 +186,7 @@ El arraigo por su tierra en Ruanamana es muy profundo, es una conexión natural 
  
 Siempre que sale del cementerio, Paola se siente más serena y convencida de que debe seguir caminando entre ambos territorios para seguir su lucha motivada por la esperanza de formar, acompañar y guiar a sus hijos y a los hijos de su comunidad. Y, sobre todo, para mantener sus costumbres como mujer indígena.
 
-{{< image src="images/historias/wayuu/paola-16.jpeg" title="Paola se refresca en el jagüey de Ruanamana" >}}
+{{< image src="https://res.cloudinary.com/randommonkey/image/upload/v1594566681/agenda-propia/historias/pueblo-wayuu/un-solo-territorio-dos-sentimientos-16.jpg" title="Paola se refresca en el jagüey de Ruanamana" >}}
 Paola se refresca en el jagüey de Ruanamana. Foto: Pablo Albarenga.
 {{< /image >}}
 

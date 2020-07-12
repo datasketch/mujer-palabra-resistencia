@@ -8,10 +8,10 @@ mapa: "gunadule"
 type: "historias"
 weight: 1
 images:
-  - "images/historias/teje-la-mola.jpeg"
+  - "https://res.cloudinary.com/randommonkey/image/upload/v1594568541/agenda-propia/historias/pueblo-gunadule/miguelina-teje-su-legado-en-las-molas-portada.jpg"
 ---
 
-{{< fullimage src="images/historias/gunadule/teje-la-mola-1.jpeg" title="Miguelina peinándose" >}}
+{{< fullimage src="https://res.cloudinary.com/randommonkey/image/upload/v1594568287/agenda-propia/historias/pueblo-gunadule/miguelina-teje-su-legado-en-las-molas-1.jpg" title="Miguelina peinándose" >}}
 Miguelina, Nan dummad ye ewagan walatulaguennad na bimala, nega sedogusale na e saila guiesi dae, gebe aguine mol maide dae. Wagalburwa: Pablo Albarenga.
 {{< /fullimage >}}
 
@@ -19,7 +19,7 @@ Miguelina, Nan dummad ye ewagan walatulaguennad na bimala, nega sedogusale na e 
 
 Nan dummad, Miguelina Álvarez Bonilla na siguis dae molmagge ga, molgoa mala urbide dae, iggo yode dae, tisla ebude dae mola goa niggad magebier dae, an malga soge anmala dule omegan mol burba obare mol magged anmal ga binsaed ugge, colombia yalguined panama yalguined an mala yobbila mol maimala.
 
-{{< image src="images/historias/gunadule/teje-la-mola-2.jpeg" title="Miguelina tejiendo" >}}
+{{< image src="https://res.cloudinary.com/randommonkey/image/upload/v1594568250/agenda-propia/historias/pueblo-gunadule/miguelina-teje-su-legado-en-las-molas-2.jpg" title="Miguelina tejiendo" >}}
 An mal go ibi nuedi aguine an mala mola nermagge, nana dumagan igal ebinsaegala. Wagalburwa: Pablo Albarenga.
 {{< /image >}}
 
@@ -45,19 +45,19 @@ Miguelina, e neggine dule dummadui e sui ebo Manuel Santacruz Lemus 90 años nig
 E neggin belagwable e gwenadggan bugwamala, igi anmalga bab dummad soisa, be ome niggusddibal e neise be megoe.
 
 
-{{< fullimage src="images/historias/gunadule/teje-la-mola-3.jpeg" title="Miguelina y Manuel" >}}
+{{< fullimage src="https://res.cloudinary.com/randommonkey/image/upload/v1594568319/agenda-propia/historias/pueblo-gunadule/miguelina-teje-su-legado-en-las-molas-3.jpg" title="Miguelina y Manuel" >}}
 Miguelina Manuel ebo issesuli nusggan niggamala, aga emalga sumaidamala mele iegegala bian anmal daniggi igi bab bab dumma nan dummad igala anamalga solenai, bab dummad namaidae gassigini nan dummadin mola maidae. Wagalburwa: Pablo Albarenga.
 {{< /fullimage >}}
 
 Miguele nei dummadi, e nei dulesunadi sosggabagga soblesa, nei diggalba duddumala digale, niggabali siagwa, naranja, mango, mara, mam, mas, ogob, islub, nan dummad diibaila biseb ina dule. E nega demal walisi, Ossigana bangumai 20 minutos.
 
-{{< tripleimage first="images/historias/gunadule/teje-la-mola-4.jpeg" second="images/historias/gunadule/teje-la-mola-4-1.jpeg" first_title="Abuela cocinando en fogón" second_title="Cacao y totumo" >}}
+{{< tripleimage first="https://res.cloudinary.com/randommonkey/image/upload/v1594568238/agenda-propia/historias/pueblo-gunadule/miguelina-teje-su-legado-en-las-molas-4.jpg" second="https://res.cloudinary.com/randommonkey/image/upload/v1594568244/agenda-propia/historias/pueblo-gunadule/miguelina-teje-su-legado-en-las-molas-5.jpg" first_title="Abuela cocinando en fogón" second_title="Cacao y totumo" >}}
 (Sabbiled) Nan dummad mas duegala sadae soobagga, agin dulemasi imaidae, ua arro ogobbagga. (Nued) Nan dummad nega diggalba diisa siagwa, naba ebo. Wagalburwa: Pablo Albarenga.
 {{< /tripleimage >}}
 
 Nan dummad masddubidibale sooguin imaidae. Bab dummad Manuel imaidae carbba agin nan dummad imal sabudae. Nan dummad waggur aggal addasdda gabi saegala a wassi baimal addasddamalmoga arbaegala. Agin madum imasdae siagwabagga, inbaggua ua sadae mambagga mas dibbalbagga.
 
-{{< fullimage src="images/historias/gunadule/teje-la-mola-5.jpeg" title="Abuela tomando café" >}}
+{{< fullimage src="https://res.cloudinary.com/randommonkey/image/upload/v1594568293/agenda-propia/historias/pueblo-gunadule/miguelina-teje-su-legado-en-las-molas-6.jpg" title="Abuela tomando café" >}}
 Nan dummad wagguraggal addasdae gabi saegala gobegala. Wagalburwa: Pablo Albarenga.
 {{< /fullimage >}}
 
@@ -67,7 +67,7 @@ Anmalga alee miguelina. Gannal mola maidbali.
  
 Miguelina negweburgin dadda yer nei me sadae, Nan dummad sidae bia mola maidae gan doddoguin bia bane bane nei daidae, duddumala, daidae doamala obbamala carreteraguine, aguin mola nermaidae, e maggedgine besaddae e binsaed, nan dummadi lunes aggar domingose mola magge.
 
-{{< image src="images/historias/gunadule/teje-la-mola-6.png" title="Mola" >}}
+{{< image src="https://res.cloudinary.com/randommonkey/image/upload/v1594568526/agenda-propia/historias/pueblo-gunadule/miguelina-teje-su-legado-en-las-molas-7.png" title="Mola" >}}
 Anmalgayaba mola obare ibi anmal yoe. Mola duleomegan nermagged agin anmal obesddae anmal binsaed, bonigan isggana naegala. Wagalburwa: Pablo Albarenga.
 {{< /image >}}
 
@@ -95,7 +95,7 @@ Nan dummad anmalga soge ebbene Gunayalase naegala problemasaddena. Emidin waimal
  
 “Emisdin anmal niggaelbebe cédula carddaebo nabir obbaegala. Ebbenedin weyobsulina, anmal bela ulguin naggoena, wagguraggal anmal Sabzurroguine gabena, a bangin waggur aggla ganal ulguin naggue naegala Gunayalase, ebbenedina waimal sadde aga anmalse gardda egislesulina”, namlaga Nan dummad soge.
 
-{{< fullimage src="images/historias/gunadule/teje-la-mola-7.jpeg" title="Vestimenta mujeres gunadule" >}}
+{{< fullimage src="https://res.cloudinary.com/randommonkey/image/upload/v1594568312/agenda-propia/historias/pueblo-gunadule/miguelina-teje-su-legado-en-las-molas-8.jpg" title="Vestimenta mujeres gunadule" >}}
 Omedulegan e mol yoed Mola saburbagga, we danidae panamá aggar, mola saegala be niggaelgebe iggo, duba, molsan. Wagalburwa: Pablo Albarenga.
 {{< /fullimage >}}
 
@@ -103,13 +103,13 @@ Omedulegan e mol yoed Mola saburbagga, we danidae panamá aggar, mola saegala be
 
 Manuel Santacruz Sagla dummad gusa agin Miguelinabo niggusmala, agin carreterase nadelama, demar wali. Gebbe sabburgin maimalana, caimán bajose nei niggusmala, agin nabba guaisa, soge gebbe nabba bol nabir dailegena emisdin bela mas ena dailege.
 
-{{< fullimage src="images/historias/gunadule/teje-la-mola-8.jpeg" title="Vista cenital de carretera" >}}
+{{< fullimage src="https://res.cloudinary.com/randommonkey/image/upload/v1594568485/agenda-propia/historias/pueblo-gunadule/miguelina-teje-su-legado-en-las-molas-9.jpg" title="Vista cenital de carretera" >}}
 Igal dummad Gunadule negewbur wali megisa, Golfo de Urabá bilege. Wagalburwa: Pablo Albarenga.
 {{< /fullimage >}}
 
 Nan dummad mol mainaina agin guisggusa anmalga ooegala duddumal, oyobali diwar soddo, anmalga soge igi ebbene we diwar di buggidarniggana, agin dulub, sauga galegena, bia nabir mol enuilegena.
 
-{{< image src="images/historias/gunadule/teje-la-mola-9.png" title="Zanja" >}}
+{{< image src="https://res.cloudinary.com/randommonkey/image/upload/v1594568539/agenda-propia/historias/pueblo-gunadule/miguelina-teje-su-legado-en-las-molas-10.png" title="Zanja" >}}
 Wegin gebbe diwar maina anmlaga soge Miguelina “Emisdin anmal burbwa, anmal nabba guaisa, anbal nabba sabgusana anmal nusgganga”. Wagalburwa: Pablo Albarenga.
 {{< /image >}}
 
@@ -123,11 +123,11 @@ Burbwa iddolege igi sabgamal sedae.
  
 Miguelina anmaga soge igi be igal negwebur wali megisa, Medellín aggar daniggi Monteriasega Córdoba, anmal nabba bela dailege mas digal, gaganebo.
 
-{{< fullimage src="images/historias/gunadule/teje-la-mola-10.jpeg" title="Cultivo de plátano" >}}
+{{< fullimage src="https://res.cloudinary.com/randommonkey/image/upload/v1594568416/agenda-propia/historias/pueblo-gunadule/miguelina-teje-su-legado-en-las-molas-11.jpg" title="Cultivo de plátano" >}}
 Anmal arbaed mas digedgine, we negweburgine Ibgigundiwalagine belagwable mas diged, aga wailmala anmalse nonidae arbaegala. Wagalburwa: Pablo Albarenga.
 {{< /fullimage >}}
 
-{{< tripleimage first="images/historias/gunadule/teje-la-mola-11.jpeg" second="images/historias/gunadule/teje-la-mola-12.png" first_title="Comerciantes preparando bultos de plátanos" second_title="Camión con carga de plátano" >}}
+{{< tripleimage first="https://res.cloudinary.com/randommonkey/image/upload/v1594568322/agenda-propia/historias/pueblo-gunadule/miguelina-teje-su-legado-en-las-molas-12.jpg" second="https://res.cloudinary.com/randommonkey/image/upload/v1594568350/agenda-propia/historias/pueblo-gunadule/miguelina-teje-su-legado-en-las-molas-13.png" first_title="Comerciantes preparando bultos de plátanos" second_title="Camión con carga de plátano" >}}
 (Sabbiled) We mas anmal diged uiledae almiledae Erupasega, mas doddogan solege puntilla adina begin besddae Colombiayalgin (Nued) Ul dummagan danidamale anmal neise sedegala mas bol yer daileged. Wagalburwa: Pablo Albarenga.
 {{< /tripleimage >}}
 
@@ -143,7 +143,7 @@ Mas digged anmal nabba guasi, emisdin anmal negweburgin avionmal guggudae fumars
  
 Abadio, buggi binsae anmalga soge “anmal dulemala bal anmalyob binsasuli, anmal gebbe neggueburgin binsaena emidina anmalgin bel abnsae, igi waimala binsae, mai dailege gebbe nei soilebied anmal massergana naoena nei sobegegala belagwable, emisdin be badd mani nigga gudi, nei bega wai sobe, emisdin bal anmal neimala dailesuli dulegangad, wai nei soblenai”.
 
-{{< fullimage src="images/historias/gunadule/teje-la-mola-13.jpeg" title="Abuela regando semillas" >}}
+{{< fullimage src="https://res.cloudinary.com/randommonkey/image/upload/v1594568459/agenda-propia/historias/pueblo-gunadule/miguelina-teje-su-legado-en-las-molas-14.jpg" title="Abuela regando semillas" >}}
 Nan dummad bane bane duddu oidae bagguragggal sedoba, nan dummad duddumal yer daegge agga nabir agguemoga. Wagalburwa: Pablo Albarenga.
 {{< /fullimage >}}
 
@@ -159,7 +159,7 @@ Bane bane dadda nosddibale Miguelina addasdae wagguraggala gabi saegala, gabi sa
 
 Bane bane dulemal nonidamala neise agin Nan dumma sumaidae e gwenadgganbaga inbaggua agin corredorgin soima waimal bia nan dummad siidae Manuel bagga sumaidae.
 
-{{< image src="images/historias/gunadule/teje-la-mola-14.jpeg" title="Abuela hablando" >}}
+{{< image src="https://res.cloudinary.com/randommonkey/image/upload/v1594568385/agenda-propia/historias/pueblo-gunadule/miguelina-teje-su-legado-en-las-molas-15.jpg" title="Abuela hablando" >}}
 Nan dummad arbadae mas immagendige bai mola maggedgine, bad dummadina arbadae mass  dimagedggine, na sumadamala emalgin, neggueburgin, sabbinmalgin. Wagalburwa: Pablo Albarenga.
 {{< /image >}}
 
@@ -173,6 +173,6 @@ Miguelina anmalga soge ibigala demarse naledae, soo amiegala, soo aminadel e wag
 
 Nan dummas dagge igi dadda ibeleler nae muu solba, binsadae babse nanse ega nabbi nabir we nabbanegine gudisaoe e nusgganbagga megegala, nabir anba mola nermaggegala q wagwamalga.
 
-{{< fullimage src="images/historias/gunadule/teje-la-mola-15.jpeg" title="Abuela mirando la mar" >}}
+{{< fullimage src="https://res.cloudinary.com/randommonkey/image/upload/v1594568443/agenda-propia/historias/pueblo-gunadule/miguelina-teje-su-legado-en-las-molas-16.jpg" title="Abuela mirando la mar" >}}
 Muu obare Nan dummad dulegayaba. Gunadulemala anmalga soinaimala, igi anmal nan dumagana aggue deyob agguelegelgebe demal, saila subbu obare  imal wisid, diggasulgus nei mai dagge, nei iddoe. Wagalburwa: Olowaili Green Santacruz.
 {{< /fullimage >}}

@@ -1,4 +1,4 @@
-<div class="px-4 py-24 bg-center bg-no-repeat bg-cover hidden md:block" style='background-image: linear-gradient(to left, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 40%, rgba(0, 0, 0, 0.65) 100%), url({{ (index .Params.images 0) | absURL }});'>
+<div class="px-4 py-24 bg-center bg-no-repeat bg-cover hidden md:block" style='background-image: linear-gradient(to left, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 40%, rgba(0, 0, 0, 0.65) 100%), url({{ (index .Params.images 0) | safeHTMLAttr }});'>
   <div class="w-full mx-auto text-white md:w-4/5">
     <div class="w-full md:w-2/3 lg:w-1/2">
       <h2 class="leading-tight text-4xl lg:text-5xl font-bold font-playfair-display">
@@ -16,7 +16,7 @@
 <!-- Mobile -->
 <div class="text-eerie-black font-playfair-display md:hidden">
   <div class="relative w-full" style="padding-bottom: 56.25%;">
-    <img class="absolute top-0 left-0 w-full h-full object-cover object-center" src="{{ index .Params.images 0 | absURL }}" alt="">
+    <img class="absolute top-0 left-0 w-full h-full object-cover object-center" src="{{ index .Params.images 0 | safeHTMLAttr }}" alt="">
   </div>
   <div class="px-4 mt-10">
     <h2 class="leading-tight text-4xl lg:text-5xl font-bold font-playfair-display">

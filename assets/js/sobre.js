@@ -14,7 +14,6 @@ const profileTw = modal.querySelector('#profile-twitter');
 const profileBe = modal.querySelector('#profile-behance');
 const profileIg = modal.querySelector('#profile-instagram');
 const profiles = document.querySelectorAll('.profile');
-const baseUrl = document.getElementById('base');
 
 const triggers = document.querySelectorAll('.js-trigger');
 
@@ -25,7 +24,7 @@ triggers.forEach(function (trigger) {
 profiles.forEach(function (profile) {
   profile.addEventListener('click', function (event) {
     const info = JSON.parse(this.querySelector('pre').textContent);
-    profileAvatar.src = baseUrl.value + info.avatar;
+    profileAvatar.src = info.avatar;
     profileName.textContent = info.nombre;
     profileCharge.textContent = info.cargo;
     profileBio.innerHTML = md.render(info.bio);

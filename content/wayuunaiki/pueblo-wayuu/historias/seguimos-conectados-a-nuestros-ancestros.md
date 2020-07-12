@@ -7,20 +7,20 @@ photo_credit: "Karla, 11 suuyashe, Wayuu kepiasü suumainpa’a Wajiira, Colombi
 mapa: "wayuu"
 type: "historias"
 images:
-  - "images/historias/karla-camara.jpeg"
+  - "https://res.cloudinary.com/randommonkey/image/upload/v1594565853/agenda-propia/historias/pueblo-wayuu/seguimos-conectados-a-nuestros-ancestros-portada.jpg"
 ---
 
 Ashjuushi sünain wayuunaiki (nanüiki wayuu) müsia alijunaiki. Touchikanain apütaakaa sou mmakat sutuma tawaireeñashe (o’uitapa’a) waraitapa taya süpüshi tü sotokoo taa’in so’u toumain, tü e’raajünakaa sünaainjee miyaasü, jieyuu wayuusheinru’u, tooloyuu arüleejülii, na tepichi asheitajaakana süka wayunkeera, müsia tü süpoujana tü mulumutshika otta tü wuitushii woumainpa’a, Wajiira, waima sümalain paliraasü sümaa süpülain.
  
 Sünain tü waraitaakat, Aalakatpünaa, yalakaa 45 minutos sünainjee tü sülujüle mmakat Colombia suulia Venezuela, antiraa amaalü Karla Lucía Uriana González,  wanee jintut wayuu po’oloo waneeshia suuyashe. Süsakirüin taya sünain kasain wayuu tü wa’yataakaa anain namaa na tamaajanakana. Taküjaka sümüin achukuaamaajatüin shia sümaa ayaakuaa, yalain yootuin waya süküjala’a sümaka suchua Venezuela.
 
-{{< fullimage src="images/historias/wayuu/ancestros-1.jpeg" title="Vista cenital del desierto de La Guajira" >}}
+{{< fullimage src="https://res.cloudinary.com/randommonkey/image/upload/v1594565175/agenda-propia/historias/pueblo-wayuu/seguimos-conectados-a-nuestros-ancestros-1.jpg" title="Vista cenital del desierto de La Guajira" >}}
 Wajiira wanee mma e’raajuusu sünainjee mulumutshiin shia mma shipiapala wayuu. Niyaakuajala: Pablo Albarenga.
 {{< /fullimage >}}
 
 Karla wanee jintut shiasümain wamüin, anamiaa’inrü müsia sümaa tü sütütüin sülatirüin wamüin miyouyuushaana alijalaa. Taküjain achukuaamaajatkaa sünainjee kojutuin wamüin waya wayuukana tü nanüikikaa na tepichikana, sünainjee naküjüin suchua wanee kasa sümaa anamiaa süka noupa’a tü alatakaa noumainru’u müsia nayain wo’uliwoin sulu’u tü mmakat.
 
-{{< image src="images/historias/wayuu/ancestros-2.jpeg" title="Mujer hilando chinchorro" >}}
+{{< image src="https://res.cloudinary.com/randommonkey/image/upload/v1594565129/agenda-propia/historias/pueblo-wayuu/seguimos-conectados-a-nuestros-ancestros-2.jpg" title="Mujer hilando chinchorro" >}}
 Jiet wayuu e’inat aainjüsü süi shipialu’u, yalasü Aalakat. Shiyaakuajala: Karla Lucía Uriana.
 {{< /image >}}
 
@@ -28,7 +28,7 @@ Jiet wayuu e’inat aainjüsü süi shipialu’u, yalasü Aalakat. Shiyaakuajala
 
 Sotusu taa’in sutuma Karla wainmain waya wayuukana sümaa piamain wanülia. Mayaainje’e malüjülesat tü mmakat namüin na watuushinuukana, piamatua wommainpa’a, nnojotpeje’e kojuteematüin shia namüin shikiipu’shiikana tü Mmakalüirua, joutka anainjee piamain nanülia wayuu. Sulu’u woumain eeshi wayuu eekai ekettaajüin ekirajawaa sümaa alijuna sulu’u wanee shi’papa mmakat, sünain nnojoluin kasain ekirajaain anülia sulu’u waneeya’asa; kereje’riashii sulu’u wanee, mereje’ruutaasalii sulu’u tü wanee.
 
-{{< fullimage src="images/historias/wayuu/ancestros-3.jpeg" title="Niñas de la comunidad Alakat" >}}
+{{< fullimage src="https://res.cloudinary.com/randommonkey/image/upload/v1594565143/agenda-propia/historias/pueblo-wayuu/seguimos-conectados-a-nuestros-ancestros-3.jpg" title="Niñas de la comunidad Alakat" >}}
 Na tepichikana Aalakatje’waliikana nashajüin otta naküja achukuat nnojoluin natijaain sou kasain tü sülüjüle mma münakat. Sulu’u tü ayaakuakat eeshi waya Karla otta Luzbeidy Monterrosa. Niyaakuajala: Pablo Albarenga.
 {{< /fullimage >}}
 
@@ -38,7 +38,7 @@ Müsü suttia tü yootookoo sümaa Karla, jülüjataakaa atuma takua’ipa, mata
 
 "Palajatkaa te’raajüin ou tü sülüjülekaa mmakat maaliajat. Süttüsü, masapiasalii waya, wounaka süka wawui, teikat, wanee tawala jo’uuchon müsüja’a tayakaa (…) keemoisü, waima tü mojulaasükalüirua, eeshi na wuchiikana müsia tü kaainjaratkalüirua".
 
-{{< image src="images/historias/wayuu/ancestros-4.jpeg" title="Karla sentada" >}}
+{{< image src="https://res.cloudinary.com/randommonkey/image/upload/v1594565133/agenda-propia/historias/pueblo-wayuu/seguimos-conectados-a-nuestros-ancestros-4.jpg" title="Karla sentada" >}}
 Joyotsü Karla sünain aküjaa süchukua tü laakat natuma sutuushinuu. Niyaakuajaala: Pablo Albarenga.
 {{< /image >}}
 
@@ -46,13 +46,13 @@ Saashin Karla su’utpunaa ka’ikat ti’a chajatü kepiyain Marakaaya (Venezue
  
 Sünainjee suchukua tü sülüjüle mmakat jülüjüsü taa’in süküjaala tü teikaa suchukua toushi Lucinda Henríquez, anaajaakaa süpülapünaa te’raajüin shia. Shia palajatükaa o’onooin na’akajee na wapüshikana, cha’ya Venezuelamüin. Sa’kapünaa süküjala Karla suchuntuin nnojoluin shi’raajüin tü soushikaa "Lucía sünülia tü toushi anaajaakaa". Tayaawajaa o’ulu isain tachiki motuin taa’in Marakaaya, mayaainje’e nnojoluin cheje’ewalüin waya, shiapeje’e apüin wamüin ekirajawaa süchiirua karalouta, a’yatawaa müsia miichi, tü anaakua’ipaa "buen vivir", tü sa’nasia akua’ipa ke’ireeka waa’in. Eejanale wakumajüin wakua’ipa suchiirua na’lapüin sümaa nawuliwou watuushinuu. Cha’ya na wayuu ajuitakana noumainpa’jee a’yataashi süpüla akaalijaa napüshi apütaakana noumainru’u.
 
-{{< image src="images/historias/wayuu/ancestros-5.jpeg" title="Karla fotografiando vegetación" >}}
+{{< image src="https://res.cloudinary.com/randommonkey/image/upload/v1594565127/agenda-propia/historias/pueblo-wayuu/seguimos-conectados-a-nuestros-ancestros-5.jpg" title="Karla fotografiando vegetación" >}}
 Yalain süküjüin wamüin akua’ipaamaajat shiyaakuajüin tü mmapa’akat süma wunu’uliakat. Niyaakuajala: Pablo Albarenga.
 {{< /image >}}
 
 Wanaa sümaa suwawalüin joutaikat sa’kapünaa aipioliakaa, müsia wunu’liairua  waimakaa wopumüin otta uuchijeeru’u eere kekülein mmakat, Karla sümaashi waya sulu’upünaa tü mmakat sümüin süka so’u tepichi, suka tü ayujiakaa ayaakuaa. Wanee sa’napala woulia shi’ree shiyaakuajüin suumain. Yalain shiyaakuajüin sükujüin wamüin suchukua tü wunu’ulia eekat wanaain wamaa, rülipi, aipia müsia jeechua, epinaseekat saashin Karla natüjala soushimiuu, süchiki ti’a aikalaashi waya süküjaka jamalu’uluin tü oumainyee.
 
-{{< image src="images/historias/wayuu/ancestros-6.jpeg" title="Karla señalando lugares importantes" >}}
+{{< image src="https://res.cloudinary.com/randommonkey/image/upload/v1594565104/agenda-propia/historias/pueblo-wayuu/seguimos-conectados-a-nuestros-ancestros-6.jpg" title="Karla señalando lugares importantes" >}}
 Karla shi'yatüin wamüin waima kasa sulu'u suumain müsia süküjüin wamüin tü sütijala otta ekirajawaa nutuma suyuushi. Shiaakuajala: Luzbeidy Monterrosa.
 {{< /image >}}
 
@@ -74,7 +74,7 @@ Tü katairieekaa süjütachikina waya sünain mülouwaa watta sümaa julujaa aa�
  
 Süchiki, ashawalaashi waya peje sünain wanee laa, sümaa ayaakuajiakaa, Karla sünaküin süshajülekat wuin, süküjüin achiki sukotchiraain tü wuinkat yala shi’tapa juyakat. Waya wayuukana wasaajüin tü wui cheijaakat miichipa’a, süpülasü wo’oojuin müsia nasüin mürülü".
 
-{{< tripleimage first="images/historias/wayuu/ancestros-7.jpeg" second="images/historias/wayuu/ancestros-8.jpeg" first_title="Poceta de agua" second_title="Pies de Karla">}}
+{{< tripleimage first="https://res.cloudinary.com/randommonkey/image/upload/v1594565108/agenda-propia/historias/pueblo-wayuu/seguimos-conectados-a-nuestros-ancestros-7.jpg" second="https://res.cloudinary.com/randommonkey/image/upload/v1594565113/agenda-propia/historias/pueblo-wayuu/seguimos-conectados-a-nuestros-ancestros-8.jpg" first_title="Poceta de agua" second_title="Pies de Karla">}}
 (Yaajeeru’u) Sülamuunain Aalakat, yalasü wopumüin soujee Wajiira, peje sünain Maiko’u. Laakat nnojotsu waimain wuitüshii juyapü. (Yalajeeru’u) Su’i Karla müsia mma jososhii suumain Wajiira. Shiyaakuajala: Karla Lucía Uriana.
 {{< /tripleimage >}}
 
@@ -86,13 +86,13 @@ Eepeje’e wanee kasa sümüsü Karla, "na wayuukana nnojoliishi akaalijain, nno
  
 Na tepichi wayuukana naya anainjaneekana atuma wanee akua’ipaa eetüjütkaya, aniiyüttaaja’a shia so’pünaa kasa supushua.
 
-{{< image src="images/historias/wayuu/ancestros-9.jpeg" title="Niñas Wayuu" >}}
+{{< image src="https://res.cloudinary.com/randommonkey/image/upload/v1594565140/agenda-propia/historias/pueblo-wayuu/seguimos-conectados-a-nuestros-ancestros-9.jpg" title="Niñas Wayuu" >}}
 Tepichi wayuu sulu’u kusinapia Aalakat. Akumajuushi süka Aipia. Shiyaakuajala: Karla Lucía Uriana.
 {{< /image >}}
 
 Wayuukana wachuntaain anain wakua’ipa mapeena. Müinyaa yootusu taya sou Karla, wanee jintut, müsüka tü yalakalüirua wepiapa’pünaa, choujaakaana amüin ekirajawaa, süpüla anale’injatüin natijala sünainjee tütüin sünüiki. Wanee wayuu anai nikirajia atijüshia achajawaa nukua’ipa.
 
-{{< image src="images/historias/wayuu/ancestros-10.jpeg" title="Karla tomando fotos" >}}
+{{< image src="https://res.cloudinary.com/randommonkey/image/upload/v1594565139/agenda-propia/historias/pueblo-wayuu/seguimos-conectados-a-nuestros-ancestros-10.jpg" title="Karla tomando fotos" >}}
 Karla ayujusu ayaakua sümaa suwala müsia shii, María Eugenia Uriana. Wopukalüirua mmashii, kotpunaasü wunu’pana wuitüshii ma’leesia sulu’u tü mma yalakaa 45 minutos süchiki sülüjüle Colombia suulia Venezuela. Shiyaakuajala: Luzbeidy Monterrosa.
 {{< /image >}}
 

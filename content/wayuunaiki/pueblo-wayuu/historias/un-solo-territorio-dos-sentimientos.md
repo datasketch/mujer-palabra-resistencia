@@ -8,14 +8,14 @@ mapa: "wayuu"
 type: "historias"
 weight: 1
 images:
-  - "images/historias/wayuu/paola-9.jpeg"
+  - "https://res.cloudinary.com/randommonkey/image/upload/v1594566735/agenda-propia/historias/pueblo-wayuu/un-solo-territorio-dos-sentimientos-portada.jpg"
 ---
 
 ## Saa’ainru’u
 
 Sukua Paola Vanessa González ounusu sulu’u piamale’ella suumain, wanee shia Ruanama’na, Venezuela, 20 minutos suchikijee shiaawashe sülüjüle tü mmakat, müsia tü wanee shia Peramana, yala Paaluachon, Maikou, müsüka 10 minutos süka awulii sünainjee sülüjüle mmakat, shipia atijaayee ou no’onoola wayuu sulu’ujee piamie’ya Mmakalüirua. Wemeisü Ruanamana iraa soushi, saamüka müsia sümülüin, Peramana jülüjüsü saa’ain sunoutuin nakua’ipa Elías Matías Castillo González y Eli Javier Castillo González, suchonyuu, 3 nuuyashe wanee müsia 5nuuyashe chi wanee.
 
-{{< fullimage src="images/historias/paola-madre-wayuu.jpeg" title="Vista cenital de comunidad Ruanamana" >}}
+{{< fullimage src="https://res.cloudinary.com/randommonkey/image/upload/v1594566639/agenda-propia/historias/pueblo-wayuu/un-solo-territorio-dos-sentimientos-1.jpg" title="Vista cenital de comunidad Ruanamana" >}}
 (Shipe'ru) Wayuukot Paola Vanessa González juletüsü sulu'u wanee süi waima supoujana, saainjala suumainpa'a eere saamüka, tü pülasü namüin wayuu. (Shikieru'u) Ruaanama'ana yalasü Venezuela, peje sünain sülüjüle mma Colombia. Paola jemeisü, mulousu shiaya yala. Niyaakuajala: Pablo Albarenga.
 {{< /fullimage >}}
 
@@ -27,7 +27,7 @@ Müsü saashin Paola nakua’ipa nakolojooiwa’a. Shiakaat, wayuu molou na’ka
  
 -- “Nnojotsü anashii wamüin chaa Ruaanama’na sünainjee nnojoluin a’yatawaa müsia ekirajaleaapüle namüin tepichi”.
 
-{{< image src="images/historias/wayuu/paola-2.jpeg" title="Gente y gato" >}}
+{{< image src="https://res.cloudinary.com/randommonkey/image/upload/v1594566518/agenda-propia/historias/pueblo-wayuu/un-solo-territorio-dos-sentimientos-2.jpg" title="Gente y gato" >}}
 Peramana, peje sünain sülüjüle mmakat sümüin Colombia sümaa Venezuela, akumajüshii nepia na wayuukana. Niyaakuajala: Pablo Albarenga.
 {{< /image >}}
 
@@ -37,7 +37,7 @@ Nou juyakai 2018 antüshiii na wayuukana Perama’namüin. Sünainmüin enero no
  
 Mayaainje’e nnojooluin tü sülüjülekaa mma namüin na wayuukana (nounmainkaa müsüka 37.300 kilómetros, ounusu Süchiimajee Colombia Wuinpümüinpünaa asitujuin Marakaayamüin sutu uuchikat Perijaa Venezuela) suurala Paola saashin chasü Ruaanama’ana. Mojukamain saa’sin sünainjee süpütüin soushi María González, wanaa sümaa su’unuin shipialu’ujee, süpütüin sümülüin, sa’painshe, müsia amuuyukot eere shiipüshe shii.
 
-{{< fullimage src="images/historias/wayuu/paola-3.png" title="Paola y su abuela" >}}
+{{< fullimage src="https://res.cloudinary.com/randommonkey/image/upload/v1594566729/agenda-propia/historias/pueblo-wayuu/un-solo-territorio-dos-sentimientos-3.png" title="Paola y su abuela" >}}
 Paola sümaa soushikat María Ruaanama’na. Wayuushe’inru’shii piamie’ya. Ni’yaakuajala: Pablo Albarenga.
 {{< /fullimage >}}
 
@@ -45,7 +45,7 @@ Ruaanama’na tü mmakat wuituusu, kekülesü jutatuuisu shiaya suulia Perama’
  
 Paola nümaa su’wayuushekai nakumajüin nepia pootshi sümaa aipia (wunu’u joutsu sulu’u mmakat), maka saa’ain shipia wayuu Wajiira. Cha’ya tü miichikalüirua akumajuushi süka wotsa otta karalouta, kaajunasü zing suulia ka’ikat müsia joutai katchinkaa ye’yaa.
 
-{{< image src="images/historias/wayuu/paola-4.jpeg" title="Paola y su familia" >}}
+{{< image src="https://res.cloudinary.com/randommonkey/image/upload/v1594566533/agenda-propia/historias/pueblo-wayuu/un-solo-territorio-dos-sentimientos-4.jpg" title="Paola y su familia" >}}
 Paola nümaa su’wayuuse, Enrique Castillo namaa Elías Matías Castillo González y Eli Javier Castillo González, suchonyuu. Ni’yaakuajala: Pablo Albarenga.
 {{< /image >}}
 
@@ -53,11 +53,11 @@ Kusinapiakat nooipa’sü shiuupünaa wanee luma akumajuushi süka zinc. Paola k
  
 Perama’na nnojotsü wuin süpülajatü asünaa, müsüja’yane makasaa’ain tü wanee shiapalakaa wayuu sulu’u Wajiira Colombia. Eeyaapeje’ella wanee laa, eere süsha’jüle wuinkat, eemüinre nounuin jieyuukana sünain epirajaa tü pastakalüirua süka tü wuin sulojooyainjatükaa neitain müsia nashein. Paola ounawaisü nümaa chi suchon muloushikai, shi’ipa yalain nepirajüin tü wuin choujaakat süpüla ka’ikat, shikirajüin chi suchonkai sünain kojutuinjatüin nümüin tü ishikalüirua.
 
-{{< image src="images/historias/wayuu/paola-5.jpeg" title="Paola y Eli Javier" >}}
+{{< image src="https://res.cloudinary.com/randommonkey/image/upload/v1594566538/agenda-propia/historias/pueblo-wayuu/un-solo-territorio-dos-sentimientos-5.jpg" title="Paola y Eli Javier" >}}
 Paola nümaa Eli Javier Castillo González, suchon 5 nuuyase, ale’ejüshii lamuunajee sümaa wuin. Ni’yaakuajala: Pablo Albarenga.
 {{< /image >}}
 
-{{< fullimage src="images/historias/wayuu/paola-6.jpeg" title="Mujeres lavando ropa" >}}
+{{< fullimage src="https://res.cloudinary.com/randommonkey/image/upload/v1594566607/agenda-propia/historias/pueblo-wayuu/un-solo-territorio-dos-sentimientos-6.jpg" title="Mujeres lavando ropa" >}}
 EO’lojushii kuluulu sulu’u waatte pülastiko na jieyuukana Perama’na. Akaaliijira’shii sünain tü na’inraakaa nepialu’u, süko’müinjaka tü  pa’ainjirawaakat sükajee kottuin naya s¨nain na’yataain. Ni’yaakuajala: Pablo Albarenga.
 {{< /fullimage >}}
 
@@ -67,7 +67,7 @@ Tü shikiipu’kat Perama’na, Omaira Barliza, wayuu Iipuana, süpansaajaachiku
  
 Suchukuakat Paola müsüka saa’ain nachuka na wayuu ma’leekalia eitaakana nachua sulu’umüin noumain süpüleerua tü müliakat Venezuela. Saashin Migración Colombia, Maikou shia tü mma eere waimashaanain na wayuu achajaashikana akaalijünaa Wajiira (wayuu namaa alijuna): sünainjee enero sünainmüin junio nou juyakai 2019 ayaawajünüshii 20.100 wayuu eekana jimatüin eere kottiraain miichi müsia eere wattaawain shia.
 
-{{< image src="images/historias/wayuu/paola-7.jpeg" title="Mujer colgando ropa" >}}
+{{< image src="https://res.cloudinary.com/randommonkey/image/upload/v1594566558/agenda-propia/historias/pueblo-wayuu/un-solo-territorio-dos-sentimientos-7.jpg" title="Mujer colgando ropa" >}}
 Kakatiraasü tü miichikalüirua sünainjee tü süwayajiakat kuluulu, Perama’na. Yala eesü akumajünüin 16 miichi, otta müsia tü lumairua. Ni’yakuajala: Pablo Albarenga.
 {{< /image >}}
 
@@ -89,7 +89,7 @@ Wanee shi’yataain wayuu joolu’u shia tü oikaakat süi, kattoi otta müsia w
 
 Na jieyuukana naya kakua’ipaka sümaiwajee tü ko’uliwou’ijanain napüshi natüma, ayatüinjatüin tü wayuunaikikaa otta tü atijalaa maaluma’a napaalakaa na a’laüülaayuukana namaiwajee namüin naikeyuu. Perama’na, Ruaanama’na otta müsia shipiapala wayuu ma’leekalia, shia shikiika wayuu tü jietkaa. Sünainjee ti’a shikiipu’usu tü kasayuu sünain otta müshia na süpüshikana.
 
-{{< fullimage src="images/historias/wayuu/paola-8.jpeg" title="Mujeres tejiendo" >}}
+{{< fullimage src="https://res.cloudinary.com/randommonkey/image/upload/v1594566657/agenda-propia/historias/pueblo-wayuu/un-solo-territorio-dos-sentimientos-8.jpg" title="Mujeres tejiendo" >}}
 Na jieeyuukana e’inashii sümaa na’imajüin na tepichikana otta naküjüin tü natijalakat. Ni’yaakuajala: Pablo Albarenga.
 {{< /fullimage >}}
 
@@ -105,7 +105,7 @@ Meematsü sukua’ipa Paola. Venezuela shikettaajüin tü shikirajaakat achiirua
  
 Mayaasüje’e nayaawatüin sou tü cheujaain tü kojutuinjanain naya sulu’u piame’ya mmakalüirua, Yoseany sümaa Paola natijaa oulu malüjülein tü mmakat sümüin wayuu, pa’ainwaaashi sünain tü mojuinya naashin tü waneejatüin nanülia. Cheoujaasü nachajaanüin akua’ipa natuma na shikiipu’kana tü mma mulosukalüirua, eejesü namüin wanee ekirajawaa, wanee outtajiaapülee müsia a’yatawaa kojutuin alu’u naya. Kojutuin tü na’yataainpala sümaa nakaraloutase sulu’u pieme’ya shi’papa mmakat.
 
-{{< fullimage src="images/historias/wayuu/paola-1.jpeg" title="Vista cenital de comunidad Ruanamana" >}}
+{{< fullimage src="https://res.cloudinary.com/randommonkey/image/upload/v1594566720/agenda-propia/historias/pueblo-wayuu/un-solo-territorio-dos-sentimientos-9.jpg" title="Vista cenital de comunidad Ruanamana" >}}
 Ruanama’na wuituusu kekulesü shiaya suulia suumain wayuu sulu’u Colombia, e’eraajünakaa sünainjee jososhiin mmapakat. Niyaakuajala: Pablo Albarenga.
 {{< /fullimage >}}
 
@@ -113,13 +113,13 @@ Ruanama’na wuituusu kekulesü shiaya suulia suumain wayuu sulu’u Colombia, e
 
 Shi’ipa eein tü wopu alataayakat Colombiajee Venezuelamüin, eesü tü süpünekaa wayuu, wopu nnoojotsü menain, alataayakat tü mmakalüirua. Tü wopukalüirua antüna anainrü sünainjee sülatia luwopukat Paaluachon, Paola namaa süpüshi ouna müshii sulu’ujee wanee mma sulu’umüin tü wanee. Yala, wanee kiloometro sünainjee tü raaya münakat otta müsia tü ayaawajiakat o’onooshii, nayakana eeshi najuitui sulu’ujee wopukat sa’kapünaa mojuuikat süpüla nantamaatüin nepialu’u. Saashin Paola kapüleesü warai maa sülu’upünaa wopukat ti’a.
 
-{{< image src="images/historias/wayuu/paola-10.jpeg" title="Paola y su hermana caminando" >}}
+{{< image src="https://res.cloudinary.com/randommonkey/image/upload/v1594566590/agenda-propia/historias/pueblo-wayuu/un-solo-territorio-dos-sentimientos-10.jpg" title="Paola y su hermana caminando" >}}
 Paola sümaa Yoseany suwalakat, waraitüshii sulu’upünaa tü wopu Peramma’na jeejat Paaluachonmüin. Ni’yaakuajala: Pablo Albarenga.
 {{< /image >}}
 
 Sulu’u tü sülüjüle mma eekat Wajiira sümüinkat Colombia akataliakat suulia Venezuela eesü maka 249 kilómetros müsia 200 wopuirua. Namüin na wayuukana shia napünekaja’yamain tü wopukat ti’airua sünainjee süsitujain shipiapa’müinree wayuu, katsa naashin na shikiipüshiikana alijjuna o’onooshii, wopu majuteesü sünainjee sülatinnüin alu’upünaa oikawaa mawalaajüinsat namüin, eletüjütja sutuma wayuu maalüma’a.
 
-{{< fullimage src="images/historias/wayuu/paola-11.jpeg" title="Paola y su hermana caminando" >}}
+{{< fullimage src="https://res.cloudinary.com/randommonkey/image/upload/v1594566683/agenda-propia/historias/pueblo-wayuu/un-solo-territorio-dos-sentimientos-11.jpg" title="Paola y su hermana caminando" >}}
 Tü shiyaawasekat sülüjüle mmakalüirua “raya” münüsü. Yala ayaawajünüsü otta atijaana o’ulu o’onooshii sutuma piame’e makalüirua. Yalapünaa alatüshii kakaulii müshia wayuuinua, eeka anainjee tü oikawaakat. Ni’yaakuajala: Pablo Albarenga.
 {{< /fullimage >}}
 
@@ -137,7 +137,7 @@ Juyapü, nou kashikana septiembre sünainmüin noviembre, tü mmashirakat pootch
  
 -- Shi’itapa nnojoliishimain waya müliain, wuinkaa ye’yaa süsüin mmakat, josomaatüsü”.
 
-{{< image src="images/historias/wayuu/paola-12.jpeg" title="Gente caminando por la trocha" >}}
+{{< image src="https://res.cloudinary.com/randommonkey/image/upload/v1594566630/agenda-propia/historias/pueblo-wayuu/un-solo-territorio-dos-sentimientos-12.jpg" title="Gente caminando por la trocha" >}}
 Juyapü, wopukat mojushiisü sutuma tü pootshikaa müsia tü süsha’lülekat wuin. Ni’yaakuajala: Pablo Albarenga.
 {{< /image >}}
 
@@ -145,13 +145,13 @@ Waneepiashii na wayuunakainua alatüin püliikou sümaa süpülajana wuin. Sulu�
  
 -- “Anayaawatsüja’a sutuma tü mma epijakaa waya saapaka wamüin wanee we’jena, chi püliikükai, naya we’jenaka waneepia woumainpa’a”.
 
-{{< image src="images/historias/wayuu/paola-13.png" title="Paola saludando a familiares" >}}
+{{< image src="https://res.cloudinary.com/randommonkey/image/upload/v1594566746/agenda-propia/historias/pueblo-wayuu/un-solo-territorio-dos-sentimientos-13.png" title="Paola saludando a familiares" >}}
 Wopulu’u Ruaanama’namüin, Paola ashawalaapünaasü sünain asakaa na süpüshi eekai wanaain sümaa püliikoin raayamüin, eere shiyaawajünüin eekai o’onooin sulu’ujee Venezuela sulu’umüin Colombia. Ni’yaakuajala: Pablo Albarenga.
 {{< /image >}}
 
 Ruaanama’na yalasü 45 minutos waraitüin Paaluachonjee. Sulu’u shipiapaala Paola, eesü mürülü, anneerü sümaa koula, otta yüüja kalu’usu maiki, kalapaasü, meruuna oulaka pitshuushi. Yala, keküleesü tü mmakat wuitüüsü. Eesü wanee laa eere nashijaain kuluulu na jieyuukana, asüshii na mürütkana müshia na wayuukana o’oojushii. Nepiapala 86 miichi, waima na o’onoowaliikana sulu’umüin Colombia.
 
-{{< image src="images/historias/wayuu/paola-14.jpeg" title="Cocina de la abuela María del Carmen" >}}
+{{< image src="https://res.cloudinary.com/randommonkey/image/upload/v1594566657/agenda-propia/historias/pueblo-wayuu/un-solo-territorio-dos-sentimientos-14.jpg" title="Cocina de la abuela María del Carmen" >}}
 Shia sükusinapia laülaakat María del Carmen yala Ruanama’na. Yala kottushii ne’itku sünain a’lakajawaa eküülü otta aapajaa achiaalaa oulaka aküjalaa sa’tou shikirat. Ni’yaakuajala: Pablo Albarenga.
 {{< /image >}}
 
@@ -171,7 +171,7 @@ Tu amuuyuukot shiyaakua eii namüin na wayuukana, yalashii mmapüin naamüka, sh
  
 Pejeewasü sukua Paola cheje’ya. Ounajaasü koutuule, kojutsu sümüin tü mmakat sünainjee púlain shia. Amuuyuupa’a eesü wanee miichichon eere süsalijünüin tü shiikat, tü miichikat kasuusu sütapa’a otta tü warattuui ekorotakaa sulu’upünaasü wanee jutatüsü saajunalu’u.
 
-{{< fullimage src="images/historias/wayuu/paola-15.jpeg" title="Paola mira la tumba de su madre" >}}
+{{< fullimage src="https://res.cloudinary.com/randommonkey/image/upload/v1594566718/agenda-propia/historias/pueblo-wayuu/un-solo-territorio-dos-sentimientos-15.jpg" title="Paola mira la tumba de su madre" >}}
 Shiirakaa amüinrü Paola tü sütakaa shiikat. Pülasü sümüin. Ni’yaakuajala: Pablo Albarenga.
 {{< /fullimage >}}
 
@@ -187,7 +187,7 @@ Muloushaana tü saaliikat suumain sümüin, shia ayataka’ya atuma tü wayuuwaa
  
 Waneepia sujuitapa amuuyuupa’jee, alainraasü shikiiru’u tü ayatüinjatian shia waraitüin sulu’upünaa tü mmakat süpüla sunoutuin nakua’ipa suchonyuu namaa nachonyuu kasa sünain. Oulaka ayatüinjatian tü nakua’ippakalia sünainjee wayuuuin naya.
 
-{{< image src="images/historias/wayuu/paola-16.jpeg" title="Paola se refresca en el jagüey de Ruanamana" >}}
+{{< image src="https://res.cloudinary.com/randommonkey/image/upload/v1594566681/agenda-propia/historias/pueblo-wayuu/un-solo-territorio-dos-sentimientos-16.jpg" title="Paola se refresca en el jagüey de Ruanamana" >}}
 Asamatüsü saa’ain Paola sulu’u laakat Ruaanama’na. Ni’yaakuajala: Pablo Albarenga.
 {{< /image >}}
 

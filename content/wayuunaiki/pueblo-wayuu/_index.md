@@ -7,7 +7,7 @@ pueblo: "wayuu"
 description: "Noumain sulu'upünasü Colombia otta müsia Venezuela. Müshiika 380.460 wayuuinua, na'akajee eesü 197.140 jieyuu. Namüinnua tü sukua'ipakaa jieyuu kojutashaanasü sünainjee shian e'itaain nekiiru'u suchonyuu tü wayuuwaakat suka tü e'irukuukat."
 retratos: ""
 images:
-  - "images/banner-pueblo-wayuu.webp"
+  - "https://res.cloudinary.com/randommonkey/image/upload/v1594570887/agenda-propia/portada-pueblo-wayuu.jpg"
 ---
 
 Sünalaain **Agenda Propia** yala Colombia tü mmakalüirua Aalakat, Maajali, Paaluachon otta Pera, oulakaa müsia Ruaanama'na yala Venezuela, eera süntiraain nama jieyuu wayuu süpüla shi'yaakuajüin nakua'ipa sümaa na'irujutü suchukua tü sülüjüle mma münakat otta nakua'ipa süpüla ayatüin tü wayuuwakat natuma.

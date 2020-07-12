@@ -7,14 +7,14 @@ mapa: "tikuna"
 type: "historias"
 weight: 2
 images:
-  - "images/historias/la-lucha-de-lourdes.jpeg"
+  - "https://res.cloudinary.com/randommonkey/image/upload/v1594569260/agenda-propia/historias/pueblo-tikuna/la-lucha-de-lourdes-portada.jpg"
 ---
 
 Con sus suaves manos, Lourdes masajea el vientre de su nuera. Se percata de que el bebé, de siete meses de gestación, esté bien acomodado en el útero. Usa aceites naturales de plantas de la selva amazónica para frotar el abdomen de la madre y así armonizarla y tranquilizarla a ella y a su criatura. Ambas están en la habitación de la vivienda de Lourdes, que se ilumina con una cálida luz que llega de la ventana. Lourdes le dice a la madre que todo va bien, la aconseja y la va preparando para el nacimiento de su hijo.
  
 A sus 53 años, Lourdes Firmino Araújo lleva más de cuarenta viviendo encuentros como este, entre madre y partera. Cuando tenía doce años, acompañó a su abuela a un parto. Recuerda que se ubicó al lado de la baranda de la cama en donde estaba la entonces madre y siguió la voz de su abuela: "Solo escúcheme a mí, usted no puede ver nada porque todavía está muy pequeña". Aquella vez, la abuela recibió a cuatro niñas. "Las acomodó una enseguida de la otra y atendió a la mamá con mucho cuidado", cuenta Lourdes con admiración. Ese momento marcó su vida y labró su camino: comprendió que llevaría consigo el legado de la partería comunitaria.
 
-{{< fullimage src="images/historias/tikuna/la-lucha-de-lourdes-1.jpeg" title="Lourdes y sus nietos" >}}
+{{< fullimage src="https://res.cloudinary.com/randommonkey/image/upload/v1594569261/agenda-propia/historias/pueblo-tikuna/la-lucha-de-lourdes-1.jpg" title="Lourdes y sus nietos" >}}
 Lourdes abraza a sus nietos. Para ella, los niños y las niñas son la esperanza de los Tikunas y quienes tendrán la misión de preservar la cultura. Foto: Pablo Albarenga.
 {{< /fullimage >}}
 
@@ -28,7 +28,7 @@ La abuela le enseñó a acomodar con masajes a los bebés en el útero, a cortar
  
 Las manos de Lourdes han recibido a muchas generaciones de niños y niñas indígenas Tikunas, Cocamas, Yaguas y de otros pueblos, así como también blancos o mestizos de Brasil, Colombia y Perú. Para ella, "todos somos hijos de la tierra", no importa la procedencia, ni el idioma que se hable. Eso sí, reconoce que saber las tres lenguas (Tikuna, su idioma nativo, portugués y español) le ha permitido desempeñar mejor su rol como partera comunitaria porque la comunicación con las madres es más cercana.
 
-{{< tripleimage first="images/historias/tikuna/la-lucha-de-lourdes-2.jpeg" second="images/historias/tikuna/la-lucha-de-lourdes-3.jpeg" last="images/historias/tikuna/la-lucha-de-lourdes-4.jpeg" first_title="Nietos de Lourdes viendo TV" second_title="Lourdes preparando café" last_title="Pescado cocinado por Lourdes" >}}
+{{< tripleimage first="https://res.cloudinary.com/randommonkey/image/upload/v1594569185/agenda-propia/historias/pueblo-tikuna/la-lucha-de-lourdes-2.jpg" second="https://res.cloudinary.com/randommonkey/image/upload/v1594569192/agenda-propia/historias/pueblo-tikuna/la-lucha-de-lourdes-3.jpg" last="https://res.cloudinary.com/randommonkey/image/upload/v1594569185/agenda-propia/historias/pueblo-tikuna/la-lucha-de-lourdes-4.jpg" first_title="Nietos de Lourdes viendo TV" second_title="Lourdes preparando café" last_title="Pescado cocinado por Lourdes" >}}
 (Izquierda) Los nietos de Lourdes ven televisión en el comedor. (Derecha) Lourdes prepara café para ofrecer a sus visitantes. (Abajo) A Lourdes le gusta cocinar el pescado, comida tradicional de los Tikunas. Fotos: Pablo Albarenga.
 {{< /tripleimage >}}
 
@@ -36,7 +36,7 @@ En Umariaçu 2, la vida de Lourdes transcurre entre la atención de su familia y
  
 En esa región fronteriza, los pobladores subsisten de la pesca, la agricultura, el comercio informal, el transporte fluvial y de distintos oficios tradicionales como la partería, la medicina propia y las artesanías. "El día a día a veces es complicado", dice Lourdes, "aquí muchas familias viven con lo básico, hay familias que padecen necesidades".
 
-{{< fullimage src="images/historias/tikuna/la-lucha-de-lourdes-5.jpeg" title="Plaza de mercado de la comunidad de Umariaçu 2" >}}
+{{< fullimage src="https://res.cloudinary.com/randommonkey/image/upload/v1594569254/agenda-propia/historias/pueblo-tikuna/la-lucha-de-lourdes-5.jpg" title="Plaza de mercado de la comunidad de Umariaçu 2" >}}
 En la plaza de mercado de la comunidad de Umariaçu 2, habitada por indígenas del pueblo Tikuna, se venden productos típicos de la región amazónica, como los chontaduros, el plátano y las pepas de umarí. Foto: Pablo Albarenga.
 {{< /fullimage >}}
 
@@ -44,7 +44,7 @@ En la plaza de mercado de la comunidad de Umariaçu 2, habitada por indígenas d
 
 Es tradición que las mujeres indígenas den a luz en sus casas y que sean atendidas por parteras o comadronas, quienes las acompañan desde varios meses antes del alumbramiento. Para ellas, dar vida es sagrado y natural, y simboliza continuar con el legado del ser Magüta y el pensamiento del pueblo.
 
-{{< fullimage src="images/historias/tikuna/la-lucha-de-lourdes-6.jpeg" title="Lourdes examinando a su nuera" >}}
+{{< fullimage src="https://res.cloudinary.com/randommonkey/image/upload/v1594569334/agenda-propia/historias/pueblo-tikuna/la-lucha-de-lourdes-6.jpg" title="Lourdes examinando a su nuera" >}}
 Lourdes examina a su nuera que tiene siete meses de embarazo. Con cuidado, se percata de que el bebé esté bien ubicado en el útero. Un niño, nieto de Lourdes, observa con curiosidad el momento entre madre y partera. Foto: Pablo Albarenga.
 {{< /fullimage >}}
 
@@ -62,7 +62,7 @@ Lourdes compara las formas de atención de las personas blancas con los indígen
 
 Ella también ha visto cómo en los centros hospitalarios no respetan los tiempos naturales del parto y, en muchos casos, se practica la cesárea sin necesidad.
 
-{{< image src="images/historias/tikuna/la-lucha-de-lourdes-7.jpeg" title="Mujer con niño en hamaca" >}}
+{{< image src="https://res.cloudinary.com/randommonkey/image/upload/v1594569198/agenda-propia/historias/pueblo-tikuna/la-lucha-de-lourdes-7.jpg" title="Mujer con niño en hamaca" >}}
 Para las mujeres Tikunas dar vida es sagrado. Las madres indígenas esperan que sus hijos lleven el legado del ser Magüta, con sus tradiciones y costumbres. Foto: Pablo Albarenga.
 {{< /image >}}
 
@@ -70,7 +70,7 @@ Para las mujeres Tikunas dar vida es sagrado. Las madres indígenas esperan que 
  
 La experiencia de Lourdes le ha dado las fuerzas para mejorar la atención a las mujeres y luchar por que la partería tradicional siga siendo un oficio que se practique en sus comunidades. También sabe que cambiar las normas de salud pública es muy difícil, por lo que está de acuerdo en que ambas formas de atención se junten.
 
-{{< image src="images/historias/tikuna/la-lucha-de-lourdes-8.jpeg" title="Foto de Lourdes Firmino" >}}
+{{< image src="https://res.cloudinary.com/randommonkey/image/upload/v1594569201/agenda-propia/historias/pueblo-tikuna/la-lucha-de-lourdes-8.jpg" title="Foto de Lourdes Firmino" >}}
 Lourdes Firmino Araújo, indígena Tikuna, lucha para que se respeten las formas tradicionales en el momento del parto. Foto: Pablo Albarenga.
 {{< /image >}}
 
@@ -106,7 +106,7 @@ Mientras esa lucha avanza, Lourdes también lidera campañas que buscan que la l
 
 -- "Para los que quieren aprender tienen que venir ahora que estoy viva. Hay niñas que se sientan y quieren escuchar, quieren aprender".
 
-{{< fullimage src="images/historias/tikuna/la-lucha-de-lourdes-9.png" title="Lourdes y su nieta" >}}
+{{< fullimage src="https://res.cloudinary.com/randommonkey/image/upload/v1594569321/agenda-propia/historias/pueblo-tikuna/la-lucha-de-lourdes-9.png" title="Lourdes y su nieta" >}}
 Lourdes Firminio conversa con su nieta, de quien se espera continúe con el legado de la partería de las mujeres Tikuna. Foto: Pablo Albarenga.
 {{< /fullimage >}}
 

@@ -1,5 +1,5 @@
 <figure>
-  <img src='{{ .Get "src" | absURL }}' alt='{{ .Get "title" }}'>
+  <img src='{{ .Get "src" | safeHTMLAttr }}' alt='{{ .Get "title" }}'>
   <div class="mt-2">
     <p class="text-center text-sm text-gray-700 md:text-base">
       {{ .Inner }}

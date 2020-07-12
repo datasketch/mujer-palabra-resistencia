@@ -6,7 +6,7 @@ type: "pueblo"
 pueblo: "gunadule"
 description: "Ambaggumala colombia panamaguin yalba, anmala 2.610 dulemala, 1.280 Omegana. Molmaggegala abelege disla, iggo, Duba, molgwa, we anmal igal ielesuli  anmal saed."
 images:
-  - "images/banner-pueblo-gunadule.webp"
+  - "https://res.cloudinary.com/randommonkey/image/upload/v1594570883/agenda-propia/portada-pueblo-gunadule.jpg"
 ---
 
 **Agenda Propia** ibgigundiwala negweburse arbi, duleomeganbagga sumaggegala wisgguega bia Gunadulemala gwarulesa, aga arbimalmoga Capurganasega.
