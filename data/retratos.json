@@ -1,7 +1,7 @@
 {
   "wayuu": [
     {
-      "image": "margarita-epieyu.webp",
+      "image": "https://res.cloudinary.com/randommonkey/image/upload/v1594561927/agenda-propia/retratos/margarita-epieyu.jpg",
       "default": {
         "profile": "Margarita Epieyu, 75 años. Wayuu del clan Eirüku Epieyu de Alakat, corregimiento de Albania.",
         "text": "\"*La palabra frontera no sé qué significa, en nuestra lengua no existe*\"."
@@ -13,7 +13,7 @@
       "credit": "Luzbeidy Monterrosa"
     },
     {
-      "image": "evelin-acosta-gutierrez.webp",
+      "image": "https://res.cloudinary.com/randommonkey/image/upload/v1594561787/agenda-propia/retratos/evelin-acosta-gutierrez.jpg",
       "default": {
         "profile": "Evelin Acosta Gutiérrez, 37 años. Wayuu del clan Eirüku Ipuana.",
         "text": "\"*Soy de una ranchería ubicada en la Alta Guajira y hago parte de una organización de mujeres que se llama Fuerza de Mujeres Wayuu. En cuanto al tema del flujo migratorio mixto, para nosotros es el fenómeno de frontera y crisis en los dos territorios, Colombia y Venezuela*\"."
@@ -25,7 +25,7 @@
       "credit": "Luzbeidy Monterrosa"
     },
     {
-      "image": "mileidys-polanco-gomez.webp",
+      "image": "https://res.cloudinary.com/randommonkey/image/upload/v1594561934/agenda-propia/retratos/mileidys-polanco-gomez.jpg",
       "default": {
         "profile": "Mileidys Polanco Gómez, 37 años. Wayuu del clan Eirüku Ipuana de la Ranchería del Cabo de la Vela.",
         "text": "\"*Soy comunicadora social y hago parte de la Red de Comunicaciones del pueblo Wayuu. Las mujeres Wayuu ayudan a mantener el tema de la economía no solo en la frontera, ya que siempre se están inventando algo y nunca se varan*\"."
@@ -37,7 +37,7 @@
       "credit": "Luzbeidy Monterrosa"
     },
     {
-      "image": "dayana-cuello.webp",
+      "image": "https://res.cloudinary.com/randommonkey/image/upload/v1594561877/agenda-propia/retratos/dayana-cuello.jpg",
       "default": {
         "profile": "Dayana Cuello, 15 años. Wayuu del clan Eirüku Epieyu de Majali, corregimiento de Riohacha.",
         "text": "\"*Yo he escuchado que hay muchos Wayuu de Venezuela en las calles, que están sufriendo y eso me da mucho dolor porque es duro ver que aquí pasan muchas necesidades, mientras ellos tenían una vida construida en Venezuela y llegan acá a pasar hambre por culpa de un gobierno. En este caso los que más sufren son los niños*\"."
@@ -49,7 +49,7 @@
       "credit": "Luzbeidy Monterrosa"
     },
     {
-      "image": "maria-eugenia-uriana.webp",
+      "image": "https://res.cloudinary.com/randommonkey/image/upload/v1594561948/agenda-propia/retratos/maria-eugenia-uriana.jpg",
       "default": {
         "profile": "María Eugenia Uriana, 30 años. Wayuu del clan Eirüku Üliana de Alakat.",
         "text": "\"*En muchas oportunidades pasé por la raya, la frontera como dicen los alijunas (personas no indígenas). Lo que recuerdo de ese paso, cada vez que venía a mi comunidad, son los colores*\"."
@@ -61,7 +61,7 @@
       "credit": "Luzbeidy Monterrosa"
     },
     {
-      "image": "leiqui-uriana.webp",
+      "image": "https://res.cloudinary.com/randommonkey/image/upload/v1594561860/agenda-propia/retratos/leiqui-uriana.jpg",
       "default": {
         "profile": "Leiqui Uriana, 36 años. Wayuu del clan Eirüku Siijono de la Alta Guajira. Primera indígena cineasta del país. Leiqui estudió Dirección Documental en Cuba. Actualmente es parte de la Red de Comunicadores del pueblo Wayuu.",
         "text": "\"*Malüjülesat, los Wayuu somos sin frontera, sin división visible, sin separarse, sin quiebre*\"."
@@ -73,7 +73,7 @@
       "credit": "Luzbeidy Monterrosa"
     },
     {
-      "image": "susana-paz-ipuana.webp",
+      "image": "https://res.cloudinary.com/randommonkey/image/upload/v1594561987/agenda-propia/retratos/susana-paz-ipuana.jpg",
       "default": {
         "profile": "Susana Paz Ipuana, 10 años. Wayuu del clan Eirüku Ipuana de Alakat.",
         "text": "\"*No conozco la frontera, no sé qué es*\"."
@@ -87,7 +87,7 @@
   ],
   "tikuna": [
     {
-      "image": "josiane-tutchiauna.webp",
+      "image": "https://res.cloudinary.com/randommonkey/image/upload/v1594561909/agenda-propia/retratos/josiane-tutchiauna.jpg",
       "default": {
         "profile": "Josiane Tutchiauna, 40 años, del clan Japó (Pájaros). Antropóloga de la Universidad Federal del Estado de Amazonas. Vive en Benjamin Constant, municipio de Brasil.",
         "text": "Josiane comenta que la *\"frontera es complicada para la mujer Tikuna en el sentido que se sufren muchos preconceptos (prejuicios) y discriminación\"*. Como líder del movimiento indígena Tikuna dice luchar a diario y no tener miedo para defender los derechos de su pueblo."
@@ -99,7 +99,7 @@
       "credit": "Pablo Albarenga"
     },
     {
-      "image": "carmen-damancio.webp",
+      "image": "https://res.cloudinary.com/randommonkey/image/upload/v1594561788/agenda-propia/retratos/carmen-damancio.jpg",
       "default": {
         "profile": "Carmen Patricia Damancio Silva, del clan Arü (Cascabel). Docente de multigrado en la Institución José Antonio Galán de la comunidad San Francisco de Loretoyaco en el municipio de Puerto Nariño en Colombia.",
         "text": "Carmen dice que la mujer Tikuna *\"es supremamente única, en sus cantos, en sus sonrisas y dentro de ella se ve la armonía y la tranquilidad. El territorio es sagrado  porque nosotras lo debemos todo al territorio, lo debemos valorar como riqueza y como beneficio para la mujer\"*."
@@ -111,7 +111,7 @@
       "credit": "Pablo Albarenga"
     },
     {
-      "image": "gloria-vasquez-vargas.webp",
+      "image": "https://res.cloudinary.com/randommonkey/image/upload/v1594561756/agenda-propia/retratos/gloria-vasquez-vargas.jpg",
       "default": {
         "profile": "Gloria Vásquez Vargas, 25 años, Tikuna del clan Ngunü (Paujíl). En su comunidad San Martín de Amacayacu, del municipio de Puerto Nariño, Colombia, se dedica a proteger la selva. Hace parte de la Guardia Indígena Ambiental.",
         "text": "*\"Siempre me ha importado el medio ambiente, entonces quise ser parte de las personas que se preocupan por su territorio, como en estos momentos que se está viendo mucho lo de la contaminación a nivel mundial\"*."
@@ -123,7 +123,7 @@
       "credit": "Pablo Albarenga"
     },
     {
-      "image": "honeira-cayetano.webp",
+      "image": "https://res.cloudinary.com/randommonkey/image/upload/v1594561902/agenda-propia/retratos/honeira-cayetano.jpg",
       "default": {
         "profile": "Honeira Cayetano Ahué, 63 años, del clan aí (Tigre). Vive en la comunidad de San Francisco, Puerto Nariño, en Colombia.",
         "text": "Dice que uno de sus sueños era recorrer los tres países y en uno de los viajes que hizo cuando joven a Perú, conoció al padre de sus quince hijos. *\"Todas las enseñanzas de mi madre, de la chagra, se las cuento a mis hijos en las noches. Las mamás indígenas les hablamos a nuestros hijos cuando sembramos y tejemos. Eso es lo que uno debe enseñar, todo lo que uno sabe, la experiencia, el pensamiento\"*."
@@ -135,7 +135,7 @@
       "credit": "Pablo Albarenga"
     },
     {
-      "image": "katia-firmino.webp",
+      "image": "https://res.cloudinary.com/randommonkey/image/upload/v1594561835/agenda-propia/retratos/katia-firmino.jpg",
       "default": {
         "profile": "Katia Firmino, joven que vive en el territorio indígena Umariaçu 2, en Tabatinga, Brasil.",
         "text": "A pesar de las dificultades de ser una mujer indígena en frontera, dice no sentirse avergonzada de ser Tikuna: *\"Soy mujer Tikuna, no tengo pena de ser Tikuna. Orgullosa soy porque somos mujeres grandes. Orgullosa de ser mujer Tikuna\"*. Además, espera continuar practicando los saberes de la partería al igual que su madre Lourdes Firmino Araújo, líder de la comunidad."
@@ -147,7 +147,7 @@
       "credit": "Pablo Albarenga"
     },
     {
-      "image": "betty-souza.webp",
+      "image": "https://res.cloudinary.com/randommonkey/image/upload/v1594561763/agenda-propia/retratos/betty-souza.jpg",
       "default": {
         "profile": "Betty Alexandra Souza Mozombite, 45 años, Tikuna del clan aí (Tigre). Vive en San Sebastián de Los Lagos, Leticia, Amazonas.",
         "text": "Es defensora de derechos humanos. Dice que las mujeres en zona de frontera son *\"hermosas, tienen una mistura de lenguas, de piel\"*, pero reconoce que también son vistas como algo *\"exótico\"*, por lo que son vulnerables y discriminadas. Betty también lidera grupos de víctimas en el departamento de Amazonas. Ella lucha para que las mujeres sean respetadas."
@@ -161,7 +161,7 @@
   ],
   "gunadule": [
     {
-      "image": "teodonilda-santacruz.webp",
+      "image": "https://res.cloudinary.com/randommonkey/image/upload/v1594561989/agenda-propia/retratos/teodonilda-santacruz.jpg",
       "default": {
         "profile": "Teodonilda Santacruz Álvarez, 43 años.",
         "text": "Cuenta que antes de que llegaran los wagas (gente no indígena), *\"pasar de un lado a otro de nuestro territorio (Colombia-Panamá) no era tan difícil como ahora, porque en estos tiempos nos piden papeles\"*, es decir, la cédula. Ella lleva puesta una blusa y una mola que tejió para su protección."
@@ -173,7 +173,7 @@
       "credit": "Pablo Albarenga"
     },
     {
-      "image": "olmilda-santacruz.webp",
+      "image": "https://res.cloudinary.com/randommonkey/image/upload/v1594561981/agenda-propia/retratos/olmilda-santacruz.jpg",
       "default": {
         "profile": "Olmilda Santacruz Álvarez, 47 años.",
         "text": "Relata que los Gunadule de Panamá y Colombia *\"somos los mismos, no somos diferentes, somos hermanos\"*. Expresa que no siente que tengan frontera, porque *\"puedo comunicarme con ellos y puedo ir cuando yo quiera\"*. Olmilda es cultivadora de plátano, sustento alimentario de las comunidades en Ibgigundiwala (Caimán Nuevo). "
@@ -185,7 +185,7 @@
       "credit": "Pablo Albarenga"
     },
     {
-      "image": "rosiris-uribe.webp",
+      "image": "https://res.cloudinary.com/randommonkey/image/upload/v1594561981/agenda-propia/retratos/rosiris-uribe.jpg",
       "default": {
         "profile": "Rosiris Uribe Jaramillo, 47 años.",
         "text": "Habla de la mola: *\"nos fortalece y nos da el espíritu de la mujer Gunadule\"*. Rosiris se dedica a su hogar y comparte con sus hijos la lengua (Dule Gaya) para preservar su cultura y sus tradiciones."
@@ -197,7 +197,7 @@
       "credit": "Pablo Albarenga"
     },
     {
-      "image": "monica-martinez.webp",
+      "image": "https://res.cloudinary.com/randommonkey/image/upload/v1594561972/agenda-propia/retratos/monica-martinez.jpg",
       "default": {
         "profile": "Mónica Andrea Martínez Uribe, 14 años.",
         "text": "\"*Mis abuelos me cuentan las historias y me recuerdan la importancia del Onmaggednega (reuniones de la comunidad) para fortalecerme como mujer Gunadule*\". Mónica se prepara para recibir su Inna Dummadi, la fiesta de la libertad o la gran fiesta, y lleva en su cabellera el dunnuedi (tela roja) que solo lo usan durante la etapa de niña a mujer. "
@@ -209,7 +209,7 @@
       "credit": "Pablo Albarenga"
     },
     {
-      "image": "crimilda-gonzalez.webp",
+      "image": "https://res.cloudinary.com/randommonkey/image/upload/v1594561782/agenda-propia/retratos/crimilda-gonzalez.jpg",
       "default": {
         "profile": "Crimilda González Bolívar, desconoce su edad.",
         "text": "Dice que si llegara a encontrarse con una mujer Gunadule del territorio panameño, *\"le preguntaría ¿cómo está?, hablaría con ella de sus hijos, de su esposo. Siento que las mujeres de Panamá son mis hermanas, pertenecemos a un mismo pueblo\"*. Crimilda lleva puesta la mola, que significa protección, identidad y representa a la madre naturaleza."

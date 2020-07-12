@@ -52,8 +52,7 @@
     <div class="w-full lg:w-2/3">
       {{ with .Params.pueblo }}
         {{ $portrait := index (index $.Site.Data.retratos .) 0 }}
-        {{ $image_path := print "images/retratos/" $portrait.image }}
-        <img src='{{ $image_path | absURL }}' alt="">
+        <img src="{{ $portrait.image | safeHTMLAttr }}" alt="">
       {{ end }}
     </div>
     <div class="w-full lg:w-1/3">

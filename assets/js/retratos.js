@@ -1,10 +1,6 @@
 const buttonPrev = document.querySelector('.button-prev');
 const buttonNext = document.querySelector('.button-next');
-const slider = new Swiper('.swiper-container', {
-  autoplay: {
-    delay: 5000,
-  },
-});
+const slider = new Swiper('.swiper-container', {});
 
 updateArrows();
 
