@@ -8,14 +8,14 @@ mapa: "tikuna"
 type: "historias"
 weight: 2
 images:
-  - "https://res.cloudinary.com/randommonkey/image/upload/v1594569260/agenda-propia/historias/pueblo-tikuna/la-lucha-de-lourdes-portada.jpg"
+  - "https://res.cloudinary.com/randommonkey/image/upload/c_limit,q_70,w_2000/v1594569260/agenda-propia/historias/pueblo-tikuna/la-lucha-de-lourdes-portada.jpg"
 ---
 
 Ngîmaã norü namēma ngomüû, Lourdes tümarü napütüwe naneã nayaîã. Ta dau tumarü õchana, name arü tare taünekü ãaküû, ínayaüukuchi mea daa nachimüû. Nayaûêê torü taküma rü chíû naíneküka tatüka ta na ya nae nanekawa taküka  para ñumata wuigü nügüwa nana da ngûêê i ta oêê ñumata ngîû  i buû. Na ngêma tare ucapuwa ru yia  îpatawa Lourdesarü, nanangóoneêê rü wuíe meêrüû omü i nüna ngu beûtána yia. Lourdes i na u yie nae rü nguû na me, i na ûkueû rü ta na meêê türu buûchiga.
  
 Ngîma norü taunekü 53, Lourdes Firmino Araújo na yau to cuarenta arü maû ngêgumarüû kuamã, norü naegüma iíraaküêêrü. Ngêgumarüû chorü taunekü takü arü tare, nawe wa cha û rü wií ãáaküûwa chorü noêma. Kuaãchírüû i na ngau wií naimena rü nakuwawa rü pechikaû nawa na ngêma rü ñuûchi daa nae i naga chorü noê i “ñuguakürica Chona ínü,  tama i ku dau  i ku irãûchi”. Wikana, yía noê na yau agumuku buûgue. “Nüû nayaükuchi togue  wuíe nawena i na dau nae dau”, ina u Lourdes norü kuãüûma. Ñema paããchi nüû nawe norü maû i norü namaû: nüû na kua i na ngeuka ngîmaûma turü taküma íraãküeêrüû îaneka.
 
-{{< fullimage src="https://res.cloudinary.com/randommonkey/image/upload/v1594569261/agenda-propia/historias/pueblo-tikuna/la-lucha-de-lourdes-1.jpg" title="Lourdes y sus nietos" >}}
+{{< fullimage src="https://res.cloudinary.com/randommonkey/image/upload/c_limit,q_70,w_2000/v1594569261/agenda-propia/historias/pueblo-tikuna/la-lucha-de-lourdes-1.jpg" title="Lourdes y sus nietos" >}}
 Lourdes tuna na paãchi nurü nataagü. Tumaka, yiemagü buûgü rü buküûgü tumagüe cha yaõ  yiema Magütagü rü nüûgü tana na dau torü taküma. Nachikünaã: Pablo Albarenga.
 {{< /fullimage >}}
 
@@ -29,7 +29,7 @@ Yiema noê tüna nananguûêē ru ínayaüukuchi i na nayaîã nüû õchanagü 
  
 Narü naãmegü daé Lourdes na yaü muûchi dûûgü torü bukügü i buûgü maiyugü magütaka, kukamagü, yowagü i toguegü îanenakagü, nûmaraû tomarüü duüûgü choügu  rü Brasilka, ColombiakaiPerúka. Ngîükã, “nguûma tomagü ñoma i naane naakü tî îgü”, ngerüma yie nachiûaina dea naga. Ngemaka, na kua tomepüarü dea, taga (magüta, taga, portugués i tomarü dea duûga) nüû nanatauchaêê rü nayanguêê rümemaû norü purakü íraãküeêrüû îanewa torü dea naegüma na ngaikaûchi.
 
-{{< tripleimage first="https://res.cloudinary.com/randommonkey/image/upload/v1594569185/agenda-propia/historias/pueblo-tikuna/la-lucha-de-lourdes-2.jpg" second="https://res.cloudinary.com/randommonkey/image/upload/v1594569192/agenda-propia/historias/pueblo-tikuna/la-lucha-de-lourdes-3.jpg" last="https://res.cloudinary.com/randommonkey/image/upload/v1594569185/agenda-propia/historias/pueblo-tikuna/la-lucha-de-lourdes-4.jpg" first_title="Nietos de Lourdes viendo TV" second_title="Lourdes preparando café" last_title="Pescado cocinado por Lourdes" >}}
+{{< tripleimage first="https://res.cloudinary.com/randommonkey/image/upload/c_limit,q_70,w_2000/v1594569185/agenda-propia/historias/pueblo-tikuna/la-lucha-de-lourdes-2.jpg" second="https://res.cloudinary.com/randommonkey/image/upload/c_limit,q_70,w_2000/v1594569192/agenda-propia/historias/pueblo-tikuna/la-lucha-de-lourdes-3.jpg" last="https://res.cloudinary.com/randommonkey/image/upload/c_limit,q_70,w_2000/v1594569185/agenda-propia/historias/pueblo-tikuna/la-lucha-de-lourdes-4.jpg" first_title="Nietos de Lourdes viendo TV" second_title="Lourdes preparando café" last_title="Pescado cocinado por Lourdes" >}}
 Yía Maû taküma arü Lourdes ta ãû narü îpatawa Umariaçu 2, Tabatinga, Brasil, nangaikamaûchi yiema üyeanewa nüû Colombiama rü Peruma, ngeta maû yiema wiía tumaãkü, nataamagü rü ngîtema. Gu Lourdes, tü nachiega nawemü takümaka Magütagüka. Nachikünaã: Pablo Albarenga.
 {{< /tripleimage >}}
 
@@ -37,7 +37,7 @@ Yima Umariaçu 2, norü maû Lourdes inaügüû rü nangûêê norü ngãûwa ru
  
 Yiema naane üyeaneka, ngema dueûgü na maû norü powamâ, norü naanema, norü tarma tama meûchi, narü ngegãchi to purakü gü Naküma ngêgumarüû íraãküeêrüû de distintos, üüû takümaka rü purakü naimaa. “Ngunecü a ngunekü ngêgumarüû  ta nguchaêê ”, na u Lourdes, “nua muûchi duêgü na maû norü poraûma, na ngêma duüûgü”.
 
-{{< fullimage src="https://res.cloudinary.com/randommonkey/image/upload/v1594569254/agenda-propia/historias/pueblo-tikuna/la-lucha-de-lourdes-5.jpg" title="Plaza de mercado de la comunidad de Umariaçu 2" >}}
+{{< fullimage src="https://res.cloudinary.com/randommonkey/image/upload/c_limit,q_70,w_2000/v1594569254/agenda-propia/historias/pueblo-tikuna/la-lucha-de-lourdes-5.jpg" title="Plaza de mercado de la comunidad de Umariaçu 2" >}}
 Yima iane arü Umariaçu 2, maûka maiyugüküma arü Îane magüta, tana taê ngêmaû takümaka naaneka, ngêgumarüû îtugü, yima poí ngêgumarüû techi rü nachanegü. Nachikünaã: Pablo Albarenga.
 {{< /fullimage >}}
 
@@ -45,7 +45,7 @@ Yima iane arü Umariaçu 2, maûka maiyugüküma arü Îane magüta, tana taê n
 
 Takümakagü daee ngeûgü maiyugü nawa ta torü omü tarü nachîûwa tõû tana yaugü  ngemaûka íraãküeêrüû, teegü ta na daugü daa müûchi taüemakü naûpa Mary omügüma. Ngîkã, torü taküma niî wií maû, norü kua nawena norüdea na ngemá wií înü magüta i torü înugü tarü naanegüka.
 
-{{< fullimage src="https://res.cloudinary.com/randommonkey/image/upload/v1594569334/agenda-propia/historias/pueblo-tikuna/la-lucha-de-lourdes-6.jpg" title="Lourdes examinando a su nuera" >}}
+{{< fullimage src="https://res.cloudinary.com/randommonkey/image/upload/c_limit,q_70,w_2000/v1594569334/agenda-propia/historias/pueblo-tikuna/la-lucha-de-lourdes-6.jpg" title="Lourdes examinando a su nuera" >}}
 Lourdes na dau wiía ngeû na ãakü tame arü tare tauemakü. Tuna dau rü na u yíema õchana ta unagü norü nachimüû nüû nae. Nachikünã: Pablo Albarenga.
 {{< /fullimage >}}
 
@@ -67,7 +67,7 @@ Ngîma ta nu na dau ngêma ngau üüûpataû rama nu na ngechaû tarü ngunegü 
 
 Ngêma kua Lourdes tu na á ngêma pora mea tuna na daüûka na ka nîa sea ngema íraãküeêrüûka taküma torü ngema na nawe ngêma purakü na úü güûküma ugü tumarü ianewagüchigü. Ngêgümarüû ta kua ta pasma na woegüngêma oré salud pública tama ni ta kua wií naküma na nguta gue.
 
-{{< image src="https://res.cloudinary.com/randommonkey/image/upload/v1594569198/agenda-propia/historias/pueblo-tikuna/la-lucha-de-lourdes-7.jpg" title="Mujer con niño en hamaca" >}}
+{{< image src="https://res.cloudinary.com/randommonkey/image/upload/c_limit,q_70,w_2000/v1594569198/agenda-propia/historias/pueblo-tikuna/la-lucha-de-lourdes-7.jpg" title="Mujer con niño en hamaca" >}}
 Katia Firminio, naakü daa ngéna Lourdes, na ngêma wüigü rü iraû büû. Nachikünaã: Pablo Albarenga.
 {{< /image >}}
 
@@ -75,7 +75,7 @@ Lourdes ni na ü güüma deãgükü aegaküma gü takümagüka numachi ngemaguû
 
 —“Nukuma rama cho kü nguê nachikawa ya buechica büegü irá güüwa ngêma yoü na na au Wiia taü ngeyaû ngüû, Nngemagü yoûna uguêtawama cha mê (…) yima tumapatawa ngemagü guema tumarü papá i tumamataguê, China ta naka ra pora yima íraãküeêrüû cha nawe cachikawa cha ngemaûka”.
 
-{{< image src="https://res.cloudinary.com/randommonkey/image/upload/v1594569201/agenda-propia/historias/pueblo-tikuna/la-lucha-de-lourdes-8.jpg" title="Foto de Lourdes Firmino" >}}
+{{< image src="https://res.cloudinary.com/randommonkey/image/upload/c_limit,q_70,w_2000/v1594569201/agenda-propia/historias/pueblo-tikuna/la-lucha-de-lourdes-8.jpg" title="Foto de Lourdes Firmino" >}}
 Lourdes Firmino Araújo, maiyu magüta, na poraû purakü nakã ngêma ngêchaûka tory takümaka yiema paããchi torü íraãküeêrüû. Torü taküma, maû ta ã rü üüne niî. Nachikünaã: Pablo Albarenga.
 {{< /image >}}
 
@@ -107,7 +107,7 @@ Ngêma boü tümagawa, Lourdes namata na ugü tümarü â kuagü. Nuagütagü tu
 
 -- “Ngêguma ju nuechigü na peî nümarü tacha maû. Ta ngema bue ngeû i tarü togü cha ta iné, ta nguyaûgü”.
 
-{{< fullimage src="https://res.cloudinary.com/randommonkey/image/upload/v1594569321/agenda-propia/historias/pueblo-tikuna/la-lucha-de-lourdes-9.png" title="Lourdes y su nieta" >}}
+{{< fullimage src="https://res.cloudinary.com/randommonkey/image/upload/c_limit,q_70,w_2000/v1594569321/agenda-propia/historias/pueblo-tikuna/la-lucha-de-lourdes-9.png" title="Lourdes y su nieta" >}}
 Wuía poraûgü yie maiyu Lourdes Firmino yiemagü ngeûgü i yiemagü yatüûgu nugü ina ã torü íraãküeêrüû takümaka ta chaumetanüû meûgü norü puraküwa ianewaka. Nachikünaã: Pablo Albarenga.
 {{< /fullimage >}}
 

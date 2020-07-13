@@ -7,7 +7,7 @@ mapa: "gunadule"
 type: "historias"
 weight: 2
 images:
-  - "https://res.cloudinary.com/randommonkey/image/upload/v1594567691/agenda-propia/historias/pueblo-gunadule/las-dule-omegan-entre-la-selva-y-el-mar-portada.jpg"
+  - "https://res.cloudinary.com/randommonkey/image/upload/c_limit,q_70,w_2000/v1594567691/agenda-propia/historias/pueblo-gunadule/las-dule-omegan-entre-la-selva-y-el-mar-portada.jpg"
 ---
 
 ## Muu Magaddibala | Alta mar
@@ -18,7 +18,7 @@ A inicios de marzo de 2020, en una cálida mañana de unos 19 grados centígrado
  
 Mientras avanzaba el recorrido y nos mojaba el agua salada de las grandes olas que se estrellaban contra la embarcación, Olowaili aprovechó para explicar que para su pueblo Gunadule "la mar" es "la abuela".
 
-{{< image src="https://res.cloudinary.com/randommonkey/image/upload/v1594567722/agenda-propia/historias/pueblo-gunadule/las-dule-omegan-entre-la-selva-y-el-mar-1.png" title="Mar" >}}
+{{< image src="https://res.cloudinary.com/randommonkey/image/upload/c_limit,q_70,w_2000/v1594567722/agenda-propia/historias/pueblo-gunadule/las-dule-omegan-entre-la-selva-y-el-mar-1.png" title="Mar" >}}
 Muu (mar) significa ancestralmente abuela para los Gunadules. Foto: Edilma Prada.
 {{< /image >}}
 
@@ -28,7 +28,7 @@ Bellas palabras de Olo (como le decimos cariñosamente quienes la conocemos), qu
  
 En Colombia hay 2.610 habitantes del pueblo Gunadule (censo 2018 del Departamento Administrativo Nacional de Estadística, DANE), y en Panamá, 80.000 (censo oficial 2010, datos suministrados por el Congreso General de la Cultura Guna, principal autoridad tradicional de los Gunadules). En Colombia se concentran en dos resguardos: Maggilagundiwala, en Arquía, Chocó, e Ibgigundiwala, Caimán Nuevo, sobre la región del Golfo de Urabá en Antioquia. En Panamá están asentados en las 360 islas y arrecifes en las tres comarcas Guna Yala, Madungandí y Wargandi del territorio ancestral Dagargunyala (Darién) y en las nueve provincias panameñas.
 
-{{< image src="https://res.cloudinary.com/randommonkey/image/upload/v1594567624/agenda-propia/historias/pueblo-gunadule/las-dule-omegan-entre-la-selva-y-el-mar-2.jpg" title="Mujeres gunadule en la playa" >}}
+{{< image src="https://res.cloudinary.com/randommonkey/image/upload/c_limit,q_70,w_2000/v1594567624/agenda-propia/historias/pueblo-gunadule/las-dule-omegan-entre-la-selva-y-el-mar-2.jpg" title="Mujeres gunadule en la playa" >}}
 En Colombia y Panamá hay unos 82.000 indígenas Gunadules. En ambos países se reconocen como hermanos y comparten las mismas costumbres y saberes. Foto: Edilma Prada.
 {{< /image >}}
 
@@ -48,7 +48,7 @@ La Tierra del Ají, en lengua Dulegaya, es un sitio mágico por sus paisajes y l
  
 Como dato importante y que explica el nombre del lugar en el que nos encontramos, Olo cuenta que su pueblo consume el ají para la protección y la prevención de enfermedades.
 
-{{< image src="https://res.cloudinary.com/randommonkey/image/upload/v1594567609/agenda-propia/historias/pueblo-gunadule/las-dule-omegan-entre-la-selva-y-el-mar-3.jpg" title="Letrero Capurganá" >}}
+{{< image src="https://res.cloudinary.com/randommonkey/image/upload/c_limit,q_70,w_2000/v1594567609/agenda-propia/historias/pueblo-gunadule/las-dule-omegan-entre-la-selva-y-el-mar-3.jpg" title="Letrero Capurganá" >}}
 El corregimiento de Capurganá, conocido como Tierra del Ají, fue ancestralmente territorio de los Gunadules. Ahora, pertenece a comunidades afrocolombianas y es punto turístico del departamento Chocó. Foto: Edilma Prada.
 {{< /image >}}
 
@@ -58,11 +58,11 @@ Los Gunadules viajan de las islas de Panamá a Capurganá en Colombia para hacer
  
 Capurganá es un poblado pintoresco y rústico. En la calle principal, destino obligado de turistas, se consigue todo tipo de productos artesanales. Allí se encuentran los tejidos de las molas, con sus llamativas figuras, texturas y colores, y las telas de saburred que usan las mujeres indígenas como faldas. Cinco cuadras más adelante está la cancha de fútbol en donde niños y jóvenes afrocolombianos juegan en las tardes. En casi todas las calles del pueblo hay restaurantes, hostales, hoteles, cafés y bares, y en la playa se concentran los turistas para disfrutar de la arena y del mar.
 
-{{< image src="https://res.cloudinary.com/randommonkey/image/upload/v1594567615/agenda-propia/historias/pueblo-gunadule/las-dule-omegan-entre-la-selva-y-el-mar-4.jpg" title="Mujeres indígenas" >}}
+{{< image src="https://res.cloudinary.com/randommonkey/image/upload/c_limit,q_70,w_2000/v1594567615/agenda-propia/historias/pueblo-gunadule/las-dule-omegan-entre-la-selva-y-el-mar-4.jpg" title="Mujeres indígenas" >}}
 Las mujeres indígenas del pueblo Gunadule visitan Capurganá a diario. Allí venden las molas, tejido tradicional, y hacen mercado para sus comunidades. Foto: Edilma Prada.
 {{< /image >}}
 
-{{< fullimage src="https://res.cloudinary.com/randommonkey/image/upload/v1594567693/agenda-propia/historias/pueblo-gunadule/las-dule-omegan-entre-la-selva-y-el-mar-5.jpg" title="Puerto de Capurganá" >}}
+{{< fullimage src="https://res.cloudinary.com/randommonkey/image/upload/c_limit,q_70,w_2000/v1594567693/agenda-propia/historias/pueblo-gunadule/las-dule-omegan-entre-la-selva-y-el-mar-5.jpg" title="Puerto de Capurganá" >}}
 Al puerto de Capurganá llegan muchas lanchas y botes con indígenas Gunadules de las 360 islas que hay en Panamá. Estas aguas, según dicen los pobladores, son un punto de paso obligado para migrantes que transitan hacia Centroamérica. Foto: Olowaili Green.
 {{< /fullimage >}}
 
@@ -72,7 +72,7 @@ Mientras recorríamos por la playa en dirección a unas casetas de madera en don
 
 ## Las Dule Omegan | Mujeres del pueblo Gunadule
 
-{{< fullimage src="https://res.cloudinary.com/randommonkey/image/upload/v1594567681/agenda-propia/historias/pueblo-gunadule/las-dule-omegan-entre-la-selva-y-el-mar-6.jpg" title="Vestimenta mujeres gunadule" >}}
+{{< fullimage src="https://res.cloudinary.com/randommonkey/image/upload/c_limit,q_70,w_2000/v1594567681/agenda-propia/historias/pueblo-gunadule/las-dule-omegan-entre-la-selva-y-el-mar-6.jpg" title="Vestimenta mujeres gunadule" >}}
 Para las Dule Omegan, la mola es su protección. El tejido también hace parte de su vestimenta tradicional. Foto: Olowaili Green.
 {{< /fullimage >}}
 
@@ -110,7 +110,7 @@ En su lengua materna, Miladys dice que si bien se siente feliz en Anassuguna, sa
  
 Las mujeres que acompañaban a Miladys cuando nos encontramos prefirieron no hablar. Son respetuosas de la palabra y de sus caciques, saben que para otorgar una entrevista deben tener permiso de sus autoridades tradicionales. Sin embargo, aprovecharon el encuentro para enseñarnos sus winis y molas, sus tejidos, su protección.
 
-{{< image src="https://res.cloudinary.com/randommonkey/image/upload/v1594567638/agenda-propia/historias/pueblo-gunadule/las-dule-omegan-entre-la-selva-y-el-mar-7.jpg" title="Pulseras elaboradas con chaquiras" >}}
+{{< image src="https://res.cloudinary.com/randommonkey/image/upload/c_limit,q_70,w_2000/v1594567638/agenda-propia/historias/pueblo-gunadule/las-dule-omegan-entre-la-selva-y-el-mar-7.jpg" title="Pulseras elaboradas con chaquiras" >}}
 Las mujeres del pueblo Gunadule llevan los winis, pulseras elaboradas con chaquiras, para protegerse de las malas energías y enfermedades. Foto: Edilma Prada.
 {{< /image >}}
 
@@ -120,7 +120,7 @@ El viento soplaba fresco y el sol empezaba a bajar de lo alto para ocultarse en 
  
 Nuestro viaje terminó contemplando la caída del sol en "la mar". De frente al atardecer, agradecimos que pudimos recibir de los propios brazos de la abuela mar (sus olas) su energía femenina y poderosa, que nos daría fuerzas y esperanza para continuar con nuestro camino.
 
-{{< fullimage src="https://res.cloudinary.com/randommonkey/image/upload/v1594567662/agenda-propia/historias/pueblo-gunadule/las-dule-omegan-entre-la-selva-y-el-mar-8.jpg" title="Atardecer en Capurganá, la Tierra del Ají" >}}
+{{< fullimage src="https://res.cloudinary.com/randommonkey/image/upload/c_limit,q_70,w_2000/v1594567662/agenda-propia/historias/pueblo-gunadule/las-dule-omegan-entre-la-selva-y-el-mar-8.jpg" title="Atardecer en Capurganá, la Tierra del Ají" >}}
 Los atardeceres de la Tierra del Ají son coloridos e inspiradores. El sol se oculta en medio de la inmensidad de las aguas del mar Caribe. Foto: Pablo Albarenga.
 {{< /fullimage >}}
 

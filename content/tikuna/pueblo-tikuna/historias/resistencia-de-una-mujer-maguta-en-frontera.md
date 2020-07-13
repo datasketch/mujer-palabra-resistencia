@@ -8,20 +8,20 @@ mapa: "tikuna"
 type: "historias"
 weight: 1
 images:
-  - "https://res.cloudinary.com/randommonkey/image/upload/v1594569790/agenda-propia/historias/pueblo-tikuna/mujer-maguta-portada.png"
+  - "https://res.cloudinary.com/randommonkey/image/upload/c_limit,q_70,w_2000/v1594569790/agenda-propia/historias/pueblo-tikuna/mujer-maguta-portada.png"
 ---
 
 ## Chorü choküma
 
 "Tomagü maiyutiûgü ngema ügüêû nüna ta dau, ngêgumarüû ta daugü naineküaarü nae numachi chotanüe, ngumachî yigüma i dau; ngema imaûngüûwa ta poraûniwa y torü maû", ngegüma Ünãgükü Taüchina (tümarü Nachikúna korigawa ni î Cindy Amalec Laulate Castillo), ngêgumarüû wií name towüema tüûcha ngee daûkü iraû boû ngema nüû, cha dauna chauchametü, ñumachi nainema dauna ngeeî iraû natüchi ema. (Taküma chaurüû) ñumachi choma chochametügü tüü wüü Wii kowa, chauka túmawa cha akaê.
 
-{{< tripleimage first="https://res.cloudinary.com/randommonkey/image/upload/v1594569594/agenda-propia/historias/pueblo-tikuna/mujer-maguta-2.jpg" second="https://res.cloudinary.com/randommonkey/image/upload/v1594569602/agenda-propia/historias/pueblo-tikuna/mujer-maguta-3.jpg" last="https://res.cloudinary.com/randommonkey/image/upload/v1594569603/agenda-propia/historias/pueblo-tikuna/mujer-maguta-1.jpg" first_title="Mano derecha de Ünãgükü Taüchina recogiendo los huitillos" second_title="Huitillos, frutos silvestres" last_title="Ünãgükü Taüchina pintándose el rostro con huitillo" reverse="true" >}}
+{{< tripleimage first="https://res.cloudinary.com/randommonkey/image/upload/c_limit,q_70,w_2000/v1594569594/agenda-propia/historias/pueblo-tikuna/mujer-maguta-2.jpg" second="https://res.cloudinary.com/randommonkey/image/upload/c_limit,q_70,w_2000/v1594569602/agenda-propia/historias/pueblo-tikuna/mujer-maguta-3.jpg" last="https://res.cloudinary.com/randommonkey/image/upload/c_limit,q_70,w_2000/v1594569603/agenda-propia/historias/pueblo-tikuna/mujer-maguta-1.jpg" first_title="Mano derecha de Ünãgükü Taüchina recogiendo los huitillos" second_title="Huitillos, frutos silvestres" last_title="Ünãgükü Taüchina pintándose el rostro con huitillo" reverse="true" >}}
 (Daunawa) Ünãgükü Taüchina na chametü norü nachametü emaã. Orí dauchikama yaûêê ngêgumarüû tarü chaurüû takümaka torü nachametü rü ñoemagü (nachamü takümaka meûka ngêgumarüû nachirü takümaka. (Tõwe) name iwéû rü Ünãgükü Taüchina ta deguê yiema ema naeinekü tatü kkae. (Iwéû) ó dauchitaka tana ûêê yiema magütagü ta chaugü ñoegü iraûûgü. Nachkünaã: Pablo Albarenga.
 {{< /tripleimage >}}
 
 Narü taunekü 23, Ünãgükü Taüchina ni î wií pakü naerü nama küaû yia iane  Magüta o Tikuna ñumachi nüü na kua da iane takümaka. Na maû narü iane chenetüwa (San Francisco de Loretoyaco), ngema i cha ngemaûwa trapecio tatüüûka colombiano, ngeûkamana ta yíiemagü yima Puerto Nariño, ngema düeûgü daa ianewa ta ngemagü Kukamagü, yowagü, Magütagü, nümachi togü gu Boragü ru Muruigü. Ngema tumaanewa taaru kua takümaka, ngêma pakü maiyu nüma, ngêma pakü i purakü maiyugüma i taküma Magüta ngêma na ü i nüna dau torü naûne yiemagü Ngeûgü Magütagüka (mujeres tikunas).
 
-{{< fullimage src="https://res.cloudinary.com/randommonkey/image/upload/v1594569784/agenda-propia/historias/pueblo-tikuna/mujer-maguta-4.jpg" title="Cancha de la comunidad indígena de Loretoyaco" >}}
+{{< fullimage src="https://res.cloudinary.com/randommonkey/image/upload/c_limit,q_70,w_2000/v1594569784/agenda-propia/historias/pueblo-tikuna/mujer-maguta-4.jpg" title="Cancha de la comunidad indígena de Loretoyaco" >}}
 Caûpu inaguerüû yiema ianeka maiyu daa chenetüi, ngeta norü dueûgü na ngutaqueêê yáuwanekü na inagüü paēta, na ugü înüka i na yauü kúa naetü ünükagü i rü ngutaqueêgü moûka tory ianeka. Nachikünaã: Pablo Albarenga.
 {{< /fullimage >}}
 
@@ -29,7 +29,7 @@ Tagawa Magüta o Tikuna, narü naega Ünãgükü Taüchina "s norü kua kowa ün
 
 Nakâgü Magütagüka, taégagü takümaka nüû na kuáchigü na naãègü toerü nakuáûma yima üû, narü ngerüêê i norü maûgü tãakümaã i na bu yiema buû i yiema bukü. Ngêgümaruû kuãrüû Ünãgükü Taüchina ngêgümarüû yima dueûgü poraûgü nüû kuáchaû, na na buegü ñaa naerukuá, i na ü nae Ernestina Castillo.
 
-{{< image src="https://res.cloudinary.com/randommonkey/image/upload/v1594569609/agenda-propia/historias/pueblo-tikuna/mujer-maguta-5.jpg" title="Retrato de Ünãgükü Taüchina." >}}
+{{< image src="https://res.cloudinary.com/randommonkey/image/upload/c_limit,q_70,w_2000/v1594569609/agenda-propia/historias/pueblo-tikuna/mujer-maguta-5.jpg" title="Retrato de Ünãgükü Taüchina." >}}
 Nachikünaã rü Ünãgükü Taüchina. Éma ta üchikünaã narü nachametü navhikünaãgü norü kua nakã kowa rü arü tarü ünû. Nachikünaã: Pablo Albarenga.
 {{< /image >}}
 
@@ -37,13 +37,13 @@ Nachikünaã rü Ünãgükü Taüchina. Éma ta üchikünaã narü nachametü na
 
 Ngêgumarüû na û iraûgü nama cementowa agrietadagü norü iane, na u bukü kürawa guûgüma na inü torü taküma i yima tokumã maû. Tümarü papa norü ünü ma yiema oígüma, nügüraûū na nawe ya ngu torü üüûgü takümaka, ngêgumarüû ocasionalmente wuigü norü papama na nagãü torü porí. Naeka nìiî iraûwa nãka na chieû i tamarü maû niî i tamarü na dau yiyiperTuna ka: "¿tukü ku yipeû?", ngema norü maû nana ngaü: "choma rama cha yipeû (ngema porí) Mary yipeû, niî wiía daguãû cha aerüã chorü maû chorü papama, chorü oígüma i chorü kuarüû takümaka".
 
-{{< image src="https://res.cloudinary.com/randommonkey/image/upload/v1594569677/agenda-propia/historias/pueblo-tikuna/mujer-maguta-6.jpg" title="Casa Cultural Metare" >}}
+{{< image src="https://res.cloudinary.com/randommonkey/image/upload/c_limit,q_70,w_2000/v1594569677/agenda-propia/historias/pueblo-tikuna/mujer-maguta-6.jpg" title="Casa Cultural Metare" >}}
 Îpata taküma Metare ngêgumarüû torü kua naaneka magüta niî wií nü kuaû rü kuagüû naetü nanetügü takümaka, nii na toraüêê ngobü rü weri. Metare tona ã norü ngú daa wuíe woreküchiga, taküma rü ñuma nguneûgü ma ügü tarü iane. Ñaa îpata takümaka niî wií namachiê ngetawa torü ngetüûgü ta ngutaqueêê un na daumatü, na inû purakü rü ore i ta ngu naetü torü ñoma i naane torü iane magüta. Nachikünaã: Pablo Albarenga.
 {{< /image >}}
 
 Ngêgumarüû tarü taküma na ngema torü maû wii poraêê tu na na u yiema yatuûgü ngema aiêpewa torü taküma Magüta, Ünãgükü Taüchina na ünû torü ngeûgü rüta na ngema norü poraû torû kuaêrüûe ngegümarüû üüû takümaka. "Wena cha uneta cha na ngau ngema, cha ngau rü yea namayateê ngêgumarüû cha ü yimaka torü ngeûgü, tüküûû yiema ngeêgü ngemarüû nàmá maû, tuna ngueû müûchima yeera daa yiema chatüûgü".
 
-{{< image src="https://res.cloudinary.com/randommonkey/image/upload/v1594569794/agenda-propia/historias/pueblo-tikuna/mujer-maguta-17.png" title="Ünãgükü Taüchina e Ismael Laulate Castillo" >}}
+{{< image src="https://res.cloudinary.com/randommonkey/image/upload/c_limit,q_70,w_2000/v1594569794/agenda-propia/historias/pueblo-tikuna/mujer-maguta-17.png" title="Ünãgükü Taüchina e Ismael Laulate Castillo" >}}
 (Tõwe) Ünãgükü Taüchina namaû wiía îraû wapuru kuaû naega muturu pepquepeque. Türu nama niî ínayaüegu rü Puerto Nariño rü iane San Francisco naetü rü natü chenetüwa. (Iwéû) Ismael Laulate Curico, duturü takümaka yiema iane Kukama,nanatü rü Ünãgükü Taüchina. Nachikünaã: Pablo Albarenga.
 {{< /image >}}
 
@@ -55,7 +55,7 @@ Ngegüma nüma na üü chenetüwa ta ngegüma nia ü kümepü oí na ngema tokü
 
 Moeûchi ngema nama cha imükü oígüma, chorü chüükuma numachi Ünãgükü Taüchina ngegüma ngema cha au ngêma ngütaguewa ta ügü ngema nama ta maêû ina ngugü togüchiga na ngugüena ianewa ngemawa chiküe. Ngema nachica nawa ngüeû ngema na inü chie orè dueû na maeû buegüma. Ngema türükü ni ngükügü na ngema wiía orè torü tomüepü üyewa.
 
-{{< image src="https://res.cloudinary.com/randommonkey/image/upload/v1594569608/agenda-propia/historias/pueblo-tikuna/mujer-maguta-9.jpg" title="Ünãgükü Taüchina y Lourdes Firmino" >}}
+{{< image src="https://res.cloudinary.com/randommonkey/image/upload/c_limit,q_70,w_2000/v1594569608/agenda-propia/historias/pueblo-tikuna/mujer-maguta-9.jpg" title="Ünãgükü Taüchina y Lourdes Firmino" >}}
 Ünãgükü Taüchina i yíema Lourdes Firmino Araújo tana ü torü kua íraaküêêrüû takümaka rü naane Magüta, yía iane maiyugüka Umariacu II, Tabatinga, Brasil. Nachikünaã: Vanessa Teteye.
 {{< /image >}}
 
@@ -63,7 +63,7 @@ Moeûchi ngema nama cha imükü oígüma, chorü chüükuma numachi Ünãgükü 
 
 Ngêgumarüû taunekü 2018, ngêguma na güü nürü técnico inakaweãru ngûēē Nacional Ngüûrüû (SENA), Ünãgükü Taüchina ngêgumq chorü mamà na cha kà yoü i ta wegü naweû wiiawata i cha ngêma yíema taku kowaarü tawamakurü (ngêma niî chaukã nama choû ta wuíegüpünaque), ngêma na nawena goêûella nama na pora ngêma oípena numachi nükumaèarü kuma.
 
-{{< image src="https://res.cloudinary.com/randommonkey/image/upload/v1594569666/agenda-propia/historias/pueblo-tikuna/mujer-maguta-10.jpg" title="Unión de ríos Loretoyaco y Amazonas" >}}
+{{< image src="https://res.cloudinary.com/randommonkey/image/upload/c_limit,q_70,w_2000/v1594569666/agenda-propia/historias/pueblo-tikuna/mujer-maguta-10.jpg" title="Unión de ríos Loretoyaco y Amazonas" >}}
 Nagü na ngîgü chenetü (iwéû) yía natü tatü (towê) rü Puerto Nariño, Colombia, üyeane Peruwa. Nachikünaão: Pablo Albarenga.
 {{< /image >}}
 
@@ -71,13 +71,13 @@ Na goè chû nî gá puraküwa naa Red poûrü maûma, wuía natüküma toû rü
 
 Ña ngüepatawa Ünãgükü Taüchina nagüna ínü ngegüma ina kuaû ngema ngîé profesional numachî torü taküma üerû buûgü,buegü, ngetüûgü, papamagü tu ünükagü ngêma tachiga tory magütarü May na ngé ngema ore nama ngîgü na dau taünewa numachi atenea nama na nüenîí ngêma ore chieû duüûgüma.
 
-{{< fullimage src="https://res.cloudinary.com/randommonkey/image/upload/v1594569703/agenda-propia/historias/pueblo-tikuna/mujer-maguta-11.jpg" title="Niños indígenas Tikunas recibiendo almuerzo" >}}
+{{< fullimage src="https://res.cloudinary.com/randommonkey/image/upload/c_limit,q_70,w_2000/v1594569703/agenda-propia/historias/pueblo-tikuna/mujer-maguta-11.jpg" title="Niños indígenas Tikunas recibiendo almuerzo" >}}
 Büûgü maiyugü magütagüka na yauwuemü yiema nguepataû nguēêgü José Antonio Galán, yíma iane San Francisco chenetü. Nachikünaã: Pablo Albarenga.
 {{< /fullimage >}}
 
 Ña, pakü naerü ianeka Magüta rüû üye daa Red de Enfrentamiento contra la Trata de Personas (RETP), ngrema kuma rü ü tomepü üyeanewa. Yiema inanaügü daa misioneromagü católikumagü inanawaûû daa i torü oregü güûmama ñaa instituciones, tupana noregüma 39 ügü, entidades gubernamentales i ngumachî dueûgü maiyugüma torü nnaaneka. Ngema Red tüû tarü nguê i dueû takumama tana nguê inaenaka tuû daugüka tüna û ianewa tumechametü yiema dueûgü, ngêgumarüû ta ngaikamamagü teégüma yiema dueûgü nawa ngemaé ore tuû cha inü.
 
-{{< fullimage src="https://res.cloudinary.com/randommonkey/image/upload/v1594569728/agenda-propia/historias/pueblo-tikuna/mujer-maguta-12.jpg" title="camiseta de \"Rede Um Grito Pela Vida: Não Ao Tráfico de Pessoas\"" >}}
+{{< fullimage src="https://res.cloudinary.com/randommonkey/image/upload/c_limit,q_70,w_2000/v1594569728/agenda-propia/historias/pueblo-tikuna/mujer-maguta-12.jpg" title="camiseta de \"Rede Um Grito Pela Vida: Não Ao Tráfico de Pessoas\"" >}}
 Ünãgükü Taüchina na kuû nachirü "Rede wiía kaá ü maûka: Tama yía mea maû dueûgüka" wuia ugügüka brasilera tama nãêgüû torü meû maûka rü duûgü yíma e tomepü üyeaneka. Nachikünaã: Pablo Albarenga.
 {{< /fullimage >}}
 
@@ -85,7 +85,7 @@ Büûgü maiyugü magütagüka na yauwuemü yiema nguepataû nguēêgü José An
 
 Ngema torü aēgakü nana wuípanegü ngêma taküma torü ngetüûgü Perú, Brasil i nguachî Colombia. Wií ngupetüû nü dau nüû na kuaêê yima tawemakü febrero ngîma taunekügü 2019, yima nüengüü tuna ngaügü Wii ngeé i tare yatüû. Nümachí Wii naachiga, na ka na daugüü dueû tuma kuma küagüû ngêma buûgü tüûna müûgue Puerto Nariño, Ichigo towa, pucalpawa, ngema peruwa, yema tüna agüü popera tama meû. Na inagüü tuna ngüeküü bemã. "Taukurã ta déãkü wií numero, tama ukuuûtükü", nana û Rubí "tawana ngu ngêma Red, 8% ngeküe ngêma naküma aikümagü".
 
-{{< image src="https://res.cloudinary.com/randommonkey/image/upload/v1594569680/agenda-propia/historias/pueblo-tikuna/mujer-maguta-13.jpg" title="Puerto Nariño" >}}
+{{< image src="https://res.cloudinary.com/randommonkey/image/upload/c_limit,q_70,w_2000/v1594569680/agenda-propia/historias/pueblo-tikuna/mujer-maguta-13.jpg" title="Puerto Nariño" >}}
 Puerto Nariño, Amazonas, Colombia. Nachikünaã: Pablo Albarenga.
 {{< /image >}}
 
@@ -97,7 +97,7 @@ Ngema peruwa, yiema maiyugü turúüû magüta ngaû natü mayürünawa yowa tat
 
 Wií municipiowa na ngugü muûchi korigü ûanetanüû ngêma Puerto Nariño niî. Ngema nüataka nana á ngema yawanékagü ña nagaû ngemá naane towüe daüra; Ngema norü nutague tare natü chenutü numachi tatüla; ngema norü ñaãchí tukuchi numachi daüra natü arü nga takuma yíema chonitanü tumaweüma î ngoüēû tumaweûma tümawenüûka duûgüe. Napechinawa torü ianeküwa na ngêma wií Parque Natural nuachi nata naega Tarapoto, ngêma machika numa ta daugü, numachi una daugü nawa, ngemaka ngema Ünãgükü Taüchina nama niî poraûchi.
 
-{{< image src="https://res.cloudinary.com/randommonkey/image/upload/v1594569691/agenda-propia/historias/pueblo-tikuna/mujer-maguta-14.jpg" title="Lancha sobre río" >}}
+{{< image src="https://res.cloudinary.com/randommonkey/image/upload/c_limit,q_70,w_2000/v1594569691/agenda-propia/historias/pueblo-tikuna/mujer-maguta-14.jpg" title="Lancha sobre río" >}}
 Ngãû tarü wapuru înütanüû wapuru torü naane türe Nariño, nagu niûãguchigü naétüwa yía natü Chenetü.  Nachikünaã: Pablo Albarenga.
 {{< /image >}}
 
@@ -111,7 +111,7 @@ Numachi pucheUmbe Monje Fajardo nagü na ínü ngima torü Aēgakü tachianeka t
 
 Ñuakü türügü nagü na ínü wií puraküme taanewa torü ianewa ngetüûgü maiyutagü na ã, ngema tama na ã wiía ngú taû purakütanü mea ta maegüta ka numachi tumata nüé. Yima ngetüûgü torü naaneka negra na iî Iane taünewa to naanewa naî, naka na daugü ngêma purakü taüûgü tachiarü naanewa. Ñuakü ña naweüû tama ta taeûgü, numachi da iane nawe güûma chiénüû tarü ünü dueûgü gûürü ta dau nua tachikawa. Togü maetagü tunéna yaugüû torü üyeaneka numachi na ñema micro-tráficona tógüü ngîma coca güü naíneküwa. "Ngema purakü ñe maû nua,tuna me nama torü nüeüü tatanüé numachi torü ngü", ngema nae maiyu tana aû tümarünaega.
 
-{{< image src="https://res.cloudinary.com/randommonkey/image/upload/v1594569691/agenda-propia/historias/pueblo-tikuna/mujer-maguta-15.jpg" title="Hombre en balsa" >}}
+{{< image src="https://res.cloudinary.com/randommonkey/image/upload/c_limit,q_70,w_2000/v1594569691/agenda-propia/historias/pueblo-tikuna/mujer-maguta-15.jpg" title="Hombre en balsa" >}}
 Ya düûta maû nawa iane maiyu San Francisco, na ûachi ta chonie naétüwa yía natü chenetü. Nachikünaã: Pablo Albarenga.
 {{< /image >}}
 
@@ -123,7 +123,7 @@ Tümaka Ünãgükü Taüchina, nagü naüne ngema yiYork dueûmana mar toküegü
 
 "Yiema ngeû maiyu magüta tanaa ngema pora ngema i maeûwa naanewa. Tana aû küûguma ngema pora wiía noêma deagü, ngema torü noê tüû ta muyegü, tana uguané küma tarüinü yíema chigü tama ina woka numachi na üyikü ngema tayé " (…) "ngema torü Marü yíema maiyu nama poraênumachi nama chikueû yiema ngeèkü", Ünãgükü Taüchina, wiíe pakü magütaka tana watâ ngema naûne i naane.
 
-{{< image src="https://res.cloudinary.com/randommonkey/image/upload/v1594569719/agenda-propia/historias/pueblo-tikuna/mujer-maguta-16.jpg" title="Ünãgükü Taüchina frente a un árbol de Ceiba" >}}
+{{< image src="https://res.cloudinary.com/randommonkey/image/upload/c_limit,q_70,w_2000/v1594569719/agenda-propia/historias/pueblo-tikuna/mujer-maguta-16.jpg" title="Ünãgükü Taüchina frente a un árbol de Ceiba" >}}
 Ünãgükü Taüchina napêegüwarü wuía naiwa wochineka (wone), norü ügüû daa ru natü tatüka i yíema ngau ñoma i naane. Nachikünaã: Pablo Albarenga.
 {{< /image >}}
 

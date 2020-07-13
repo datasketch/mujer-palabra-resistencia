@@ -9,7 +9,7 @@ mapa: "gunadule"
 type: "historias"
 weight: 2
 images:
-  - "https://res.cloudinary.com/randommonkey/image/upload/v1594567691/agenda-propia/historias/pueblo-gunadule/las-dule-omegan-entre-la-selva-y-el-mar-portada.jpg"
+  - "https://res.cloudinary.com/randommonkey/image/upload/c_limit,q_70,w_2000/v1594567691/agenda-propia/historias/pueblo-gunadule/las-dule-omegan-entre-la-selva-y-el-mar-portada.jpg"
 ---
 
 ## Muu Magaddibala
@@ -20,7 +20,7 @@ Wegin waga ome Edilma Prada, Olowaili Green ebo nagguidmala ulgin naegala Capurg
 
 Anmal sumaisoggali ni marzogine we birga 2020, waggur aggal amba nei dambe iddolege, anmal nodmala ibgigundiwala negwebur aggal, Osiganasega bia waimal bie (Necoclí, Antioquia) agin anmal nanase puertose bia ulu galege. Agin anmal benuisa naegala Capurganase, waimal issesuli namalmoga we negweburse we neggwebur bai departamento ambaggumala nuga Chocó, wese waimal nadamaldae demalse obegala Ulugin anmal nadabbi demal anmal owardisasa, gagga balubi iddolege agin, Olowaili soge ibigala demar bilege Muu, ibi obare.
 
-{{< image src="https://res.cloudinary.com/randommonkey/image/upload/v1594567722/agenda-propia/historias/pueblo-gunadule/las-dule-omegan-entre-la-selva-y-el-mar-1.png" title="Mar" >}}
+{{< image src="https://res.cloudinary.com/randommonkey/image/upload/c_limit,q_70,w_2000/v1594567722/agenda-propia/historias/pueblo-gunadule/las-dule-omegan-entre-la-selva-y-el-mar-1.png" title="Mar" >}}
 Demal bilege Muu anmal dulemalga. Aga anmal demalse ge dodoge, muu dule dummadidi. Wagalburwa: Edilma Prada.
 {{< /image >}}
 
@@ -28,7 +28,7 @@ Demal bilege Muu anmal dulemalga. Aga anmal demalse ge dodoge, muu dule dummadid
 
 Anmalga Olo soge (Olo anmal bimala) ibigala Gunadulemala sabgue selgan, ibigala nabguana agguilegelgebe. Waimala anmalga soimala we Colombiayalgine anmal dulemala ambaggumala 2.610 (censo 2018 del Departamento Administrativo Nacional de Estadística, DANE), Panamá yalgin, 80.000 (censo oficial 2010, datos suministrados por el Congreso General de la Cultura Guna, principal autoridad tradicional de los Gunadules). Colombia yalgin nigga boo negguebur nuimala: Maggilagundiwala, Arquíagine, Chocó, baid nuga Ibgigundiwala, waimal bimala Caimán Nuevo, Golfo de Urabá en Antioquia. Panamagine niggamala 360 dubbus, waimal bimala comarcas Guna Yala, Madungandí, Wargandi baid Dagargunyala (Darién).
 
-{{< image src="https://res.cloudinary.com/randommonkey/image/upload/v1594567624/agenda-propia/historias/pueblo-gunadule/las-dule-omegan-entre-la-selva-y-el-mar-2.jpg" title="Mujeres gunadule en la playa" >}}
+{{< image src="https://res.cloudinary.com/randommonkey/image/upload/c_limit,q_70,w_2000/v1594567624/agenda-propia/historias/pueblo-gunadule/las-dule-omegan-entre-la-selva-y-el-mar-2.jpg" title="Mujeres gunadule en la playa" >}}
 Gunadulemala ambaggumala Panamá Colombia yalgin, aga belagwagle dulemal 82.000, aggalsuli baid nabbagin bugwamala, anmal na yobbila, anmal na gwenadggan na daimala. Wagalburwa: Edilma Prada.
 {{< /image >}}
 
@@ -50,7 +50,7 @@ Capurganá waimal bie, dulegayaba soilege Gabur gana, nei yer dailege, sabbur ni
 
 Olo anmalga soge dulemal gaddi Gaa gune, soimala be gaa gunedibale gal be niggudoe, san duddusul nadagoe.
 
-{{< image src="https://res.cloudinary.com/randommonkey/image/upload/v1594567609/agenda-propia/historias/pueblo-gunadule/las-dule-omegan-entre-la-selva-y-el-mar-3.jpg" title="Letrero Capurganá" >}}
+{{< image src="https://res.cloudinary.com/randommonkey/image/upload/c_limit,q_70,w_2000/v1594567609/agenda-propia/historias/pueblo-gunadule/las-dule-omegan-entre-la-selva-y-el-mar-3.jpg" title="Letrero Capurganá" >}}
 Capurganá, igi waimal bie, dulegayaba soimala be nabba gaa gadi, dulemal nabba gusa, emisddin we nabba waimal soge yerdaidamala binse yer iddogegala, nei daggegaa, waimal bie zona turística. Wagalburwa: Edilma Prada.
 {{< /image >}}
 
@@ -61,11 +61,11 @@ Omegan nonidamalmoga mola uggegala. Waga ome anmalga soge “Wese nonidamala dul
 
 Caugana nei yerdailege, nei doddo doddo niggalama, wegin waimal inmal issesul nonidamala. Omegan mola uidaed wagaomeganse, we waimal uidamoga, waimal yer daimala dule omegan molmala, egisdamala ibi obare, saburredina baidamalmoga. We negweburgin burigana sedo dad argwassadae dodomala balonba, hoteles issesul dailege, restaurantesba, demal wali waimal dodomala, gal iddomala, dodomala.
 
-{{< image src="https://res.cloudinary.com/randommonkey/image/upload/v1594567615/agenda-propia/historias/pueblo-gunadule/las-dule-omegan-entre-la-selva-y-el-mar-4.jpg" title="Mujeres indígenas" >}}
+{{< image src="https://res.cloudinary.com/randommonkey/image/upload/c_limit,q_70,w_2000/v1594567615/agenda-propia/historias/pueblo-gunadule/las-dule-omegan-entre-la-selva-y-el-mar-4.jpg" title="Mujeres indígenas" >}}
 Duleomegan banebane nonidamala Capurganase mola uggegala, agin mas baimalmoga. Wagalburwa: Edilma Prada.
 {{< /image >}}
 
-{{< fullimage src="https://res.cloudinary.com/randommonkey/image/upload/v1594567693/agenda-propia/historias/pueblo-gunadule/las-dule-omegan-entre-la-selva-y-el-mar-5.jpg" title="Puerto de Capurganá" >}}
+{{< fullimage src="https://res.cloudinary.com/randommonkey/image/upload/c_limit,q_70,w_2000/v1594567693/agenda-propia/historias/pueblo-gunadule/las-dule-omegan-entre-la-selva-y-el-mar-5.jpg" title="Puerto de Capurganá" >}}
 Capurganá puertogin issesul ulmal nonidamala, agin dule ulmal dailedamoga, we nabbase nonidamala Migrante deyob waimal soimala a obare mergi neise nabimala.  Wagalburwa: Olowaili Green.
 {{< /fullimage >}}
 
@@ -78,7 +78,7 @@ Saglamal soge ebbene we nabbagin ua soelegena. Emi ibagine waimal bie “sueño 
 
 ## Las Dule Omegan
 
-{{< fullimage src="https://res.cloudinary.com/randommonkey/image/upload/v1594567681/agenda-propia/historias/pueblo-gunadule/las-dule-omegan-entre-la-selva-y-el-mar-6.jpg" title="Vestimenta mujeres gunadule" >}}
+{{< fullimage src="https://res.cloudinary.com/randommonkey/image/upload/c_limit,q_70,w_2000/v1594567681/agenda-propia/historias/pueblo-gunadule/las-dule-omegan-entre-la-selva-y-el-mar-6.jpg" title="Vestimenta mujeres gunadule" >}}
 Duleomegan mola e burba obare, emalga gal uidae. Wagalburwa: Olowaili Green.
 {{< /fullimage >}}
 
@@ -115,7 +115,7 @@ Deginigwale yer iddolege dubbugin anmal mai, onmaggedneise nadibal be nabir iddo
 
 Duleomegana Myladisba gudimala sumaggedsuligusa, al igal mai Anassugunagine, be wagal burwa galebiel, egislege permiso, saglamala bega uggelgebe, we permiso be saddedibali que wagal burwa galege, deginigwale anmalga oyosmola e winis, ibiga yomala, ibi obare.
 
-{{< image src="https://res.cloudinary.com/randommonkey/image/upload/v1594567638/agenda-propia/historias/pueblo-gunadule/las-dule-omegan-entre-la-selva-y-el-mar-7.jpg" title="Pulseras elaboradas con chaquiras" >}}
+{{< image src="https://res.cloudinary.com/randommonkey/image/upload/c_limit,q_70,w_2000/v1594567638/agenda-propia/historias/pueblo-gunadule/las-dule-omegan-entre-la-selva-y-el-mar-7.jpg" title="Pulseras elaboradas con chaquiras" >}}
 Duleomegan banebane yomala wini, yer dailegegala gal nigguega. Wagalburwa: Edilma Prada.
 {{< /image >}}
 
@@ -125,7 +125,7 @@ Nei sedode agin Miladys naelgebena, wissuli ingu na daimalbaloena, ulgin naggwis
 
 Anmaldin daisa igi dadda aideisa Muu yargangine, nei sissi obesa, agin anmal demalgin obsa, Muuga soge doga nuedi, anmal ambi wissulina we nabbi demalgin oboena, we boni dummad noniggid nuggine.
 
-{{< fullimage src="https://res.cloudinary.com/randommonkey/image/upload/v1594567662/agenda-propia/historias/pueblo-gunadule/las-dule-omegan-entre-la-selva-y-el-mar-8.jpg" title="Atardecer en Capurganá, la Tierra del Ají" >}}
+{{< fullimage src="https://res.cloudinary.com/randommonkey/image/upload/c_limit,q_70,w_2000/v1594567662/agenda-propia/historias/pueblo-gunadule/las-dule-omegan-entre-la-selva-y-el-mar-8.jpg" title="Atardecer en Capurganá, la Tierra del Ají" >}}
 Waimal soge anmal demal “mar Caribe” agin dadda daisamala igi muu yargangine aidesddae. Wagalburwa: Pablo Albarenga.
 {{< /fullimage >}}
 
