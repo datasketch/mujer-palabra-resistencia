@@ -1,11 +1,13 @@
 const slider = new Swiper('.swiper-container', {
-  grabCursor: true,
+  effect: 'fade',
   pagination: {
     el: '.swiper-pagination',
+    clickable: true
   },
   autoplay: {
-    delay: 7500,
-  },
+    delay: 5000,
+    disableOnInteraction: false
+  }
 });
 
 function isMobile (a) {

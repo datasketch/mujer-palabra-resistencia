@@ -18,9 +18,14 @@
 </div>
 <div class="px-4 py-40 bg-center bg-no-repeat bg-cover hidden md:block" style='background-image: linear-gradient(to left, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.65) 25%, rgba(0, 0, 0, 0.65) 75%, rgba(0, 0, 0, 0) 100%), url({{ (index .Params.images 0) | absURL }});'>
   <div class="w-full mx-auto text-white font-playfair-display text-center md:w-4/5">
+    {{ $words := split .Title " "}}
     <h2 class="leading-tight border-4 border-white inline-block px-8 py-4 md:px-24">
-      <span class="block text-4xl lg:text-5xl">Pueblo</span>
-      <span class="font-bold text-5xl lg:text-6xl">{{ .Params.pueblo | humanize }}</span>
+      {{ if (index $words 1) }}
+        <span class="block text-4xl lg:text-5xl">{{ index $words 0 }}</span>
+        <span class="font-bold text-5xl lg:text-6xl">{{ index $words 1 }}</span>
+      {{ else }}
+        <span class="font-bold text-5xl lg:text-6xl">{{ index $words 0 }}</span>
+      {{ end }}
     </h2>
     <p class="mt-10 max-w-3xl mx-auto italic text-xl lg:text-2xl">{{ .Description }}</p>
   </div>
@@ -31,7 +36,12 @@
     <img class="absolute top-0 left-0 w-full h-full object-cover object-center" src="{{ index .Params.images 0 | absURL }}" alt="">
     <div class="gradient absolute w-full h-full"></div>
     <h2 class="leading-tight text-3xl text-white border-2 border-white px-4 py-2 title-center">
-      Pueblo <span class="font-bold">{{ .Params.pueblo | humanize }}</span>
+      {{ if (index $words 1) }}
+        <span class="block">{{ index $words 0 }}</span>
+        <span class="font-bold">{{ index $words 1 }}</span>
+      {{ else }}
+        <span class="font-bold">{{ index $words 0 }}</span>
+      {{ end }}
     </h2>
   </div>
   <div class="px-4 text-center mt-10">
