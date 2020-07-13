@@ -77,25 +77,11 @@ body {
 }
 
 .photo-credit {
-  @apply absolute right-0 text-gray-700 px-2 py-1 text-sm text-right font-georgia;
-  top: 100%;
-  transform: translateY(0);
+  @apply text-gray-700 px-2 py-1 text-sm text-right font-georgia leading-tight;
 }
 
-.button-prev,
-.button-next {
-  @apply absolute;
-  top: 100%;
-}
-
-.button-prev {
-  @apply left-0;
-  transform: translate(150%, -150%);
-}
-
-.button-next {
-  @apply right-0;
-  transform: translate(-150%, -150%);
+.navigation-buttons {
+  @apply flex items-center justify-between mb-4;
 }
 
 .newspaper::first-letter {
@@ -148,19 +134,13 @@ body {
 
 @screen md {
   .photo-credit {
-    @apply text-white bg-eerie-black bg-opacity-85;
+    @apply absolute text-white bg-eerie-black bg-opacity-85 right-0;
     transform: translateY(-100%);
   }
-  .button-prev,
-  .button-next {
+  .navigation-buttons {
+    @apply absolute w-full left-0 mb-0 px-4;
     top: 50%;
-  }
-  .button-prev {
-    transform: translate(150%, -50%);
-  }
-
-  .button-next {
-    transform: translate(-150%, -50%);
+    transform: translateY(-50%);
   }
   .markup {
     @apply text-xl;
