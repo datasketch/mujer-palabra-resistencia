@@ -10,6 +10,4 @@ menuTrigger.addEventListener('click', function () {
   menuCloseIcon.classList.toggle('hidden');
 });
 
-window.addEventListener('DOMContentLoaded', function () {
-  document.body.classList.remove('pre');
-});
+document.body.classList.remove('opacity-0');
