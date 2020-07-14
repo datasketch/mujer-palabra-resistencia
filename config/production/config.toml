@@ -3,6 +3,7 @@ languageCode = "es-es"
 title = "Mujer, palabra, resistencia"
 defaultContentLanguage = "es"
 publishDir="docs"
+googleAnalytics = "UA-28020535-1"
 
 [markup]
   defaultMarkdownHandler = "blackfriday"
